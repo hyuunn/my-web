@@ -1,0 +1,49 @@
+{
+  "131847": {
+    "addr1": "충청남도 천안시 동남구 목천읍 서리4길 48",
+    "addr2": "",
+    "areacode": "34",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03020200",
+    "contentid": "131847",
+    "contenttypeid": "28",
+    "createdtime": "20070904090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/85/1876085_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/85/1876085_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2287479169",
+    "mapy": "36.7862767300",
+    "mlevel": "6",
+    "modifiedtime": "20230817101549",
+    "sigungucode": "12",
+    "tel": "041-620-7700",
+    "title": "국립중앙청소년수련원",
+    "zipcode": "31229",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "각 건물 출입구까지 경사로가 설치되어 있음(수동문)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음(본관,생활관 A,B동)"
+      },
+      {
+        "화장실": "장애인 화장실 있음(본관)"
+      },
+      {
+        "객실": "장애인 객실 있음(생활관 B동 2개)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

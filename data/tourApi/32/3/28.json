@@ -1,0 +1,85 @@
+{
+  "1223212": {
+    "addr1": "강원특별자치도 동해시 일출로 97",
+    "addr2": "(묵호진동)",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03022700",
+    "contentid": "1223212",
+    "contenttypeid": "28",
+    "createdtime": "20110308000115",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/65/1220365_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/65/1220365_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.1183390829",
+    "mapy": "37.5522210485",
+    "mlevel": "6",
+    "modifiedtime": "20231024111850",
+    "sigungucode": "3",
+    "tel": "",
+    "title": "동해 논골담길 (등대 담화마을)",
+    "zipcode": "25717",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "장애인 화장실 있음(묵호항 수변공원 내)"
+      },
+      {
+        "기타 지원 항목": "벽화가 그려진 주요 골목길은 좁고 경사가 가팔라 휠체어, 유모차 접근 어려움"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2711054": {
+    "addr1": "강원특별자치도 동해시 촛대바위길 28",
+    "addr2": "(추암동)",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03021700",
+    "contentid": "2711054",
+    "contenttypeid": "28",
+    "createdtime": "20210325024237",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/25/2741925_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/25/2741925_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.1589405415",
+    "mapy": "37.4770166205",
+    "mlevel": "6",
+    "modifiedtime": "20230701135540",
+    "sigungucode": "3",
+    "tel": "033-539-3737",
+    "title": "추암오토캠핑장",
+    "zipcode": "25790",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음(안내사무실)"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

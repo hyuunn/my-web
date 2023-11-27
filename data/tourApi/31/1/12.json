@@ -1,0 +1,775 @@
+{
+  "125409": {
+    "addr1": "경기도 가평군 설악면 유명산길 79-53",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010600",
+    "contentid": "125409",
+    "contenttypeid": "12",
+    "createdtime": "20071014090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/77/219377_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/77/219377_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4912013821",
+    "mapy": "37.5933632114",
+    "mlevel": "6",
+    "modifiedtime": "20231011104546",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "국립 유명산자연휴양림",
+    "zipcode": "12473",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 있어 휠체어 접근 가능함(부엉이-연립동 5인실)"
+      },
+      {
+        "출입통로": "현관 단차 제거됨"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      },
+      {
+        "객실": "장애인 전용 객실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "125513": {
+    "addr1": "경기도 가평군 상면 덕현산장길 74",
+    "addr2": "(상면)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020200",
+    "contentid": "125513",
+    "contenttypeid": "12",
+    "createdtime": "20031028090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/94/1589094_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/94/1589094_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4135593243",
+    "mapy": "37.7543291982",
+    "mlevel": "6",
+    "modifiedtime": "20231023140440",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "산장관광지",
+    "zipcode": "12446",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "126668": {
+    "addr1": "경기도 가평군 상면 수목원로 432",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010700",
+    "contentid": "126668",
+    "contenttypeid": "12",
+    "createdtime": "20071003090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.3525568480",
+    "mapy": "37.7440126130",
+    "mlevel": "6",
+    "modifiedtime": "20231026212806",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "아침고요수목원",
+    "zipcode": "12448",
+    "family": [
+      {
+        "유모차": "대여가능(매표소, 50대)"
+      },
+      {
+        "수유실": "수유실 있음(기저귀교환대, 전자레인지, 소파 구비)"
+      },
+      {
+        "영유아가족 기타 지원 항목": "기저귀교환대 있음(유아휴게실 내부)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능( 매표소, 수동휠체어 15대)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "126859": {
+    "addr1": "경기도 가평군 가평읍",
+    "addr2": "북면, 하면",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010200",
+    "contentid": "126859",
+    "contenttypeid": "12",
+    "createdtime": "20030331090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/74/1591274_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/74/1591274_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4145411335",
+    "mapy": "37.8985068799",
+    "mlevel": "6",
+    "modifiedtime": "20231024104832",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "연인산도립공원",
+    "zipcode": "12408",
+    "family": [
+      {
+        "유모차": "대여가능(3개,탐방안내소)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(탐방안내소)"
+      },
+      {
+        "기타 지원 항목": "등산로 코스는 접근하기 어려우나 전시관 접근가능<br />\n데크로드 구간 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자유도로 있음(탐방안내소 입구 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "603727": {
+    "addr1": "경기도 가평군 청평면 상천리 산371-2",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "603727",
+    "contenttypeid": "12",
+    "createdtime": "20080805190207",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.4763342349",
+    "mapy": "37.7519056334",
+    "mlevel": "6",
+    "modifiedtime": "20231011102905",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "호명호수공원",
+    "zipcode": "12449",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차 없이 연결 됨(흙 구간 있음)"
+      },
+      {
+        "출입통로": "주출입구는 무단차로 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(호명호수 입구 주차장)"
+      },
+      {
+        "기타 지원 항목": "호수공원의 둘레길은 자동차가 다닐 수 있게 도로로 되어 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "604009": {
+    "addr1": "경기도 가평군 청평면 호반로 1063",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030100",
+    "contentid": "604009",
+    "contenttypeid": "12",
+    "createdtime": "20080805221349",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/73/2529573_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/73/2529573_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4903145832",
+    "mapy": "37.7153712493",
+    "mlevel": "6",
+    "modifiedtime": "20230308145328",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "쁘띠프랑스",
+    "zipcode": "12456",
+    "family": [
+      {
+        "수유실": "수유실 있음(매표소 2층)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없으나 구간마다 경사가 급함"
+      },
+      {
+        "휠체어": "대여가능(1대)"
+      },
+      {
+        "출입통로": "단차는 없으나 구간에 따라 경사가 있음"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(이벤트홀)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1060129": {
+    "addr1": "경기도 가평군 가평읍 경반안로 454",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010600",
+    "contentid": "1060129",
+    "contenttypeid": "12",
+    "createdtime": "20100715191334",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/62/1091662_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/62/1091662_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4658883141",
+    "mapy": "37.8349291173",
+    "mlevel": "5",
+    "modifiedtime": "20231023143929",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "칼봉산자연휴양림",
+    "zipcode": "12415",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "일부건물 경사로 설치 됨(산람문화휴양관, 관리사무소)"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(야외화장실, 경사로 설치 됨)"
+      },
+      {
+        "기타 지원 항목": "데크로드 구간 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1060192": {
+    "addr1": "경기도 가평군 가평읍 자라섬로 64",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020600",
+    "contentid": "1060192",
+    "contenttypeid": "12",
+    "createdtime": "20100715201751",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.5186756583",
+    "mapy": "37.8183042475",
+    "mlevel": "6",
+    "modifiedtime": "20230802194636",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "자라섬 이화원",
+    "zipcode": "12421",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "대여가능(매표소/수동휠체어)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1437418": {
+    "addr1": "경기도 가평군 가평읍 자라섬로 60",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01011300",
+    "contentid": "1437418",
+    "contenttypeid": "12",
+    "createdtime": "20111116014424",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/81/2482681_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/81/2482681_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5210475885",
+    "mapy": "37.8208928790",
+    "mlevel": "6",
+    "modifiedtime": "20230628161454",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "자라섬",
+    "zipcode": "12421",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함(자라섬테마파크 휠체어 접근 가능)"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1889094": {
+    "addr1": "경기도 가평군 청평면 북한강로 2047",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010500",
+    "contentid": "1889094",
+    "contenttypeid": "12",
+    "createdtime": "20140124185946",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.3929350158",
+    "mapy": "37.6995879617",
+    "mlevel": "6",
+    "modifiedtime": "20231023141219",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "수풀로 삼회리",
+    "zipcode": "12458",
+    "family": [],
+    "handi": [
+      {
+        "출입통로": "출입구 경사로 있음_무장애 편의정보"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2011992": {
+    "addr1": "경기도 가평군 설악면 다락재로 226-57",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020600",
+    "contentid": "2011992",
+    "contenttypeid": "12",
+    "createdtime": "20150624201509",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/85/2658585_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/85/2658585_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4473143245",
+    "mapy": "37.6677593241",
+    "mlevel": "6",
+    "modifiedtime": "20230418140345",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "에델바이스 스위스테마파크",
+    "zipcode": "12468",
+    "family": [
+      {
+        "영유아가족 기타 지원 항목": "17동( 맨 위쪽 건물)에  어린이 놀이방 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "계단이나 턱 은 없지만 경사가 있어 동반인의 도움이 필수임"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2407108": {
+    "addr1": "경기도 가평군 상면 축령로 289-146",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010600",
+    "contentid": "2407108",
+    "contenttypeid": "12",
+    "createdtime": "20160901015503",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/77/2022377_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/77/2022377_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3365603070",
+    "mapy": "37.7707592092",
+    "mlevel": "6",
+    "modifiedtime": "20221229084023",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "잣향기푸른숲",
+    "zipcode": "12448",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(매표소 쪽 화장실)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2575905": {
+    "addr1": "경기도 가평군 상면 임초밤안골로 301",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020600",
+    "contentid": "2575905",
+    "contenttypeid": "12",
+    "createdtime": "20181210234130",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/93/2575893_image2_1.bmp",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/93/2575893_image2_1.bmp",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3610837168",
+    "mapy": "37.7485539082",
+    "mlevel": "6",
+    "modifiedtime": "20230817154533",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "아침고요가족동물원",
+    "zipcode": "12447",
+    "family": [
+      {
+        "유모차": "대여가능(유료)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2606169": {
+    "addr1": "경기도 가평군 가평읍 석봉로 100",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060600",
+    "contentid": "2606169",
+    "contenttypeid": "12",
+    "createdtime": "20190613001754",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/73/2690673_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/73/2690673_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5129954137",
+    "mapy": "37.8253449903",
+    "mlevel": "6",
+    "modifiedtime": "20230725134855",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "음악역 1939",
+    "zipcode": "12416",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주 출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "객실": "장애인 객실 있음(1실)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      },
+      {
+        "오디오 가이드": "음성 안내기 있음(음성안내 버튼)"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자 안내판 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2713438": {
+    "addr1": "경기도 가평군 청평면 고재길 262-57",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A03",
+    "cat2": "A0303",
+    "cat3": "A03030400",
+    "contentid": "2713438",
+    "contenttypeid": "12",
+    "createdtime": "20210409014920",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/18/2712818_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/18/2712818_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5163098001",
+    "mapy": "37.7030620464",
+    "mlevel": "6",
+    "modifiedtime": "20230321001506",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "K-26",
+    "zipcode": "12456",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2721583": {
+    "addr1": "경기도 가평군 청평면 호반로 1073-56",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020600",
+    "contentid": "2721583",
+    "contenttypeid": "12",
+    "createdtime": "20210617014236",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/74/2723974_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/74/2723974_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4907894943",
+    "mapy": "37.7169682947",
+    "mlevel": "6",
+    "modifiedtime": "20230315145954",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "피노키오와 다빈치",
+    "zipcode": "12456",
+    "family": [
+      {
+        "수유실": "수유실 있음(매표소 2층)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2763795": {
+    "addr1": "경기도 가평군 청평면 에덴벚꽃길 139",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010500",
+    "contentid": "2763795",
+    "contenttypeid": "12",
+    "createdtime": "20211027232443",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/11/2932211_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/11/2932211_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4770887402",
+    "mapy": "37.7855156283",
+    "mlevel": "6",
+    "modifiedtime": "20221212104805",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "꿈의동산",
+    "zipcode": "12449",
+    "family": [
+      {
+        "유모차": "대여가능"
+      },
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

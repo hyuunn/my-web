@@ -1,0 +1,898 @@
+{
+  "404093": {
+    "addr1": "전라남도 순천시 백강로 18",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "404093",
+    "contenttypeid": "39",
+    "createdtime": "20080120073040",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/56/401356_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/56/401356_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5228346803",
+    "mapy": "34.9346507800",
+    "mlevel": "6",
+    "modifiedtime": "20230418110932",
+    "sigungucode": "11",
+    "tel": "061-721-1010",
+    "title": "진달래식당",
+    "zipcode": "58003",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "643817": {
+    "addr1": "전라남도 순천시 연향상가길 31",
+    "addr2": "(연향동)",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "643817",
+    "contenttypeid": "39",
+    "createdtime": "20081030021429",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/12/1973412_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/12/1973412_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5210093743",
+    "mapy": "34.9529764670",
+    "mlevel": "6",
+    "modifiedtime": "20230125155401",
+    "sigungucode": "11",
+    "tel": "061-723-2392",
+    "title": "명지원",
+    "zipcode": "57967",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "643844": {
+    "addr1": "전라남도 순천시 승주읍 승암교길 8",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "643844",
+    "contenttypeid": "39",
+    "createdtime": "20081030022112",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/79/2464979_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/79/2464979_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3438545088",
+    "mapy": "34.9919495925",
+    "mlevel": "6",
+    "modifiedtime": "20230825153859",
+    "sigungucode": "11",
+    "tel": "061-754-5599",
+    "title": "길상식당",
+    "zipcode": "57909",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(식당 앞 공중화장실)"
+      },
+      {
+        "기타 지원 항목": "입식(의자식)테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "644004": {
+    "addr1": "전라남도 순천시 순천만길 31",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020300",
+    "contentid": "644004",
+    "contenttypeid": "39",
+    "createdtime": "20081030185302",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/21/2465021_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/21/2465021_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4941624360",
+    "mapy": "34.9252707839",
+    "mlevel": "6",
+    "modifiedtime": "20230605091910",
+    "sigungucode": "11",
+    "tel": "061-742-1717",
+    "title": "청해한일정식",
+    "zipcode": "58026",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 단차 있지만, 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "입식(의자식)테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1365492": {
+    "addr1": "전라남도 순천시 순천만길 67",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "1365492",
+    "contenttypeid": "39",
+    "createdtime": "20110818024736",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.4967955960",
+    "mapy": "34.9229877526",
+    "mlevel": "6",
+    "modifiedtime": "20230222111358",
+    "sigungucode": "11",
+    "tel": "061-751-3700",
+    "title": "명품관 순천만",
+    "zipcode": "58026",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "입식(의자식)테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1811220": {
+    "addr1": "전라남도 순천시 순천만길 496",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "1811220",
+    "contenttypeid": "39",
+    "createdtime": "20130515022821",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/96/2464996_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/96/2464996_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5073844513",
+    "mapy": "34.8876807894",
+    "mlevel": "6",
+    "modifiedtime": "20230220092845",
+    "sigungucode": "11",
+    "tel": "061-741-5232~3",
+    "title": "들마루",
+    "zipcode": "58027",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "문턱마다 경사로 있음, 입식(의자식)테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1821856": {
+    "addr1": "전라남도 순천시 순천만길 542",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "1821856",
+    "contenttypeid": "39",
+    "createdtime": "20130621023844",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/08/1973208_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/08/1973208_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5091148087",
+    "mapy": "34.8895028368",
+    "mlevel": "6",
+    "modifiedtime": "20230117131839",
+    "sigungucode": "11",
+    "tel": "061-741-3157",
+    "title": "대대선창집",
+    "zipcode": "58027",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1985812": {
+    "addr1": "전라남도 순천시 낙안면 삼일로 51",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "1985812",
+    "contenttypeid": "39",
+    "createdtime": "20150124024423",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.3432706213",
+    "mapy": "34.9059620297",
+    "mlevel": "6",
+    "modifiedtime": "20211112005926",
+    "sigungucode": "11",
+    "tel": "061-754-2525",
+    "title": "선비촌",
+    "zipcode": "57918",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1985819": {
+    "addr1": "전라남도 순천시 순천만길 520",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "1985819",
+    "contenttypeid": "39",
+    "createdtime": "20150126181059",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.5084732520",
+    "mapy": "34.8874141714",
+    "mlevel": "6",
+    "modifiedtime": "20230823175837",
+    "sigungucode": "11",
+    "tel": "061-745-2100",
+    "title": "순천만일번가",
+    "zipcode": "58027",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "보도에서 나무데크로 진입하는 곳은 낮은 단차가 있으나 전반적으로 접근하기 편리함"
+      },
+      {
+        "출입통로": "주출입구 무단차_무장애 편의정보"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2607362": {
+    "addr1": "전라남도 순천시 성남뒷길 3",
+    "addr2": "(장천동)",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2607362",
+    "contenttypeid": "39",
+    "createdtime": "20190620022807",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/33/2607833_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/33/2607833_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4909899530",
+    "mapy": "34.9464739023",
+    "mlevel": "6",
+    "modifiedtime": "20221124180035",
+    "sigungucode": "11",
+    "tel": "061-744-7041",
+    "title": "[백년가게]풍미통닭",
+    "zipcode": "57959",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2658846": {
+    "addr1": "전라남도 순천시 팔마로 128",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2658846",
+    "contenttypeid": "39",
+    "createdtime": "20200609011903",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/20/2661020_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/20/2661020_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5022251102",
+    "mapy": "34.9452075718",
+    "mlevel": "6",
+    "modifiedtime": "20210407213744",
+    "sigungucode": "11",
+    "tel": "061-744-0907",
+    "title": "맛드림김밥랜드",
+    "zipcode": "57963",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2670290": {
+    "addr1": "전라남도 순천시 장평로 65",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2670290",
+    "contenttypeid": "39",
+    "createdtime": "20200902002618",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/64/2666564_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/64/2666564_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4939924899",
+    "mapy": "34.9455907199",
+    "mlevel": "6",
+    "modifiedtime": "20221111115947",
+    "sigungucode": "11",
+    "tel": "061-752-0900",
+    "title": "건봉국밥",
+    "zipcode": "57959",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2670402": {
+    "addr1": "전라남도 순천시 비봉2길 3-14",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2670402",
+    "contenttypeid": "39",
+    "createdtime": "20200902193002",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/72/2666572_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/72/2666572_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5214394210",
+    "mapy": "34.9714632857",
+    "mlevel": "6",
+    "modifiedtime": "20210310205939",
+    "sigungucode": "11",
+    "tel": "061-904-0017",
+    "title": "돌산횟집",
+    "zipcode": "57933",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2670486": {
+    "addr1": "전라남도 순천시 조비1길 7",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2670486",
+    "contenttypeid": "39",
+    "createdtime": "20200902225942",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/15/2666615_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/15/2666615_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4660580134",
+    "mapy": "34.9778143942",
+    "mlevel": "6",
+    "modifiedtime": "20220412152118",
+    "sigungucode": "11",
+    "tel": "061-752-3480",
+    "title": "어우림",
+    "zipcode": "57922",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2670494": {
+    "addr1": "전라남도 순천시 비봉길 73",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2670494",
+    "contenttypeid": "39",
+    "createdtime": "20200902232408",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/20/2666620_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/20/2666620_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5204868650",
+    "mapy": "34.9660361015",
+    "mlevel": "6",
+    "modifiedtime": "20210310213619",
+    "sigungucode": "11",
+    "tel": "061-722-0505",
+    "title": "큰집한우촌",
+    "zipcode": "57934",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문/자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2688036": {
+    "addr1": "전라남도 순천시 남신월4길 13-26",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2688036",
+    "contenttypeid": "39",
+    "createdtime": "20201127232631",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/15/2701415_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/15/2701415_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5203565379",
+    "mapy": "34.9575231670",
+    "mlevel": "6",
+    "modifiedtime": "20210312235525",
+    "sigungucode": "11",
+    "tel": "061-726-6692",
+    "title": "향토정",
+    "zipcode": "57949",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2688055": {
+    "addr1": "전라남도 순천시 장천2길 20-14",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2688055",
+    "contenttypeid": "39",
+    "createdtime": "20201127233237",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/20/2701420_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/20/2701420_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4900566290",
+    "mapy": "34.9493457857",
+    "mlevel": "6",
+    "modifiedtime": "20210313002622",
+    "sigungucode": "11",
+    "tel": "061-745-5559",
+    "title": "효동회관",
+    "zipcode": "57956",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2688096": {
+    "addr1": "전라남도 순천시 중앙로 305",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2688096",
+    "contenttypeid": "39",
+    "createdtime": "20201127234955",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/35/2701435_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/35/2701435_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4819900766",
+    "mapy": "34.9727152421",
+    "mlevel": "6",
+    "modifiedtime": "20210313010627",
+    "sigungucode": "11",
+    "tel": "061-752-3802",
+    "title": "순천보리밥뷔페",
+    "zipcode": "57923",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2795578": {
+    "addr1": "전라남도 순천시 학동길 54",
+    "addr2": "(대룡동)",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2795578",
+    "contenttypeid": "39",
+    "createdtime": "20211214200928",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/95/2798795_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/95/2798795_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5078145496",
+    "mapy": "34.9042039412",
+    "mlevel": "6",
+    "modifiedtime": "20230224112103",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "대숲골농원",
+    "zipcode": "58027",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문/자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2931104": {
+    "addr1": "전라남도 순천시 조례2길 38-1",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2931104",
+    "contenttypeid": "39",
+    "createdtime": "20221207105812",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/78/2931078_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/78/2931078_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5254976142",
+    "mapy": "34.9629809758",
+    "mlevel": "6",
+    "modifiedtime": "20230103144821",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "오버랩호수",
+    "zipcode": "57947",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2931126": {
+    "addr1": "전라남도 순천시 팔마로 269 이안웨딩갤러리,꿈동산어린이집,순광테크",
+    "addr2": "나동",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2931126",
+    "contenttypeid": "39",
+    "createdtime": "20221207110705",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/14/2931114_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/14/2931114_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5130965845",
+    "mapy": "34.9370642297",
+    "mlevel": "6",
+    "modifiedtime": "20230307095334",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "조훈모과자점 팔마점",
+    "zipcode": "57992",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문/자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

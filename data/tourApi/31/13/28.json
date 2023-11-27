@@ -1,0 +1,92 @@
+{
+  "131719": {
+    "addr1": "경기도 수원시 팔달구 월드컵로 310",
+    "addr2": "(우만동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03020300",
+    "contentid": "131719",
+    "contenttypeid": "28",
+    "createdtime": "20040226090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.0369291446",
+    "mapy": "37.2865822176",
+    "mlevel": "6",
+    "modifiedtime": "20230531143619",
+    "sigungucode": "13",
+    "tel": "031-202-2002",
+    "title": "수원월드컵경기장",
+    "zipcode": "16230",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "관람석": "장애인 전용 관람석 있음(208석)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음 (산책로)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "131767": {
+    "addr1": "경기도 수원시 영통구 영통로 383",
+    "addr2": "(영통동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03020200",
+    "contentid": "131767",
+    "contenttypeid": "28",
+    "createdtime": "20040319090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/71/1900071_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/71/1900071_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0677521306",
+    "mapy": "37.2586276722",
+    "mlevel": "6",
+    "modifiedtime": "20230825154521",
+    "sigungucode": "13",
+    "tel": "031-273-3030",
+    "title": "수원체육문화센터",
+    "zipcode": "16706",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구,계단,화장실)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

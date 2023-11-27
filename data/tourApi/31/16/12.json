@@ -1,0 +1,412 @@
+{
+  "125524": {
+    "addr1": "경기도 안성시 낙원길 78",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "125524",
+    "contenttypeid": "12",
+    "createdtime": "20031106090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/08/2480308_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/08/2480308_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2732572764",
+    "mapy": "37.0054133917",
+    "mlevel": "6",
+    "modifiedtime": "20230725095320",
+    "sigungucode": "16",
+    "tel": "",
+    "title": "낙원역사공원",
+    "zipcode": "17592",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "데크로드가 있으며 대부분 무단차이나 돌길구간 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(주민센터 이용)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "125536": {
+    "addr1": "경기도 안성시 죽산면 칠장로 399-18",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010800",
+    "contentid": "125536",
+    "contenttypeid": "12",
+    "createdtime": "20030422090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/89/2031189_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/89/2031189_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3966150017",
+    "mapy": "37.0264048568",
+    "mlevel": "6",
+    "modifiedtime": "20220520101747",
+    "sigungucode": "16",
+    "tel": "",
+    "title": "칠장사(안성)",
+    "zipcode": "17524",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 평지로 되어 있으나 흙(돌) 구간 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(일부 계단 있음)"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "127556": {
+    "addr1": "경기도 안성시 양성면 미리내성지로 420",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010900",
+    "contentid": "127556",
+    "contenttypeid": "12",
+    "createdtime": "20031020090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/23/1589723_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/23/1589723_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2586379926",
+    "mapy": "37.1461885444",
+    "mlevel": "6",
+    "modifiedtime": "20220420141817",
+    "sigungucode": "16",
+    "tel": "",
+    "title": "미리내 성지",
+    "zipcode": "17500",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "장애인용화장실 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "127613": {
+    "addr1": "경기도 안성시 공도읍 대림동산길 36",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "127613",
+    "contenttypeid": "12",
+    "createdtime": "20031120090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/74/757274_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/74/757274_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2029689431",
+    "mapy": "37.0138833780",
+    "mlevel": "6",
+    "modifiedtime": "20230314142844",
+    "sigungucode": "16",
+    "tel": "",
+    "title": "안성맞춤가족공원",
+    "zipcode": "17548",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 평지로 되어 있으나 자갈구간 있음"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(활동공간 부족)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "128517": {
+    "addr1": "경기도 안성시 일죽면 금일로 332-17",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0204",
+    "cat3": "A02040800",
+    "contentid": "128517",
+    "contenttypeid": "12",
+    "createdtime": "20050517090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.4762478986",
+    "mapy": "37.0827081358",
+    "mlevel": "6",
+    "modifiedtime": "20220519110053",
+    "sigungucode": "16",
+    "tel": "",
+    "title": "안성 서일농원",
+    "zipcode": "17528",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "128519": {
+    "addr1": "경기도 안성시 안성맞춤대로 1143",
+    "addr2": "(금산동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "128519",
+    "contenttypeid": "12",
+    "createdtime": "20050517090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/80/757280_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/80/757280_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2692934633",
+    "mapy": "37.0155399303",
+    "mlevel": "6",
+    "modifiedtime": "20220519155411",
+    "sigungucode": "16",
+    "tel": "",
+    "title": "솔밭공원",
+    "zipcode": "17569",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함(흙 구간 있음)"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "611591": {
+    "addr1": "경기도 안성시 당왕동",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030400",
+    "contentid": "611591",
+    "contenttypeid": "12",
+    "createdtime": "20080820011538",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.2663604054",
+    "mapy": "37.0151482563",
+    "mlevel": "6",
+    "modifiedtime": "20220818155708",
+    "sigungucode": "16",
+    "tel": "",
+    "title": "안성맞춤 먹거리타운",
+    "zipcode": "17570",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1624617": {
+    "addr1": "경기도 안성시 삼죽면 국사봉로 641-14",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0204",
+    "cat3": "A02040800",
+    "contentid": "1624617",
+    "contenttypeid": "12",
+    "createdtime": "20120508191336",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/16/1589716_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/16/1589716_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3596061344",
+    "mapy": "37.0654469078",
+    "mlevel": "6",
+    "modifiedtime": "20220225110436",
+    "sigungucode": "16",
+    "tel": "031-671-6969",
+    "title": "안성허브마을",
+    "zipcode": "17514",
+    "family": [],
+    "handi": [],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "0"
+  },
+  "2463653": {
+    "addr1": "경기도 안성시 공도읍 대신두길 28",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0204",
+    "cat3": "A02040800",
+    "contentid": "2463653",
+    "contenttypeid": "12",
+    "createdtime": "20161219203559",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.1943897688",
+    "mapy": "36.9920551873",
+    "mlevel": "6",
+    "modifiedtime": "20230824170053",
+    "sigungucode": "16",
+    "tel": "",
+    "title": "안성팜랜드",
+    "zipcode": "17558",
+    "family": [
+      {
+        "유모차": "대여가능(유료 3000원,보증금 1000원,정문출입구에서 대여)"
+      },
+      {
+        "수유실": "수유실 있음(기저귀교환대,전자레인지,별도 수유공간,광장매표소 뒷편에 위치)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능(정문출입구)"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2717632": {
+    "addr1": "경기도 안성시 공도읍 서동대로 3930-39",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020600",
+    "contentid": "2717632",
+    "contenttypeid": "12",
+    "createdtime": "20210520182511",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/23/2717623_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/23/2717623_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1472661744",
+    "mapy": "36.9946845979",
+    "mlevel": "6",
+    "modifiedtime": "20230615145800",
+    "sigungucode": "16",
+    "tel": "",
+    "title": "아쿠아필드 안성",
+    "zipcode": "17563",
+    "family": [
+      {
+        "수유실": "수유실 있음(2개, 4층)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문/수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음(입장로비, 워터파크)"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "안내요원": "안내요원 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

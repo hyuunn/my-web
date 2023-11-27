@@ -1,0 +1,47 @@
+{
+  "1756512": {
+    "addr1": "경기도 구리시 동구릉로136번길 90",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "1756512",
+    "contenttypeid": "38",
+    "createdtime": "20121123201555",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.1452351095",
+    "mapy": "37.6113853710",
+    "mlevel": "6",
+    "modifiedtime": "20230303101621",
+    "sigungucode": "6",
+    "tel": "031-560-5124",
+    "title": "구리 농수산물도매시장",
+    "zipcode": "11916",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

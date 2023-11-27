@@ -1,0 +1,40 @@
+{
+  "131564": {
+    "addr1": "경기도 안성시 죽산면 걸미로 487",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03020700",
+    "contentid": "131564",
+    "contenttypeid": "28",
+    "createdtime": "20051228090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.4131826071",
+    "mapy": "37.0386454108",
+    "mlevel": "6",
+    "modifiedtime": "20230327160358",
+    "sigungucode": "16",
+    "tel": "",
+    "title": "안성컨트리클럽",
+    "zipcode": "17522",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

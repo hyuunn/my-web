@@ -1,0 +1,195 @@
+{
+  "845618": {
+    "addr1": "경기도 파주시 법원읍 초리골길 110",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "845618",
+    "contenttypeid": "39",
+    "createdtime": "20091029072104",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/96/1789796_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/96/1789796_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8895599347",
+    "mapy": "37.8511028504",
+    "mlevel": "6",
+    "modifiedtime": "20230811103325",
+    "sigungucode": "27",
+    "tel": "031-958-5250",
+    "title": "초리골초계탕",
+    "zipcode": "10826",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1870538": {
+    "addr1": "경기도 파주시 탄현면 헤이리마을길 59-77",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020200",
+    "contentid": "1870538",
+    "contenttypeid": "39",
+    "createdtime": "20131212221340",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/13/1870013_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/13/1870013_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6955155416",
+    "mapy": "37.7903509070",
+    "mlevel": "6",
+    "modifiedtime": "20230530104139",
+    "sigungucode": "27",
+    "tel": "031-948-6225",
+    "title": "파머스테이블",
+    "zipcode": "10859",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주 출입구 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2545315": {
+    "addr1": "경기도 파주시 탑삭골길 260",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020200",
+    "contentid": "2545315",
+    "contenttypeid": "39",
+    "createdtime": "20180503012944",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/39/2545439_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/39/2545439_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7949386312",
+    "mapy": "37.7326399636",
+    "mlevel": "6",
+    "modifiedtime": "20230412143922",
+    "sigungucode": "27",
+    "tel": "031-957–6863",
+    "title": "삐아또 고메",
+    "zipcode": "10911",
+    "family": [
+      {
+        "수유실": "수유실 있음(지하1층)"
+      },
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2746693": {
+    "addr1": "경기도 파주시 송학말길 65",
+    "addr2": "(야당동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020200",
+    "contentid": "2746693",
+    "contenttypeid": "39",
+    "createdtime": "20210917021102",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/81/2746681_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/81/2746681_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7615868508",
+    "mapy": "37.7069868016",
+    "mlevel": "6",
+    "modifiedtime": "20231017110631",
+    "sigungucode": "27",
+    "tel": "",
+    "title": "내사랑동까스",
+    "zipcode": "10909",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

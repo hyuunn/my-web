@@ -1,0 +1,935 @@
+{
+  "129758": {
+    "addr1": "충청북도 청주시 서원구 흥덕로 69",
+    "addr2": "(사직동)",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060600",
+    "contentid": "129758",
+    "contenttypeid": "14",
+    "createdtime": "20071106102846",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.4696802325",
+    "mapy": "36.6423142464",
+    "mlevel": "6",
+    "modifiedtime": "20220921100559",
+    "sigungucode": "10",
+    "tel": "",
+    "title": "청주예술의전당",
+    "zipcode": "28559",
+    "family": [
+      {
+        "영유아가족 기타 지원 항목": "어린이 놀이방 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "무료대여 (1대,청주문화관)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있으며 뒷문 보조출입구는 무단차로 연결 됨 (주출입구-수동문)"
+      },
+      {
+        "엘리베이터": "장애인용 엘리베이터 있음 (대공연장)"
+      },
+      {
+        "화장실": "장애인 화장실 있음(1층)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(매표소 앞, 계단 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "129779": {
+    "addr1": "충청북도 청주시 상당구 명암로 143",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "129779",
+    "contenttypeid": "14",
+    "createdtime": "20071106102944",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.5127178664",
+    "mapy": "36.6485420822",
+    "mlevel": "6",
+    "modifiedtime": "20220830091526",
+    "sigungucode": "10",
+    "tel": "",
+    "title": "국립청주박물관",
+    "zipcode": "28313",
+    "family": [
+      {
+        "유모차": "대여가능"
+      },
+      {
+        "수유실": "있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음(경사로표지판)"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문,자동문)"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자유도로 있음_시각장애인 편의시설"
+      },
+      {
+        "오디오 가이드": "음성안내기 대여가능"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음(주출입구 앞)"
+      },
+      {
+        "유도안내설비": "점자손잡이 있음(경사로손잡이)"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "129820": {
+    "addr1": "충청북도 청주시 상당구 남일면 단재로 635",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "129820",
+    "contenttypeid": "14",
+    "createdtime": "20071106103154",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.5280156216",
+    "mapy": "36.5796335948",
+    "mlevel": "6",
+    "modifiedtime": "20230321101344",
+    "sigungucode": "10",
+    "tel": "",
+    "title": "공군박물관",
+    "zipcode": "28187",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "건물 옆 문을 이용하여 단차 없이 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "단차가 없는 출입구 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "129829": {
+    "addr1": "충청북도 청주시 흥덕구 강내면 태성탑연로 250",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "129829",
+    "contenttypeid": "14",
+    "createdtime": "20071106103215",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/07/1894407_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/07/1894407_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3573191017",
+    "mapy": "36.6056581103",
+    "mlevel": "6",
+    "modifiedtime": "20221115172252",
+    "sigungucode": "10",
+    "tel": "",
+    "title": "한국교원대학교 교육박물관",
+    "zipcode": "28173",
+    "family": [
+      {
+        "유모차": "유모차 대여 가능<br />\n(3~5대 가능하며 상시적으로 구비되어 있는 것은 3대)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "휠체어 무료대여 가능<br/>\n최대 5대 대여 가능(상시적으로는 3대)"
+      },
+      {
+        "출입통로": "주출입구에 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(각 1,2,3층 모두 있음)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(현관,엘리베이터 등 주요시설)_시각장애인 편의시설"
+      },
+      {
+        "유도안내설비": "화재경보기,점자손잡이(경사로) 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "129939": {
+    "addr1": "충청북도 청주시 상당구 단재로 361",
+    "addr2": "(지북동)",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060700",
+    "contentid": "129939",
+    "contenttypeid": "14",
+    "createdtime": "20071106103618",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.5067392253",
+    "mapy": "36.5986476990",
+    "mlevel": "6",
+    "modifiedtime": "20230116141410",
+    "sigungucode": "10",
+    "tel": "",
+    "title": "청주문화원",
+    "zipcode": "28786",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "129958": {
+    "addr1": "충청북도 청주시 상당구 단재로 361",
+    "addr2": "(지북동)",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060700",
+    "contentid": "129958",
+    "contenttypeid": "14",
+    "createdtime": "20071106103657",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/34/1847834_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/34/1847834_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5067392253",
+    "mapy": "36.5986476990",
+    "mlevel": "6",
+    "modifiedtime": "20230321094343",
+    "sigungucode": "10",
+    "tel": "",
+    "title": "청원문화원",
+    "zipcode": "28786",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "130143": {
+    "addr1": "충청북도 청주시 상당구 명암로 143",
+    "addr2": "(명암동)",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "130143",
+    "contenttypeid": "14",
+    "createdtime": "20071106104408",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/51/1894451_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/51/1894451_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5119706779",
+    "mapy": "36.6497224889",
+    "mlevel": "6",
+    "modifiedtime": "20230131174526",
+    "sigungucode": "10",
+    "tel": "",
+    "title": "국립청주박물관 어린이박물관",
+    "zipcode": "28313",
+    "family": [
+      {
+        "유모차": "대여가능(본관)"
+      },
+      {
+        "수유실": "있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "대여가능(본관)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(유아변기설치)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자유도로 있음_시각장애인 편의시설"
+      },
+      {
+        "유도안내설비": "점자손잡이 있음(경사로손잡이)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "130748": {
+    "addr1": "충청북도 청주시 흥덕구 강내면 청주역로 213-52",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "130748",
+    "contenttypeid": "14",
+    "createdtime": "20060306090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/02/1597002_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/02/1597002_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3818215440",
+    "mapy": "36.6389213965",
+    "mlevel": "6",
+    "modifiedtime": "20230310102819",
+    "sigungucode": "10",
+    "tel": "",
+    "title": "한국잠사박물관(청주)",
+    "zipcode": "28170",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1627090": {
+    "addr1": "충청북도 청주시 상당구 문의면 대청호반로 721",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060500",
+    "contentid": "1627090",
+    "contenttypeid": "14",
+    "createdtime": "20120510194644",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/41/1597041_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/41/1597041_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4937206905",
+    "mapy": "36.5071079587",
+    "mlevel": "6",
+    "modifiedtime": "20220517175404",
+    "sigungucode": "10",
+    "tel": "",
+    "title": "청주시립대청호미술관",
+    "zipcode": "28208",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "미술관이 속해 있는 문의문화재단지는 휠체어 대여가능"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(1층 여자,2층 남자화장실)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(1,2층 주요시설)_시각장애인 편의시설"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1627209": {
+    "addr1": "충청북도 청주시 흥덕구 1순환로438번길 9",
+    "addr2": "(신봉동)",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "1627209",
+    "contenttypeid": "14",
+    "createdtime": "20120510204456",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/53/1894453_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/53/1894453_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4690189071",
+    "mapy": "36.6522103207",
+    "mlevel": "6",
+    "modifiedtime": "20221018165732",
+    "sigungucode": "10",
+    "tel": "",
+    "title": "청주백제유물전시관",
+    "zipcode": "28459",
+    "family": [],
+    "handi": [
+      {
+        "출입통로": "경사로가 설치되어 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1729789": {
+    "addr1": "충청북도 청주시 청원구 공항로287번길 56",
+    "addr2": "(주중동)",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030400",
+    "contentid": "1729789",
+    "contenttypeid": "14",
+    "createdtime": "20121008201848",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/94/2036194_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/94/2036194_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4797393137",
+    "mapy": "36.6830541955",
+    "mlevel": "6",
+    "modifiedtime": "20230531140144",
+    "sigungucode": "10",
+    "tel": "",
+    "title": "충북학생교육문화원",
+    "zipcode": "28353",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용화장실 있음"
+      },
+      {
+        "관람석": "장애인전용좌석 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음(공연장입구 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1938427": {
+    "addr1": "충청북도 청주시 상당구 대성로122번길 67 충청북도지사관사",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060700",
+    "contentid": "1938427",
+    "contenttypeid": "14",
+    "createdtime": "20140731222251",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/73/2036173_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/73/2036173_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4959919091",
+    "mapy": "36.6369542228",
+    "mlevel": "6",
+    "modifiedtime": "20230703101807",
+    "sigungucode": "10",
+    "tel": "",
+    "title": "충북문화관",
+    "zipcode": "28518",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음(수동식, 2층건물)"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2598367": {
+    "addr1": "충청북도 청주시 청원구 상당로 314",
+    "addr2": "(내덕동)",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060500",
+    "contentid": "2598367",
+    "contenttypeid": "14",
+    "createdtime": "20190420021156",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/49/2596449_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/49/2596449_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4902363546",
+    "mapy": "36.6555769823",
+    "mlevel": "6",
+    "modifiedtime": "20230623094721",
+    "sigungucode": "10",
+    "tel": "",
+    "title": "국립현대미술관 청주",
+    "zipcode": "28501",
+    "family": [
+      {
+        "유모차": "대여가능"
+      },
+      {
+        "수유실": "수유실 있음(2층)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      },
+      {
+        "오디오 가이드": "점자안내판에 음성안내기 있음"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음"
+      },
+      {
+        "유도안내설비": "시각장애인용 계단 안전바 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2614908": {
+    "addr1": "충청북도 청주시 상당구 대성로 150",
+    "addr2": "(수동)",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "2614908",
+    "contenttypeid": "14",
+    "createdtime": "20190810014343",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/59/2519459_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/59/2519459_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4928060477",
+    "mapy": "36.6382456841",
+    "mlevel": "6",
+    "modifiedtime": "20230728092434",
+    "sigungucode": "10",
+    "tel": "",
+    "title": "충청북도자연과학교육원 과학전시관",
+    "zipcode": "28513",
+    "family": [
+      {
+        "수유실": "수유실 있음"
+      },
+      {
+        "영유아가족 기타 지원 항목": "유아화장실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음<br />\n점자유도로 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2671122": {
+    "addr1": "충청북도 청주시 청원구 상당로 314",
+    "addr2": "문화제조창 본관",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060500",
+    "contentid": "2671122",
+    "contenttypeid": "14",
+    "createdtime": "20200907232830",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/14/2671114_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/14/2671114_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4923972539",
+    "mapy": "36.6562491662",
+    "mlevel": "6",
+    "modifiedtime": "20230321080345",
+    "sigungucode": "10",
+    "tel": "",
+    "title": "청주시한국공예관",
+    "zipcode": "28501",
+    "family": [
+      {
+        "수유실": "수유실 있음(1, 5층)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "관람석": "장애인 전용 관람석 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2766536": {
+    "addr1": "충청북도 청주시 상당구 명암로 171",
+    "addr2": "(명암동)",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030400",
+    "contentid": "2766536",
+    "contenttypeid": "14",
+    "createdtime": "20211102211653",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/42/2767242_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/42/2767242_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5157592034",
+    "mapy": "36.6505807918",
+    "mlevel": "6",
+    "modifiedtime": "20230628150913",
+    "sigungucode": "10",
+    "tel": "",
+    "title": "청주시 청주랜드 어린이체험관",
+    "zipcode": "28311",
+    "family": [
+      {
+        "수유실": "수유실 있음(2층)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(1층)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2766537": {
+    "addr1": "충청북도 청주시 서원구 충렬로18번길 50",
+    "addr2": "(사직동)",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060500",
+    "contentid": "2766537",
+    "contenttypeid": "14",
+    "createdtime": "20211102211904",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/48/2767248_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/48/2767248_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4783185558",
+    "mapy": "36.6347208288",
+    "mlevel": "6",
+    "modifiedtime": "20221129094700",
+    "sigungucode": "10",
+    "tel": "",
+    "title": "청주시립미술관",
+    "zipcode": "28654",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2804708": {
+    "addr1": "충청북도 청주시  직지대로 (713, 청주고인쇄박물관)",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "2804708",
+    "contenttypeid": "14",
+    "createdtime": "20220119165217",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.4714689112",
+    "mapy": "36.6441001847",
+    "mlevel": "6",
+    "modifiedtime": "20220412175014",
+    "sigungucode": "10",
+    "tel": "",
+    "title": "청주고인쇄박물관",
+    "zipcode": "28472",
+    "family": [
+      {
+        "수유실": "수유실 있음(2층)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      },
+      {
+        "오디오 가이드": "음성안내어플 제공"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

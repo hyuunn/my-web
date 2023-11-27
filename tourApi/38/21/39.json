@@ -1,0 +1,43 @@
+{
+  "2778502": {
+    "addr1": "전라남도 진도군 진도읍 남동1길 66",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2778502",
+    "contenttypeid": "39",
+    "createdtime": "20211124195300",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/00/2797100_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/00/2797100_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.2654036016",
+    "mapy": "34.4805057743",
+    "mlevel": "6",
+    "modifiedtime": "20230905165203",
+    "sigungucode": "21",
+    "tel": "",
+    "title": "신호등회관",
+    "zipcode": "58926",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문/자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

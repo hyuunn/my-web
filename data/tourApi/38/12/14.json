@@ -1,0 +1,210 @@
+{
+  "593319": {
+    "addr1": "전라남도 신안군 증도면 지도증도로 1058",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "593319",
+    "contenttypeid": "14",
+    "createdtime": "20080724222254",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/70/2026070_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/70/2026070_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.1754576006",
+    "mapy": "34.9963739980",
+    "mlevel": "6",
+    "modifiedtime": "20231103161529",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "소금박물관",
+    "zipcode": "58808",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "619141": {
+    "addr1": "전라남도 신안군 증도면 지도증도로 1766-15",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "619141",
+    "contenttypeid": "14",
+    "createdtime": "20080903223810",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/46/572846_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/46/572846_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.1377089339",
+    "mapy": "34.9646075274",
+    "mlevel": "6",
+    "modifiedtime": "20230926144647",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "신안갯벌박물관",
+    "zipcode": "535-821,11",
+    "family": [
+      {
+        "유모차": "유모차 무료대여 가능함(2대)"
+      }
+    ],
+    "handi": [
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "엘리베이터": "있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2705310": {
+    "addr1": "전라남도 신안군 압해읍 무지개길 350",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060500",
+    "contentid": "2705310",
+    "contenttypeid": "14",
+    "createdtime": "20210204002010",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.2497685530",
+    "mapy": "34.8445673440",
+    "mlevel": "6",
+    "modifiedtime": "20221213135145",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "저녁노을미술관",
+    "zipcode": "58822",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2705312": {
+    "addr1": "전라남도 신안군 하의면 웅곡리",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060500",
+    "contentid": "2705312",
+    "contenttypeid": "14",
+    "createdtime": "20210204003043",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.0366680064",
+    "mapy": "34.6079433273",
+    "mlevel": "6",
+    "modifiedtime": "20230220104814",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "하의도 야외 조각미술관",
+    "zipcode": "58856",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2742133": {
+    "addr1": "전라남도 신안군 안좌면 대리길 18-20",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "2742133",
+    "contenttypeid": "14",
+    "createdtime": "20210909194712",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/95/2742495_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/95/2742495_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.1691481868",
+    "mapy": "34.7162860456",
+    "mlevel": "6",
+    "modifiedtime": "20230920102742",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "세계화석광물박물관",
+    "zipcode": "58841",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

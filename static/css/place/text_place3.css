@@ -1,0 +1,17 @@
+button,input[type="button"]{
+    border:none;
+    font-size:20px;
+}
+.hidden2{
+    display:none;
+}
+.searchMap{
+    width:200px;
+}
+.Bcard{
+    border:1px solid black;
+    margin:10px;
+}
+.title{
+    font-size:25px;
+}

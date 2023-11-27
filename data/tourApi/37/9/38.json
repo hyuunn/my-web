@@ -1,0 +1,169 @@
+{
+  "132293": {
+    "addr1": "전라북도 익산시 함열읍 와리2길 8",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010100",
+    "contentid": "132293",
+    "contenttypeid": "38",
+    "createdtime": "20020417090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/90/1976690_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/90/1976690_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9585133681",
+    "mapy": "36.0806917547",
+    "mlevel": "6",
+    "modifiedtime": "20230610054000",
+    "sigungucode": "9",
+    "tel": "063-862-2900",
+    "title": "함열장 (2, 7일)",
+    "zipcode": "54511",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "132296": {
+    "addr1": "전라북도 익산시 황등면 황등7길 25",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010100",
+    "contentid": "132296",
+    "contenttypeid": "38",
+    "createdtime": "20020424090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/97/1976697_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/97/1976697_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9452942886",
+    "mapy": "36.0059250606",
+    "mlevel": "6",
+    "modifiedtime": "20230314103251",
+    "sigungucode": "9",
+    "tel": "063-856-4446",
+    "title": "황등장 / 황등시장 (5, 10일)",
+    "zipcode": "54533",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1435147": {
+    "addr1": "전라북도 익산시 인북로11길 27",
+    "addr2": "(남중동)",
+    "areacode": "37",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010100",
+    "contentid": "1435147",
+    "contenttypeid": "38",
+    "createdtime": "20111112015248",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.9566391500",
+    "mapy": "35.9512259399",
+    "mlevel": "6",
+    "modifiedtime": "20230323104943",
+    "sigungucode": "9",
+    "tel": "063-855-6891",
+    "title": "익산 북부장 / 북부시장 (4, 9일)",
+    "zipcode": "54619",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1845457": {
+    "addr1": "전라북도 익산시 왕궁면 호반로 8",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010600",
+    "contentid": "1845457",
+    "contenttypeid": "38",
+    "createdtime": "20130916225719",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.1028389452",
+    "mapy": "35.9911739189",
+    "mlevel": "6",
+    "modifiedtime": "20230610080837",
+    "sigungucode": "9",
+    "tel": "063-834-5100",
+    "title": "익산 주얼팰리스",
+    "zipcode": "54575",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

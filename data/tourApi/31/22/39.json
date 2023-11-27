@@ -1,0 +1,318 @@
+{
+  "809412": {
+    "addr1": "경기도 오산시 독산성로 225",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "809412",
+    "contenttypeid": "39",
+    "createdtime": "20090925005102",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/70/1858170_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/70/1858170_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0240778014",
+    "mapy": "37.1774168463",
+    "mlevel": "6",
+    "modifiedtime": "20230530151410",
+    "sigungucode": "22",
+    "tel": "031-372-3334",
+    "title": "콩마당",
+    "zipcode": "18102",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2753081": {
+    "addr1": "경기도 오산시 경기대로 845",
+    "addr2": "(세교동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2753081",
+    "contenttypeid": "39",
+    "createdtime": "20211006000455",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/78/2753078_image2_1.jpeg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/78/2753078_image2_1.jpeg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0441727812",
+    "mapy": "37.1925571198",
+    "mlevel": "6",
+    "modifiedtime": "20231025133028",
+    "sigungucode": "22",
+    "tel": "",
+    "title": "북극해고등어",
+    "zipcode": "18111",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2770974": {
+    "addr1": "경기도 오산시 문시로 110-35",
+    "addr2": "(외삼미동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2770974",
+    "contenttypeid": "39",
+    "createdtime": "20211109224318",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/07/2771107_image2_1.jpeg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/07/2771107_image2_1.jpeg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0594270972",
+    "mapy": "37.1874107651",
+    "mlevel": "6",
+    "modifiedtime": "20230203111739",
+    "sigungucode": "22",
+    "tel": "",
+    "title": "카페엘토브",
+    "zipcode": "18112",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2773376": {
+    "addr1": "경기도 오산시 삼미로47번길 81-14",
+    "addr2": "(내삼미동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2773376",
+    "contenttypeid": "39",
+    "createdtime": "20211111192257",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/12/2773512_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/12/2773512_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0703681019",
+    "mapy": "37.1756067701",
+    "mlevel": "6",
+    "modifiedtime": "20221207135508",
+    "sigungucode": "22",
+    "tel": "",
+    "title": "카페스티빈",
+    "zipcode": "18112",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2873097": {
+    "addr1": "경기도 오산시 양산로 186",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2873097",
+    "contenttypeid": "39",
+    "createdtime": "20221024134835",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/96/2873096_image2_1.jpeg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/96/2873096_image3_1.jpeg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0120508513",
+    "mapy": "37.1868572066",
+    "mlevel": "6",
+    "modifiedtime": "20221202152913",
+    "sigungucode": "22",
+    "tel": "",
+    "title": "세마오리농원",
+    "zipcode": "18101",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2873133": {
+    "addr1": "경기도 오산시 남부대로 446",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2873133",
+    "contenttypeid": "39",
+    "createdtime": "20221024140205",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/28/2873128_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/28/2873128_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0833958732",
+    "mapy": "37.1334813184",
+    "mlevel": "6",
+    "modifiedtime": "20221103154342",
+    "sigungucode": "22",
+    "tel": "",
+    "title": "장안면옥 직영점",
+    "zipcode": "18151",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2906449": {
+    "addr1": "경기도 오산시 독산성로 384",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020400",
+    "contentid": "2906449",
+    "contenttypeid": "39",
+    "createdtime": "20221111144901",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/34/2906434_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/34/2906434_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0376458025",
+    "mapy": "37.1850912007",
+    "mlevel": "6",
+    "modifiedtime": "20230202155945",
+    "sigungucode": "22",
+    "tel": "",
+    "title": "취풍덕",
+    "zipcode": "18102",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

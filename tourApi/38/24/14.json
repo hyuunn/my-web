@@ -1,0 +1,84 @@
+{
+  "742784": {
+    "addr1": "전라남도 화순군 동복면 독상1길 10",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060200",
+    "contentid": "742784",
+    "contenttypeid": "14",
+    "createdtime": "20090528002340",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/53/742253_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/53/742253_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1310018891",
+    "mapy": "35.0680318326",
+    "mlevel": "6",
+    "modifiedtime": "20230125094916",
+    "sigungucode": "24",
+    "tel": "",
+    "title": "오지호기념관",
+    "zipcode": "58102",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "742820": {
+    "addr1": "전라남도 화순군 사평면 효당로 400",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "742820",
+    "contenttypeid": "14",
+    "createdtime": "20090528004019",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/09/742209_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/09/742209_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1129934121",
+    "mapy": "35.0264195487",
+    "mlevel": "6",
+    "modifiedtime": "20221117170752",
+    "sigungucode": "24",
+    "tel": "",
+    "title": "물사랑 배움터",
+    "zipcode": "58145",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있으나 전시관 입구에만 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구(전시관)는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "실내전시도 있으나 대부분 야외전시로 이루어져 있으며 야외시설 중 체험장에는 단차가 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "130121": {
+    "addr1": "강원특별자치도 태백시 태백로 1136",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060700",
+    "contentid": "130121",
+    "contenttypeid": "14",
+    "createdtime": "20071106104302",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/81/1820381_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/81/1820381_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.9894682332",
+    "mapy": "37.1567473782",
+    "mlevel": "6",
+    "modifiedtime": "20230701104303",
+    "sigungucode": "14",
+    "tel": "",
+    "title": "태백문화원",
+    "zipcode": "26039",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1337616": {
+    "addr1": "강원특별자치도 태백시 태백로 2249 태백고생대자연사박물관",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "1337616",
+    "contenttypeid": "14",
+    "createdtime": "20110722015625",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/57/1836957_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/57/1836957_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.0396017320",
+    "mapy": "37.0949248858",
+    "mlevel": "6",
+    "modifiedtime": "20230701104407",
+    "sigungucode": "14",
+    "tel": "",
+    "title": "태백 고생대 자연사박물관",
+    "zipcode": "26048",
+    "family": [
+      {
+        "유모차": "대여가능"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1722369": {
+    "addr1": "강원특별자치도 태백시 고원로 203",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060600",
+    "contentid": "1722369",
+    "contenttypeid": "14",
+    "createdtime": "20120920202555",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.9880567883",
+    "mapy": "37.1720067101",
+    "mlevel": "6",
+    "modifiedtime": "20230701103845",
+    "sigungucode": "14",
+    "tel": "",
+    "title": "태백시 문화예술회관",
+    "zipcode": "26009",
+    "family": [],
+    "handi": [
+      {
+        "휠체어": "휠체어 대여(3대보유)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "관람석": "장애인 좌석(14석)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2610078": {
+    "addr1": "강원특별자치도 태백시 천제단길 195",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "2610078",
+    "contenttypeid": "14",
+    "createdtime": "20190709022048",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/67/2610067_image2_1.bmp",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/67/2610067_image2_1.bmp",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.9505617784",
+    "mapy": "37.1174316975",
+    "mlevel": "6",
+    "modifiedtime": "20231024152313",
+    "sigungucode": "14",
+    "tel": "",
+    "title": "태백석탄박물관",
+    "zipcode": "26043",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "대여가능(3대)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

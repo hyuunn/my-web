@@ -1,0 +1,210 @@
+{
+  "129987": {
+    "addr1": "전라남도 광양시 광양읍 매천로 829",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060700",
+    "contentid": "129987",
+    "contenttypeid": "14",
+    "createdtime": "20071106103752",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/45/2515545_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/45/2515545_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5861308504",
+    "mapy": "34.9758666870",
+    "mlevel": "6",
+    "modifiedtime": "20230830134718",
+    "sigungucode": "4",
+    "tel": "",
+    "title": "광양문화원",
+    "zipcode": "57743",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "130205": {
+    "addr1": "전라남도 광양시 광양읍 향교길 9-30",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060600",
+    "contentid": "130205",
+    "contenttypeid": "14",
+    "createdtime": "20071106104653",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.5875972838",
+    "mapy": "34.9799634742",
+    "mlevel": "6",
+    "modifiedtime": "20230913122047",
+    "sigungucode": "4",
+    "tel": "",
+    "title": "광양시문화예술회관",
+    "zipcode": "57734",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "주차장에서 출입구까지 경사로 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구에 휠체어 접근 가능"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(대공연장 근처)"
+      },
+      {
+        "관람석": "장애인 전용 관람석 있음(대공연장 3석)<br/>\n소공연장은 2층으로 접근이 어려움"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설<br/>\n현관에만 있으나 현관과 대공연장 가까움"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2732668": {
+    "addr1": "전라남도 광양시 광양읍 순광로 674",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "2732668",
+    "contenttypeid": "14",
+    "createdtime": "20210811012115",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/69/2732669_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/69/2732669_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5889557864",
+    "mapy": "34.9686703225",
+    "mlevel": "6",
+    "modifiedtime": "20230616170711",
+    "sigungucode": "4",
+    "tel": "",
+    "title": "광양예술창고",
+    "zipcode": "57758",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2733394": {
+    "addr1": "전라남도 광양시 광양읍 매천로 829",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "2733394",
+    "contenttypeid": "14",
+    "createdtime": "20210812183224",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/95/2733395_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/95/2733395_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5860086407",
+    "mapy": "34.9758111359",
+    "mlevel": "6",
+    "modifiedtime": "20230202105435",
+    "sigungucode": "4",
+    "tel": "",
+    "title": "광양 역사문화관",
+    "zipcode": "57743",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2782651": {
+    "addr1": "전라남도 광양시 다압면 지막1길 21",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "2782651",
+    "contenttypeid": "14",
+    "createdtime": "20211129194914",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/37/2788437_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/37/2788437_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7181222254",
+    "mapy": "35.0767465293",
+    "mlevel": "6",
+    "modifiedtime": "20230410100106",
+    "sigungucode": "4",
+    "tel": "",
+    "title": "광양매화문화관",
+    "zipcode": "57709",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

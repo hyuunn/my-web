@@ -1,0 +1,355 @@
+{
+  "126412": {
+    "addr1": "전라남도 나주시 금성관길 8",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010100",
+    "contentid": "126412",
+    "contenttypeid": "12",
+    "createdtime": "20020506090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/89/2515589_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/89/2515589_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7165671197",
+    "mapy": "35.0333954147",
+    "mlevel": "6",
+    "modifiedtime": "20231006165843",
+    "sigungucode": "6",
+    "tel": "",
+    "title": "나주 금성관",
+    "zipcode": "58257",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "보행의 연속성 양호함(전체 면적의 80% 접근가능)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "127628": {
+    "addr1": "전라남도 나주시 다시면 백호로 287",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010700",
+    "contentid": "127628",
+    "contenttypeid": "12",
+    "createdtime": "20020514090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/68/676368_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/68/676368_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6570899638",
+    "mapy": "34.9960541912",
+    "mlevel": "6",
+    "modifiedtime": "20231004111928",
+    "sigungucode": "6",
+    "tel": "",
+    "title": "나주 복암리 고분군",
+    "zipcode": "58280",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "보행의 연속성 양호함(80%이상 접근 가능함)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "129362": {
+    "addr1": "전라남도 나주시 공산면 덕음로 548-7",
+    "addr2": "(공산면)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030100",
+    "contentid": "129362",
+    "contenttypeid": "12",
+    "createdtime": "20061110090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/46/2516446_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/46/2516446_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.5939291668",
+    "mapy": "34.9844377850",
+    "mlevel": "6",
+    "modifiedtime": "20230718144412",
+    "sigungucode": "6",
+    "tel": "",
+    "title": "나주 영산나루마을",
+    "zipcode": "58289",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "309294": {
+    "addr1": "전라남도 나주시 봉황면 세남로 408-64",
+    "addr2": "(봉황면)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010800",
+    "contentid": "309294",
+    "contenttypeid": "12",
+    "createdtime": "20071130182057",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/73/493073_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/73/493073_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7815581685",
+    "mapy": "34.9383683264",
+    "mlevel": "6",
+    "modifiedtime": "20231004111050",
+    "sigungucode": "6",
+    "tel": "",
+    "title": "미륵사(나주)",
+    "zipcode": "58309",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "장애인용화장실 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2554479": {
+    "addr1": "전라남도 나주시 나주천1길 93",
+    "addr2": "(금성동)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0204",
+    "cat3": "A02040800",
+    "contentid": "2554479",
+    "contenttypeid": "12",
+    "createdtime": "20180719192401",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.7165616324",
+    "mapy": "35.0306512794",
+    "mlevel": "6",
+    "modifiedtime": "20220919172754",
+    "sigungucode": "6",
+    "tel": "",
+    "title": "나빌레라 문화센터",
+    "zipcode": "58257",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)<br />\n점자유도로 있음_시각장애인 편의시설"
+      },
+      {
+        "오디오 가이드": "음성안내기 있음(점자안내판)"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2620595": {
+    "addr1": "전라남도 나주시 호수로 77",
+    "addr2": "(빛가람동)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0205",
+    "cat3": "A02050600",
+    "contentid": "2620595",
+    "contenttypeid": "12",
+    "createdtime": "20190923234442",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.7904498881",
+    "mapy": "35.0168707372",
+    "mlevel": "6",
+    "modifiedtime": "20220628173740",
+    "sigungucode": "6",
+    "tel": "",
+    "title": "빛가람 전망대",
+    "zipcode": "58325",
+    "family": [
+      {
+        "유모차": "대여가능(5대, 유모차대여실)"
+      },
+      {
+        "수유실": "수유실 있음(1층)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "대여가능(5대, 안내데스크)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(전시관 내 오른쪽, 전망대동 4층/5층)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2732546": {
+    "addr1": "전라남도 나주시 다도면 동력길 2",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010600",
+    "contentid": "2732546",
+    "contenttypeid": "12",
+    "createdtime": "20210810233602",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.8211559631",
+    "mapy": "34.9985733148",
+    "mlevel": "6",
+    "modifiedtime": "20230914152354",
+    "sigungucode": "6",
+    "tel": "",
+    "title": "도래마을",
+    "zipcode": "58233",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2737308": {
+    "addr1": "전라남도 나주시 호수로 77",
+    "addr2": "(빛가람동)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2737308",
+    "contenttypeid": "12",
+    "createdtime": "20210830193637",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/91/2737391_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/91/2737391_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7904498881",
+    "mapy": "35.0168707372",
+    "mlevel": "6",
+    "modifiedtime": "20230817155648",
+    "sigungucode": "6",
+    "tel": "",
+    "title": "빛가람 호수공원",
+    "zipcode": "58325",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

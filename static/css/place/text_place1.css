@@ -1,0 +1,43 @@
+#text_hidden{
+    display:none;
+}
+.radioLabel{
+    font-size: 20px;
+}
+.formTitle{
+    font-size:30px;
+}
+.areaSelect{
+    margin:20px 0px;
+    width:200px;
+    font-size:18px;
+}
+.submit{
+    margin:20px 0px;
+    width:200px;
+    border:none;
+}
+.top10Title,.top10Title1{
+    font-size:30px;
+}
+.topImg{
+    width:400px;
+}
+
+[class^='top']{
+    margin: 20px;
+}
+.text_hidden{
+    display:none;
+}
+.top10Num{
+    font-size:30px;
+}
+.top10Li{
+    border-bottom:1px solid black;
+    width:600px;
+}
+.top10Bt{
+    width:200px;
+    border:none;
+}

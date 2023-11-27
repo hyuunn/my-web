@@ -1,0 +1,33 @@
+.card{
+    width:400px
+}
+.none,.hidden2{
+    display:none;
+}
+.plus,.plus2{
+    position:relative;
+    left:45%;
+    font-size:20px
+}
+.text_label{
+    margin:5px;
+    font-size:18px;
+}
+.handitypeDiv{
+    margin-bottom: 20px;
+}
+.changeTypeTitle{
+    font-size:20px;
+}
+.areaDiv{
+    font-size:18px;
+    margin-bottom: 20px;
+}
+.changeBt,.searchTA,.searchBT{
+    font-size: 20px;
+    margin-left:5px;
+}
+.typeMenuil{
+    font-size:18px;
+}
+

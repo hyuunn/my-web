@@ -1,0 +1,41 @@
+{
+  "131195": {
+    "addr1": "전라북도 무주군 안성면 칠연로 607",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03020200",
+    "contentid": "131195",
+    "contenttypeid": "28",
+    "createdtime": "20021029090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/78/1604178_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/78/1604178_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.6983872270",
+    "mapy": "35.8396960688",
+    "mlevel": "6",
+    "modifiedtime": "20230610054407",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "전라북도자연환경연수원",
+    "zipcode": "55539",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

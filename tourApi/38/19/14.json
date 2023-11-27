@@ -1,0 +1,142 @@
+{
+  "129993": {
+    "addr1": "전라남도 장성군 장성읍 문화로 110",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060700",
+    "contentid": "129993",
+    "contenttypeid": "14",
+    "createdtime": "20071106103805",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/82/2516782_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/82/2516782_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7679503241",
+    "mapy": "35.3022270077",
+    "mlevel": "6",
+    "modifiedtime": "20230503150449",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "장성문화원",
+    "zipcode": "57222",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "주출입구는 계단이 많으나 우회해서 무단차로 접근 가능한 보조출입구가 있음"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음(지하1층~지상3층 운행,문화원은 지하1층)"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1752754": {
+    "addr1": "전라남도 장성군 장성읍 문화로 110",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060600",
+    "contentid": "1752754",
+    "contenttypeid": "14",
+    "createdtime": "20121115222832",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.7679503241",
+    "mapy": "35.3022270077",
+    "mlevel": "6",
+    "modifiedtime": "20231030141949",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "장성문화예술회관",
+    "zipcode": "57222",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      },
+      {
+        "관람석": "장애인 전용 관람석 있음(대공연장 8석,소공연장 4석)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2752810": {
+    "addr1": "전라남도 장성군 북하면 송정공원길 11",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "2752810",
+    "contenttypeid": "14",
+    "createdtime": "20211005195025",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/40/2752640_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/40/2752640_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8490930208",
+    "mapy": "35.4166820835",
+    "mlevel": "6",
+    "modifiedtime": "20230120153300",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "임권택시네마테크",
+    "zipcode": "57204",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함(경사가 있음)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

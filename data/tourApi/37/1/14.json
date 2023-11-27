@@ -1,0 +1,281 @@
+{
+  "130049": {
+    "addr1": "전라북도 고창군 고창읍 판소리길 20",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060600",
+    "contentid": "130049",
+    "contenttypeid": "14",
+    "createdtime": "20071106103958",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/25/196625_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/25/196625_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7023528922",
+    "mapy": "35.4317028988",
+    "mlevel": "6",
+    "modifiedtime": "20220929165917",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "동리국악당",
+    "zipcode": "56440",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "130051": {
+    "addr1": "전라북도 고창군 고창읍 천변북로 119",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060700",
+    "contentid": "130051",
+    "contenttypeid": "14",
+    "createdtime": "20071106104002",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/57/176257_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/57/176257_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7053525574",
+    "mapy": "35.4344220857",
+    "mlevel": "6",
+    "modifiedtime": "20220621105416",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "고창문화원",
+    "zipcode": "56432",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "주차장에서 단차 없이 평지로 연결 됨"
+      },
+      {
+        "출입통로": "주출입구에 경사로 설치되어 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "130538": {
+    "addr1": "전라북도 고창군 고창읍 동리로 100",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "130538",
+    "contenttypeid": "14",
+    "createdtime": "20041210090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/29/1602929_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/29/1602929_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7027306184",
+    "mapy": "35.4324167130",
+    "mlevel": "6",
+    "modifiedtime": "20220708165950",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "고창판소리박물관",
+    "zipcode": "56440",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "무료대여(2대)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구~관내 주요시설까지 연결됨)_시각장애인 편의시설"
+      },
+      {
+        "오디오 가이드": "판소리오디오설비 제공"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "130871": {
+    "addr1": "전라북도 고창군 부안면 질마재로 2-8",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060200",
+    "contentid": "130871",
+    "contenttypeid": "14",
+    "createdtime": "20061024090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/91/1602991_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/91/1602991_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6099362723",
+    "mapy": "35.5355784414",
+    "mlevel": "6",
+    "modifiedtime": "20230504152103",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "미당 서정주 시문학관",
+    "zipcode": "56418",
+    "family": [],
+    "handi": [
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "경사로가 설치되어 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "799358": {
+    "addr1": "전라북도 고창군 고창읍 고인돌공원길 74",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "799358",
+    "contenttypeid": "14",
+    "createdtime": "20090908025142",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/59/781459_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/59/781459_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6523681958",
+    "mapy": "35.4416120441",
+    "mlevel": "6",
+    "modifiedtime": "20230913152853",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "고창고인돌박물관",
+    "zipcode": "56443",
+    "family": [
+      {
+        "유모차": "유모차 무료대여 가능함"
+      },
+      {
+        "수유실": "수유실 있음 (1층)"
+      }
+    ],
+    "handi": [
+      {
+        "휠체어": "휠체어 대여가능"
+      },
+      {
+        "출입통로": "높낮이 차가없어 휠체어로 출입 가능"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음 (박물관 1층, 야외 주차시설쪽)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 설치되어 있음 (외부에서 건물 입구까지)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "오디오 가이드": "전시물 앞을 지날때 음성해설 기능이 작동함"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1750138": {
+    "addr1": "전라북도 고창군 고창읍 모양성로 11",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060600",
+    "contentid": "1750138",
+    "contenttypeid": "14",
+    "createdtime": "20121110015356",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.7045859853",
+    "mapy": "35.4333666372",
+    "mlevel": "6",
+    "modifiedtime": "20221226142930",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "고창문화의전당",
+    "zipcode": "56441",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "주출입구에 경사로가 완만하게 설치되어 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음 (공연장 로비 옆 쪽, 남녀분리)"
+      },
+      {
+        "관람석": "관람석 내 장애인 전용 좌석 있음 (8석)<br />\n- 다열 맨 뒷줄 4석, 가열 맨 뒷줄 4석"
+      },
+      {
+        "기타 지원 항목": "전시관 내 휠체어 관람가능"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

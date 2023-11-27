@@ -1,0 +1,912 @@
+{
+  "129874": {
+    "addr1": "경기도 고양시 일산서구 한류월드로 280",
+    "addr2": "(대화동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060700",
+    "contentid": "129874",
+    "contenttypeid": "14",
+    "createdtime": "20071106103353",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/72/2363372_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/72/2363372_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7562551900",
+    "mapy": "37.6649943753",
+    "mlevel": "6",
+    "modifiedtime": "20230823153704",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "고양문화원",
+    "zipcode": "10392",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "주출입구는 1단차가 있으나 경사로가 설치된 접근로 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(남녀 각각 한 칸씩)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음 (주출입구 앞)_시각장애인 편의시설"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "129897": {
+    "addr1": "경기도 고양시 덕양구 대양로285번길 33-15",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060800",
+    "contentid": "129897",
+    "contenttypeid": "14",
+    "createdtime": "20071106103444",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.8953524855",
+    "mapy": "37.7040673115",
+    "mlevel": "6",
+    "modifiedtime": "20231023164555",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "중남미문화원",
+    "zipcode": "10273",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 평지로 연결되어 있음"
+      },
+      {
+        "휠체어": "휠체어 무료 대여(1대,매표소 문의)"
+      },
+      {
+        "출입통로": "주출입구는 평지와 연결되며 턱이 있는 건물이 있으나 턱이 낮아 휠체어 통과 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(1개,조각공원)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(매표소 앞)_시각장애인 편의시설"
+      },
+      {
+        "오디오 가이드": "QR코드를 통한 음성안내 지원"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음(입구)"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "130221": {
+    "addr1": "경기도 고양시 덕양구 고양시청로 10",
+    "addr2": "(주교동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060600",
+    "contentid": "130221",
+    "contenttypeid": "14",
+    "createdtime": "20071106104726",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/44/700644_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/44/700644_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8319595707",
+    "mapy": "37.6583826067",
+    "mlevel": "6",
+    "modifiedtime": "20220711154528",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "고양시문예회관",
+    "zipcode": "10460",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로 설치되어 있음\n(문화회관공연장과 체육관)"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음<br />\n(문화회관 공연장과 체육관)"
+      },
+      {
+        "관람석": "공연장 장애인 전용 좌석 있음<br />\n(1층 B열 3석,C열 3석)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(계단 및 입구)"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "130549": {
+    "addr1": "경기도 고양시 덕양구 어울림로 33",
+    "addr2": "(성사동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060600",
+    "contentid": "130549",
+    "contenttypeid": "14",
+    "createdtime": "20050317090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/79/1589179_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/79/1589179_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8344512600",
+    "mapy": "37.6495225715",
+    "mlevel": "6",
+    "modifiedtime": "20230329105052",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "고양 어울림누리",
+    "zipcode": "10471",
+    "family": [
+      {
+        "영유아가족 기타 지원 항목": "어린이 놀이방을 운영함"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "휠체어 대여 가능 (각 극장 1대씩)"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(극장 근처)"
+      },
+      {
+        "관람석": "어울림극장<br/>\n1층 A블럭 24열 1~11번,B블럭 24열 1~4번,C블럭 1번~11번 총 26석<br/>\n좌석이 부착되어 있지만 휠체어관객을 위해 탈착가능"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(엘리베이터 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "130593": {
+    "addr1": "경기도 고양시 일산동구 중앙로 1283",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060500",
+    "contentid": "130593",
+    "contenttypeid": "14",
+    "createdtime": "20050603090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/07/700707_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/07/700707_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7720983146",
+    "mapy": "37.6604590745",
+    "mlevel": "6",
+    "modifiedtime": "20230413023547",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "롯데갤러리(일산)",
+    "zipcode": "10401",
+    "family": [
+      {
+        "영유아가족 기타 지원 항목": "유아 휴게실, 유아/아동 도서관 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "130963": {
+    "addr1": "경기도 고양시 덕양구 화중로104번길 50",
+    "addr2": "(화정동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "130963",
+    "contenttypeid": "14",
+    "createdtime": "20070816090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/22/1949922_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/22/1949922_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8340155763",
+    "mapy": "37.6358019379",
+    "mlevel": "6",
+    "modifiedtime": "20231018100149",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "국립여성사전시관",
+    "zipcode": "10497",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(1층)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(건물 외부에서부터 전시관 주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내책자 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "250465": {
+    "addr1": "경기도 고양시 일산서구 킨텍스로 217-60",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060400",
+    "contentid": "250465",
+    "contenttypeid": "14",
+    "createdtime": "20071019090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/29/1589229_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/29/1589229_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7455782754",
+    "mapy": "37.6689909419",
+    "mlevel": "6",
+    "modifiedtime": "20231025141226",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "킨텍스",
+    "zipcode": "10390",
+    "family": [
+      {
+        "유모차": "대여 가능(신분증 제출)"
+      },
+      {
+        "영유아가족 기타 지원 항목": "일반 화장실 내 기저귀 교환대 있음"
+      }
+    ],
+    "handi": [
+      {
+        "대중교통": "3호선 대화역 2번 출구에서 701m"
+      },
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함(1전시장과 2전시장 사이 무빙워크)"
+      },
+      {
+        "휠체어": "대여 가능함(신분증 제출)"
+      },
+      {
+        "출입통로": "주 출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      },
+      {
+        "오디오 가이드": "음성안내기 있음(유료 대여)"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "254860": {
+    "addr1": "경기도 고양시 일산동구 중앙로 1286",
+    "addr2": "(마두동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060600",
+    "contentid": "254860",
+    "contenttypeid": "14",
+    "createdtime": "20070904090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.7742647741",
+    "mapy": "37.6607590782",
+    "mlevel": "6",
+    "modifiedtime": "20231025145545",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "고양 아람누리",
+    "zipcode": "10409",
+    "family": [
+      {
+        "영유아가족 기타 지원 항목": "어린이방 운영"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "무료대여(3대,각 극장 1대씩)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터,장애인리프트 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      },
+      {
+        "관람석": "장애인 전용 관람석 있음<br/>\n-아람극장 1층 A블럭 24열 1~11번,B블럭 24열 1~4번, C블록 1번~11번 총 26석<br/>\n-아람음악당(하이든홀) 1층 A블록 18열 1번~13번,C블럭 18열 1~13번 총 26석"
+      },
+      {
+        "기타 지원 항목": "아람극장은 객석 내 계단이 있어 좌석안내보조를 받을 수 있으며 공연시간 동안 휠체어 무료 보관서비스 제공(사전 연락)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(접근로)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1105623": {
+    "addr1": "경기도 고양시 일산동구 호수로 731",
+    "addr2": "(장항동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "1105623",
+    "contenttypeid": "14",
+    "createdtime": "20101009011521",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/97/1149697_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/97/1149697_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7604214919",
+    "mapy": "37.6644445137",
+    "mlevel": "6",
+    "modifiedtime": "20231025142708",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "고양 선인장전시관",
+    "zipcode": "10400",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1694495": {
+    "addr1": "경기도 고양시 일산서구 주엽로 104",
+    "addr2": "(주엽동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060900",
+    "contentid": "1694495",
+    "contenttypeid": "14",
+    "createdtime": "20120817184355",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/63/2363363_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/63/2363363_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7565328448",
+    "mapy": "37.6684578662",
+    "mlevel": "6",
+    "modifiedtime": "20230913165300",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "고양시립 주엽어린이도서관",
+    "zipcode": "10385",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(1~3층)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구, 계단 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1917066": {
+    "addr1": "경기도 고양시 일산서구 한류월드로 282",
+    "addr2": "(대화동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020600",
+    "contentid": "1917066",
+    "contenttypeid": "14",
+    "createdtime": "20140430203828",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/54/2363354_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/54/2363354_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7555775071",
+    "mapy": "37.6638195002",
+    "mlevel": "6",
+    "modifiedtime": "20230921154847",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "아쿠아플라넷 일산",
+    "zipcode": "10392",
+    "family": [
+      {
+        "유모차": "유모차 유료대여 가능함(대여료 2,000원)"
+      },
+      {
+        "수유실": "수유실 있음(1층, 3층)"
+      },
+      {
+        "영유아가족 기타 지원 항목": "화장실에 기저귀 교환대 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "휠체어 무료대여 가능"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음(유모차, 휠체어 이동 가능)"
+      },
+      {
+        "화장실": "장애인전용 화장실 있음(1~3층)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자유도로 있음_시각장애인 편의시설"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음(2층 입구)"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2550738": {
+    "addr1": "경기도 고양시 덕양구 배다골길 131",
+    "addr2": "(화정동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "2550738",
+    "contenttypeid": "14",
+    "createdtime": "20180613020532",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/31/2550731_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/31/2550731_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8475144866",
+    "mapy": "37.6307388794",
+    "mlevel": "6",
+    "modifiedtime": "20230829155721",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "배다골테마파크 고양민속박물관",
+    "zipcode": "10482",
+    "family": [
+      {
+        "유모차": "가능(25대,신분증보관,24개월미만,사전문의필요)"
+      },
+      {
+        "수유실": "있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "가능(2대,무료)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(박물관 1층)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      },
+      {
+        "유도안내설비": "점자손잡이 있음(입구경사로)"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2551413": {
+    "addr1": "경기도 고양시 덕양구 화중로 26",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "2551413",
+    "contenttypeid": "14",
+    "createdtime": "20180620195318",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/01/2551401_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/01/2551401_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8309271475",
+    "mapy": "37.6294748416",
+    "mlevel": "6",
+    "modifiedtime": "20230327095222",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "고양 어린이박물관",
+    "zipcode": "10503",
+    "family": [
+      {
+        "유모차": "유모차 무료 대여 (1층, 보안관데스크, 신분증보관)"
+      },
+      {
+        "수유실": "수유실 있음(2,3층)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "휠체어 무료 대여 (1층, 보안관데스크,신분증보관)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문,수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(계단 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2660801": {
+    "addr1": "경기도 고양시 일산서구 킨텍스로 217-6",
+    "addr2": "(대화동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "2660801",
+    "contenttypeid": "14",
+    "createdtime": "20200623230659",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/24/2501024_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/24/2501024_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7476976033",
+    "mapy": "37.6662607425",
+    "mlevel": "6",
+    "modifiedtime": "20230216135605",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "현대모터스튜디오 고양",
+    "zipcode": "10390",
+    "family": [
+      {
+        "유모차": "대여가능"
+      },
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "의무실, 의자식테이블(식음업장) 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      },
+      {
+        "오디오 가이드": "음성안내어플 제공"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2733832": {
+    "addr1": "경기도 고양시 일산동구 중앙로 1036",
+    "addr2": "(백석동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "2733832",
+    "contenttypeid": "14",
+    "createdtime": "20210813190231",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/82/2735082_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/82/2735082_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7896749719",
+    "mapy": "37.6432308377",
+    "mlevel": "6",
+    "modifiedtime": "20231027102309",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "마크트할레",
+    "zipcode": "10450",
+    "family": [
+      {
+        "수유실": "수유실 있음(지하1층 푸드코트 앞)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(1층)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2744492": {
+    "addr1": "경기도 고양시 일산동구 호수로 595",
+    "addr2": "(장항동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "2744492",
+    "contenttypeid": "14",
+    "createdtime": "20210914225453",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/90/2744790_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/90/2744790_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7688126877",
+    "mapy": "37.6539236657",
+    "mlevel": "6",
+    "modifiedtime": "20231025130558",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "고양꽃전시관",
+    "zipcode": "10400",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음(카페)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2939588": {
+    "addr1": "경기도 고양시 덕양구 행주산성로 38",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030400",
+    "contentid": "2939588",
+    "contenttypeid": "14",
+    "createdtime": "20221229131804",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/84/3018584_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/84/3018584_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8228703070",
+    "mapy": "37.6026389315",
+    "mlevel": "6",
+    "modifiedtime": "20231010135936",
+    "sigungucode": "2",
+    "tel": "02-333-8387",
+    "title": "행주커뮤니티센터",
+    "zipcode": "10440",
+    "family": [
+      {
+        "수유실": "수유실 있음(본관 옆 부스)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "1층에서 야외보행로로 행주커뮤니티센터 보행 가능"
+      },
+      {
+        "출입통로": "해찬송학 김 전시관 내 엘리베이터로 각 층 이동 가능"
+      },
+      {
+        "화장실": "해찬송학 1층, 3층"
+      },
+      {
+        "기타 지원 항목": "휠체어급속충전기 보유(본관 옆 부스)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "132072": {
+    "addr1": "전라남도 영암군 군서면 도갑사로 31-13",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010100",
+    "contentid": "132072",
+    "contenttypeid": "38",
+    "createdtime": "20021121090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/79/1971579_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/79/1971579_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6348893011",
+    "mapy": "34.7623495920",
+    "mlevel": "6",
+    "modifiedtime": "20220315154908",
+    "sigungucode": "17",
+    "tel": "061-470-2607",
+    "title": "구림장 (2, 7일)",
+    "zipcode": "58434",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "132073": {
+    "addr1": "전라남도 영암군 학산면 독천1길 5",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010100",
+    "contentid": "132073",
+    "contenttypeid": "38",
+    "createdtime": "20021121090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/40/1971640_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/40/1971640_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.5673295078",
+    "mapy": "34.7244638485",
+    "mlevel": "6",
+    "modifiedtime": "20220718165058",
+    "sigungucode": "17",
+    "tel": "061-470-2609",
+    "title": "독천장(4, 9일)",
+    "zipcode": "58439",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "132076": {
+    "addr1": "전라남도 영암군 신북면 황금동로 78",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010100",
+    "contentid": "132076",
+    "contenttypeid": "38",
+    "createdtime": "20021121090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/83/1971683_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/83/1971683_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6922450524",
+    "mapy": "34.8885752242",
+    "mlevel": "6",
+    "modifiedtime": "20221227173630",
+    "sigungucode": "17",
+    "tel": "061-470-2604",
+    "title": "신북장 (3, 8일)",
+    "zipcode": "58401",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

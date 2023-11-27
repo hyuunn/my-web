@@ -1,0 +1,299 @@
+{
+  "125782": {
+    "addr1": "강원특별자치도 철원군 동송읍 태봉로 1825",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020200",
+    "contentid": "125782",
+    "contenttypeid": "12",
+    "createdtime": "20040227090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/99/2567099_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/99/2567099_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2869221163",
+    "mapy": "38.1860265295",
+    "mlevel": "6",
+    "modifiedtime": "20230717141107",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "고석정국민관광지",
+    "zipcode": "24023",
+    "family": [],
+    "handi": [
+      {
+        "휠체어": "휠체어 대여 가능함"
+      },
+      {
+        "출입통로": "경사로가 설치되어 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(2개)_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "125812": {
+    "addr1": "강원특별자치도 철원군 동송읍 태봉로 1825",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02011000",
+    "contentid": "125812",
+    "contenttypeid": "12",
+    "createdtime": "20040227090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/79/2385879_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/79/2385879_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2868693456",
+    "mapy": "38.1859626462",
+    "mlevel": "6",
+    "modifiedtime": "20230719134343",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "철원관광정보센터",
+    "zipcode": "24023",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "128174": {
+    "addr1": "강원특별자치도 철원군 근남면 하오재로 818",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010600",
+    "contentid": "128174",
+    "contenttypeid": "12",
+    "createdtime": "20040624090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/60/582660_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/60/582660_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4732201929",
+    "mapy": "38.1437543593",
+    "mlevel": "6",
+    "modifiedtime": "20230703082726",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "국립 복주산자연휴양림",
+    "zipcode": "24065",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "현관 단차 제거됨"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      },
+      {
+        "객실": "장애인 전용 객실 있음(숲속의집-소나무 8인실)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(장애인객실)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "731587": {
+    "addr1": "강원특별자치도 철원군 철원읍 대마1길 72",
+    "addr2": "(동송읍)",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02011000",
+    "contentid": "731587",
+    "contenttypeid": "12",
+    "createdtime": "20090507202611",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/30/2384030_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/30/2384030_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1652863536",
+    "mapy": "38.2700172415",
+    "mlevel": "6",
+    "modifiedtime": "20230703144313",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "백마고지 위령비와 기념관",
+    "zipcode": "24000",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(백마고지 휴게소, 경사로 설치됨)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(화장실 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2353577": {
+    "addr1": "강원특별자치도 철원군 김화읍 생창길 481-1",
+    "addr2": "(김화읍)",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02011000",
+    "contentid": "2353577",
+    "contenttypeid": "12",
+    "createdtime": "20151224183034",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/14/2353614_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/14/2353614_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4513042085",
+    "mapy": "38.2812378818",
+    "mlevel": "6",
+    "modifiedtime": "20230703200809",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "DMZ 생태평화공원",
+    "zipcode": "24053",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "방문자센터 주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(1층,남녀분리)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(방문자센터 입구 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2638573": {
+    "addr1": "강원특별자치도 철원군 갈말읍 지경1길 69",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010600",
+    "contentid": "2638573",
+    "contenttypeid": "12",
+    "createdtime": "20191125225611",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.3532647862",
+    "mapy": "38.2280506181",
+    "mlevel": "6",
+    "modifiedtime": "20230703185228",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "두루웰 자연휴양림",
+    "zipcode": "24029",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음(목재문화체험장)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(목재문화체험장)"
+      },
+      {
+        "화장실": "장애인 화장실 있음(목재문화체험장)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2900623": {
+    "addr1": "강원특별자치도 철원군 갈말읍 내대리",
+    "addr2": "산147-1",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2900623",
+    "contenttypeid": "12",
+    "createdtime": "20221107164821",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/02/2900602_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/02/2900602_image3_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3014791031",
+    "mapy": "38.1864295282",
+    "mlevel": "6",
+    "modifiedtime": "20230702190540",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "철원승일공원",
+    "zipcode": "24028",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

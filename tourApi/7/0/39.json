@@ -1,0 +1,1405 @@
+{
+  "133922":{
+     "addr1":"울산광역시 북구 무룡로 177",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"133922",
+     "contenttypeid":"39",
+     "createdtime":"20021118090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/22/1588222_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/22/1588222_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.3784244384",
+     "mapy":"35.5783313938",
+     "mlevel":"6",
+     "modifiedtime":"20221220165544",
+     "sigungucode":"4",
+     "tel":"052-288-4545",
+     "title":"동해농장식당",
+     "zipcode":"44246",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "135853":{
+     "addr1":"울산광역시 울주군 서생면 해맞이로 1590",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"135853",
+     "contenttypeid":"39",
+     "createdtime":"20070716090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/64/218464_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/64/218464_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.3417997743",
+     "mapy":"35.3836220179",
+     "mlevel":"6",
+     "modifiedtime":"20221229101408",
+     "sigungucode":"5",
+     "tel":"052-238-8330",
+     "title":"진하아구찜",
+     "zipcode":"45013",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"경사로가 설치되어 있어 무단차 접근 가능\n원활한 이동 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "721244":{
+     "addr1":"울산광역시 남구 삼산로30번길 11-1",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"721244",
+     "contenttypeid":"39",
+     "createdtime":"20090415232147",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/55/1901655_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/55/1901655_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.3117537767",
+     "mapy":"35.5322630943",
+     "mlevel":"6",
+     "modifiedtime":"20230808131949",
+     "sigungucode":"2",
+     "tel":"052-256-2552",
+     "title":"늘찬마루",
+     "zipcode":"44730",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구 무단차\n원활한 이동 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1805018":{
+     "addr1":"울산광역시 울주군 서생면 해맞이로 1566",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"1805018",
+     "contenttypeid":"39",
+     "createdtime":"20130420021756",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/76/1804876_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/76/1804876_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.3431663809",
+     "mapy":"35.3815333888",
+     "mlevel":"6",
+     "modifiedtime":"20220926170458",
+     "sigungucode":"5",
+     "tel":"052-239-0652",
+     "title":"해동식당",
+     "zipcode":"45013",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "출입통로":"높낮이차가 없어 휠체어로 출입가능, 입식테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1818405":{
+     "addr1":"울산광역시 북구 정자1길 111",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"1818405",
+     "contenttypeid":"39",
+     "createdtime":"20130611230501",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.4465394944",
+     "mapy":"35.6214722753",
+     "mlevel":"6",
+     "modifiedtime":"20220825153222",
+     "sigungucode":"4",
+     "tel":"052-282-8866",
+     "title":"바다바라기",
+     "zipcode":"44233",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음(수동문)_무장애 편의시설"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음(음식점 옆 공중화장실)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음(1층)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"보조견 동반가능(평일)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1826338":{
+     "addr1":"울산광역시 동구 해수욕장6길 9",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"1826338",
+     "contenttypeid":"39",
+     "createdtime":"20130711190408",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.4312111535",
+     "mapy":"35.4924031576",
+     "mlevel":"6",
+     "modifiedtime":"20230202104900",
+     "sigungucode":"3",
+     "tel":"052-252-5590",
+     "title":"옹심이칼국수",
+     "zipcode":"44057",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"출입구에 단차있으나 원활한 이동 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1846054":{
+     "addr1":"울산광역시 동구 바드래1길 30",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"1846054",
+     "contenttypeid":"39",
+     "createdtime":"20130923194320",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.4271329870",
+     "mapy":"35.5187584541",
+     "mlevel":"6",
+     "modifiedtime":"20230131165504",
+     "sigungucode":"3",
+     "tel":"052-236-5114",
+     "title":"한마음식당",
+     "zipcode":"44033",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함(수동문/자동문)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주출입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1903315":{
+     "addr1":"울산광역시 중구 중앙시장길 2-9",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020900",
+     "contentid":"1903315",
+     "contenttypeid":"39",
+     "createdtime":"20140307032105",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.3219300265",
+     "mapy":"35.5549996189",
+     "mlevel":"6",
+     "modifiedtime":"20221101140552",
+     "sigungucode":"1",
+     "tel":"052-242-0404",
+     "title":"파란풍차",
+     "zipcode":"44531",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2572229":{
+     "addr1":"울산광역시 동구 해수욕장3길 15",
+     "addr2":"(일산동)",
+     "areacode":"7",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"2572229",
+     "contenttypeid":"39",
+     "createdtime":"20181203223955",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.4298778553",
+     "mapy":"35.4952583670",
+     "mlevel":"",
+     "modifiedtime":"20230119113907",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"일산정삼계탕",
+     "zipcode":"44057",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2572441":{
+     "addr1":"울산광역시 남구 삼산로 273",
+     "addr2":"(삼산동)",
+     "areacode":"7",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"2572441",
+     "contenttypeid":"39",
+     "createdtime":"20181204001417",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.3367958313",
+     "mapy":"35.5395516354",
+     "mlevel":"",
+     "modifiedtime":"20221104141709",
+     "sigungucode":"2",
+     "tel":"052-245-3937",
+     "title":"수라간",
+     "zipcode":"44705",
+     "family":[
+        {
+           "유아용 보조 의자":"구비"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2572891":{
+     "addr1":"울산광역시 중구 함월20길 65",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"2572891",
+     "contenttypeid":"39",
+     "createdtime":"20181204223227",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.3209626975",
+     "mapy":"35.5814549588",
+     "mlevel":"6",
+     "modifiedtime":"20221101155818",
+     "sigungucode":"1",
+     "tel":"052-243-5292",
+     "title":"솔밭가든",
+     "zipcode":"44416",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주출입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2573919":{
+     "addr1":"울산광역시 남구 왕생로62번길 11",
+     "addr2":"(달동)",
+     "areacode":"7",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"2573919",
+     "contenttypeid":"39",
+     "createdtime":"20181205225641",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.3331072682",
+     "mapy":"35.5394182478",
+     "mlevel":"",
+     "modifiedtime":"20221111164421",
+     "sigungucode":"2",
+     "tel":"052-258-0220",
+     "title":"정칼국수",
+     "zipcode":"44707",
+     "family":[
+        {
+           "유아용 보조 의자":"구비"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2574010":{
+     "addr1":"울산광역시 북구 명촌로 39",
+     "addr2":"(진장동)",
+     "areacode":"7",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"2574010",
+     "contenttypeid":"39",
+     "createdtime":"20181205235733",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.3572268958",
+     "mapy":"35.5568167464",
+     "mlevel":"",
+     "modifiedtime":"20221223101040",
+     "sigungucode":"4",
+     "tel":"052-288-0989",
+     "title":"대방낙지불쭈꾸미",
+     "zipcode":"44254",
+     "family":[
+        {
+           "영유아가족 기타 지원 항목":"놀이방 있음"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문/자동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2574062":{
+     "addr1":"울산광역시 남구 왕생로62번길 15-1",
+     "addr2":"(달동)",
+     "areacode":"7",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020300",
+     "contentid":"2574062",
+     "contenttypeid":"39",
+     "createdtime":"20181206002351",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.3336405527",
+     "mapy":"35.5394960268",
+     "mlevel":"",
+     "modifiedtime":"20220913134945",
+     "sigungucode":"2",
+     "tel":"052-267-0840",
+     "title":"아키라",
+     "zipcode":"44707",
+     "family":[
+        {
+           "유아용 보조 의자":"구비"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2574284":{
+     "addr1":"울산광역시 동구 해수욕장2길 20",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020400",
+     "contentid":"2574284",
+     "contenttypeid":"39",
+     "createdtime":"20181206024709",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.4284890837",
+     "mapy":"35.4953888815",
+     "mlevel":"",
+     "modifiedtime":"20220915105216",
+     "sigungucode":"3",
+     "tel":"052-209-2000",
+     "title":"하림각",
+     "zipcode":"44057",
+     "family":[
+        {
+           "유아용 보조 의자":"구비"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2574538":{
+     "addr1":"울산광역시 동구 방어진순환도로 899",
+     "addr2":"5층",
+     "areacode":"7",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"2574538",
+     "contenttypeid":"39",
+     "createdtime":"20181206223455",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.4313436488",
+     "mapy":"35.5216637623",
+     "mlevel":"6",
+     "modifiedtime":"20230105112446",
+     "sigungucode":"3",
+     "tel":"052-250-4588",
+     "title":"함양집",
+     "zipcode":"44033",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2713202":{
+     "addr1":"울산광역시 울주군 서생면 잿골길 72",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020900",
+     "contentid":"2713202",
+     "contenttypeid":"39",
+     "createdtime":"20210407004640",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.3486634898",
+     "mapy":"35.3684655136",
+     "mlevel":"6",
+     "modifiedtime":"20230802192335",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"헤이메르카페",
+     "zipcode":"45013",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문/자동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2794781":{
+     "addr1":"울산광역시 울주군 서생면 나사해안길 6",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020900",
+     "contentid":"2794781",
+     "contenttypeid":"39",
+     "createdtime":"20211214041638",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/16/2794916_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/16/2794916_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.3347456033",
+     "mapy":"35.3560610880",
+     "mlevel":"6",
+     "modifiedtime":"20230321145448",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"호피폴라",
+     "zipcode":"45014",
+     "family":[
+        {
+           "유아용 보조 의자":"구비"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2794791":{
+     "addr1":"울산광역시 울주군 서생면 간절곶1길 25-6",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020900",
+     "contentid":"2794791",
+     "contenttypeid":"39",
+     "createdtime":"20211214041959",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/07/2794907_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/07/2794907_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.3591739367",
+     "mapy":"35.3594944944",
+     "mlevel":"6",
+     "modifiedtime":"20230208110645",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"카페0732",
+     "zipcode":"45015",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2811799":{
+     "addr1":"울산광역시 울주군 신암해안1길 4",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020900",
+     "contentid":"2811799",
+     "contenttypeid":"39",
+     "createdtime":"20220322141231",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.3215581620",
+     "mapy":"35.3453231565",
+     "mlevel":"6",
+     "modifiedtime":"20220503113114",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"카페그릿비",
+     "zipcode":"45014",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2817112":{
+     "addr1":"울산광역시 울주군 등억알프스로 68",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"2817112",
+     "contenttypeid":"39",
+     "createdtime":"20220422105325",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.1083127407",
+     "mapy":"35.5488824131",
+     "mlevel":"6",
+     "modifiedtime":"20220506132439",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"고봉 육회",
+     "zipcode":"44951",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2822757":{
+     "addr1":"울산광역시 울주군 구량차리로 320",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020900",
+     "contentid":"2822757",
+     "contenttypeid":"39",
+     "createdtime":"20220603153107",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/54/2822754_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/54/2822754_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.1252727244",
+     "mapy":"35.6353174427",
+     "mlevel":"6",
+     "modifiedtime":"20220613102910",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"본치즈어리 유진목장",
+     "zipcode":"44913",
+     "family":[
+        {
+           "유모차":"대여가능(2대)"
+        },
+        {
+           "유아용 보조 의자":"구비(4대)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2844893":{
+     "addr1":"울산광역시 북구 동해안로 1321",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020900",
+     "contentid":"2844893",
+     "contenttypeid":"39",
+     "createdtime":"20220829115050",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/90/2844890_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/90/2844890_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.4555473867",
+     "mapy":"35.6093654739",
+     "mlevel":"6",
+     "modifiedtime":"20230627101107",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"나인유",
+     "zipcode":"44233",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2844901":{
+     "addr1":"울산광역시 북구 동해안로 1110",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020900",
+     "contentid":"2844901",
+     "contenttypeid":"39",
+     "createdtime":"20220829135611",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/99/2844899_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/99/2844899_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.4629415831",
+     "mapy":"35.5954032949",
+     "mlevel":"6",
+     "modifiedtime":"20220916170835",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"우가포커피로스터스",
+     "zipcode":"44235",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2848921":{
+     "addr1":"울산광역시 북구 판지1길 62",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020900",
+     "contentid":"2848921",
+     "contenttypeid":"39",
+     "createdtime":"20220905113946",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/44/2848844_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/44/2848844_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.4576443140",
+     "mapy":"35.6133150698",
+     "mlevel":"6",
+     "modifiedtime":"20221121145141",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"곽암아트카페갤러리",
+     "zipcode":"44233",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2848946":{
+     "addr1":"울산광역시 울주군 내곡길 21",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020900",
+     "contentid":"2848946",
+     "contenttypeid":"39",
+     "createdtime":"20220905103524",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/07/2848707_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/07/2848707_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.1220441516",
+     "mapy":"35.5746992083",
+     "mlevel":"6",
+     "modifiedtime":"20221121145910",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"오르토커피",
+     "zipcode":"44938",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주출입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2871850":{
+     "addr1":"울산광역시 북구 명촌23길 41",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"2871850",
+     "contenttypeid":"39",
+     "createdtime":"20221020143816",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/33/2871833_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/33/2871833_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.3556436999",
+     "mapy":"35.5568306037",
+     "mlevel":"6",
+     "modifiedtime":"20221103143651",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"명촌한식뷔페",
+     "zipcode":"44254",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2871930":{
+     "addr1":"울산광역시 북구 명촌23길 31 북경짜장",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020400",
+     "contentid":"2871930",
+     "contenttypeid":"39",
+     "createdtime":"20221020145647",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/18/2871918_image2_1.JPG",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/18/2871918_image3_1.JPG",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.3566297288",
+     "mapy":"35.5566889718",
+     "mlevel":"6",
+     "modifiedtime":"20221103144946",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"북경짜장",
+     "zipcode":"44254",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2927027":{
+     "addr1":"울산광역시 남구 월평로 205",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"2927027",
+     "contenttypeid":"39",
+     "createdtime":"20221201161632",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/31/2926931_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/31/2926931_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.3274186805",
+     "mapy":"35.5463479177",
+     "mlevel":"6",
+     "modifiedtime":"20221226180600",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"울산언양불고기",
+     "zipcode":"44696",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주출입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  }
+}

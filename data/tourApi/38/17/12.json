@@ -1,0 +1,250 @@
+{
+  "126361": {
+    "addr1": "전라남도 영암군 군서면 도갑사로 306",
+    "addr2": "(군서면)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010800",
+    "contentid": "126361",
+    "contenttypeid": "12",
+    "createdtime": "20031107090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.6629176128",
+    "mapy": "34.7529927741",
+    "mlevel": "6",
+    "modifiedtime": "20231031165333",
+    "sigungucode": "17",
+    "tel": "",
+    "title": "도갑사",
+    "zipcode": "58434",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "장애인용화장실 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "126413": {
+    "addr1": "전라남도 영암군 군서면 왕인로 440",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010700",
+    "contentid": "126413",
+    "contenttypeid": "12",
+    "createdtime": "20031107090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.6310731379",
+    "mapy": "34.7554697471",
+    "mlevel": "6",
+    "modifiedtime": "20231031164229",
+    "sigungucode": "17",
+    "tel": "",
+    "title": "왕인박사유적지",
+    "zipcode": "58434",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함<br />\n전시관 및 화장실 출입구는 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "화장실": "장애인 화장실 있음(전시관,매점 옆)"
+      },
+      {
+        "기타 지원 항목": "데크로드 구간 있음<br />\n일부 계단으로 되어 있어 휠체어 접근 불가 구간 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(화장실 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "127625": {
+    "addr1": "전라남도 영암군 군서면 왕인로 440",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020200",
+    "contentid": "127625",
+    "contenttypeid": "12",
+    "createdtime": "20031103090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/76/1607976_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/76/1607976_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6326202249",
+    "mapy": "34.7554114459",
+    "mlevel": "3",
+    "modifiedtime": "20231030153849",
+    "sigungucode": "17",
+    "tel": "",
+    "title": "성기동국민관광지",
+    "zipcode": "58434",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "단차가 없고 평탄함"
+      },
+      {
+        "휠체어": "휠체어 대여 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음(왕인전시관)"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(3개)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "보조견 동반 가능함"
+      },
+      {
+        "안내요원": "안내요원 있음(안내센터)"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "127672": {
+    "addr1": "전라남도 영암군 영암읍 천황사로 280-43",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "1",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010100",
+    "contentid": "127672",
+    "contenttypeid": "12",
+    "createdtime": "20040216090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/31/1969531_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/31/1969531_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7217341104",
+    "mapy": "34.7752579126",
+    "mlevel": "6",
+    "modifiedtime": "20230925135111",
+    "sigungucode": "17",
+    "tel": "",
+    "title": "월출산국립공원",
+    "zipcode": "58424",
+    "family": [],
+    "handi": [
+      {
+        "출입통로": "시설 내 보행로에는 단차와 경사가 있어 휠체어 및 유모차 보행에 제약이 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "128428": {
+    "addr1": "전라남도 영암군 덕진면 백룡로 418",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030100",
+    "contentid": "128428",
+    "contenttypeid": "12",
+    "createdtime": "20050422090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/67/2516467_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/67/2516467_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7316097085",
+    "mapy": "34.8288520477",
+    "mlevel": "6",
+    "modifiedtime": "20230610061757",
+    "sigungucode": "17",
+    "tel": "",
+    "title": "영암 영보마을",
+    "zipcode": "58410",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "단차 제거 된 구역이 있으나 자갈길 및 계단 구간 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1087619": {
+    "addr1": "전라남도 영암군 시종면 남해당로 65",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "1087619",
+    "contenttypeid": "12",
+    "createdtime": "20100907224830",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/54/1006654_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/54/1006654_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.5854265442",
+    "mapy": "34.8951838180",
+    "mlevel": "6",
+    "modifiedtime": "20231030162313",
+    "sigungucode": "17",
+    "tel": "",
+    "title": "마한문화공원",
+    "zipcode": "58426",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함_무장애 편의시설"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(야외화장실)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

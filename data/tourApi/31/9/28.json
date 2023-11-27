@@ -1,0 +1,95 @@
+{
+  "2507486": {
+    "addr1": "경기도 남양주시 진접읍 해밀예당1로 96",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03021400",
+    "contentid": "2507486",
+    "contenttypeid": "28",
+    "createdtime": "20170913194151",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/69/2507469_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/69/2507469_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1911390058",
+    "mapy": "37.7170933564",
+    "mlevel": "6",
+    "modifiedtime": "20230628145736",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "어린이비전센터 사계절썰매장",
+    "zipcode": "12057",
+    "family": [
+      {
+        "수유실": "수유실 있음(어린이비전 건물센터 1층)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(4층)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(엘리베이터 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2638583": {
+    "addr1": "경기도 남양주시 진접읍 광릉수목원로 179",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03022700",
+    "contentid": "2638583",
+    "contenttypeid": "28",
+    "createdtime": "20191125230055",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.1888633543",
+    "mapy": "37.7469065128",
+    "mlevel": "6",
+    "modifiedtime": "20230629102558",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "광릉숲길",
+    "zipcode": "12001",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함(나무데크)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(나무데크)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

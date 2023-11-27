@@ -1,0 +1,47 @@
+{
+  "1948361": {
+    "addr1": "충청북도 괴산군 칠성면 산막이옛길 88",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03022700",
+    "contentid": "1948361",
+    "contenttypeid": "28",
+    "createdtime": "20140917021820",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/28/1910428_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/28/1910428_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.8387771552",
+    "mapy": "36.7610684094",
+    "mlevel": "6",
+    "modifiedtime": "20230303094754",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "산막이옛길",
+    "zipcode": "28016",
+    "family": [],
+    "handi": [
+      {
+        "출입통로": "주출입구 무단차 (단, 내부 경사가 다소 급함)\n원활한 이동 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "보조견 동반 가능함"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

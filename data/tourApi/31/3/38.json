@@ -1,0 +1,47 @@
+{
+  "2836586": {
+    "addr1": "경기도 과천시 별양상가2로 20 새서울프라자",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010600",
+    "contentid": "2836586",
+    "contenttypeid": "38",
+    "createdtime": "20220816100934",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/80/2836580_image2_1.jpeg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/80/2836580_image3_1.jpeg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9925709039",
+    "mapy": "37.4268790494",
+    "mlevel": "6",
+    "modifiedtime": "20221025180917",
+    "sigungucode": "3",
+    "tel": "",
+    "title": "새서울프라자",
+    "zipcode": "13837",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

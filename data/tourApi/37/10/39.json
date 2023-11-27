@@ -1,0 +1,63 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "0000",
+      "resultMsg": "OK"
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "addr1": "전라북도 임실군 종운로 760",
+            "addr2": "",
+            "areacode": "37",
+            "booktour": "",
+            "cat1": "A05",
+            "cat2": "A0502",
+            "cat3": "A05020900",
+            "contentid": "2910676",
+            "contenttypeid": "39",
+            "createdtime": "20221116163429",
+            "firstimage": "http://tong.visitkorea.or.kr/cms/resource/63/2910663_image2_1.jpg",
+            "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/63/2910663_image3_1.jpg",
+            "cpyrhtDivCd": "Type3",
+            "mapx": "127.1080154924",
+            "mapy": "35.5946329993",
+            "mlevel": "6",
+            "modifiedtime": "20230308142244",
+            "sigungucode": "10",
+            "tel": "",
+            "title": "그랑게",
+            "zipcode": "55906"
+          },
+          {
+            "addr1": "전라북도 임실군 관촌면 사선2길 46-12",
+            "addr2": "",
+            "areacode": "37",
+            "booktour": "",
+            "cat1": "A05",
+            "cat2": "A0502",
+            "cat3": "A05020100",
+            "contentid": "133575",
+            "contenttypeid": "39",
+            "createdtime": "20041230090000",
+            "firstimage": "",
+            "firstimage2": "",
+            "cpyrhtDivCd": "",
+            "mapx": "127.2737960363",
+            "mapy": "35.6702883943",
+            "mlevel": "6",
+            "modifiedtime": "20230422131229",
+            "sigungucode": "10",
+            "tel": "063-643-7339",
+            "title": "호수정",
+            "zipcode": "55909"
+          }
+        ]
+      },
+      "numOfRows": 2,
+      "pageNo": 1,
+      "totalCount": 2
+    }
+  }
+}

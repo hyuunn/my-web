@@ -1,0 +1,43 @@
+{
+  "2923158": {
+    "addr1": "강원특별자치도 인제군 하추로 187",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2923158",
+    "contenttypeid": "39",
+    "createdtime": "20221128105827",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/37/2923137_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/37/2923137_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.2817585514",
+    "mapy": "38.0196646161",
+    "mlevel": "6",
+    "modifiedtime": "20230702053245",
+    "sigungucode": "10",
+    "tel": "",
+    "title": "카페 하추리",
+    "zipcode": "24642",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

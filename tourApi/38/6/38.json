@@ -1,0 +1,89 @@
+{
+  "132166": {
+    "addr1": "전라남도 나주시 풍물시장2길 12-14",
+    "addr2": "(이창동)",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010100",
+    "contentid": "132166",
+    "contenttypeid": "38",
+    "createdtime": "20020418090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/36/1972036_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/36/1972036_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7071745246",
+    "mapy": "34.9920610317",
+    "mlevel": "6",
+    "modifiedtime": "20221018131524",
+    "sigungucode": "6",
+    "tel": "061-330-8618",
+    "title": "영산포풍물시장/영산장 (5, 10일)",
+    "zipcode": "58274",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1976875": {
+    "addr1": "전라남도 나주시 청동길 14",
+    "addr2": "(삼도동)",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "1976875",
+    "contenttypeid": "38",
+    "createdtime": "20141217222418",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/24/1972124_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/24/1972124_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7237664110",
+    "mapy": "35.0363285377",
+    "mlevel": "6",
+    "modifiedtime": "20230323101023",
+    "sigungucode": "6",
+    "tel": "061-334-8249",
+    "title": "나주목사고을시장",
+    "zipcode": "58252",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자유도로 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

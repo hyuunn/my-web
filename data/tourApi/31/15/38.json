@@ -1,0 +1,169 @@
+{
+  "1433232": {
+    "addr1": "경기도 안산시 단원구 화랑로 149",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "1433232",
+    "contenttypeid": "38",
+    "createdtime": "20111110235059",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/35/1941735_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/35/1941735_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8053491094",
+    "mapy": "37.3251597378",
+    "mlevel": "6",
+    "modifiedtime": "20230921111256",
+    "sigungucode": "15",
+    "tel": "031-411-1040",
+    "title": "안산 시민시장",
+    "zipcode": "15387",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2761440": {
+    "addr1": "경기도 안산시 상록구 충장로 312",
+    "addr2": "(이동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "2761440",
+    "contenttypeid": "38",
+    "createdtime": "20211025184041",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/36/2761536_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/36/2761536_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8562255049",
+    "mapy": "37.3083903615",
+    "mlevel": "6",
+    "modifiedtime": "20230905195449",
+    "sigungucode": "15",
+    "tel": "",
+    "title": "안산농수산물도매시장",
+    "zipcode": "15507",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2761480": {
+    "addr1": "경기도 안산시 단원구 화랑로 32",
+    "addr2": "(원곡동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "2761480",
+    "contenttypeid": "38",
+    "createdtime": "20211025190658",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.7959720055",
+    "mapy": "37.3316254882",
+    "mlevel": "6",
+    "modifiedtime": "20231107162412",
+    "sigungucode": "15",
+    "tel": "",
+    "title": "군자시장",
+    "zipcode": "15375",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2860526": {
+    "addr1": "경기도 안산시 단원구 삼일로 310 서울프라자",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010600",
+    "contentid": "2860526",
+    "contenttypeid": "38",
+    "createdtime": "20220927104230",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/19/2860519_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/19/2860519_image3_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8121149188",
+    "mapy": "37.3338727358",
+    "mlevel": "6",
+    "modifiedtime": "20221025175809",
+    "sigungucode": "15",
+    "tel": "",
+    "title": "서울프라자",
+    "zipcode": "15368",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

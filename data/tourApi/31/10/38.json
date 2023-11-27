@@ -1,0 +1,44 @@
+{
+  "132744": {
+    "addr1": "경기도 동두천시 중앙로285번길 9",
+    "addr2": "(생연동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "132744",
+    "contenttypeid": "38",
+    "createdtime": "20070212090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/47/1956047_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/47/1956047_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0537099742",
+    "mapy": "37.9068854196",
+    "mlevel": "6",
+    "modifiedtime": "20230422223858",
+    "sigungucode": "10",
+    "tel": "031-861-6938",
+    "title": "동두천 중앙시장",
+    "zipcode": "11328",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

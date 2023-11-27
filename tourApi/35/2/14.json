@@ -1,0 +1,474 @@
+{
+  "129778": {
+    "addr1": "경상북도 경주시 일정로 186",
+    "addr2": "(인왕동)",
+    "areacode": "35",
+    "booktour": "1",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "129778",
+    "contenttypeid": "14",
+    "createdtime": "20071106102941",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/46/2743446_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/46/2743446_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.2278971395",
+    "mapy": "35.8293947117",
+    "mlevel": "6",
+    "modifiedtime": "20221019105004",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "국립경주박물관",
+    "zipcode": "38171",
+    "family": [
+      {
+        "유모차": "대여가능"
+      },
+      {
+        "수유실": "수유실있음(신라역사관)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자유도로 있음_시각장애인 편의시설"
+      },
+      {
+        "오디오 가이드": "음성안내기 대여가능"
+      },
+      {
+        "유도안내설비": "점자손잡이 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "129832": {
+    "addr1": "경상북도 경주시 동대로 123",
+    "addr2": "동국대학교 WISE캠퍼스박물관",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "129832",
+    "contenttypeid": "14",
+    "createdtime": "20071106103222",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/93/1890193_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/93/1890193_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.1946324124",
+    "mapy": "35.8636818796",
+    "mlevel": "6",
+    "modifiedtime": "20220801103252",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "동국대학교 WISE캠퍼스박물관",
+    "zipcode": "38066",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차 없이 연결 됨"
+      },
+      {
+        "출입통로": "주출입구에는 계단이 있으나 외부와 연결 된 엘리베이터를 통해 휠체어로 박물관 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음(박물관은 1층에 위치)"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(계단 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "130022": {
+    "addr1": "경상북도 경주시 안강읍 안강중앙로 249",
+    "addr2": "",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060700",
+    "contentid": "130022",
+    "contenttypeid": "14",
+    "createdtime": "20071106103858",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/69/1890169_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/69/1890169_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.2275369666",
+    "mapy": "35.9920124437",
+    "mlevel": "6",
+    "modifiedtime": "20231103094137",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "경주문화원 안강교육장",
+    "zipcode": "38008",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "130030": {
+    "addr1": "경상북도 경주시 첨성로 29",
+    "addr2": "",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060700",
+    "contentid": "130030",
+    "contenttypeid": "14",
+    "createdtime": "20071106103915",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "129.2054767707",
+    "mapy": "35.8333105138",
+    "mlevel": "6",
+    "modifiedtime": "20230829135246",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "경주문화원",
+    "zipcode": "38168",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "130509": {
+    "addr1": "경상북도 경주시 보문로 484-7",
+    "addr2": "(신평동)",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060500",
+    "contentid": "130509",
+    "contenttypeid": "14",
+    "createdtime": "20040518090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "129.2859611482",
+    "mapy": "35.8416444278",
+    "mlevel": "6",
+    "modifiedtime": "20231102174819",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "우양미술관",
+    "zipcode": "38117",
+    "family": [
+      {
+        "영유아가족 기타 지원 항목": "기저귀교환대 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1257271": {
+    "addr1": "경상북도 경주시 알천북로 1",
+    "addr2": "(황성동)",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060600",
+    "contentid": "1257271",
+    "contenttypeid": "14",
+    "createdtime": "20110415022231",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "129.2060425702",
+    "mapy": "35.8620267266",
+    "mlevel": "6",
+    "modifiedtime": "20220518105135",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "경주예술의전당",
+    "zipcode": "38089",
+    "family": [
+      {
+        "수유실": "수유실 있음(2층)"
+      },
+      {
+        "영유아가족 기타 지원 항목": "영아보육실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      },
+      {
+        "관람석": "장애인 전용 관람석 있음(대공연장 14석, 소공연장 6석)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음 (주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2049478": {
+    "addr1": "경상북도 경주시 엑스포로 9",
+    "addr2": "",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "2049478",
+    "contenttypeid": "14",
+    "createdtime": "20151214231812",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/17/2049417_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/17/2049417_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.2888914842",
+    "mapy": "35.8403557397",
+    "mlevel": "6",
+    "modifiedtime": "20230525133403",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "한국대중음악박물관 (경주)",
+    "zipcode": "38116",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "주차장에서 출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(각 층)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주차장에서 주출입구 및 계단)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2707934": {
+    "addr1": "경상북도 경주시 보문로 507",
+    "addr2": "(신평동)",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060400",
+    "contentid": "2707934",
+    "contenttypeid": "14",
+    "createdtime": "20210303225017",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/32/2707932_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/32/2707932_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.2879693962",
+    "mapy": "35.8384670465",
+    "mlevel": "6",
+    "modifiedtime": "20230802194314",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "경주화백컨벤션센터",
+    "zipcode": "38116",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2753398": {
+    "addr1": "경상북도 경주시 문무대왕면 불국로 1655",
+    "addr2": "",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "2753398",
+    "contenttypeid": "14",
+    "createdtime": "20211006022341",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/83/2753383_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/83/2753383_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.3892089957",
+    "mapy": "35.7951432974",
+    "mlevel": "6",
+    "modifiedtime": "20231013154059",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "월성원자력홍보관",
+    "zipcode": "38120",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문/자동문)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2760939": {
+    "addr1": "경상북도 경주시 임해로 64-19",
+    "addr2": "(구황동)",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "2760939",
+    "contenttypeid": "14",
+    "createdtime": "20211021234154",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/30/2760930_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/30/2760930_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.2307271943",
+    "mapy": "35.8382937612",
+    "mlevel": "6",
+    "modifiedtime": "20230131114107",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "황룡사역사문화관",
+    "zipcode": "38162",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

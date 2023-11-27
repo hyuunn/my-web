@@ -1,0 +1,127 @@
+:root {
+    --blue : rgb(41, 108, 255);
+  }
+body{
+    background-color: black;
+    font-size: 18px;
+    color: white;
+}
+.navbar{
+    background-color: black;
+}
+*{
+    font-family: 'Noto Sans KR', sans-serif;
+}
+a{
+    text-decoration: none;
+    color: var(--blue);
+}
+#header button{
+    color: var(--blue);
+    font-weight: bold;
+}
+.main{
+    background-color:black;
+    border: 1px solid yellowgreen
+}
+.sideMenu div p{
+    color:white
+    
+}
+.title{
+    color:blue;
+}
+.title2 h5{color:blue;}
+.title2 h5 p{color:white;} 
+.ptext{color:white}
+#handiIcon{
+    color:white;
+}
+.updateBT{
+    color:yellowgreen;
+}
+.handicapTitle{
+    background-color: black;
+    color:yellow;
+}
+.upImage{
+    color:white;
+}
+.summary_Voice,.detail_Voice,.handicap_Voice{
+    background-color: black;
+    border:1px solid yellowgreen;
+    color:yellowgreen;
+}
+.commentTextarea{
+    background-color: black;
+    color:white;
+    border:1px solid white;
+}
+.commentSubmit{
+    color:white;
+}
+
+
+.update{
+    color:white;
+}
+.delete{
+     color:white;
+}
+
+
+
+[class^='name'] p,.updateName{
+    color:white;
+  }
+[class^='description']{
+    color:white;
+  }
+  .recomment{
+    color:white;
+   
+    }
+  
+
+  
+  #commentID{
+    
+    border-top:0.2px solid rgb(179, 179, 179);
+  }
+
+.comment{
+    flex-basis:70%; 
+    margin-left:10%;
+    height:60px; 
+    resize: none; 
+    font-size:16px;
+}
+.updateCancel,.recommentCancel{
+    color:white;
+}
+.updateSubmit, .recommentSubmit{
+    color:white;
+}
+.reviewD{
+    background-color: black;
+}
+.choiceBt{
+    border:none;
+    color:yellow;
+    background-color:black;
+}
+.choiceBtG{
+    border:none;
+    color:pink;
+   
+    background-color: black;
+}
+.mapAddr{
+    background-color: black;
+}
+.img{
+    filter:invert(100%)
+}
+#map,.searchMap{
+    filter:invert(100%)
+}

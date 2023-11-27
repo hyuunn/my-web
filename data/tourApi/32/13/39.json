@@ -1,0 +1,1212 @@
+{
+  "134089": {
+    "addr1": "강원특별자치도 춘천시 신북읍 율문길 100",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "134089",
+    "contenttypeid": "39",
+    "createdtime": "20040102090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.7486682334",
+    "mapy": "37.9246822519",
+    "mlevel": "6",
+    "modifiedtime": "20230802192534",
+    "sigungucode": "13",
+    "tel": "033-242-6833",
+    "title": "시골막국수",
+    "zipcode": "24206",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(자동문)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "134985": {
+    "addr1": "강원특별자치도 춘천시 옛경춘로 807-1",
+    "addr2": "(삼천동)",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "134985",
+    "contenttypeid": "39",
+    "createdtime": "20050419090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/23/1842823_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/23/1842823_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7064403779",
+    "mapy": "37.8697100827",
+    "mlevel": "6",
+    "modifiedtime": "20230702102114",
+    "sigungucode": "13",
+    "tel": "033-257-3069",
+    "title": "춘천명물닭갈비",
+    "zipcode": "24239",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "630471": {
+    "addr1": "강원특별자치도 춘천시 신북읍 상천3길 8",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "630471",
+    "contenttypeid": "39",
+    "createdtime": "20081001025618",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/62/2401062_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/62/2401062_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7920612552",
+    "mapy": "37.9330237596",
+    "mlevel": "6",
+    "modifiedtime": "20230702103601",
+    "sigungucode": "13",
+    "tel": "033-241-8443",
+    "title": "명가막국수",
+    "zipcode": "24204",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "630637": {
+    "addr1": "강원특별자치도 춘천시 우묵길74번길 14",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020400",
+    "contentid": "630637",
+    "contenttypeid": "39",
+    "createdtime": "20081001194501",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/66/816866_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/66/816866_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7243832801",
+    "mapy": "37.8666496618",
+    "mlevel": "6",
+    "modifiedtime": "20230702095607",
+    "sigungucode": "13",
+    "tel": "033-241-5453",
+    "title": "쟈스민",
+    "zipcode": "24367",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음(수동문)_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "699484": {
+    "addr1": "강원특별자치도 춘천시 금강로62번길 8",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "699484",
+    "contenttypeid": "39",
+    "createdtime": "20090225235110",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/09/700209_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/09/700209_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7278492489",
+    "mapy": "37.8795315616",
+    "mlevel": "6",
+    "modifiedtime": "20230915132804",
+    "sigungucode": "13",
+    "tel": "033-257-2961",
+    "title": "명물닭갈비",
+    "zipcode": "24353",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "699497": {
+    "addr1": "강원특별자치도 춘천시 금강로62번길 7",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "699497",
+    "contenttypeid": "39",
+    "createdtime": "20090225235627",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/19/700219_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/19/700219_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7279631305",
+    "mapy": "37.8794260201",
+    "mlevel": "6",
+    "modifiedtime": "20230702045830",
+    "sigungucode": "13",
+    "tel": "033-254-7042",
+    "title": "명동산골닭갈비",
+    "zipcode": "24353",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "713740": {
+    "addr1": "강원특별자치도 춘천시 동면 순환대로 1154-97",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020200",
+    "contentid": "713740",
+    "contenttypeid": "39",
+    "createdtime": "20090330231609",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/68/1842868_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/68/1842868_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7764889121",
+    "mapy": "37.8914394175",
+    "mlevel": "6",
+    "modifiedtime": "20231013160701",
+    "sigungucode": "13",
+    "tel": "033-242-3010",
+    "title": "산토리니",
+    "zipcode": "24212",
+    "family": [
+      {
+        "유아용 보조 의자": "구비(4개)"
+      }
+    ],
+    "handi": [
+      {
+        "대중교통": "경춘선 남춘천역 1번 출구 / 버스 200번 탑승 / 도보 41분 (자차이용 권장)"
+      },
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주 출입구는 경사로가 있어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1920010": {
+    "addr1": "강원특별자치도 춘천시 스포츠타운길399번길 25",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "1920010",
+    "contenttypeid": "39",
+    "createdtime": "20140520201054",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/67/1919167_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/67/1919167_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7022628621",
+    "mapy": "37.8737123170",
+    "mlevel": "6",
+    "modifiedtime": "20230702041127",
+    "sigungucode": "13",
+    "tel": "033-243-4757",
+    "title": "댄싱카페인",
+    "zipcode": "24239",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1959048": {
+    "addr1": "강원특별자치도 춘천시 공지로 246",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020400",
+    "contentid": "1959048",
+    "contenttypeid": "39",
+    "createdtime": "20141022230128",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/02/1959002_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/02/1959002_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7367488937",
+    "mapy": "37.8642168425",
+    "mlevel": "6",
+    "modifiedtime": "20231102102331",
+    "sigungucode": "13",
+    "tel": "033-261-1749",
+    "title": "진짬뽕진짜장",
+    "zipcode": "24343",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1986641": {
+    "addr1": "강원특별자치도 춘천시 신동면 김유정로 1430-1",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "1986641",
+    "contenttypeid": "39",
+    "createdtime": "20150129002108",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/90/1986190_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/90/1986190_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7165965149",
+    "mapy": "37.8188661842",
+    "mlevel": "6",
+    "modifiedtime": "20230701143311",
+    "sigungucode": "13",
+    "tel": "033-262-7601",
+    "title": "신남불고기",
+    "zipcode": "24412",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "보조견 동반 가능_무장애 편의정보"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2504527": {
+    "addr1": "강원특별자치도 춘천시 춘천로 19",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2504527",
+    "contenttypeid": "39",
+    "createdtime": "20170828235007",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/90/2504390_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/90/2504390_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7213057735",
+    "mapy": "37.8669495701",
+    "mlevel": "6",
+    "modifiedtime": "20230702095729",
+    "sigungucode": "13",
+    "tel": "033-255-5500",
+    "title": "곰배령",
+    "zipcode": "24364",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2558052": {
+    "addr1": "강원특별자치도 춘천시 남산면 남이섬길 1",
+    "addr2": "남이섬 내 중앙잣나무길 중간",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020200",
+    "contentid": "2558052",
+    "contenttypeid": "39",
+    "createdtime": "20180820194329",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.5261035858",
+    "mapy": "37.7901159965",
+    "mlevel": "6",
+    "modifiedtime": "20231013163848",
+    "sigungucode": "13",
+    "tel": "031-580-8053",
+    "title": "고목",
+    "zipcode": "24464",
+    "family": [
+      {
+        "유아용 보조 의자": "구비(4개)"
+      },
+      {
+        "영유아가족 기타 지원 항목": "유아식기 있음"
+      }
+    ],
+    "handi": [
+      {
+        "대중교통": "남이섬 유람선 탑승 후 도보 이동"
+      },
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주 출입구 휠체어 통과 가능함(여닫이문 후 자동문)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반 가능"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2558059": {
+    "addr1": "강원특별자치도 춘천시 남산면 남이섬길 1",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020200",
+    "contentid": "2558059",
+    "contenttypeid": "39",
+    "createdtime": "20180820195019",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/81/2845681_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/81/2845681_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5261035858",
+    "mapy": "37.7901159965",
+    "mlevel": "6",
+    "modifiedtime": "20230913110725",
+    "sigungucode": "13",
+    "tel": "031-580-8056",
+    "title": "딴지펍 (PIZZA&PASTA)",
+    "zipcode": "24464",
+    "family": [
+      {
+        "수유실": "수유실 있음(밥플렉스 건물 내 그림책놀이터 1층)"
+      },
+      {
+        "유아용 보조 의자": "비치(5개)"
+      }
+    ],
+    "handi": [
+      {
+        "출입통로": "주출입구는 휠체어 통과 가능함(수동문)"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "입식(의자식)테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2558084": {
+    "addr1": "강원특별자치도 춘천시 남산면 남이섬길 1",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2558084",
+    "contenttypeid": "39",
+    "createdtime": "20180820202908",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/79/2558079_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/79/2558079_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5261035858",
+    "mapy": "37.7901159965",
+    "mlevel": "6",
+    "modifiedtime": "20230702052327",
+    "sigungucode": "13",
+    "tel": "031-580-8054",
+    "title": "섬향기",
+    "zipcode": "24464",
+    "family": [
+      {
+        "유아용 보조 의자": "비치(6대)"
+      }
+    ],
+    "handi": [
+      {
+        "출입통로": "주출입구는 휠체어 통과 가능함(자동문)"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "입식(의자식)테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2558135": {
+    "addr1": "강원특별자치도 춘천시 남산면 남이섬길 1",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020700",
+    "contentid": "2558135",
+    "contenttypeid": "39",
+    "createdtime": "20180820224221",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.5261035858",
+    "mapy": "37.7901159965",
+    "mlevel": "6",
+    "modifiedtime": "20230926165144",
+    "sigungucode": "13",
+    "tel": "031-580-8099",
+    "title": "아시안 패밀리 레스토랑 동문",
+    "zipcode": "24464",
+    "family": [
+      {
+        "수유실": "수유실 있음(밥플렉스 건물 내 그림책놀이터 1층)"
+      },
+      {
+        "유아용 보조 의자": "비치(6개)"
+      }
+    ],
+    "handi": [
+      {
+        "출입통로": "주출입구는 휠체어 통과 가능함(자동문)"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "입식(의자식)테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2558137": {
+    "addr1": "강원특별자치도 춘천시 남산면 남이섬길 1",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2558137",
+    "contenttypeid": "39",
+    "createdtime": "20180820225121",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.5261035858",
+    "mapy": "37.7901159965",
+    "mlevel": "6",
+    "modifiedtime": "20231013151321",
+    "sigungucode": "13",
+    "tel": "031-580-8055",
+    "title": "한식당 남문",
+    "zipcode": "24464",
+    "family": [
+      {
+        "유아용 보조 의자": "있음(8개)"
+      },
+      {
+        "영유아가족 기타 지원 항목": "유아식기 있음"
+      }
+    ],
+    "handi": [
+      {
+        "대중교통": "남이섬 유람선 탑승 후 도보 이동"
+      },
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "출입구까지 휠체어 통과 가능함(자동문)"
+      },
+      {
+        "화장실": "장애인 화장실 있음(식당 뒷편)"
+      },
+      {
+        "기타 지원 항목": "입식(의자식)테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2606925": {
+    "addr1": "강원특별자치도 춘천시 동내면 금촌로 107-27",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2606925",
+    "contenttypeid": "39",
+    "createdtime": "20190618014632",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/44/2606944_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/44/2606944_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7838087130",
+    "mapy": "37.8570713293",
+    "mlevel": "6",
+    "modifiedtime": "20230702050746",
+    "sigungucode": "13",
+    "tel": "033-263-0220",
+    "title": "주식회사 인디커피 (카페드220볼트)",
+    "zipcode": "24399",
+    "family": [
+      {
+        "유아용 보조 의자": "구비(6개)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2608622": {
+    "addr1": "강원특별자치도 춘천시 당간지주길 76",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2608622",
+    "contenttypeid": "39",
+    "createdtime": "20190702023307",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/82/2608782_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/82/2608782_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7238825642",
+    "mapy": "37.8923133335",
+    "mlevel": "6",
+    "modifiedtime": "20230906111310",
+    "sigungucode": "13",
+    "tel": "033-254-2232",
+    "title": "[백년가게]메바우명가춘천막국수",
+    "zipcode": "24241",
+    "family": [],
+    "handi": [
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2795950": {
+    "addr1": "강원특별자치도 춘천시 신북읍 신샘밭로 682",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2795950",
+    "contenttypeid": "39",
+    "createdtime": "20211214222440",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/26/2796026_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/26/2796026_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7853647490",
+    "mapy": "37.9294740466",
+    "mlevel": "6",
+    "modifiedtime": "20230702040900",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "장호더그릴(장호숯불닭갈비)",
+    "zipcode": "24204",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2807135": {
+    "addr1": "강원특별자치도 춘천시 동면 만천양지길 (87)",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2807135",
+    "contenttypeid": "39",
+    "createdtime": "20220215141144",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.7635096592",
+    "mapy": "37.8873618717",
+    "mlevel": "6",
+    "modifiedtime": "20230702040930",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "우성닭갈비",
+    "zipcode": "24213",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2807367": {
+    "addr1": "강원특별자치도 춘천시  공지로 (353)",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2807367",
+    "contenttypeid": "39",
+    "createdtime": "20220216143611",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.7270996010",
+    "mapy": "37.8699604386",
+    "mlevel": "6",
+    "modifiedtime": "20230702101933",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "스퀴즈 브루어리",
+    "zipcode": "24365",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2839707": {
+    "addr1": "강원특별자치도 춘천시 금촌로 35-2",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2839707",
+    "contenttypeid": "39",
+    "createdtime": "20220819123507",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/02/2839702_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/02/2839702_image3_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7789509042",
+    "mapy": "37.8542826739",
+    "mlevel": "6",
+    "modifiedtime": "20230702053940",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "그린보드",
+    "zipcode": "24399",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2849142": {
+    "addr1": "강원특별자치도 춘천시 남이섬길 1 남이섬",
+    "addr2": "밥플렉스 1층",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2849142",
+    "contenttypeid": "39",
+    "createdtime": "20220905172529",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.5255090138",
+    "mapy": "37.7963208193",
+    "mlevel": "6",
+    "modifiedtime": "20230702054206",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "남이아일랜드북까페",
+    "zipcode": "24464",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2915966": {
+    "addr1": "강원특별자치도 춘천시 경춘로 349-1",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2915966",
+    "contenttypeid": "39",
+    "createdtime": "20221123115106",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/57/2915957_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/57/2915957_image3_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5511023906",
+    "mapy": "37.8478958485",
+    "mlevel": "6",
+    "modifiedtime": "20230702101608",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "월송유로베이커리앤로스터리",
+    "zipcode": "24463",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2915971": {
+    "addr1": "강원특별자치도 춘천시 순환대로 643",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2915971",
+    "contenttypeid": "39",
+    "createdtime": "20221123115610",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/68/2915968_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/68/2915968_image3_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7628777633",
+    "mapy": "37.8409172612",
+    "mlevel": "6",
+    "modifiedtime": "20230702102515",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "뚜레한우 춘천점",
+    "zipcode": "24408",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문/자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2922569": {
+    "addr1": "강원특별자치도 춘천시 춘천순환로 330",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2922569",
+    "contenttypeid": "39",
+    "createdtime": "20221125113409",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/66/2922566_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/66/2922566_image3_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7713955196",
+    "mapy": "37.8716721774",
+    "mlevel": "6",
+    "modifiedtime": "20231019152644",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "리퍼블릭",
+    "zipcode": "24218",
+    "family": [
+      {
+        "유아용 보조 의자": "구비(4개)"
+      }
+    ],
+    "handi": [
+      {
+        "대중교통": "경춘선 남춘천역 1번 출구 / 버스 200번 탑승 / 도보 25분"
+      },
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주 출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2922598": {
+    "addr1": "강원특별자치도 춘천시 순환대로 1154-144",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2922598",
+    "contenttypeid": "39",
+    "createdtime": "20221125114439",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/86/2922586_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/86/2922586_image3_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7792968779",
+    "mapy": "37.8952084759",
+    "mlevel": "6",
+    "modifiedtime": "20230701142200",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "파미르",
+    "zipcode": "24212",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

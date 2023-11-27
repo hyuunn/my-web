@@ -1,0 +1,2222 @@
+{
+  "132267":{
+     "addr1":"인천광역시 남동구 소래역로 12",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"132267",
+     "contenttypeid":"38",
+     "createdtime":"20031119090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/71/1578871_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/71/1578871_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.7372004899",
+     "mapy":"37.3987749898",
+     "mlevel":"6",
+     "modifiedtime":"20230512132349",
+     "sigungucode":"4",
+     "tel":"032-719-1522",
+     "title":"소래포구 종합어시장",
+     "zipcode":"21673",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(시장 보행통로)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "132373":{
+     "addr1":"인천광역시 동구 중앙로 68",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"132373",
+     "contenttypeid":"38",
+     "createdtime":"20031119090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/74/1924174_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/74/1924174_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.6360909955",
+     "mapy":"37.4723952074",
+     "mlevel":"6",
+     "modifiedtime":"20230727144749",
+     "sigungucode":"5",
+     "tel":"032-763-4242",
+     "title":"인천 중앙시장",
+     "zipcode":"22550",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "132374":{
+     "addr1":"인천광역시 동구 송림로 107",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"132374",
+     "contenttypeid":"38",
+     "createdtime":"20031117090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/89/1924189_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/89/1924189_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.6450928298",
+     "mapy":"37.4767948549",
+     "mlevel":"6",
+     "modifiedtime":"20230209162400",
+     "sigungucode":"5",
+     "tel":"032-773-4173",
+     "title":"인천 동부시장",
+     "zipcode":"22544",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        },
+        {
+           "기타 지원 항목":"인천 지하철 모래내시장역 장애인 시설 이용 가능"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "132375":{
+     "addr1":"인천광역시 동구 화도진로43번길 13-1",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"132375",
+     "contenttypeid":"38",
+     "createdtime":"20031119090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/04/2462304_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/04/2462304_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.6319162606",
+     "mapy":"37.4765668712",
+     "mlevel":"6",
+     "modifiedtime":"20230814140951",
+     "sigungucode":"5",
+     "tel":"032-772-2126",
+     "title":"인천 송현자유시장",
+     "zipcode":"22550",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        },
+        {
+           "기타 지원 항목":"시장 내 문화공간 경사로 있어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "132376":{
+     "addr1":"인천광역시 남동구 남동대로 880",
+     "addr2":"(간석동)",
+     "areacode":"2",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"132376",
+     "contenttypeid":"38",
+     "createdtime":"20030407090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/53/1924153_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/53/1924153_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.7088430111",
+     "mapy":"37.4609644877",
+     "mlevel":"6",
+     "modifiedtime":"20220627134104",
+     "sigungucode":"4",
+     "tel":"032-434-1234",
+     "title":"올리브 아울렛 (인천점)",
+     "zipcode":"21545",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(엘리베이터)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "132381":{
+     "addr1":"인천광역시 중구 우현로49번길 11-5",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"132381",
+     "contenttypeid":"38",
+     "createdtime":"20031119090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/01/1815001_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/01/1815001_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.6277834463",
+     "mapy":"37.4714562812",
+     "mlevel":"6",
+     "modifiedtime":"20230627171940",
+     "sigungucode":"10",
+     "tel":"032-772-5812",
+     "title":"신포국제시장",
+     "zipcode":"22322",
+     "family":[
+        {
+           "수유실":"수유실 있음(지원센터 1층)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로 있어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        },
+        {
+           "기타 지원 항목":"휠체어 진입 가능 식당 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음 (화장실 입구)_시각장애인 편의시설"
+        },
+        {
+           "보조견 동반":"동반가능"
+        },
+        {
+           "안내요원":"안내요원 있음(지원센터)"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "132702":{
+     "addr1":"인천광역시 부평구 마장로 489",
+     "addr2":"(청천동)",
+     "areacode":"2",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"132702",
+     "contenttypeid":"38",
+     "createdtime":"20070118090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/45/1924145_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/45/1924145_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.7032140635",
+     "mapy":"37.5213434814",
+     "mlevel":"6",
+     "modifiedtime":"20221018113601",
+     "sigungucode":"6",
+     "tel":"032-270-2000",
+     "title":"아이즈빌아울렛",
+     "zipcode":"21302",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주출입구 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "132736":{
+     "addr1":"인천광역시 동구 송림로109번길 21",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"132736",
+     "contenttypeid":"38",
+     "createdtime":"20070123090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/35/2462535_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/35/2462535_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.6450956138",
+     "mapy":"37.4765421066",
+     "mlevel":"6",
+     "modifiedtime":"20230422230429",
+     "sigungucode":"5",
+     "tel":"032-777-2361",
+     "title":"인천 현대시장",
+     "zipcode":"22544",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "132742":{
+     "addr1":"인천광역시 중구 연안부두로33번길 37",
+     "addr2":"(항동7가)",
+     "areacode":"2",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"132742",
+     "contenttypeid":"38",
+     "createdtime":"20070208090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/72/1578772_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/72/1578772_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.6071635855",
+     "mapy":"37.4541301538",
+     "mlevel":"6",
+     "modifiedtime":"20221114091004",
+     "sigungucode":"10",
+     "tel":"032-888-4241~3",
+     "title":"인천 종합어시장",
+     "zipcode":"22348",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "234213":{
+     "addr1":"인천광역시 동구 화도진로44번길 18",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"234213",
+     "contenttypeid":"38",
+     "createdtime":"20070123090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/67/1924167_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/67/1924167_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.6346271361",
+     "mapy":"37.4761391907",
+     "mlevel":"6",
+     "modifiedtime":"20230512182439",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"인천 송현시장",
+     "zipcode":"22551",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1025117":{
+     "addr1":"인천광역시 남동구 인주대로888번길 35",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"1025117",
+     "contenttypeid":"38",
+     "createdtime":"20100519200537",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/79/1924179_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/79/1924179_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.7352187892",
+     "mapy":"37.4464166442",
+     "mlevel":"6",
+     "modifiedtime":"20221229170134",
+     "sigungucode":"4",
+     "tel":"032-471-1216",
+     "title":"장승백이 전통시장 (구. 창대시장)",
+     "zipcode":"21591",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음(개방화장실)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1025157":{
+     "addr1":"인천광역시 미추홀구 용삼길 57-1",
+     "addr2":"(용현동)",
+     "areacode":"2",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"1025157",
+     "contenttypeid":"38",
+     "createdtime":"20100519201459",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/69/1924169_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/69/1924169_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.6527370925",
+     "mapy":"37.4582360357",
+     "mlevel":"6",
+     "modifiedtime":"20230802192328",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"인천 용현시장",
+     "zipcode":"22179",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음(용현3동 제1노외주차장 공중화장실)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(공중화장실 출입구 앞)_시각장애인 편의시설"
+        },
+        {
+           "보조견 동반":"동반가능"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1025514":{
+     "addr1":"인천광역시 부평구 부흥로316번길 38-3",
+     "addr2":"(부평동)",
+     "areacode":"2",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"1025514",
+     "contenttypeid":"38",
+     "createdtime":"20100519232554",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/55/1923755_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/55/1923755_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.7266515056",
+     "mapy":"37.4965606664",
+     "mlevel":"6",
+     "modifiedtime":"20230823171636",
+     "sigungucode":"6",
+     "tel":"032-516-0655",
+     "title":"부평 종합시장",
+     "zipcode":"21391",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1025593":{
+     "addr1":"인천광역시 남동구 호구포로810번길 42-8",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"1025593",
+     "contenttypeid":"38",
+     "createdtime":"20100519235614",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/41/2462241_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/41/2462241_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.7214753815",
+     "mapy":"37.4541793884",
+     "mlevel":"6",
+     "modifiedtime":"20230223105559",
+     "sigungucode":"4",
+     "tel":"032-471-1427",
+     "title":"인천 모래내시장",
+     "zipcode":"21534",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        },
+        {
+           "기타 지원 항목":"인천 지하철 모래내시장역 장애인 시설 이용 가능"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1030600":{
+     "addr1":"인천광역시 미추홀구 경원대로 848",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"1030600",
+     "contenttypeid":"38",
+     "createdtime":"20100525233054",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/79/2363079_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/79/2363079_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.6903114559",
+     "mapy":"37.4577784192",
+     "mlevel":"6",
+     "modifiedtime":"20230710145053",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"석바위 지하도상가",
+     "zipcode":"22144",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"석바위시장역 1,2번출구 장애인 엘리베이터 이용 진입"
+        },
+        {
+           "엘리베이터":"장애인용 엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자유도로 있음_시각장애인 편의시설"
+        },
+        {
+           "유도안내설비":"점자손잡이 있음(지하철입구 계단)"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1030642":{
+     "addr1":"인천광역시 서구 강남로 26-3",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"1030642",
+     "contenttypeid":"38",
+     "createdtime":"20100525234315",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/58/1924158_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/58/1924158_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.6713839130",
+     "mapy":"37.5113718551",
+     "mlevel":"6",
+     "modifiedtime":"20230727132152",
+     "sigungucode":"7",
+     "tel":"032-578-6163",
+     "title":"인천 강남시장",
+     "zipcode":"22785",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(공종화장실 앞)_시각장애인 편의시설"
+        },
+        {
+           "보조견 동반":"동반가능"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1039905":{
+     "addr1":"인천광역시 남동구 호구포로790번길 21-13",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"1039905",
+     "contenttypeid":"38",
+     "createdtime":"20100609182724",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/42/1923742_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/42/1923742_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.7202644035",
+     "mapy":"37.4533572403",
+     "mlevel":"6",
+     "modifiedtime":"20230814165806",
+     "sigungucode":"4",
+     "tel":"032-469-2525",
+     "title":"인천 구월시장",
+     "zipcode":"21534",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        },
+        {
+           "기타 지원 항목":"모래내시장 공영주차장, 시장 앞 상가 퍼스트하임 건물 내 장애인 시설 이용 가능, 인천지하철 모래내시장역 장애인 시설 이용 가능"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1039977":{
+     "addr1":"인천광역시 강화군 강화읍 중앙로 17-9",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"1039977",
+     "contenttypeid":"38",
+     "createdtime":"20100609192025",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/17/1162117_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/17/1162117_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.4928438212",
+     "mapy":"37.7414252440",
+     "mlevel":"6",
+     "modifiedtime":"20230707091507",
+     "sigungucode":"1",
+     "tel":"032-930-7042,3",
+     "title":"강화 풍물시장",
+     "zipcode":"23027",
+     "family":[
+        {
+           "수유실":"수유실 있음(2층 키즈맘카페)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"휠체어 이동가능_무장애 편의시설"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1048649":{
+     "addr1":"인천광역시 부평구 영성동로 46 삼산농산물도매시장",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"1048649",
+     "contenttypeid":"38",
+     "createdtime":"20100624185826",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/40/1924140_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/40/1924140_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.7469684142",
+     "mapy":"37.5210054074",
+     "mlevel":"6",
+     "modifiedtime":"20221005103151",
+     "sigungucode":"6",
+     "tel":"032-440-6450",
+     "title":"인천 삼산농산물도매시장",
+     "zipcode":"21320",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(엘리베이터)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1049865":{
+     "addr1":"인천광역시 강화군 길상면 온수길33번길 2",
+     "addr2":"(길상면)",
+     "areacode":"2",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010100",
+     "contentid":"1049865",
+     "contenttypeid":"38",
+     "createdtime":"20100625230703",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/67/1163167_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/67/1163167_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.4910579376",
+     "mapy":"37.6395176484",
+     "mlevel":"6",
+     "modifiedtime":"20221024101145",
+     "sigungucode":"1",
+     "tel":"032-930-3114",
+     "title":"길상공설시장 (4일, 9일)",
+     "zipcode":"23050",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1177090":{
+     "addr1":"인천광역시 강화군 강화읍 강화대로 335",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"1177090",
+     "contenttypeid":"38",
+     "createdtime":"20110119020457",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/72/1163172_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/72/1163172_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.4924882782",
+     "mapy":"37.7421168236",
+     "mlevel":"6",
+     "modifiedtime":"20221020162915",
+     "sigungucode":"1",
+     "tel":"032-933-8913",
+     "title":"강화 인삼센터",
+     "zipcode":"23027",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음(수동문)"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1178052":{
+     "addr1":"인천광역시 강화군 강화읍 강화대로 429",
+     "addr2":"(강화읍)",
+     "areacode":"2",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"1178052",
+     "contenttypeid":"38",
+     "createdtime":"20110120013428",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/80/1163180_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/80/1163180_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.4835250274",
+     "mapy":"37.7486936757",
+     "mlevel":"6",
+     "modifiedtime":"20220520165150",
+     "sigungucode":"1",
+     "tel":"032-933-7104",
+     "title":"강화 중앙시장",
+     "zipcode":"23033",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1255876":{
+     "addr1":"인천광역시 연수구 독배로40번길 35",
+     "addr2":"(옥련동)",
+     "areacode":"2",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"1255876",
+     "contenttypeid":"38",
+     "createdtime":"20110413021040",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/51/2989251_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/51/2989251_image3_1.jpg",
+     "cpyrhtDivCd":"Type1",
+     "mapx":"126.6454220768",
+     "mapy":"37.4227650278",
+     "mlevel":"6",
+     "modifiedtime":"20230524100550",
+     "sigungucode":"8",
+     "tel":"032-831-8640",
+     "title":"인천 옥련시장",
+     "zipcode":"21949",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2021033":{
+     "addr1":"인천광역시 부평구 부평대로 지하 69",
+     "addr2":"(부평동)",
+     "areacode":"2",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"2021033",
+     "contenttypeid":"38",
+     "createdtime":"20150727184502",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/20/2020220_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/20/2020220_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.7239380470",
+     "mapy":"37.4900058247",
+     "mlevel":"6",
+     "modifiedtime":"20230613163913",
+     "sigungucode":"6",
+     "tel":"",
+     "title":"부평모두몰(부평지하도상가)",
+     "zipcode":"21388",
+     "family":[
+        {
+           "수유실":"수유실 있음(5,6번 출입구 이용)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"휠체어리프트 이용하여 접근가능(18,22,27번 출입구)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음(5번출구(모유수유실 옆),12번 출구와 13번출구 중간)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음 (계단 입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2465126":{
+     "addr1":"인천광역시 미추홀구 신기길58번길 6",
+     "addr2":"(주안동)",
+     "areacode":"2",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2465126",
+     "contenttypeid":"38",
+     "createdtime":"20161220195715",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/18/2674918_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/18/2674918_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.6764186158",
+     "mapy":"37.4456295853",
+     "mlevel":"6",
+     "modifiedtime":"20230210141922",
+     "sigungucode":"3",
+     "tel":"032-865-5424",
+     "title":"인천 신기시장",
+     "zipcode":"22217",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        },
+        {
+           "기타 지원 항목":"야구박물관 휠체어 진입 가능"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실, 엘리베이터)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2492108":{
+     "addr1":"인천광역시 강화군 교동면 교동남로 35",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2492108",
+     "contenttypeid":"38",
+     "createdtime":"20170509014455",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.2809399586",
+     "mapy":"37.7802669895",
+     "mlevel":"6",
+     "modifiedtime":"20230719145705",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"교동도 대룡시장",
+     "zipcode":"23002",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2689322":{
+     "addr1":"인천광역시 연수구 송도과학로16번길 33-3",
+     "addr2":"(송도동)",
+     "areacode":"2",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"2689322",
+     "contenttypeid":"38",
+     "createdtime":"20201130184351",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.6609690710",
+     "mapy":"37.3798397316",
+     "mlevel":"6",
+     "modifiedtime":"20221212150240",
+     "sigungucode":"8",
+     "tel":"",
+     "title":"트리플스트리트",
+     "zipcode":"21984",
+     "family":[
+        {
+           "유모차":"대여가능"
+        },
+        {
+           "수유실":"수유실 있음"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "휠체어":"대여가능"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+        },
+        {
+           "안내요원":"안내요원 있음"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2765404":{
+     "addr1":"인천광역시 서구 면개포로 5",
+     "addr2":"(석남동)",
+     "areacode":"2",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2765404",
+     "contenttypeid":"38",
+     "createdtime":"20211101234832",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/71/2784371_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/71/2784371_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.6727395604",
+     "mapy":"37.5036255576",
+     "mlevel":"6",
+     "modifiedtime":"20230410100718",
+     "sigungucode":"7",
+     "tel":"",
+     "title":"신거북시장",
+     "zipcode":"22791",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2765473":{
+     "addr1":"인천광역시 부평구 배곶남로21번길 18",
+     "addr2":"(십정동)",
+     "areacode":"2",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2765473",
+     "contenttypeid":"38",
+     "createdtime":"20211102001728",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.6957105310",
+     "mapy":"37.4733461499",
+     "mlevel":"6",
+     "modifiedtime":"20230321103303",
+     "sigungucode":"6",
+     "tel":"",
+     "title":"십정시장",
+     "zipcode":"21450",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2766193":{
+     "addr1":"인천광역시 계양구 계산동 1040",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2766193",
+     "contenttypeid":"38",
+     "createdtime":"20211102182737",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/30/2780930_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/30/2780930_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.7245254823",
+     "mapy":"37.5401527832",
+     "mlevel":"6",
+     "modifiedtime":"20230407132622",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"계산시장",
+     "zipcode":"21052",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2766211":{
+     "addr1":"인천광역시 계양구 계양산로215번길 10",
+     "addr2":"(병방동)",
+     "areacode":"2",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2766211",
+     "contenttypeid":"38",
+     "createdtime":"20211102183430",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/34/2780934_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/34/2780934_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.7407515527",
+     "mapy":"37.5482271320",
+     "mlevel":"6",
+     "modifiedtime":"20230321094330",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"계양산전통시장",
+     "zipcode":"21027",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2766234":{
+     "addr1":"인천광역시 계양구 봉오대로677번길 26",
+     "addr2":"(작전동)",
+     "areacode":"2",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2766234",
+     "contenttypeid":"38",
+     "createdtime":"20211102183846",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/50/2780950_image2_1.png",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/50/2780950_image2_1.png",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.7246395565",
+     "mapy":"37.5331508219",
+     "mlevel":"6",
+     "modifiedtime":"20230407132343",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"작전시장",
+     "zipcode":"21089",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2766259":{
+     "addr1":"인천광역시 남동구 백범로 312-1",
+     "addr2":"(간석동)",
+     "areacode":"2",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2766259",
+     "contenttypeid":"38",
+     "createdtime":"20211102184528",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/60/2780960_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/60/2780960_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.7153756657",
+     "mapy":"37.4639420354",
+     "mlevel":"6",
+     "modifiedtime":"20230303110938",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"간석자유시장",
+     "zipcode":"21511",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2766281":{
+     "addr1":"인천광역시 남동구 비류대로 763",
+     "addr2":"(남촌동)",
+     "areacode":"2",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2766281",
+     "contenttypeid":"38",
+     "createdtime":"20211102185006",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/62/2780962_image2_1.png",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/62/2780962_image2_1.png",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.7205457777",
+     "mapy":"37.4230135476",
+     "mlevel":"6",
+     "modifiedtime":"20230407131127",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"남촌농산물도매시장",
+     "zipcode":"21620",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2766297":{
+     "addr1":"인천광역시 남동구 만수로37번길 1-1",
+     "addr2":"(만수동)",
+     "areacode":"2",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2766297",
+     "contenttypeid":"38",
+     "createdtime":"20211102185332",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/75/2780975_image2_1.png",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/75/2780975_image2_1.png",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.7325519917",
+     "mapy":"37.4598400382",
+     "mlevel":"6",
+     "modifiedtime":"20230321094353",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"만수시장",
+     "zipcode":"21524",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2766328":{
+     "addr1":"인천광역시 미추홀구 경원대로852번길 15",
+     "addr2":"(주안동)",
+     "areacode":"2",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2766328",
+     "contenttypeid":"38",
+     "createdtime":"20211102190042",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/78/2780978_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/78/2780978_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.6905530660",
+     "mapy":"37.4590060586",
+     "mlevel":"6",
+     "modifiedtime":"20230407130946",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"석바위시장",
+     "zipcode":"22144",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2766337":{
+     "addr1":"인천광역시 미추홀구 용현동 12",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2766337",
+     "contenttypeid":"38",
+     "createdtime":"20211102190410",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/11/2781011_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/11/2781011_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.6655249927",
+     "mapy":"37.4518342277",
+     "mlevel":"6",
+     "modifiedtime":"20230303110706",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"용남시장",
+     "zipcode":"22209",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2766376":{
+     "addr1":"인천광역시 미추홀구 용현동 617-70",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2766376",
+     "contenttypeid":"38",
+     "createdtime":"20211102191546",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/44/2781344_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/44/2781344_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.6376330993",
+     "mapy":"37.4515698772",
+     "mlevel":"6",
+     "modifiedtime":"20230407130826",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"토지금고시장",
+     "zipcode":"22187",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2767456":{
+     "addr1":"인천광역시 남동구 장도로 86-6",
+     "addr2":"(논현동)",
+     "areacode":"2",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2767456",
+     "contenttypeid":"38",
+     "createdtime":"20211103182811",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/00/2781000_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/00/2781000_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.7384031806",
+     "mapy":"37.3979667716",
+     "mlevel":"6",
+     "modifiedtime":"20230407113641",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"소래포구재래어시장",
+     "zipcode":"21672",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2768085":{
+     "addr1":"인천광역시 남동구 호구포로790번길 21-4",
+     "addr2":"(구월동)",
+     "areacode":"2",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2768085",
+     "contenttypeid":"38",
+     "createdtime":"20211104185940",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.7205310583",
+     "mapy":"37.4529211845",
+     "mlevel":"6",
+     "modifiedtime":"20230303105341",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"구월농산물도매시장",
+     "zipcode":"21534",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2768142":{
+     "addr1":"인천광역시 부평구 부흥로316번길 38-3",
+     "addr2":"(부평동)",
+     "areacode":"2",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2768142",
+     "contenttypeid":"38",
+     "createdtime":"20211104194555",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.7266515056",
+     "mapy":"37.4965606664",
+     "mlevel":"6",
+     "modifiedtime":"20230407113219",
+     "sigungucode":"6",
+     "tel":"",
+     "title":"부평시장",
+     "zipcode":"21391",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2768173":{
+     "addr1":"인천광역시 서구 장고개로337번길 18-19",
+     "addr2":"(가좌동)",
+     "areacode":"2",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2768173",
+     "contenttypeid":"38",
+     "createdtime":"20211104200341",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/54/2781354_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/54/2781354_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.6834110718",
+     "mapy":"37.4941962868",
+     "mlevel":"6",
+     "modifiedtime":"20230321094513",
+     "sigungucode":"7",
+     "tel":"",
+     "title":"가좌시장",
+     "zipcode":"22810",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2768183":{
+     "addr1":"인천광역시 부평구 경인로1118번길 8",
+     "addr2":"(일신동,세창주택)",
+     "areacode":"2",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2768183",
+     "contenttypeid":"38",
+     "createdtime":"20211104201014",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.7436336100",
+     "mapy":"37.4850956334",
+     "mlevel":"6",
+     "modifiedtime":"20230407112604",
+     "sigungucode":"6",
+     "tel":"",
+     "title":"일신종합시장",
+     "zipcode":"21419",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2769502":{
+     "addr1":"인천광역시 중구 도원로 15-1",
+     "addr2":"(선화동)",
+     "areacode":"2",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2769502",
+     "contenttypeid":"38",
+     "createdtime":"20211108184912",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.6366550068",
+     "mapy":"37.4661209465",
+     "mlevel":"6",
+     "modifiedtime":"20230410102514",
+     "sigungucode":"10",
+     "tel":"",
+     "title":"신흥시장",
+     "zipcode":"22329",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2779976":{
+     "addr1":"인천광역시 서구 거북로 115",
+     "addr2":"(석남동)",
+     "areacode":"2",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2779976",
+     "contenttypeid":"38",
+     "createdtime":"20211125233120",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/39/2780039_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/39/2780039_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.6746421748",
+     "mapy":"37.5032617447",
+     "mlevel":"6",
+     "modifiedtime":"20230610091720",
+     "sigungucode":"7",
+     "tel":"",
+     "title":"거북시장",
+     "zipcode":"22791",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2781608":{
+     "addr1":"인천광역시 서구 원창로239번길 11",
+     "addr2":"(가정동)",
+     "areacode":"2",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2781608",
+     "contenttypeid":"38",
+     "createdtime":"20211126195246",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/43/2781643_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/43/2781643_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.6759666257",
+     "mapy":"37.5186322035",
+     "mlevel":"6",
+     "modifiedtime":"20230321103030",
+     "sigungucode":"7",
+     "tel":"",
+     "title":"정서진중앙시장",
+     "zipcode":"22777",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  }
+}

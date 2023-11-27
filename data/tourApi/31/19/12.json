@@ -1,0 +1,872 @@
+{
+  "125485": {
+    "addr1": "경기도 양평군 용문면 용문산로 782",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010400",
+    "contentid": "125485",
+    "contenttypeid": "12",
+    "createdtime": "20031209090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/13/1099213_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/13/1099213_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5688622223",
+    "mapy": "37.5511695330",
+    "mlevel": "6",
+    "modifiedtime": "20220520104742",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "용문산",
+    "zipcode": "12510",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능(갤러리 미지)"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음(농업박물관)"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "용문사까지는 이동 가능하나 진입은 불편함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "126915": {
+    "addr1": "경기도 양평군 용문면 신점리",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020200",
+    "contentid": "126915",
+    "contenttypeid": "12",
+    "createdtime": "20031110090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/83/1098983_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/83/1098983_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5809612468",
+    "mapy": "37.5469452446",
+    "mlevel": "6",
+    "modifiedtime": "20231103100050",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "용문산 관광지",
+    "zipcode": "12510",
+    "family": [
+      {
+        "영유아가족 기타 지원 항목": "기저귀교환대 있음(제5주차장 인근과 관리사무소 옆 화장실 내부)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(제5주차장, 관리사무소 옆, 야영장내)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(제5주차장, 관리사무소 옆)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "127171": {
+    "addr1": "경기도 양평군 단월면 고북길 347",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010600",
+    "contentid": "127171",
+    "contenttypeid": "12",
+    "createdtime": "20030811090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/05/2669005_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/05/2669005_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5751825647",
+    "mapy": "37.5961338783",
+    "mlevel": "6",
+    "modifiedtime": "20230502190943",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "국립 산음자연휴양림",
+    "zipcode": "12527",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "객실": "장애인 객실 있음 (연립동 황토방1,2-6인실,장애인용 침대 구비(1인실)"
+      },
+      {
+        "기타 지원 항목": "300m 가량의 데크로드가 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(장애인 전용 객실 입구 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "127688": {
+    "addr1": "경기도 양평군 옥천면 사나사길 329",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010800",
+    "contentid": "127688",
+    "contenttypeid": "12",
+    "createdtime": "20031209090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/89/2707289_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/89/2707289_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5063127094",
+    "mapy": "37.5385115188",
+    "mlevel": "6",
+    "modifiedtime": "20230901093501",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "사나사(양평)",
+    "zipcode": "12506",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "경사로 설치됨"
+      },
+      {
+        "화장실": "장애인용화장실 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "128220": {
+    "addr1": "경기도 양평군 양평읍 수목원길 16",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010700",
+    "contentid": "128220",
+    "contenttypeid": "12",
+    "createdtime": "20041022090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.4713863849",
+    "mapy": "37.5017373651",
+    "mlevel": "6",
+    "modifiedtime": "20230629112254",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "양평 들꽃수목원",
+    "zipcode": "12545",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음(전시장,카페 휠체어 접근 가능)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(화장실 입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "128226": {
+    "addr1": "경기도 양평군 용문면 상광길 23-2",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010500",
+    "contentid": "128226",
+    "contenttypeid": "12",
+    "createdtime": "20041104090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.6395680582",
+    "mapy": "37.5120142625",
+    "mlevel": "6",
+    "modifiedtime": "20231103103430",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "양평 민물고기 생태학습관",
+    "zipcode": "12513",
+    "family": [
+      {
+        "유모차": "유모차 무료대여(2대)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "휠체어 무료대여(2대,학습관 내 안내데스크)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(야외화장실)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "128918": {
+    "addr1": "경기도 양평군 양서면 두물머리길 145",
+    "addr2": "(양서면)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01011800",
+    "contentid": "128918",
+    "contenttypeid": "12",
+    "createdtime": "20060414090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/83/2560083_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/83/2560083_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3174883300",
+    "mapy": "37.5336752977",
+    "mlevel": "6",
+    "modifiedtime": "20230825112355",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "양평 두물머리",
+    "zipcode": "12585",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "산책로는 평탄하여 휠체어나 유모차도 편하게 이동할 수 있는 곳임"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "407051": {
+    "addr1": "경기도 양평군 양서면 양수로 93",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010700",
+    "contentid": "407051",
+    "contenttypeid": "12",
+    "createdtime": "20080115002606",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/78/2612478_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/78/2612478_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3241902960",
+    "mapy": "37.5407412665",
+    "mlevel": "6",
+    "modifiedtime": "20231016134656",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "세미원",
+    "zipcode": "12584",
+    "family": [
+      {
+        "유모차": "대여가능(5대/신분증보관)"
+      },
+      {
+        "수유실": "수유실 있음"
+      },
+      {
+        "영유아가족 기타 지원 항목": "유아용 화장실, 가족화장실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "대중교통": "경의중앙선 양수역에서 700m /청량리 : 167번 양수대교입구 하차 도보 500m /강변역 : 2000-1 - 세미원 앞 하차 - 도보 100m /잠실역 : 2000-2 - 세미원 앞 하차 - 도보 100m / G9311(광역버스) - 양수파출소 하차 – 도보 600m"
+      },
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함 (정원 내 일부 동반자 도움필요)"
+      },
+      {
+        "휠체어": "대여가능(5대/판매점, 신분증보관)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음(연꽃박물관/휠체어 1대크기)"
+      },
+      {
+        "화장실": "장애인 화장실 있음(입구매표소)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "오디오 가이드": "음성안내기 있음"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "612693": {
+    "addr1": "경기도 양평군 용문면 용문산로 640",
+    "addr2": "(용문면) 일대",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030100",
+    "contentid": "612693",
+    "contenttypeid": "12",
+    "createdtime": "20080821004148",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/41/1790941_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/41/1790941_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5836638193",
+    "mapy": "37.5455843417",
+    "mlevel": "6",
+    "modifiedtime": "20231102100758",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "용문산 토속음식마을",
+    "zipcode": "12510",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "612752": {
+    "addr1": "경기도 양평군 옥천면 옥천길98번길 12",
+    "addr2": "(옥천면) 일대",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030100",
+    "contentid": "612752",
+    "contenttypeid": "12",
+    "createdtime": "20080821010614",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/74/1790974_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/74/1790974_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4641726250",
+    "mapy": "37.5199601203",
+    "mlevel": "6",
+    "modifiedtime": "20230524104329",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "옥천리 냉면마을",
+    "zipcode": "12507",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "753619": {
+    "addr1": "경기도 양평군 서종면 소나기마을길 24",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010600",
+    "contentid": "753619",
+    "contenttypeid": "12",
+    "createdtime": "20090616232000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/62/2601562_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/62/2601562_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3781032925",
+    "mapy": "37.5945387829",
+    "mlevel": "6",
+    "modifiedtime": "20230724110454",
+    "sigungucode": "19",
+    "tel": "031-770-2473",
+    "title": "양평 황순원문학촌 소나기마을",
+    "zipcode": "12504",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능(2대)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "관람석": "장애인 전용 관람석은 없으나 휠체어 접근 가능한 공간 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1104314": {
+    "addr1": "경기도 양평군 지평면 지평로 357",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0205",
+    "cat3": "A02050200",
+    "contentid": "1104314",
+    "contenttypeid": "12",
+    "createdtime": "20101006224005",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/35/1099335_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/35/1099335_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.6373136737",
+    "mapy": "37.4786875260",
+    "mlevel": "6",
+    "modifiedtime": "20231102105036",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "지평지구전투전적비",
+    "zipcode": "12541",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "전적비까지 계단 외에 경사로로 접근할 수 있는 우회도가 있음"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음(기념관)"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(기념관,휠체어 회전폭 확보)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1566740": {
+    "addr1": "경기도 양평군 청운면 오목골길 33",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030400",
+    "contentid": "1566740",
+    "contenttypeid": "12",
+    "createdtime": "20120313202343",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/20/2482920_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/20/2482920_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7343996722",
+    "mapy": "37.5620407716",
+    "mlevel": "6",
+    "modifiedtime": "20230308172231",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "양평 맑은숲캠프",
+    "zipcode": "12531",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "장애인화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1807162": {
+    "addr1": "경기도 양평군 단월면 곱다니길 55-2",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030100",
+    "contentid": "1807162",
+    "contenttypeid": "12",
+    "createdtime": "20130425004732",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/25/2632725_image2_1.bmp",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/25/2632725_image2_1.bmp",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.6482810596",
+    "mapy": "37.5153751443",
+    "mlevel": "6",
+    "modifiedtime": "20230605151018",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "수미마을",
+    "zipcode": "12529",
+    "family": [],
+    "handi": [
+      {
+        "출입통로": "출입구 경사로 있음_무장애 편의정보"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2456974": {
+    "addr1": "경기도 양평군 두메향기길 11",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010500",
+    "contentid": "2456974",
+    "contenttypeid": "12",
+    "createdtime": "20161215025019",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/55/2457055_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/55/2457055_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3856649268",
+    "mapy": "37.5525271298",
+    "mlevel": "6",
+    "modifiedtime": "20221005113225",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "두메향기",
+    "zipcode": "12579",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2554095": {
+    "addr1": "경기도 양평군 양동면 황거길 262-10",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020500",
+    "contentid": "2554095",
+    "contenttypeid": "12",
+    "createdtime": "20180718014333",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/96/2554096_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/96/2554096_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7181068651",
+    "mapy": "37.4611854870",
+    "mlevel": "6",
+    "modifiedtime": "20230222111244",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "국립양평치유의숲",
+    "zipcode": "12537",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(건강진흥센터 2층)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2554274": {
+    "addr1": "경기도 양평군 용문면 용문산로 670",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0204",
+    "cat3": "A02040800",
+    "contentid": "2554274",
+    "contenttypeid": "12",
+    "createdtime": "20180718230405",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.5812278702",
+    "mapy": "37.5476146174",
+    "mlevel": "",
+    "modifiedtime": "20220421155200",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "친환경농업박물관",
+    "zipcode": "12510",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "전시해설자 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2765225": {
+    "addr1": "경기도 양평군 강하면 운심길 70",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2765225",
+    "contenttypeid": "12",
+    "createdtime": "20211101184910",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.4141833901",
+    "mapy": "37.4966119139",
+    "mlevel": "6",
+    "modifiedtime": "20230622095548",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "강하체육공원",
+    "zipcode": "12574",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2765231": {
+    "addr1": "경기도 양평군 강상면 양평대교길 79",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2765231",
+    "contenttypeid": "12",
+    "createdtime": "20211101185320",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.4859661494",
+    "mapy": "37.4832897707",
+    "mlevel": "6",
+    "modifiedtime": "20231016171727",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "강상체육공원",
+    "zipcode": "12572",
+    "family": [],
+    "handi": [
+      {
+        "대중교통": "양평역 1번출구 도보 30분"
+      },
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(1층/대변기, 세면대 손잡이 설치, 슬라이딩 도어)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

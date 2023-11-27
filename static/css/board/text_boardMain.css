@@ -1,0 +1,27 @@
+.Bcard{
+    border:1px solid black;
+}
+.container{
+    all: initial;
+}
+.hidden2{
+    display:none;
+}
+.header{
+    display:flex;
+    justify-content: space-between;
+}
+button,input[type="button"]{
+    border:none;
+    font-size:20px;
+}
+.plusDiv{
+    text-align: left;
+}
+.top-title{
+    position:relative;
+    bottom:-120px;
+}
+.writeMenu{
+    margin-bottom:50px;
+}

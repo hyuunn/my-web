@@ -1,0 +1,109 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "0000",
+      "resultMsg": "OK"
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "addr1": "강원특별자치도 홍천군 서석면 마리소리길 207",
+            "addr2": "",
+            "areacode": "32",
+            "booktour": "0",
+            "cat1": "A02",
+            "cat2": "A0206",
+            "cat3": "A02060100",
+            "contentid": "2613266",
+            "contenttypeid": "14",
+            "createdtime": "20190727000409",
+            "firstimage": "http://tong.visitkorea.or.kr/cms/resource/75/2388075_image2_1.JPG",
+            "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/75/2388075_image2_1.JPG",
+            "cpyrhtDivCd": "Type3",
+            "mapx": "128.2511115443",
+            "mapy": "37.7379745154",
+            "mlevel": "6",
+            "modifiedtime": "20230828153512",
+            "sigungucode": "16",
+            "tel": "",
+            "title": "마리소리골악기박물관",
+            "zipcode": "25167"
+          },
+          {
+            "addr1": "강원특별자치도 홍천군 홍천읍 생명과학관길 78",
+            "addr2": "",
+            "areacode": "32",
+            "booktour": "0",
+            "cat1": "A02",
+            "cat2": "A0206",
+            "cat3": "A02060300",
+            "contentid": "2613272",
+            "contenttypeid": "14",
+            "createdtime": "20190727000809",
+            "firstimage": "http://tong.visitkorea.or.kr/cms/resource/81/2805981_image2_1.jpg",
+            "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/81/2805981_image2_1.jpg",
+            "cpyrhtDivCd": "Type3",
+            "mapx": "127.8805579785",
+            "mapy": "37.6791521343",
+            "mlevel": "6",
+            "modifiedtime": "20230701105319",
+            "sigungucode": "16",
+            "tel": "",
+            "title": "생명건강과학관",
+            "zipcode": "25142"
+          },
+          {
+            "addr1": "강원특별자치도 홍천군 홍천읍 꽃뫼로 93",
+            "addr2": "",
+            "areacode": "32",
+            "booktour": "0",
+            "cat1": "A02",
+            "cat2": "A0206",
+            "cat3": "A02060900",
+            "contentid": "1626209",
+            "contenttypeid": "14",
+            "createdtime": "20120509203210",
+            "firstimage": "http://tong.visitkorea.or.kr/cms/resource/77/1583777_image2_1.jpg",
+            "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/77/1583777_image3_1.jpg",
+            "cpyrhtDivCd": "Type3",
+            "mapx": "127.8838073105",
+            "mapy": "37.6917868398",
+            "mlevel": "6",
+            "modifiedtime": "20230701104837",
+            "sigungucode": "16",
+            "tel": "",
+            "title": "홍천교육도서관",
+            "zipcode": "25134"
+          },
+          {
+            "addr1": "강원특별자치도 홍천군 홍천읍 설악로 1792",
+            "addr2": "",
+            "areacode": "32",
+            "booktour": "0",
+            "cat1": "A02",
+            "cat2": "A0206",
+            "cat3": "A02060600",
+            "contentid": "1722441",
+            "contenttypeid": "14",
+            "createdtime": "20120920221628",
+            "firstimage": "",
+            "firstimage2": "",
+            "cpyrhtDivCd": "",
+            "mapx": "127.8954063416",
+            "mapy": "37.6889957140",
+            "mlevel": "6",
+            "modifiedtime": "20231018143001",
+            "sigungucode": "16",
+            "tel": "",
+            "title": "홍천문화예술회관",
+            "zipcode": "25150"
+          }
+        ]
+      },
+      "numOfRows": 4,
+      "pageNo": 1,
+      "totalCount": 4
+    }
+  }
+}

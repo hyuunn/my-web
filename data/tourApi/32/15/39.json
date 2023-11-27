@@ -1,0 +1,865 @@
+{
+  "134095": {
+    "addr1": "강원특별자치도 평창군 대관령면 눈마을길 9",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "134095",
+    "contenttypeid": "39",
+    "createdtime": "20040102090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/76/816876_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/76/816876_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.7100277480",
+    "mapy": "37.6691357197",
+    "mlevel": "6",
+    "modifiedtime": "20230702052602",
+    "sigungucode": "15",
+    "tel": "033-335-5430",
+    "title": "고향이야기",
+    "zipcode": "25346",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "628661": {
+    "addr1": "강원특별자치도 평창군 진부면 오대산로 152",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "628661",
+    "contenttypeid": "39",
+    "createdtime": "20080926013756",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/80/590980_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/80/590980_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.6019054887",
+    "mapy": "37.7167114649",
+    "mlevel": "6",
+    "modifiedtime": "20230702044442",
+    "sigungucode": "15",
+    "tel": "033-332-6910",
+    "title": "동대산식당",
+    "zipcode": "25318",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "628880": {
+    "addr1": "강원특별자치도 평창군 진부면 진부중앙로 70-3",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "628880",
+    "contenttypeid": "39",
+    "createdtime": "20080926221822",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.5594367320",
+    "mapy": "37.6374003801",
+    "mlevel": "6",
+    "modifiedtime": "20230702054347",
+    "sigungucode": "15",
+    "tel": "033-335-7576",
+    "title": "부림식당",
+    "zipcode": "25332",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "628920": {
+    "addr1": "강원특별자치도 평창군 진부면 오대산로 83",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "628920",
+    "contenttypeid": "39",
+    "createdtime": "20080926225837",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/85/2793585_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/85/2793585_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.5996197843",
+    "mapy": "37.7101455138",
+    "mlevel": "6",
+    "modifiedtime": "20230702103408",
+    "sigungucode": "15",
+    "tel": "033-332-6600",
+    "title": "오대산서울식당",
+    "zipcode": "25318",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "712469": {
+    "addr1": "강원특별자치도 평창군 대관령면 올림픽로 35",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "712469",
+    "contenttypeid": "39",
+    "createdtime": "20090327195240",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/81/2048581_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/81/2048581_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.7007339427",
+    "mapy": "37.6756320115",
+    "mlevel": "6",
+    "modifiedtime": "20231108142238",
+    "sigungucode": "15",
+    "tel": "033-335-5477",
+    "title": "납작식당",
+    "zipcode": "25347",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "712490": {
+    "addr1": "강원특별자치도 평창군 대관령면 올림픽로 153",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "712490",
+    "contenttypeid": "39",
+    "createdtime": "20090327200122",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/60/552260_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/60/552260_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.7089361960",
+    "mapy": "37.6685996494",
+    "mlevel": "6",
+    "modifiedtime": "20230702100851",
+    "sigungucode": "15",
+    "tel": "033-335-4448",
+    "title": "노다지",
+    "zipcode": "25347",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "712545": {
+    "addr1": "강원특별자치도 평창군 대관령면 눈마을길 19",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "712545",
+    "contenttypeid": "39",
+    "createdtime": "20090327202243",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.7099082893",
+    "mapy": "37.6699522900",
+    "mlevel": "6",
+    "modifiedtime": "20230702053651",
+    "sigungucode": "15",
+    "tel": "033-335-5795",
+    "title": "황태회관",
+    "zipcode": "25346",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2014255": {
+    "addr1": "강원특별자치도 평창군 미탄면 평창동강로 495-6",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2014255",
+    "contenttypeid": "39",
+    "createdtime": "20150707234812",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/64/2014064_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/64/2014064_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.5412317383",
+    "mapy": "37.3037635452",
+    "mlevel": "6",
+    "modifiedtime": "20231107171543",
+    "sigungucode": "15",
+    "tel": "033-332-6277",
+    "title": "기화양어장횟집",
+    "zipcode": "25384",
+    "family": [],
+    "handi": [
+      {
+        "출입통로": "계단없이 이용할 수 있는 길이 있음 (내부 좌식테이블)_무장애 편의정보"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2512982": {
+    "addr1": "강원특별자치도 평창군 봉평면 태기로 68",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2512982",
+    "contenttypeid": "39",
+    "createdtime": "20171026225146",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/02/2512902_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/02/2512902_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.3200597682",
+    "mapy": "37.5896707772",
+    "mlevel": "6",
+    "modifiedtime": "20230719160446",
+    "sigungucode": "15",
+    "tel": "033-332-2649",
+    "title": "꼬로베이",
+    "zipcode": "25306",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2777820": {
+    "addr1": "강원특별자치도 평창군 봉평면 금당계곡로 1713",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2777820",
+    "contenttypeid": "39",
+    "createdtime": "20211123180726",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/31/2777831_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/31/2777831_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.3915518001",
+    "mapy": "37.5476353300",
+    "mlevel": "6",
+    "modifiedtime": "20230702042618",
+    "sigungucode": "15",
+    "tel": "",
+    "title": "휴먼뜰",
+    "zipcode": "25311",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "안내요원": "안내요원 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2777908": {
+    "addr1": "강원특별자치도 평창군 대관령면 횡계길 24",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2777908",
+    "contenttypeid": "39",
+    "createdtime": "20211123185010",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.7087471805",
+    "mapy": "37.6732963253",
+    "mlevel": "6",
+    "modifiedtime": "20230702101508",
+    "sigungucode": "15",
+    "tel": "",
+    "title": "수미카페",
+    "zipcode": "25344",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2778031": {
+    "addr1": "강원특별자치도 평창군 진부면 진부중앙로 51",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2778031",
+    "contenttypeid": "39",
+    "createdtime": "20211123192823",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/07/2778007_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/07/2778007_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.5575785984",
+    "mapy": "37.6363504658",
+    "mlevel": "6",
+    "modifiedtime": "20230702053240",
+    "sigungucode": "15",
+    "tel": "",
+    "title": "전원감자탕",
+    "zipcode": "25333",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2793909": {
+    "addr1": "강원특별자치도 평창군 대관령면 횡계2길 3-8",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2793909",
+    "contenttypeid": "39",
+    "createdtime": "20211214010450",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/47/2793847_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/47/2793847_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.7086277618",
+    "mapy": "37.6728019356",
+    "mlevel": "6",
+    "modifiedtime": "20230702102426",
+    "sigungucode": "15",
+    "tel": "",
+    "title": "대관령 오삼불고기",
+    "zipcode": "25344",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2794166": {
+    "addr1": "강원특별자치도 평창군 진부면 진부시장뒷길 53",
+    "addr2": "(세영) A동 102호",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2794166",
+    "contenttypeid": "39",
+    "createdtime": "20211214014341",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/11/2794111_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/11/2794111_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.5583034730",
+    "mapy": "37.6383363611",
+    "mlevel": "6",
+    "modifiedtime": "20230702053934",
+    "sigungucode": "15",
+    "tel": "",
+    "title": "장가족발",
+    "zipcode": "25325",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2795136": {
+    "addr1": "강원특별자치도 평창군 진부면 오대산로 152",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2795136",
+    "contenttypeid": "39",
+    "createdtime": "20211214183858",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/70/2795070_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/70/2795070_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.6019054887",
+    "mapy": "37.7167114649",
+    "mlevel": "6",
+    "modifiedtime": "20230702095322",
+    "sigungucode": "15",
+    "tel": "",
+    "title": "산채한마당",
+    "zipcode": "25318",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2795200": {
+    "addr1": "강원특별자치도 평창군 진부면 오대산로 152",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2795200",
+    "contenttypeid": "39",
+    "createdtime": "20211214185558",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/19/2795119_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/19/2795119_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.6019054887",
+    "mapy": "37.7167114649",
+    "mlevel": "6",
+    "modifiedtime": "20230702104302",
+    "sigungucode": "15",
+    "tel": "",
+    "title": "육칼밥 산아래",
+    "zipcode": "25318",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2795303": {
+    "addr1": "강원특별자치도 평창군 진부면 오대산로 152",
+    "addr2": "7동 1호",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2795303",
+    "contenttypeid": "39",
+    "createdtime": "20211214191709",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/14/2795214_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/14/2795214_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.6019054887",
+    "mapy": "37.7167114649",
+    "mlevel": "6",
+    "modifiedtime": "20230702042948",
+    "sigungucode": "15",
+    "tel": "",
+    "title": "감로다원",
+    "zipcode": "25318",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2795387": {
+    "addr1": "강원특별자치도 평창군 대관령면 대관령마루길 250-5",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2795387",
+    "contenttypeid": "39",
+    "createdtime": "20211214192842",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/75/2795375_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/75/2795375_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.7362640127",
+    "mapy": "37.6776574636",
+    "mlevel": "6",
+    "modifiedtime": "20230702043737",
+    "sigungucode": "15",
+    "tel": "",
+    "title": "부성오리",
+    "zipcode": "25342",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2801764": {
+    "addr1": "강원특별자치도 평창군 대관령면 대관령마루길 365-12",
+    "addr2": "(1층)",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020200",
+    "contentid": "2801764",
+    "contenttypeid": "39",
+    "createdtime": "20211220184942",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/57/2801757_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/57/2801757_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.7424854319",
+    "mapy": "37.6855761133",
+    "mlevel": "6",
+    "modifiedtime": "20230702100608",
+    "sigungucode": "15",
+    "tel": "",
+    "title": "스위스램",
+    "zipcode": "25342",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2873302": {
+    "addr1": "강원특별자치도 평창군 대관령로 193-8",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2873302",
+    "contenttypeid": "39",
+    "createdtime": "20221024144535",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/75/2873275_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/75/2873275_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.7172880760",
+    "mapy": "37.6733575942",
+    "mlevel": "6",
+    "modifiedtime": "20230702041206",
+    "sigungucode": "15",
+    "tel": "",
+    "title": "해와비",
+    "zipcode": "25343",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

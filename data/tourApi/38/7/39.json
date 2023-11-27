@@ -1,0 +1,312 @@
+{
+  "2658733": {
+    "addr1": "전라남도 담양군 담양읍 추성로 1205",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2658733",
+    "contenttypeid": "39",
+    "createdtime": "20200608204914",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/19/2666719_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/19/2666719_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9701319928",
+    "mapy": "35.3187813363",
+    "mlevel": "6",
+    "modifiedtime": "20210310005508",
+    "sigungucode": "7",
+    "tel": "061-383-1205",
+    "title": "추성로1205",
+    "zipcode": "57333",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문/자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2659687": {
+    "addr1": "전라남도 담양군 담양읍 죽향대로 1169",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2659687",
+    "contenttypeid": "39",
+    "createdtime": "20200613001126",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/18/2661218_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/18/2661218_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9804479676",
+    "mapy": "35.3100463886",
+    "mlevel": "6",
+    "modifiedtime": "20220411153844",
+    "sigungucode": "7",
+    "tel": "0507-1319-3311",
+    "title": "남도한우",
+    "zipcode": "57348",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2778411": {
+    "addr1": "전라남도 담양군 담양읍 객사4길 38-6",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2778411",
+    "contenttypeid": "39",
+    "createdtime": "20211124183146",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/17/2797017_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/17/2797017_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9846667028",
+    "mapy": "35.3232949614",
+    "mlevel": "6",
+    "modifiedtime": "20230516112559",
+    "sigungucode": "7",
+    "tel": "",
+    "title": "크렘 (crème)",
+    "zipcode": "57340",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2841784": {
+    "addr1": "전라남도 담양군 죽향문화로 22",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2841784",
+    "contenttypeid": "39",
+    "createdtime": "20220823144814",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/77/2841777_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/77/2841777_image3_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9788897714",
+    "mapy": "35.3100713593",
+    "mlevel": "6",
+    "modifiedtime": "20220919143138",
+    "sigungucode": "7",
+    "tel": "",
+    "title": "담양앞집 떡갈비국수전문점",
+    "zipcode": "57348",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문/자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2843158": {
+    "addr1": "전라남도 담양군 도개안길 75",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2843158",
+    "contenttypeid": "39",
+    "createdtime": "20220824141937",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/41/2843141_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/41/2843141_image3_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9548327875",
+    "mapy": "35.3408980177",
+    "mlevel": "6",
+    "modifiedtime": "20220916160422",
+    "sigungucode": "7",
+    "tel": "",
+    "title": "아키올로지",
+    "zipcode": "57312",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2843225": {
+    "addr1": "전라남도 담양군 깊은실길 16",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2843225",
+    "contenttypeid": "39",
+    "createdtime": "20220824143202",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/06/2843206_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/06/2843206_image3_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0038150380",
+    "mapy": "35.3220843134",
+    "mlevel": "6",
+    "modifiedtime": "20220916150651",
+    "sigungucode": "7",
+    "tel": "",
+    "title": "명가정",
+    "zipcode": "57351",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2846536": {
+    "addr1": "전라남도 담양군 연산길 89-11",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2846536",
+    "contenttypeid": "39",
+    "createdtime": "20220831103250",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/27/2846527_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/27/2846527_image3_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9688971719",
+    "mapy": "35.2721088155",
+    "mlevel": "6",
+    "modifiedtime": "20221121154855",
+    "sigungucode": "7",
+    "tel": "",
+    "title": "옥담",
+    "zipcode": "57371",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문/자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

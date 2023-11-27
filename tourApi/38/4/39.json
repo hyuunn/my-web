@@ -1,0 +1,167 @@
+{
+  "642995": {
+    "addr1": "전라남도 광양시 서천1길 52",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "642995",
+    "contenttypeid": "39",
+    "createdtime": "20081029003910",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.5787344231",
+    "mapy": "34.9701588672",
+    "mlevel": "6",
+    "modifiedtime": "20230414111034",
+    "sigungucode": "4",
+    "tel": "061-763-9250",
+    "title": "삼대광양불고기집",
+    "zipcode": "57754",
+    "family": [
+      {
+        "영유아가족 기타 지원 항목": "놀이방있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1373754": {
+    "addr1": "전라남도 광양시 광양읍 서천2길 27",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "1373754",
+    "contenttypeid": "39",
+    "createdtime": "20110831002456",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.5808758756",
+    "mapy": "34.9712143412",
+    "mlevel": "6",
+    "modifiedtime": "20230530110252",
+    "sigungucode": "4",
+    "tel": "0507-1489-0069",
+    "title": "대갓집 숯불직화구이",
+    "zipcode": "57739",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1373934": {
+    "addr1": "전라남도 광양시 폭포사랑길 99",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020300",
+    "contentid": "1373934",
+    "contenttypeid": "39",
+    "createdtime": "20110831025721",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.7322744971",
+    "mapy": "34.9402982197",
+    "mlevel": "6",
+    "modifiedtime": "20231109161912",
+    "sigungucode": "4",
+    "tel": "061-799-1701",
+    "title": "석천",
+    "zipcode": "57804",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "기타 지원 항목": "입식(의자식)테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2871756": {
+    "addr1": "전라남도 광양시 시청로 82",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2871756",
+    "contenttypeid": "39",
+    "createdtime": "20221020141522",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/52/2871752_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/52/2871752_image3_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7007133948",
+    "mapy": "34.9395310901",
+    "mlevel": "6",
+    "modifiedtime": "20221103142851",
+    "sigungucode": "4",
+    "tel": "",
+    "title": "대복삼계탕",
+    "zipcode": "57786",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

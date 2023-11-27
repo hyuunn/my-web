@@ -1,0 +1,44 @@
+{
+  "2013935": {
+    "addr1": "전라남도 담양군 용면 추월산로 735",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03022700",
+    "contentid": "2013935",
+    "contenttypeid": "28",
+    "createdtime": "20150707014815",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/27/1941027_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/27/1941027_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9930309983",
+    "mapy": "35.3875211686",
+    "mlevel": "6",
+    "modifiedtime": "20230223135908",
+    "sigungucode": "7",
+    "tel": "",
+    "title": "담양 용마루길",
+    "zipcode": "57300",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "데크길을 이용하여 이동가능"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "보조견 동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

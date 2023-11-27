@@ -1,0 +1,303 @@
+{
+  "1832147": {
+    "addr1": "경기도 안성시 양성면 안성맞춤대로 2184-5",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "1832147",
+    "contenttypeid": "39",
+    "createdtime": "20130820014056",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/77/2371177_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/77/2371177_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2544034335",
+    "mapy": "37.1044877299",
+    "mlevel": "6",
+    "modifiedtime": "20230919151405",
+    "sigungucode": "16",
+    "tel": "031-673-9958",
+    "title": "소나무향기",
+    "zipcode": "17500",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1846815": {
+    "addr1": "경기도 안성시 고삼면 안성대로 2126",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "1846815",
+    "contenttypeid": "39",
+    "createdtime": "20130925225542",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/03/1846803_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/03/1846803_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2561339499",
+    "mapy": "37.1002938013",
+    "mlevel": "6",
+    "modifiedtime": "20221026102045",
+    "sigungucode": "16",
+    "tel": "031-674-7559",
+    "title": "맛집막국수",
+    "zipcode": "17505",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2609529": {
+    "addr1": "경기도 안성시 중앙로371번길 54",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2609529",
+    "contenttypeid": "39",
+    "createdtime": "20190704235130",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/08/2609708_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/08/2609708_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2694852678",
+    "mapy": "37.0099627993",
+    "mlevel": "6",
+    "modifiedtime": "20230329174343",
+    "sigungucode": "16",
+    "tel": "031-675-4703",
+    "title": "[백년가게]장안면옥",
+    "zipcode": "17580",
+    "family": [],
+    "handi": [
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2736694": {
+    "addr1": "경기도 안성시 양성면 안성맞춤대로 2289-11",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2736694",
+    "contenttypeid": "39",
+    "createdtime": "20210826195710",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/63/2750463_image2_1.png",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/63/2750463_image2_1.png",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2465457055",
+    "mapy": "37.1082288231",
+    "mlevel": "6",
+    "modifiedtime": "20231107131038",
+    "sigungucode": "16",
+    "tel": "",
+    "title": "태웅이네 막국수",
+    "zipcode": "17500",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2792510": {
+    "addr1": "경기도 안성시 원곡면 칠곡호수길 22",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2792510",
+    "contenttypeid": "39",
+    "createdtime": "20211213175626",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/29/2795329_image2_1.png",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/29/2795329_image2_1.png",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1510893940",
+    "mapy": "37.0463870322",
+    "mlevel": "6",
+    "modifiedtime": "20230224112452",
+    "sigungucode": "16",
+    "tel": "",
+    "title": "에메랄드그린",
+    "zipcode": "17555",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문/자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2792666": {
+    "addr1": "경기도 안성시 보개면 동문이길 14-17",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2792666",
+    "contenttypeid": "39",
+    "createdtime": "20211213193428",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/67/2797767_image2_1.png",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/67/2797767_image2_1.png",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2915723587",
+    "mapy": "37.0029695579",
+    "mlevel": "6",
+    "modifiedtime": "20230329105913",
+    "sigungucode": "16",
+    "tel": "",
+    "title": "청류재커피",
+    "zipcode": "17510",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2792683": {
+    "addr1": "경기도 안성시 원곡면 만세로 1421-13",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2792683",
+    "contenttypeid": "39",
+    "createdtime": "20211213194210",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/44/2797744_image2_1.png",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/44/2797744_image2_1.png",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1304276683",
+    "mapy": "37.0357490027",
+    "mlevel": "6",
+    "modifiedtime": "20230127172214",
+    "sigungucode": "16",
+    "tel": "",
+    "title": "이디알베이커리카페",
+    "zipcode": "17556",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

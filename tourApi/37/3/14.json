@@ -1,0 +1,164 @@
+{
+  "129978": {
+    "addr1": "전라북도 김제시 서암5길 5",
+    "addr2": "(서암동)",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060700",
+    "contentid": "129978",
+    "contenttypeid": "14",
+    "createdtime": "20071106103735",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/51/1976151_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/51/1976151_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8820051701",
+    "mapy": "35.8046635768",
+    "mlevel": "6",
+    "modifiedtime": "20220808094053",
+    "sigungucode": "3",
+    "tel": "",
+    "title": "김제문화원",
+    "zipcode": "54386",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "130253": {
+    "addr1": "전라북도 김제시 부량면 벽골제로 442",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "130253",
+    "contenttypeid": "14",
+    "createdtime": "20071106104904",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/66/1603966_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/66/1603966_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8536117489",
+    "mapy": "35.7554048082",
+    "mlevel": "6",
+    "modifiedtime": "20220826154150",
+    "sigungucode": "3",
+    "tel": "063-540-4094, 4993",
+    "title": "벽골제 농경문화 박물관",
+    "zipcode": "54425",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 계단만 있으나 옆문의 보조출입구에는 경사로가 설치되어 있음"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음(접근이 불편함)"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1624811": {
+    "addr1": "전라북도 김제시 부량면 용성1길 24",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "1624811",
+    "contenttypeid": "14",
+    "createdtime": "20120508210755",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/82/1603982_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/82/1603982_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8487428274",
+    "mapy": "35.7519467849",
+    "mlevel": "6",
+    "modifiedtime": "20220916175520",
+    "sigungucode": "3",
+    "tel": "",
+    "title": "조정래 아리랑문학관",
+    "zipcode": "54425",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2737317": {
+    "addr1": "전라북도 김제시 부량면 벽골제로 421",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02061100",
+    "contentid": "2737317",
+    "contenttypeid": "14",
+    "createdtime": "20210830201301",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/90/2737490_image2_1.png",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/90/2737490_image2_1.png",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8510731334",
+    "mapy": "35.7535771949",
+    "mlevel": "6",
+    "modifiedtime": "20231030112520",
+    "sigungucode": "3",
+    "tel": "",
+    "title": "국립청소년농생명센터",
+    "zipcode": "54425",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

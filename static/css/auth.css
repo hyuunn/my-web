@@ -1,0 +1,16 @@
+*{
+    font-family: 'Noto Sans KR', sans-serif;
+}
+#content{
+    text-align: center;
+    padding: 15px;
+}
+#content h2{
+    margin: 20px;
+}
+#content button{
+    background-color: ddd;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+}

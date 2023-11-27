@@ -1,0 +1,183 @@
+{
+  "131413": {
+    "addr1": "경상북도 경주시 새남산길 62",
+    "addr2": "(남산동)",
+    "areacode": "35",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03020200",
+    "contentid": "131413",
+    "contenttypeid": "28",
+    "createdtime": "20040227090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/64/3034364_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/64/3034364_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.2402134126",
+    "mapy": "35.8053198838",
+    "mlevel": "6",
+    "modifiedtime": "20231108152333",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "화랑교육원",
+    "zipcode": "38174",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(생활동)"
+      },
+      {
+        "기타 지원 항목": "휠체어 리프트있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "131558": {
+    "addr1": "경상북도 경주시 불국로 289-17",
+    "addr2": "(마동)",
+    "areacode": "35",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03020700",
+    "contentid": "131558",
+    "contenttypeid": "28",
+    "createdtime": "20030520090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/37/1963937_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/37/1963937_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.3217262187",
+    "mapy": "35.7878567283",
+    "mlevel": "6",
+    "modifiedtime": "20221228185102",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "코오롱가든골프장",
+    "zipcode": "38126",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "131760": {
+    "addr1": "경상북도 경주시 양남면 동남로 982",
+    "addr2": "",
+    "areacode": "35",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03020700",
+    "contentid": "131760",
+    "contenttypeid": "28",
+    "createdtime": "20031209090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/27/1963927_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/27/1963927_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.3754937212",
+    "mapy": "35.6909714418",
+    "mlevel": "6",
+    "modifiedtime": "20230426104803",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "마우나오션 컨트리클럽",
+    "zipcode": "38221",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "131885": {
+    "addr1": "경상북도 경주시 알천북로 131",
+    "addr2": "(황성동)",
+    "areacode": "35",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03020200",
+    "contentid": "131885",
+    "contenttypeid": "28",
+    "createdtime": "20070110090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/72/1891472_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/72/1891472_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.2158863483",
+    "mapy": "35.8551304690",
+    "mlevel": "6",
+    "modifiedtime": "20230610063042",
+    "sigungucode": "2",
+    "tel": "054-779-6171~6",
+    "title": "경주시청소년수련관",
+    "zipcode": "38088",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자유도로 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

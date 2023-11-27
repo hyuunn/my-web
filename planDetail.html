@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Travel</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+        <link href="/css/planDetail.css" rel="stylesheet">
+        <link href="/css/navbar.css" rel="stylesheet">
+        <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=973bd6a9d94de434166af01949bb7d0f"></script>
+        <script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.4/index.global.min.js'></script>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;900&family=Raleway:ital,wght@1,200&display=swap" rel="stylesheet">
+        <script src="https://use.fontawesome.com/releases/v5.2.0/js/all.js"></script>
+    </head>
+    <body>
+      <nav class="navbar">
+        <div class="nav_logo">  <!--타이틀-->
+          <a href="/">Traveler</a>
+        </div>
+        <ul class="nav_menu"> <!--메뉴바-->
+          <li><a href="#">여행지 탐색</a></li>
+          <li><a href="/planner">일정 짜기</a></li>
+          <li><a href="#">게시판</a></li>
+        </ul>
+        <ul class="nav_login">  <!--로그인/회원가입-->
+          <li><a href="/login">로그인</a></li>
+          <li><a href="#">회원 가입</a></li>
+        </ul>
+        <a class="nav_toggle" href="#"> <!--토글버튼-->
+          <i class="fas fa-bars"></i>
+        </a>
+      </nav>
+
+      <div class="container">
+        <div id="title">
+          <h2>부산 여행</h2>
+          <h5>2023.05.03 ~ 2023.05.05</h5><br>
+          <p>여행이 30일 남았네요!</p>
+        </div>
+        <div class="row">
+          <div class="col" id="bookmark">
+            <p>미연님의 북마크 장소</p>
+            <div id="map"></div>
+          </div>
+          <div class="col" id="scheduler">
+            <p>여행 일정</p>
+            <div id="calendar"> </div>
+          </div>
+        </div>
+      </div>
+        
+      <script src="/js/planDetail.js"></script>
+      <script src="/js/navbar.js"></script>
+    </body>
+</html>

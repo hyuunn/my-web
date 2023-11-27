@@ -1,0 +1,434 @@
+{
+  "126273": {
+    "addr1": "전라남도 진도군 고군면 신비의바닷길 47",
+    "addr2": "(고군면)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01011200",
+    "contentid": "126273",
+    "contenttypeid": "12",
+    "createdtime": "20031107090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/17/1608017_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/17/1608017_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.3547412438",
+    "mapy": "34.4354594945",
+    "mlevel": "6",
+    "modifiedtime": "20230703110809",
+    "sigungucode": "21",
+    "tel": "",
+    "title": "가계해변",
+    "zipcode": "58911",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "해변가에 접근 가능한 경사로가 있으나 모래로 된 길임"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(주차장 안 아름다운가계 화장실,경사로설치)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(아름다운가계 화장실 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "126375": {
+    "addr1": "전라남도 진도군 의신면 운림산방로 315",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010400",
+    "contentid": "126375",
+    "contenttypeid": "12",
+    "createdtime": "20070928090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/39/2654839_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/39/2654839_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.3083751489",
+    "mapy": "34.4664497128",
+    "mlevel": "6",
+    "modifiedtime": "20230922151618",
+    "sigungucode": "21",
+    "tel": "",
+    "title": "진도 운림산방",
+    "zipcode": "58934",
+    "family": [
+      {
+        "유모차": "대여가능(매표소)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "대여가능(매표소)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음(운림카페)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "128224": {
+    "addr1": "전라남도 진도군 지산면 가학리 산27-3",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01011100",
+    "contentid": "128224",
+    "contenttypeid": "12",
+    "createdtime": "20041101090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/15/2687415_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/15/2687415_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.1022216978",
+    "mapy": "34.4404159812",
+    "mlevel": "6",
+    "modifiedtime": "20230314113455",
+    "sigungucode": "21",
+    "tel": "",
+    "title": "세방낙조 전망대",
+    "zipcode": "58952",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "129111": {
+    "addr1": "전라남도 진도군 지산면 세방길 6",
+    "addr2": "(세방마을회관)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "B02",
+    "cat2": "B0201",
+    "cat3": "B02011000",
+    "contentid": "129111",
+    "contenttypeid": "12",
+    "createdtime": "20060630090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/88/1037088_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/88/1037088_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.1089071714",
+    "mapy": "34.4424686361",
+    "mlevel": "6",
+    "modifiedtime": "20230526095701",
+    "sigungucode": "21",
+    "tel": "",
+    "title": "세방마을",
+    "zipcode": "58952",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "데크로드 산책로 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1623912": {
+    "addr1": "전라남도 진도군 진도읍 철마길 17",
+    "addr2": "(진도읍)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "1623912",
+    "contenttypeid": "12",
+    "createdtime": "20120507223234",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/09/1608009_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/09/1608009_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.2638036281",
+    "mapy": "34.4853552040",
+    "mlevel": "6",
+    "modifiedtime": "20230329112014",
+    "sigungucode": "21",
+    "tel": "",
+    "title": "철마공원",
+    "zipcode": "58915",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "무단차 공원임"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(공원공중화장실)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2406053": {
+    "addr1": "전라남도 진도군 군내면 만금길 112-41",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0205",
+    "cat3": "A02050600",
+    "contentid": "2406053",
+    "contenttypeid": "12",
+    "createdtime": "20160830013147",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/09/2511609_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/09/2511609_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.3025094229",
+    "mapy": "34.5660078857",
+    "mlevel": "6",
+    "modifiedtime": "20220418093307",
+    "sigungucode": "21",
+    "tel": "",
+    "title": "진도타워",
+    "zipcode": "58900",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "대여가능(2대)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(1,2층)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음(식음업장)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(계단 앞)_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2407125": {
+    "addr1": "전라남도 진도군 군내면 진도대로 8439-19",
+    "addr2": "(군내면)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2407125",
+    "contenttypeid": "12",
+    "createdtime": "20160901024025",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/68/2405168_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/68/2405168_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.2996762157",
+    "mapy": "34.5712239200",
+    "mlevel": "6",
+    "modifiedtime": "20220520104436",
+    "sigungucode": "21",
+    "tel": "",
+    "title": "이충무공승전공원",
+    "zipcode": "58900",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "무단차로 구성되어 있으며 해변가 데크로드가 조성되어 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(주차장화장실,경사로 설치됨)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2712642": {
+    "addr1": "전라남도 진도군 의신면 사천리",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010600",
+    "contentid": "2712642",
+    "contenttypeid": "12",
+    "createdtime": "20210330195924",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/76/2708876_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/76/2708876_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.2928986347",
+    "mapy": "34.4706406587",
+    "mlevel": "6",
+    "modifiedtime": "20230309150629",
+    "sigungucode": "21",
+    "tel": "",
+    "title": "운림산림욕장",
+    "zipcode": "58934",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "바람막이 데크는 계단이 있어 휠체어 접근 어려움 / 전망대까지는 나무데크로 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2732638": {
+    "addr1": "전라남도 진도군 진도읍 성죽골길 30",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020600",
+    "contentid": "2732638",
+    "contenttypeid": "12",
+    "createdtime": "20210811010115",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/39/2732639_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/39/2732639_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.2785746191",
+    "mapy": "34.4823946639",
+    "mlevel": "6",
+    "modifiedtime": "20230919154150",
+    "sigungucode": "21",
+    "tel": "",
+    "title": "진도개테마파크",
+    "zipcode": "58927",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2752492": {
+    "addr1": "전라남도 진도군 고군면 신비의바닷길 148",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030400",
+    "contentid": "2752492",
+    "contenttypeid": "12",
+    "createdtime": "20211001203332",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/86/2752486_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/86/2752486_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.3513556228",
+    "mapy": "34.4273047987",
+    "mlevel": "6",
+    "modifiedtime": "20230914130024",
+    "sigungucode": "21",
+    "tel": "",
+    "title": "신비의 바닷길 체험관",
+    "zipcode": "58911",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

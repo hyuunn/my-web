@@ -1,0 +1,743 @@
+{
+  "602559": {
+    "addr1": "경기도 수원시 장안구 경수대로 1013",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "602559",
+    "contenttypeid": "39",
+    "createdtime": "20080804190804",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/00/1790000_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/00/1790000_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0006207800",
+    "mapy": "37.3062292930",
+    "mlevel": "6",
+    "modifiedtime": "20230125155605",
+    "sigungucode": "13",
+    "tel": "031-252-4700",
+    "title": "송풍가든",
+    "zipcode": "16300",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "602854": {
+    "addr1": "경기도 수원시 팔달구 중부대로223번길 41",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "602854",
+    "contenttypeid": "39",
+    "createdtime": "20080804221856",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/12/1022312_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/12/1022312_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0406068312",
+    "mapy": "37.2779138428",
+    "mlevel": "6",
+    "modifiedtime": "20230404092650",
+    "sigungucode": "13",
+    "tel": "031-211-8434",
+    "title": "본수원갈비",
+    "zipcode": "16496",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "602895": {
+    "addr1": "경기도 수원시 팔달구 장다리로 282",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "602895",
+    "contenttypeid": "39",
+    "createdtime": "20080804223022",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/30/817030_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/30/817030_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0286635731",
+    "mapy": "37.2742501647",
+    "mlevel": "6",
+    "modifiedtime": "20221201150502",
+    "sigungucode": "13",
+    "tel": "1600-3883",
+    "title": "가보정갈비",
+    "zipcode": "16481",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "1층"
+      },
+      {
+        "기타 지원 항목": "입식(의자식)테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2549359": {
+    "addr1": "경기도 수원시 영통구 대학로 56",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2549359",
+    "contenttypeid": "39",
+    "createdtime": "20180529181358",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/60/2549360_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/60/2549360_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0451835521",
+    "mapy": "37.3008140498",
+    "mlevel": "6",
+    "modifiedtime": "20230323102252",
+    "sigungucode": "13",
+    "tel": "010-9283-1248",
+    "title": "조개창고 수원점",
+    "zipcode": "16226",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "기타 지원 항목": "입식(의자식)테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2607118": {
+    "addr1": "경기도 수원시 팔달구 정조로800번길 6-3",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2607118",
+    "contenttypeid": "39",
+    "createdtime": "20190619004957",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/04/2607204_image2_1.jpeg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/04/2607204_image2_1.jpeg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "0",
+    "mapy": "0",
+    "mlevel": "",
+    "modifiedtime": "20230220160107",
+    "sigungucode": "13",
+    "tel": "031-255-7493",
+    "title": "[백년가게](신)대원옥",
+    "zipcode": "16257",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2747216": {
+    "addr1": "경기도 수원시 영통구 센트럴타운로 85",
+    "addr2": "(이의동,광교C1 호반베르디움, Summit Place광교)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2747216",
+    "contenttypeid": "39",
+    "createdtime": "20210918000543",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/02/2747202_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/02/2747202_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0504694649",
+    "mapy": "37.2907875283",
+    "mlevel": "6",
+    "modifiedtime": "20221220163813",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "335키친광교아브뉴프랑점",
+    "zipcode": "16507",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2751135": {
+    "addr1": "경기도 수원시 영통구 광교호수공원로 80",
+    "addr2": "(원천동,광교아이파크)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2751135",
+    "contenttypeid": "39",
+    "createdtime": "20210929184009",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/46/2751346_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/46/2751346_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0612356238",
+    "mapy": "37.2740285505",
+    "mlevel": "6",
+    "modifiedtime": "20230927141029",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "책발전소광교",
+    "zipcode": "16514",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2753973": {
+    "addr1": "경기도 수원시 권선구 매송고색로 634-17",
+    "addr2": "(고색동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2753973",
+    "contenttypeid": "39",
+    "createdtime": "20211006233112",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/96/2754296_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/96/2754296_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9735304690",
+    "mapy": "37.2462552007",
+    "mlevel": "6",
+    "modifiedtime": "20231011112144",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "외식중학교",
+    "zipcode": "16641",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2754009": {
+    "addr1": "경기도 수원시 영통구 센트럴파크로127번길 18",
+    "addr2": "(이의동) 1층",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020300",
+    "contentid": "2754009",
+    "contenttypeid": "39",
+    "createdtime": "20211006234541",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/06/2754306_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/06/2754306_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0552605675",
+    "mapy": "37.2953898587",
+    "mlevel": "6",
+    "modifiedtime": "20231017112402",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "오늘의초밥",
+    "zipcode": "16506",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2754015": {
+    "addr1": "경기도 수원시 영통구 센트럴파크로127번길 159",
+    "addr2": "(이의동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020200",
+    "contentid": "2754015",
+    "contenttypeid": "39",
+    "createdtime": "20211006234712",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/35/2754335_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/35/2754335_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0557799941",
+    "mapy": "37.2943510994",
+    "mlevel": "6",
+    "modifiedtime": "20230120152300",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "서양식탁",
+    "zipcode": "16506",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2754026": {
+    "addr1": "경기도 수원시 장안구 경수대로 1196-3",
+    "addr2": "(파장동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020400",
+    "contentid": "2754026",
+    "contenttypeid": "39",
+    "createdtime": "20211006234842",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/68/2754368_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/68/2754368_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9889659556",
+    "mapy": "37.3179166199",
+    "mlevel": "6",
+    "modifiedtime": "20231010161805",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "백세짬뽕북수원본점",
+    "zipcode": "16207",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문/자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2815299": {
+    "addr1": "경기도 수원시 영통구 반달로35번길 30 영통역 아이파크",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2815299",
+    "contenttypeid": "39",
+    "createdtime": "20220406164703",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.0774764392",
+    "mapy": "37.2518314104",
+    "mlevel": "6",
+    "modifiedtime": "20220503105521",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "쏘칼로",
+    "zipcode": "16705",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2846589": {
+    "addr1": "경기도 수원시 영통구 센트럴파크로127번길 147",
+    "addr2": "1층",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2846589",
+    "contenttypeid": "39",
+    "createdtime": "20220831110425",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/85/2846585_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/85/2846585_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0553272588",
+    "mapy": "37.2942927645",
+    "mlevel": "6",
+    "modifiedtime": "20221121154327",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "디어스윗랩",
+    "zipcode": "16506",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2851839": {
+    "addr1": "경기도 수원시 팔달구 인계로166번길 48-7 HP(에이치피)",
+    "addr2": "4층",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2851839",
+    "contenttypeid": "39",
+    "createdtime": "20220908101749",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/30/2851830_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/30/2851830_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0343550031",
+    "mapy": "37.2642514242",
+    "mlevel": "6",
+    "modifiedtime": "20230125171240",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "카페 디아즈",
+    "zipcode": "16488",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2868608": {
+    "addr1": "경기도 수원시 팔달구 인계로166번길 16-7",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2868608",
+    "contenttypeid": "39",
+    "createdtime": "20221017171212",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/68/2868568_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/68/2868568_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0348688055",
+    "mapy": "37.2656818237",
+    "mlevel": "6",
+    "modifiedtime": "20221121140357",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "조대감부대찌개",
+    "zipcode": "16488",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2873484": {
+    "addr1": "경기도 수원시 권선구 서부로 1380",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2873484",
+    "contenttypeid": "39",
+    "createdtime": "20221024153011",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/73/2873473_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/73/2873473_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9847798075",
+    "mapy": "37.2333680049",
+    "mlevel": "6",
+    "modifiedtime": "20221202152744",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "마포해장",
+    "zipcode": "16648",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2873532": {
+    "addr1": "경기도 수원시 권선구 금호로 146",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2873532",
+    "contenttypeid": "39",
+    "createdtime": "20221024154216",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/24/2873524_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/24/2873524_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9660415105",
+    "mapy": "37.2731463979",
+    "mlevel": "6",
+    "modifiedtime": "20221103175437",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "살살녹소",
+    "zipcode": "16403",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

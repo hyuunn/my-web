@@ -1,0 +1,2008 @@
+{
+  "125994":{
+     "addr1":"대전광역시 유성구 대덕대로 480",
+     "addr2":"(도룡동)",
+     "areacode":"3",
+     "booktour":"1",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"125994",
+     "contenttypeid":"12",
+     "createdtime":"20060616090000",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.3849895164",
+     "mapy":"36.3775458553",
+     "mlevel":"6",
+     "modifiedtime":"20230610062632",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"대전엑스포과학공원",
+     "zipcode":"34126",
+     "family":[
+        {
+           "유모차":"대여가능( 대여료 1,000원, 신분증 지참)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "휠체어":"대여가능"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        },
+        {
+           "기타 지원 항목":"공원을 돌아볼 수 있는 패밀리카 대여 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(전시관 앞)_시각장애인 편의시설"
+        },
+        {
+           "안내요원":"안내요원 있음(주출입구 앞, 각 전시관 상시 배치)"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "126003":{
+     "addr1":"대전광역시 유성구 현충원로 251",
+     "addr2":"",
+     "areacode":"3",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0201",
+     "cat3":"A02011000",
+     "contentid":"126003",
+     "contenttypeid":"12",
+     "createdtime":"20031217090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/25/2661825_image2_1.JPG",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/25/2661825_image2_1.JPG",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.2985587765",
+     "mapy":"36.3622460736",
+     "mlevel":"6",
+     "modifiedtime":"20221108155708",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"국립대전현충원 보훈둘레길",
+     "zipcode":"34151",
+     "family":[
+        {
+           "영유아가족 기타 지원 항목":"보훈가족 등을 위한 쉼터와 야생화공원 등이  있음"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"주출입구 무단차 \n현충관· 봉안관 등 시설내 출입문은 자동 또는 여닫이(쌍문)로 편리함\n건물 복도가 1.8m 이상으로 휠체어 사용자 왕래가 편리함"
+        },
+        {
+           "휠체어":"휠체어 대여 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음"
+        },
+        {
+           "안내요원":"안내요원 있음"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "126838":{
+     "addr1":"대전광역시 중구 뿌리공원로 79 뿌리공원",
+     "addr2":"",
+     "areacode":"3",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"126838",
+     "contenttypeid":"12",
+     "createdtime":"20031105090000",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.3864280203",
+     "mapy":"36.2845065219",
+     "mlevel":"6",
+     "modifiedtime":"20221205160819",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"뿌리공원",
+     "zipcode":"35085",
+     "family":[
+        {
+           "수유실":"수유실 있음(한국족보박물관 내 수유실)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "안내요원":"안내요원 있음(주출입구)"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "127542":{
+     "addr1":"대전광역시 중구 대사동 197-208",
+     "addr2":"",
+     "areacode":"3",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01010500",
+     "contentid":"127542",
+     "contenttypeid":"12",
+     "createdtime":"20031105090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/50/2675750_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/50/2675750_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.4222435934",
+     "mapy":"36.3092682155",
+     "mlevel":"6",
+     "modifiedtime":"20230314144522",
+     "sigungucode":"5",
+     "tel":"042-606-6114",
+     "title":"보문산 행복 숲 둘레길",
+     "zipcode":"35052",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "화장실":"장애인 화장실 있음(5개)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"화장실에 점자블록 있음"
+        },
+        {
+           "유도안내설비":"화장실 앞에는 시각장애인을 위한 유도표시가 있음"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "127641":{
+     "addr1":"대전광역시 중구 사정공원로 70",
+     "addr2":"(사정동)",
+     "areacode":"3",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020600",
+     "contentid":"127641",
+     "contenttypeid":"12",
+     "createdtime":"20031106090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/57/2370157_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/57/2370157_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.4001294978",
+     "mapy":"36.2873119994",
+     "mlevel":"6",
+     "modifiedtime":"20230323091353",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"대전오월드",
+     "zipcode":"35073",
+     "family":[
+        {
+           "유모차":"대여가능"
+        },
+        {
+           "수유실":"수유실 있음(정문광장 편의시설 센터 1층, 아프리카사파리 출구, 플라워랜드 종합편익센터 1층)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "휠체어":"대여가능(장애인복지카드 소지자는 무료)"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자유도로 있음_시각장애인 편의시설"
+        },
+        {
+           "안내요원":"안내요원 있음"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "128344":{
+     "addr1":"대전광역시 유성구 과학로 213-48",
+     "addr2":"(신성동)",
+     "areacode":"3",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01010500",
+     "contentid":"128344",
+     "contenttypeid":"12",
+     "createdtime":"20050317090000",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.3536144373",
+     "mapy":"36.3815392861",
+     "mlevel":"6",
+     "modifiedtime":"20230717110759",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"대전시민천문대",
+     "zipcode":"34128",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로 및 엘리베이터 이용 이동(전체관 휠체어 접근 가능)"
+        },
+        {
+           "출입통로":"주출입구는 경사로 있어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터, 휠체어 리프트 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "129438":{
+     "addr1":"대전광역시 서구 장안로 461",
+     "addr2":"",
+     "areacode":"3",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01010600",
+     "contentid":"129438",
+     "contenttypeid":"12",
+     "createdtime":"20070906090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/50/2661750_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/50/2661750_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.3412755693",
+     "mapy":"36.2159580005",
+     "mlevel":"6",
+     "modifiedtime":"20230427114128",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"장태산자연휴양림",
+     "zipcode":"35428",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "출입통로":"무장애 공간이 있으며 무장애 목재 데크가 있는 구간에는 연속손잡이가 설치되어 있음"
+        },
+        {
+           "화장실":"장애인 화장실있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "250279":{
+     "addr1":"대전광역시 서구 대덕대로317번길",
+     "addr2":"(월평동)",
+     "areacode":"3",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0201",
+     "cat3":"A02010700",
+     "contentid":"250279",
+     "contenttypeid":"12",
+     "createdtime":"20071018090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/14/1585614_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/14/1585614_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.3783794582",
+     "mapy":"36.3605282406",
+     "mlevel":"6",
+     "modifiedtime":"20230413034610",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"둔산선사유적지",
+     "zipcode":"35214",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "250292":{
+     "addr1":"대전광역시 대덕구 장동",
+     "addr2":",읍내동, 법동, 이현동 일원",
+     "areacode":"3",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0201",
+     "cat3":"A02010200",
+     "contentid":"250292",
+     "contenttypeid":"12",
+     "createdtime":"20071019090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/30/1585930_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/30/1585930_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.4539606640",
+     "mapy":"36.3944590357",
+     "mlevel":"6",
+     "modifiedtime":"20220516150807",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"대전 계족산성",
+     "zipcode":"34345",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "화장실":"장애인 전용 화장실 있음-무장애 편의정보"
+        },
+        {
+           "기타 지원 항목":"데크로드 산책로 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "705678":{
+     "addr1":"대전광역시 대덕구 산디로 79-70",
+     "addr2":"",
+     "areacode":"3",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01010600",
+     "contentid":"705678",
+     "contenttypeid":"12",
+     "createdtime":"20090312222920",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.4425308280",
+     "mapy":"36.4055714493",
+     "mlevel":"6",
+     "modifiedtime":"20230203092902",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"장동산림욕장",
+     "zipcode":"34345",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "화장실":"장애인 화장실 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "741658":{
+     "addr1":"대전광역시 서구 둔산대로 169",
+     "addr2":"",
+     "areacode":"3",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01010700",
+     "contentid":"741658",
+     "contenttypeid":"12",
+     "createdtime":"20090527001646",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/70/2661770_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/70/2661770_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.3862701991",
+     "mapy":"36.3686302309",
+     "mlevel":"6",
+     "modifiedtime":"20230823135801",
+     "sigungucode":"3",
+     "tel":"042-270-8452~5",
+     "title":"한밭수목원",
+     "zipcode":"35204",
+     "family":[
+        {
+           "유모차":"대여가능"
+        },
+        {
+           "수유실":"수유실 있음(방문자 안내센터)"
+        },
+        {
+           "영유아가족 기타 지원 항목":"어린이 놀이터 있음"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 평지로 되어 있으나 흙(돌) 구간 있음"
+        },
+        {
+           "휠체어":"대여가능"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음(연구관리동)"
+        },
+        {
+           "화장실":"장애인 화장실 있음(연구관리동)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음(연구관리동 카페)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능"
+        },
+        {
+           "안내요원":"안내요원 있음"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "741957":{
+     "addr1":"대전광역시 유성구 엑스포로 219-39",
+     "addr2":"(원촌동)",
+     "areacode":"3",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020600",
+     "contentid":"741957",
+     "contenttypeid":"12",
+     "createdtime":"20090527010859",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/57/1093557_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/57/1093557_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.3998576096",
+     "mapy":"36.3783182530",
+     "mlevel":"6",
+     "modifiedtime":"20230610072612",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"솔로몬로파크",
+     "zipcode":"34124",
+     "family":[
+        {
+           "수유실":"수유실 있음"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 1단차가 있어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주 출입구 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "945477":{
+     "addr1":"대전광역시 동구 충정로 53",
+     "addr2":"",
+     "areacode":"3",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0201",
+     "cat3":"A02010700",
+     "contentid":"945477",
+     "contenttypeid":"12",
+     "createdtime":"20100205021536",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/46/2675746_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/46/2675746_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.4589725875",
+     "mapy":"36.3481671989",
+     "mlevel":"6",
+     "modifiedtime":"20220519094949",
+     "sigungucode":"2",
+     "tel":"042-251-4205",
+     "title":"우암사적공원",
+     "zipcode":"34505",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1083960":{
+     "addr1":"대전광역시 동구 세천동 산43-5",
+     "addr2":"",
+     "areacode":"3",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01010600",
+     "contentid":"1083960",
+     "contenttypeid":"12",
+     "createdtime":"20100831221011",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/02/2661802_image2_1.JPG",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/02/2661802_image2_1.JPG",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.4805913460",
+     "mapy":"36.3023644859",
+     "mlevel":"6",
+     "modifiedtime":"20221107223345",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"식장산 문화공원(해돋이전망대)",
+     "zipcode":"34501",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1089992":{
+     "addr1":"대전광역시 유성구 대덕대로 480",
+     "addr2":"(도룡동)",
+     "areacode":"3",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0203",
+     "cat3":"A02030400",
+     "contentid":"1089992",
+     "contenttypeid":"12",
+     "createdtime":"20100910190714",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/10/1201210_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/10/1201210_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.3863644022",
+     "mapy":"36.3772070293",
+     "mlevel":"6",
+     "modifiedtime":"20230610074455",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"대전교통문화연수원",
+     "zipcode":"34126",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "휠체어":"대여가능"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1125505":{
+     "addr1":"대전광역시 동구 천개동로 41",
+     "addr2":"(추동)",
+     "areacode":"3",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01010500",
+     "contentid":"1125505",
+     "contenttypeid":"12",
+     "createdtime":"20101109200705",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.4708541727",
+     "mapy":"36.3733645281",
+     "mlevel":"6",
+     "modifiedtime":"20230814132537",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"추동인공생태습지",
+     "zipcode":"34500",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "기타 지원 항목":"산책로 데크로드 구간 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1622646":{
+     "addr1":"대전광역시 대덕구 신상로 65",
+     "addr2":"",
+     "areacode":"3",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"1622646",
+     "contenttypeid":"12",
+     "createdtime":"20120504233804",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/03/1585303_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/03/1585303_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.4580085119",
+     "mapy":"36.3582188095",
+     "mlevel":"6",
+     "modifiedtime":"20221123161715",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"길치근린공원(가양비래근린공원)",
+     "zipcode":"34413",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(관리사무소)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1623668":{
+     "addr1":"대전광역시 동구 대전로839번길 일대",
+     "addr2":"(정동)",
+     "areacode":"3",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0203",
+     "cat3":"A02030400",
+     "contentid":"1623668",
+     "contenttypeid":"12",
+     "createdtime":"20120507185733",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/90/1585590_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/90/1585590_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.4306199482",
+     "mapy":"36.3341377427",
+     "mlevel":"6",
+     "modifiedtime":"20220818160607",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"인쇄거리",
+     "zipcode":"34625",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1865944":{
+     "addr1":"대전광역시 유성구 과학로 169-148",
+     "addr2":"(어은동)",
+     "areacode":"3",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0204",
+     "cat3":"A02040800",
+     "contentid":"1865944",
+     "contenttypeid":"12",
+     "createdtime":"20131203013959",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/73/2431973_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/73/2431973_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.3541229552",
+     "mapy":"36.3730597095",
+     "mlevel":"6",
+     "modifiedtime":"20220913140834",
+     "sigungucode":"4",
+     "tel":"042-879-6216",
+     "title":"국가핵융합연구소",
+     "zipcode":"34133",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함(전시장 휠체어 접근 가능)"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1907645":{
+     "addr1":"대전광역시 유성구 과학로 82",
+     "addr2":"(가정동)",
+     "areacode":"3",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0204",
+     "cat3":"A02040800",
+     "contentid":"1907645",
+     "contenttypeid":"12",
+     "createdtime":"20140325023247",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.3655718175",
+     "mapy":"36.3772399899",
+     "mlevel":"6",
+     "modifiedtime":"20220623182949",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"발명교육센터 창의발명체험관",
+     "zipcode":"34132",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "출입통로":"출입구 경사로 있음"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1909639":{
+     "addr1":"대전광역시 중구 대흥동",
+     "addr2":"",
+     "areacode":"3",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0203",
+     "cat3":"A02030400",
+     "contentid":"1909639",
+     "contenttypeid":"12",
+     "createdtime":"20140331230913",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/75/1802575_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/75/1802575_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.4254345237",
+     "mapy":"36.3258969262",
+     "mlevel":"6",
+     "modifiedtime":"20220818152819",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"대흥동 문화예술의거리",
+     "zipcode":"",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1958042":{
+     "addr1":"대전광역시 유성구 대덕대로 480",
+     "addr2":"(도룡동)",
+     "areacode":"3",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020200",
+     "contentid":"1958042",
+     "contenttypeid":"12",
+     "createdtime":"20141021185550",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/06/1201206_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/06/1201206_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.3878559242",
+     "mapy":"36.3776292298",
+     "mlevel":"6",
+     "modifiedtime":"20230610081605",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"유성 관광특구",
+     "zipcode":"34126",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "엘리베이터":"대전 지하철 유성온천역 장애인 전용 엘리베이터 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1964622":{
+     "addr1":"대전광역시 중구 중앙로164번길 17",
+     "addr2":"(은행동)",
+     "areacode":"3",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0203",
+     "cat3":"A02030400",
+     "contentid":"1964622",
+     "contenttypeid":"12",
+     "createdtime":"20141112193705",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/35/1964635_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/35/1964635_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.4282980832",
+     "mapy":"36.3286188884",
+     "mlevel":"6",
+     "modifiedtime":"20230610081652",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"스카이로드",
+     "zipcode":"34922",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(공영 주차장 근처 공중화장실)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2407303":{
+     "addr1":"대전광역시 대덕구 대청로 607",
+     "addr2":"",
+     "areacode":"3",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"2407303",
+     "contenttypeid":"12",
+     "createdtime":"20160901235634",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.4735845215",
+     "mapy":"36.4736725397",
+     "mlevel":"6",
+     "modifiedtime":"20220926171245",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"금강로하스대청공원",
+     "zipcode":"34316",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"공원은 무단차로 연결되어 있으며 공원내 전시관도 무단차 진입 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(야외 공중화장실,경사로 설치됨)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2458926":{
+     "addr1":"대전광역시 대덕구 신탄진로756번안길 223",
+     "addr2":"(용호동)",
+     "areacode":"3",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0204",
+     "cat3":"A02040800",
+     "contentid":"2458926",
+     "contenttypeid":"12",
+     "createdtime":"20161216022731",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.4450712367",
+     "mapy":"36.4433088410",
+     "mlevel":"6",
+     "modifiedtime":"20221020093606",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"It's 수 홍보관",
+     "zipcode":"34315",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2460286":{
+     "addr1":"대전광역시 유성구 가정로 218",
+     "addr2":"",
+     "areacode":"3",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0204",
+     "cat3":"A02040800",
+     "contentid":"2460286",
+     "contenttypeid":"12",
+     "createdtime":"20161216191037",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.3652244796",
+     "mapy":"36.3826476980",
+     "mlevel":"6",
+     "modifiedtime":"20230610082428",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"ETRI 정보통신전시관",
+     "zipcode":"34129",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음(정문)"
+        },
+        {
+           "출입통로":"주출입구는 경사로 있어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2460289":{
+     "addr1":"대전광역시 유성구 과학로 125",
+     "addr2":"",
+     "areacode":"3",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0204",
+     "cat3":"A02040800",
+     "contentid":"2460289",
+     "contenttypeid":"12",
+     "createdtime":"20161216193455",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.3594918079",
+     "mapy":"36.3771621129",
+     "mlevel":"6",
+     "modifiedtime":"20230714094355",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"한국생명공학연구원",
+     "zipcode":"34141",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2472729":{
+     "addr1":"대전광역시 대덕구 대청로 618-136",
+     "addr2":"",
+     "areacode":"3",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0204",
+     "cat3":"A02040800",
+     "contentid":"2472729",
+     "contenttypeid":"12",
+     "createdtime":"20170106021753",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/91/1092291_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/91/1092291_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.4815115699",
+     "mapy":"36.4743753786",
+     "mlevel":"6",
+     "modifiedtime":"20220831172105",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"대청댐 물문화관",
+     "zipcode":"34316",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "휠체어":"대여가능"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주출입구)_시각장애인 편의시설"
+        },
+        {
+           "보조견 동반":"동반가능"
+        },
+        {
+           "안내요원":"안내요원 있음"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2649871":{
+     "addr1":"대전광역시 유성구 대덕대로989번길 9-51",
+     "addr2":"",
+     "areacode":"3",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020600",
+     "contentid":"2649871",
+     "contenttypeid":"12",
+     "createdtime":"20200316233513",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/58/2649858_image2_1.bmp",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/58/2649858_image2_1.bmp",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.3751532424",
+     "mapy":"36.4159051789",
+     "mlevel":"6",
+     "modifiedtime":"20230610085950",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"티놀자 애니멀 파크",
+     "zipcode":"34058",
+     "family":[
+        {
+           "유모차":"대여가능(2대)"
+        },
+        {
+           "수유실":"수유실 있음(2층 한옥3번방)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함(자동문)"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능"
+        },
+        {
+           "안내요원":"안내요원 있음(1층 안내데스크)"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2662681":{
+     "addr1":"대전광역시 유성구 숲체원로 124",
+     "addr2":"",
+     "areacode":"3",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01010600",
+     "contentid":"2662681",
+     "contenttypeid":"12",
+     "createdtime":"20200708195202",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/00/2675700_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/00/2675700_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.2912076798",
+     "mapy":"36.3243724999",
+     "mlevel":"6",
+     "modifiedtime":"20230214171240",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"국립대전숲체원",
+     "zipcode":"34206",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        },
+        {
+           "객실":"대여용 휠체어 5대 장애인객실 2실 보유"
+        },
+        {
+           "기타 지원 항목":"무장애 데크로드 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2674960":{
+     "addr1":"대전광역시 유성구 어은로 27",
+     "addr2":"(봉명동)",
+     "areacode":"3",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"2674960",
+     "contenttypeid":"12",
+     "createdtime":"20201007044300",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/57/2674957_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/57/2674957_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.3577063021",
+     "mapy":"36.3607306283",
+     "mlevel":"6",
+     "modifiedtime":"20220722170858",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"유림공원",
+     "zipcode":"34139",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2722927":{
+     "addr1":"대전광역시 동구 중앙로 187-1",
+     "addr2":"(중동)",
+     "areacode":"3",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0203",
+     "cat3":"A02030400",
+     "contentid":"2722927",
+     "contenttypeid":"12",
+     "createdtime":"20210623222111",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/19/2722919_image2_1.JPG",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/19/2722919_image2_1.JPG",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.4300006577",
+     "mapy":"36.3305103683",
+     "mlevel":"6",
+     "modifiedtime":"20221213164710",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"대전트래블라운지",
+     "zipcode":"34627",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+        },
+        {
+           "휠체어":"대여가능(2대/안내데스크/신분증보관)"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능"
+        },
+        {
+           "안내요원":"안내요원 있음_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2738037":{
+     "addr1":"대전광역시 서구 둔산대로 169",
+     "addr2":"(만년동)",
+     "areacode":"3",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"2738037",
+     "contenttypeid":"12",
+     "createdtime":"20210831224554",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.3880005938",
+     "mapy":"36.3688691234",
+     "mlevel":"6",
+     "modifiedtime":"20230302095616",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"엑스포시민광장",
+     "zipcode":"35204",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2758666":{
+     "addr1":"대전광역시 서구 둔산북로90번길 60",
+     "addr2":"(둔산동)",
+     "areacode":"3",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"2758666",
+     "contenttypeid":"12",
+     "createdtime":"20211019020756",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/65/2758865_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/65/2758865_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.3841235826",
+     "mapy":"36.3533930477",
+     "mlevel":"6",
+     "modifiedtime":"20230228110617",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"보라매공원",
+     "zipcode":"35239",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2760707":{
+     "addr1":"대전광역시 유성구 계룡로123번길 52",
+     "addr2":"",
+     "areacode":"3",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"2760707",
+     "contenttypeid":"12",
+     "createdtime":"20211021193756",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/00/2760700_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/00/2760700_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.3453047821",
+     "mapy":"36.3552810320",
+     "mlevel":"6",
+     "modifiedtime":"20230403112043",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"유성온천공원",
+     "zipcode":"34186",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2775488":{
+     "addr1":"대전광역시 유성구 봉명동 625",
+     "addr2":"(봉명동)",
+     "areacode":"3",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0203",
+     "cat3":"A02030400",
+     "contentid":"2775488",
+     "contenttypeid":"12",
+     "createdtime":"20211117235244",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.3451769382",
+     "mapy":"36.3581168164",
+     "mlevel":"6",
+     "modifiedtime":"20221025132507",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"봉명동 우산거리",
+     "zipcode":"34185",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2775510":{
+     "addr1":"대전광역시 유성구 노은동로 166",
+     "addr2":"(지족동)",
+     "areacode":"3",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"2775510",
+     "contenttypeid":"12",
+     "createdtime":"20211118001959",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/37/2775537_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/37/2775537_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.3233784299",
+     "mapy":"36.3750839329",
+     "mlevel":"6",
+     "modifiedtime":"20221205161125",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"은구비역사공원",
+     "zipcode":"34084",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2789662":{
+     "addr1":"대전광역시 유성구 테크노중앙로 88",
+     "addr2":"(관평동)",
+     "areacode":"3",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"2789662",
+     "contenttypeid":"12",
+     "createdtime":"20211209001248",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/59/2795759_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/59/2795759_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.3941152016",
+     "mapy":"36.4244434267",
+     "mlevel":"6",
+     "modifiedtime":"20230619163029",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"동화울수변공원",
+     "zipcode":"34030",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2913032":{
+     "addr1":"대전광역시 대덕구 석봉동",
+     "addr2":"779",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"2913032",
+     "contenttypeid":"12",
+     "createdtime":"20221121102702",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/25/2913025_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/25/2913025_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.4208120024",
+     "mapy":"36.4541238369",
+     "mlevel":"6",
+     "modifiedtime":"20221205113638",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"금강로하스산호빛공원",
+     "zipcode":"34305",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2913058":{
+     "addr1":"대전광역시 대덕구 대덕대로1448번길 120",
+     "addr2":"",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"2913058",
+     "contenttypeid":"12",
+     "createdtime":"20221121103404",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/45/2913045_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/45/2913045_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.4113409377",
+     "mapy":"36.4427777451",
+     "mlevel":"6",
+     "modifiedtime":"20230105105636",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"을미기공원",
+     "zipcode":"34324",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2994565":{
+     "addr1":"대전광역시 유성구 문지로 95",
+     "addr2":"",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A02",
+     "cat2":"A0203",
+     "cat3":"A02030400",
+     "contentid":"2994565",
+     "contenttypeid":"12",
+     "createdtime":"20230718165313",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/99/2994399_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/99/2994399_image3_1.jpg",
+     "cpyrhtDivCd":"Type1",
+     "mapx":"127.3888387901",
+     "mapy":"36.3915859833",
+     "mlevel":"6",
+     "modifiedtime":"20230720101335",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"노산춘",
+     "zipcode":"34056",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"휠체어가 올라갈 수 있는 경사로 보유"
+        },
+        {
+           "출입통로":"주출입구 휠체어 통과"
+        },
+        {
+           "관람석":"체험장 내 휠체어 관람가능"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "안내요원":"한전연구소 정문 경비있음"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  }
+}

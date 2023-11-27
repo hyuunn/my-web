@@ -1,0 +1,346 @@
+{
+  "129873": {
+    "addr1": "경기도 양평군 양평읍 마유산로 5",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060700",
+    "contentid": "129873",
+    "contenttypeid": "14",
+    "createdtime": "20071106103351",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/53/1785853_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/53/1785853_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4858490814",
+    "mapy": "37.4975797780",
+    "mlevel": "6",
+    "modifiedtime": "20231102105414",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "양평문화원",
+    "zipcode": "12546",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "주차장에서 출입구까지 단차 없이 연결 됨_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구에 경사로 있음"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인이 이용 가능한 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "735013": {
+    "addr1": "경기도 양평군 양동면 다락근이길 57-13",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060500",
+    "contentid": "735013",
+    "contenttypeid": "14",
+    "createdtime": "20090515182610",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/64/1099664_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/64/1099664_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7373070522",
+    "mapy": "37.3948879585",
+    "mlevel": "6",
+    "modifiedtime": "20231103104843",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "C아트뮤지엄(숲속의 미술공원)",
+    "zipcode": "12538",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구가지 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1926610": {
+    "addr1": "경기도 양평군 양평읍 문화복지길 2",
+    "addr2": "(양평읍)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060500",
+    "contentid": "1926610",
+    "contenttypeid": "14",
+    "createdtime": "20140619010936",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/72/1984172_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/72/1984172_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4839714879",
+    "mapy": "37.4970936889",
+    "mlevel": "6",
+    "modifiedtime": "20231103133746",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "양평군립미술관",
+    "zipcode": "12546",
+    "family": [
+      {
+        "유모차": "유모차무료대여 가능 (1층 카운터)"
+      },
+      {
+        "수유실": "수유실있음 (1층)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "휠체어무료대여 가능 (1층 카운터)"
+      },
+      {
+        "출입통로": "출입구까지 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "엘리베이터": "장애인용 엘리베이터 있음(휠체어 2대크기)"
+      },
+      {
+        "화장실": "장애인 화장실 있음(1층 안내데스크 우측,남녀공용)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(입구)_시각장애인 편의시설"
+      },
+      {
+        "유도안내설비": "점자손잡이 있음(계단손잡이)"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2439216": {
+    "addr1": "경기도 양평군 서종면 무내미길 49-12",
+    "addr2": "(서종면)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060500",
+    "contentid": "2439216",
+    "contenttypeid": "14",
+    "createdtime": "20161111010401",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/13/2439213_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/13/2439213_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3511249446",
+    "mapy": "37.6030456359",
+    "mlevel": "6",
+    "modifiedtime": "20230725162837",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "구하우스미술관",
+    "zipcode": "12503",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "문턱없이 평지로 연결되어 휠체어 통과 가능함"
+      },
+      {
+        "출입통로": "주 출입구에 휠체어가 통과 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음(장애인용/휠체어 1대크기)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주 출입구 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반 능"
+      },
+      {
+        "안내요원": "안내데스크 있음(1층 로비)"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2605321": {
+    "addr1": "경기도 양평군 옥천면 경강로 1496",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "2605321",
+    "contenttypeid": "14",
+    "createdtime": "20190605233955",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/14/2368614_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/14/2368614_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4492048477",
+    "mapy": "37.5092555321",
+    "mlevel": "6",
+    "modifiedtime": "20230726165659",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "양평곤충박물관",
+    "zipcode": "12507",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "대여가능(1대)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2758036": {
+    "addr1": "경기도 양평군 양서면 몽양길 66",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060200",
+    "contentid": "2758036",
+    "contenttypeid": "14",
+    "createdtime": "20211018195837",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/31/2758431_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/31/2758431_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3735472165",
+    "mapy": "37.5305211288",
+    "mlevel": "6",
+    "modifiedtime": "20230130135216",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "몽양여운형기념관",
+    "zipcode": "12583",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2948028": {
+    "addr1": "경기도 양평군 강남로 370-10",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060500",
+    "contentid": "2948028",
+    "contenttypeid": "14",
+    "createdtime": "20230207170455",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/68/2948068_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/68/2948068_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4256821682",
+    "mapy": "37.5028252925",
+    "mlevel": "6",
+    "modifiedtime": "20230302110746",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "이함캠퍼스",
+    "zipcode": "12575",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

@@ -1,0 +1,351 @@
+{
+  "131149":{
+     "addr1":"대전광역시 대덕구 대화로 10",
+     "addr2":"(대화동)",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03020200",
+     "contentid":"131149",
+     "contenttypeid":"28",
+     "createdtime":"20020809090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/05/1944905_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/05/1944905_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.4189978360",
+     "mapy":"36.3683308474",
+     "mlevel":"6",
+     "modifiedtime":"20220721144505",
+     "sigungucode":"1",
+     "tel":"042-621-2462",
+     "title":"대전근로자종합복지회관",
+     "zipcode":"34364",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "131720":{
+     "addr1":"대전광역시 유성구 월드컵대로 32",
+     "addr2":"",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03020300",
+     "contentid":"131720",
+     "contenttypeid":"28",
+     "createdtime":"20030527090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/18/1946518_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/18/1946518_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.3251146529",
+     "mapy":"36.3651962068",
+     "mlevel":"6",
+     "modifiedtime":"20230721131409",
+     "sigungucode":"4",
+     "tel":"042-610-2900",
+     "title":"대전월드컵경기장",
+     "zipcode":"34148",
+     "family":[
+        {
+           "유모차":"대여가능"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "휠체어":"대여가능"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        },
+        {
+           "관람석":"장애인 전용 관람석 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실 입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1353752":{
+     "addr1":"대전광역시 중구 대종로 373",
+     "addr2":"",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03020300",
+     "contentid":"1353752",
+     "contenttypeid":"28",
+     "createdtime":"20110808191320",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/88/1585788_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/88/1585788_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.4315370174",
+     "mapy":"36.3162759121",
+     "mlevel":"6",
+     "modifiedtime":"20221229115413",
+     "sigungucode":"5",
+     "tel":"042-610-4900",
+     "title":"한밭종합운동장",
+     "zipcode":"35021",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로 및 엘리베이터가 있어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        },
+        {
+           "관람석":"장애인 전용 관람석 있음(엘리베이터 및 경사로 접근가능)"
+        },
+        {
+           "기타 지원 항목":"운동장 필드까지 경사로 있음,장애인 자원봉사단 사무실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실,엘리베이터)"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1720749":{
+     "addr1":"대전광역시 대덕구 장동 산85",
+     "addr2":"",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03022700",
+     "contentid":"1720749",
+     "contenttypeid":"28",
+     "createdtime":"20120918202119",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/09/2661809_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/09/2661809_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.4492219591",
+     "mapy":"36.4032551669",
+     "mlevel":"6",
+     "modifiedtime":"20230802202755",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"계족산 황톳길",
+     "zipcode":"34345",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"주 출입구까지 단차및 경사가 거의 없으나 경사는 구간에 따라 다름"
+        },
+        {
+           "출입통로":"출입구에서 내부시설로 이어지는 길은 충분한 폭을 확보하고 있으며, 일부 구간이 데크가 설치되어 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1907688":{
+     "addr1":"대전광역시 동구 천개동로 34",
+     "addr2":"",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03022700",
+     "contentid":"1907688",
+     "contenttypeid":"28",
+     "createdtime":"20140325184613",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/78/2675778_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/78/2675778_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.4719596145",
+     "mapy":"36.3739061524",
+     "mlevel":"6",
+     "modifiedtime":"20230622131741",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"대청호오백리길",
+     "zipcode":"34500",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "기타 지원 항목":"대청 문화 전시관부터 호반 산책로까지 이어지는 약 6km 구간은 장애인과 노약자 등도 쉽게 걸을 수 있는 길이다.\n거리 5km, 소요시간 2시간, 난이도 쉬움"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2407314":{
+     "addr1":"대전광역시 유성구 수통골로 47-3",
+     "addr2":"",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03022700",
+     "contentid":"2407314",
+     "contenttypeid":"28",
+     "createdtime":"20160902000003",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/50/2661850_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/50/2661850_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.2885962357",
+     "mapy":"36.3453478312",
+     "mlevel":"6",
+     "modifiedtime":"20230313112015",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"계룡산 수통골",
+     "zipcode":"34154",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"수통골 무장애탐방로 구간 있음(일부구간)"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(주차장화장실,지원센터)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2727458":{
+     "addr1":"대전광역시 동구 산내로 748",
+     "addr2":"(상소동)",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03021700",
+     "contentid":"2727458",
+     "contenttypeid":"28",
+     "createdtime":"20210727193446",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/31/2727631_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/31/2727631_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.4689857931",
+     "mapy":"36.2380410733",
+     "mlevel":"6",
+     "modifiedtime":"20221125105327",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"상소오토캠핑장",
+     "zipcode":"34712",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음(수동문)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  }
+}

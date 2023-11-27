@@ -1,0 +1,33 @@
+{
+  "1750058": {
+    "addr1": "경기도 안산시 상록구 목장길 36-21",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03021100",
+    "contentid": "1750058",
+    "contenttypeid": "28",
+    "createdtime": "20121110003850",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.8816202955",
+    "mapy": "37.3128319646",
+    "mlevel": "6",
+    "modifiedtime": "20230407104039",
+    "sigungucode": "15",
+    "tel": "",
+    "title": "안산해피승마클럽",
+    "zipcode": "15519",
+    "family": [],
+    "handi": [],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "0"
+  }
+}

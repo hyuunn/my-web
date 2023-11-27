@@ -1,0 +1,252 @@
+{
+  "130404": {
+    "addr1": "전라북도 무주군 무주읍 한풍루로 326-17",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060600",
+    "contentid": "130404",
+    "contenttypeid": "14",
+    "createdtime": "20071106105546",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/40/1606540_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/40/1606540_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.6625304812",
+    "mapy": "36.0023352762",
+    "mlevel": "6",
+    "modifiedtime": "20220701174834",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "무주예체문화관",
+    "zipcode": "55514",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "130909": {
+    "addr1": "전라북도 무주군 적상면 괴목로 788",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "130909",
+    "contenttypeid": "14",
+    "createdtime": "20070608090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/30/1247430_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/30/1247430_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7124714454",
+    "mapy": "35.9668985309",
+    "mlevel": "6",
+    "modifiedtime": "20230217163515",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "무주양수홍보관",
+    "zipcode": "55529",
+    "family": [
+      {
+        "유모차": "대여가능(1대)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음(수동문)"
+      },
+      {
+        "휠체어": "대여가능(1대)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1904335": {
+    "addr1": "전라북도 무주군 설천면 무설로 1482",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02061100",
+    "contentid": "1904335",
+    "contenttypeid": "14",
+    "createdtime": "20140311020450",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/29/1970729_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/29/1970729_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7786783080",
+    "mapy": "36.0093532183",
+    "mlevel": "6",
+    "modifiedtime": "20230922105109",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "국립태권도원",
+    "zipcode": "55547",
+    "family": [
+      {
+        "수유실": "수유실 있음"
+      },
+      {
+        "영유아가족 기타 지원 항목": "기저귀 교환대 있음(여자 화장실)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "관람석": "장애인 전용 관람석 있음(50석)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2606139": {
+    "addr1": "전라북도 무주군 무주읍 한풍루로 347",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060200",
+    "contentid": "2606139",
+    "contenttypeid": "14",
+    "createdtime": "20190612233327",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/94/2613194_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/94/2613194_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.6639219618",
+    "mapy": "36.0046683688",
+    "mlevel": "6",
+    "modifiedtime": "20230206170854",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "김환태문학관&최북미술관",
+    "zipcode": "55515",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능(1대)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(1층)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2609506": {
+    "addr1": "전라북도 무주군 무주읍 한풍루로 326-17",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02061200",
+    "contentid": "2609506",
+    "contenttypeid": "14",
+    "createdtime": "20190704233954",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/37/2368837_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/37/2368837_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.6625471455",
+    "mapy": "36.0023797159",
+    "mlevel": "6",
+    "modifiedtime": "20230220132627",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "무주 산골영화관",
+    "zipcode": "55514",
+    "family": [
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "관람석": "장애인 전용 관람석 있음(2석)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구, 엘리베이터 앞)_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

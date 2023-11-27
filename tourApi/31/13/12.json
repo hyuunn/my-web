@@ -1,0 +1,1643 @@
+{
+  "125555": {
+    "addr1": "경기도 수원시 장안구 영화동",
+    "addr2": "320-2",
+    "areacode": "31",
+    "booktour": "1",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010200",
+    "contentid": "125555",
+    "contenttypeid": "12",
+    "createdtime": "20040209090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/36/2613036_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/36/2613036_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0121147092",
+    "mapy": "37.2873511297",
+    "mlevel": "6",
+    "modifiedtime": "20230824172516",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "수원 화성 [유네스코 세계문화유산]",
+    "zipcode": "16268",
+    "family": [
+      {
+        "유모차": "대여가능(2대/화성행궁)"
+      },
+      {
+        "수유실": "수유실 있음(화성행궁 주차장 입구 화장실 옆 건물)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능(3대/화성행궁)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(팔달문 외 모든 화장실에 장애인 전용칸)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "안내요원": "안내요원 있음(관광안내소)"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "126618": {
+    "addr1": "경기도 수원시 팔달구 동수원로 335",
+    "addr2": "(인계동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "126618",
+    "contenttypeid": "12",
+    "createdtime": "20031110090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/62/2480562_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/62/2480562_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0359939011",
+    "mapy": "37.2586104401",
+    "mlevel": "6",
+    "modifiedtime": "20230610055514",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "인계예술공원",
+    "zipcode": "16491",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구가지 단차 없이 연결 됨(잔디구간 있음)"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(야외공연장 쪽,공원 변두리)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "128985": {
+    "addr1": "경기도 수원시 팔달구 효원로307번길 26",
+    "addr2": "(인계동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "128985",
+    "contenttypeid": "12",
+    "createdtime": "20060530090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/67/2431967_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/67/2431967_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0377852798",
+    "mapy": "37.2630877317",
+    "mlevel": "6",
+    "modifiedtime": "20230711172658",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "효원공원",
+    "zipcode": "16488",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함(공원 내 월화원 휠체어 진입가능)"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(경기도 문화의전당 이용)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "129437": {
+    "addr1": "경기도 수원시 팔달구 정조로 825",
+    "addr2": "(남창동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010100",
+    "contentid": "129437",
+    "contenttypeid": "12",
+    "createdtime": "20090924225110",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/20/1999720_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/20/1999720_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0144035414",
+    "mapy": "37.2819295766",
+    "mlevel": "6",
+    "modifiedtime": "20231013100404",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "화성행궁",
+    "zipcode": "16258",
+    "family": [
+      {
+        "유모차": "대여 가능(관광안내소 문의)"
+      },
+      {
+        "수유실": "수유실 있음(화성행궁 주차장 뒤, 화성행궁 입구 다목적 화장실 내/전자레인지, 기저귀교환대, 아기침대 있음)"
+      },
+      {
+        "영유아가족 기타 지원 항목": "화성행궁 입구 다목적 화장실 내 영유아 화장실 있음(유아용 보호의자 설치)"
+      }
+    ],
+    "handi": [
+      {
+        "대중교통": "지하철: 1호선/분당선 수원역에서 약 2.4km, 분당선 매교역에서 약 1.8km *교통 혼잡구간이므로 도보나 대중교통 이용 추천 / 버스: 수원역 환승센터 > 700-2번 > 화성행궁, 수원역 9번 출구 > 11,13,16,46번 등 > 화성행궁 (저상버스 있음)"
+      },
+      {
+        "접근로": "출입구까지 완만한 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "휠체어": "대여 가능(정문 입구 쪽 관광안내소)"
+      },
+      {
+        "출입통로": "한옥건물 실내진입은 불가하나 외부는 단차제거 됨"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "보행로 및 경사로가 곳곳에 설치되어 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음"
+      },
+      {
+        "보조견 동반": "동반 가능"
+      },
+      {
+        "오디오 가이드": "오디오 가이드 있음(오디(Odii) 어플 다운로드 후 이용 가능)"
+      },
+      {
+        "큰활자 홍보물": "큰활자 홍보물 있음"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자 안내판 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "264388": {
+    "addr1": "경기도 수원시 팔달구 장안동 334",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010300",
+    "contentid": "264388",
+    "contenttypeid": "12",
+    "createdtime": "20140515002332",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/43/2483143_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/43/2483143_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0096788662",
+    "mapy": "37.2856651709",
+    "mlevel": "6",
+    "modifiedtime": "20230911201203",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "화서문(華西門)",
+    "zipcode": "16250",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "장애인 전용 화장실 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "264390": {
+    "addr1": "경기도 수원시 팔달구 정조로 910",
+    "addr2": "(장안동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010300",
+    "contentid": "264390",
+    "contenttypeid": "12",
+    "createdtime": "20030812182756",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/65/2514365_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/65/2514365_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0142422513",
+    "mapy": "37.2888704361",
+    "mlevel": "6",
+    "modifiedtime": "20220520100514",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "장안문(長安門)",
+    "zipcode": "16253",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "264392": {
+    "addr1": "경기도 수원시 팔달구 경수대로 697",
+    "addr2": "(지동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010300",
+    "contentid": "264392",
+    "contenttypeid": "12",
+    "createdtime": "20030812183429",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/60/2482860_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/60/2482860_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0251468468",
+    "mapy": "37.2877902005",
+    "mlevel": "6",
+    "modifiedtime": "20230610054947",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "창룡문",
+    "zipcode": "16241",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "장애인용화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "264394": {
+    "addr1": "경기도 수원시 팔달구 수원천로 377",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010300",
+    "contentid": "264394",
+    "contenttypeid": "12",
+    "createdtime": "20030812183810",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/74/2480674_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/74/2480674_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0172364738",
+    "mapy": "37.2870762530",
+    "mlevel": "6",
+    "modifiedtime": "20231107163840",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "화홍문(華虹門)",
+    "zipcode": "16253",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "장애인 전용 화장실 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "264397": {
+    "addr1": "경기도 수원시 장안구 광교산로 166",
+    "addr2": "(하광교동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0205",
+    "cat3": "A02050600",
+    "contentid": "264397",
+    "contenttypeid": "12",
+    "createdtime": "20030812191211",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/86/734386_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/86/734386_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0322846942",
+    "mapy": "37.3018525882",
+    "mlevel": "6",
+    "modifiedtime": "20230610055002",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "반딧불이화장실",
+    "zipcode": "16213",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "264402": {
+    "addr1": "경기도 수원시 팔달구 정조로 825",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030400",
+    "contentid": "264402",
+    "contenttypeid": "12",
+    "createdtime": "20030813005722",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.0143757682",
+    "mapy": "37.2818712498",
+    "mlevel": "6",
+    "modifiedtime": "20230727102727",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "화성어차",
+    "zipcode": "16258",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      },
+      {
+        "관람석": "열차 내 휠체어 장애인석 있음 (1석)_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "264408": {
+    "addr1": "경기도 수원시 팔달구 정조로 825",
+    "addr2": "(남창동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010700",
+    "contentid": "264408",
+    "contenttypeid": "12",
+    "createdtime": "20031027232006",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/43/625543_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/43/625543_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0113011614",
+    "mapy": "37.2777911112",
+    "mlevel": "6",
+    "modifiedtime": "20221118144605",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "효원의 종·서장대",
+    "zipcode": "16258",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "종 주변까지는 접근 가능하나 근접 접근시에는 3단계단이 있음"
+      },
+      {
+        "화장실": "장애인 화장실은 없으나 인접한 곳에 위치한 서장대안내소에 장애인 화장실 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "486986": {
+    "addr1": "경기도 수원시 팔달구 수원천로 300",
+    "addr2": "(남수동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010800",
+    "contentid": "486986",
+    "contenttypeid": "12",
+    "createdtime": "20080225225206",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/43/2667443_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/43/2667443_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0190198363",
+    "mapy": "37.2802465202",
+    "mlevel": "6",
+    "modifiedtime": "20230704145033",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "수원사(수원)",
+    "zipcode": "16256",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "736662": {
+    "addr1": "경기도 수원시 팔달구 신풍로23번길 15 (신풍동)",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010100",
+    "contentid": "736662",
+    "contenttypeid": "12",
+    "createdtime": "20090520200909",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/43/734443_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/43/734443_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0125703370",
+    "mapy": "37.2832821647",
+    "mlevel": "6",
+    "modifiedtime": "20220714155319",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "수원 화령전",
+    "zipcode": "16258",
+    "family": [],
+    "handi": [
+      {
+        "휠체어": "휠체어 대여 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "750947": {
+    "addr1": "경기도 수원시 팔달구 인계동",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010700",
+    "contentid": "750947",
+    "contenttypeid": "12",
+    "createdtime": "20090610201304",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/82/2482182_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/82/2482182_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0378102758",
+    "mapy": "37.2631516135",
+    "mlevel": "6",
+    "modifiedtime": "20230302142858",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "월화원",
+    "zipcode": "16488",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1064469": {
+    "addr1": "경기도 수원시 팔달구 창룡대로103번길 20",
+    "addr2": "(매향동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010100",
+    "contentid": "1064469",
+    "contenttypeid": "12",
+    "createdtime": "20100724003412",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/78/2514378_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/78/2514378_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0229636943",
+    "mapy": "37.2884234215",
+    "mlevel": "6",
+    "modifiedtime": "20230227162156",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "연무대(동장대)",
+    "zipcode": "16254",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2462893": {
+    "addr1": "경기도 수원시 영통구 삼성로 129",
+    "addr2": "(매탄동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0204",
+    "cat3": "A02040800",
+    "contentid": "2462893",
+    "contenttypeid": "12",
+    "createdtime": "20161219192559",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.0531840275",
+    "mapy": "37.2579191607",
+    "mlevel": "6",
+    "modifiedtime": "20230615110354",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "삼성 이노베이션 뮤지엄",
+    "zipcode": "16677",
+    "family": [
+      {
+        "수유실": "있음(2층,소파,기저귀교환대,수유테이블,냉온수기,싱크대,공기청정기 구비)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "가능"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2480899": {
+    "addr1": "경기도 수원시 팔달구 정조로 780",
+    "addr2": "(팔달로2가)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020200",
+    "contentid": "2480899",
+    "contenttypeid": "12",
+    "createdtime": "20170214215059",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/13/2558813_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/13/2558813_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0167728913",
+    "mapy": "37.2776245620",
+    "mlevel": "6",
+    "modifiedtime": "20230610082654",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "수원화성 관광특구",
+    "zipcode": "16257",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2613664": {
+    "addr1": "경기도 수원시 팔달구 정조로800번길 16",
+    "addr2": "(팔달로1가)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030600",
+    "contentid": "2613664",
+    "contenttypeid": "12",
+    "createdtime": "20190731012528",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/68/2404868_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/68/2404868_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0176394272",
+    "mapy": "37.2794882502",
+    "mlevel": "6",
+    "modifiedtime": "20230612131909",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "수원통닭거리",
+    "zipcode": "16257",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2633915": {
+    "addr1": "경기도 수원시 영통구 광교호수공원로 102",
+    "addr2": "(하동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0205",
+    "cat3": "A02050600",
+    "contentid": "2633915",
+    "contenttypeid": "12",
+    "createdtime": "20191107224108",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.0638020287",
+    "mapy": "37.2750784751",
+    "mlevel": "6",
+    "modifiedtime": "20230915170857",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "광교 프라이부르크전망대",
+    "zipcode": "16514",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2662855": {
+    "addr1": "경기도 수원시 영통구 광교호수로 57",
+    "addr2": "(하동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2662855",
+    "contenttypeid": "12",
+    "createdtime": "20200709003330",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/16/2719716_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/16/2719716_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0652796730",
+    "mapy": "37.2750451718",
+    "mlevel": "6",
+    "modifiedtime": "20230515111639",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "광교호수공원",
+    "zipcode": "16514",
+    "family": [
+      {
+        "유모차": "대여가능(방문자센터)"
+      },
+      {
+        "수유실": "수유실 있음(방문자센터)"
+      },
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음(프라이브루크 전망대)"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "휠체어 이용 가능한 데크로드"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자유도로 있음_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2667588": {
+    "addr1": "경기도 수원시 팔달구 남창동",
+    "addr2": "(남창동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030400",
+    "contentid": "2667588",
+    "contenttypeid": "12",
+    "createdtime": "20200818231946",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/13/2667413_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/13/2667413_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0151063344",
+    "mapy": "37.2791132488",
+    "mlevel": "6",
+    "modifiedtime": "20221025160637",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "수원 공방거리",
+    "zipcode": "16260",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2739462": {
+    "addr1": "경기도 수원시 권선구 여기산로26번길 30",
+    "addr2": "(서둔동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010500",
+    "contentid": "2739462",
+    "contenttypeid": "12",
+    "createdtime": "20210902235511",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/33/2740433_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/33/2740433_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9799872510",
+    "mapy": "37.2808624195",
+    "mlevel": "6",
+    "modifiedtime": "20230404153344",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "여기산공원",
+    "zipcode": "16429",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2739474": {
+    "addr1": "경기도 수원시 팔달구 수성로 100",
+    "addr2": "(화서동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2739474",
+    "contenttypeid": "12",
+    "createdtime": "20210903001857",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/19/2740519_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/19/2740519_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9884058506",
+    "mapy": "37.2837594563",
+    "mlevel": "6",
+    "modifiedtime": "20230302095132",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "서호꽃뫼공원",
+    "zipcode": "16432",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2739476": {
+    "addr1": "경기도 수원시 영통구 매탄로 185",
+    "addr2": "(매탄동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2739476",
+    "contenttypeid": "12",
+    "createdtime": "20210903002236",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/97/2740497_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/97/2740497_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0454955773",
+    "mapy": "37.2671846173",
+    "mlevel": "6",
+    "modifiedtime": "20230404153131",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "매탄공원",
+    "zipcode": "16538",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2741603": {
+    "addr1": "경기도 수원시 권선구 오목천로 272",
+    "addr2": "(고색동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2741603",
+    "contenttypeid": "12",
+    "createdtime": "20210908224307",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/48/2741648_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/48/2741648_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9900455808",
+    "mapy": "37.2482802607",
+    "mlevel": "6",
+    "modifiedtime": "20230302094454",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "중보들공원",
+    "zipcode": "16648",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2741604": {
+    "addr1": "경기도 수원시 팔달구 동말로47번길 33",
+    "addr2": "(화서동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2741604",
+    "contenttypeid": "12",
+    "createdtime": "20210908224406",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/67/2741667_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/67/2741667_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9987216835",
+    "mapy": "37.2800767330",
+    "mlevel": "6",
+    "modifiedtime": "20230404152519",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "화서공원",
+    "zipcode": "16439",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2741606": {
+    "addr1": "경기도 수원시 장안구 경수대로 1274",
+    "addr2": "(파장동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2741606",
+    "contenttypeid": "12",
+    "createdtime": "20210908224627",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/86/2741686_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/86/2741686_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9874853461",
+    "mapy": "37.3246491465",
+    "mlevel": "6",
+    "modifiedtime": "20230302095036",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "효행공원",
+    "zipcode": "16201",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_무장애 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2742282": {
+    "addr1": "경기도 수원시 권선구 온정로9번길 11",
+    "addr2": "(오목천동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2742282",
+    "contenttypeid": "12",
+    "createdtime": "20210909225945",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/79/2742379_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/79/2742379_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9646256678",
+    "mapy": "37.2481937075",
+    "mlevel": "6",
+    "modifiedtime": "20230109141621",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "오목호수공원",
+    "zipcode": "16631",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2742299": {
+    "addr1": "경기도 수원시 권선구 경수대로 88",
+    "addr2": "(권선동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2742299",
+    "contenttypeid": "12",
+    "createdtime": "20210909230844",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/65/2742365_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/65/2742365_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0215347386",
+    "mapy": "37.2357961562",
+    "mlevel": "6",
+    "modifiedtime": "20221206151935",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "마중공원",
+    "zipcode": "16666",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2742316": {
+    "addr1": "경기도 수원시 영통구 덕영대로 1570",
+    "addr2": "(영통동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2742316",
+    "contenttypeid": "12",
+    "createdtime": "20210909233106",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/22/2742322_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/22/2742322_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0627918377",
+    "mapy": "37.2454485534",
+    "mlevel": "6",
+    "modifiedtime": "20230404150806",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "영통어린이교통공원",
+    "zipcode": "16693",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2745735": {
+    "addr1": "수원시 팔달구 화서2동 264",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2745735",
+    "contenttypeid": "12",
+    "createdtime": "20210916023615",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/25/2746225_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/25/2746225_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9970744871",
+    "mapy": "37.2845039693",
+    "mlevel": "6",
+    "modifiedtime": "20230404143713",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "숙지공원",
+    "zipcode": "",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2745995": {
+    "addr1": "경기도 수원시 팔달구 화서문로72번길 9-6",
+    "addr2": "(북수동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030100",
+    "contentid": "2745995",
+    "contenttypeid": "12",
+    "createdtime": "20210916183004",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/43/2746143_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/43/2746143_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0165338018",
+    "mapy": "37.2855791918",
+    "mlevel": "6",
+    "modifiedtime": "20230927170105",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "행궁동 벽화마을",
+    "zipcode": "16253",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2754720": {
+    "addr1": "경기도 수원시 권선구 동수원로 114",
+    "addr2": "(곡반정동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2754720",
+    "contenttypeid": "12",
+    "createdtime": "20211007233550",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/81/2768281_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/81/2768281_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0292311266",
+    "mapy": "37.2406790621",
+    "mlevel": "6",
+    "modifiedtime": "20231016145442",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "고렴공원",
+    "zipcode": "16670",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2781841": {
+    "addr1": "경기 수원시 장안구 율전동 124-1",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2781841",
+    "contenttypeid": "12",
+    "createdtime": "20211126215030",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/37/2781937_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/37/2781937_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9709901076",
+    "mapy": "37.3072980848",
+    "mlevel": "6",
+    "modifiedtime": "20230828160855",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "밤밭청개구리공원",
+    "zipcode": "16354",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2781847": {
+    "addr1": "경기도 수원시 영통구 덕영대로1484번길 10-25",
+    "addr2": "(망포동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2781847",
+    "contenttypeid": "12",
+    "createdtime": "20211126215241",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/50/2781950_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/50/2781950_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0514956599",
+    "mapy": "37.2447539880",
+    "mlevel": "6",
+    "modifiedtime": "20230802194629",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "방죽공원",
+    "zipcode": "16685",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자유도로 있음_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2781854": {
+    "addr1": "경기 수원시 팔달구 화서동 436-1",
+    "addr2": "(화서동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2781854",
+    "contenttypeid": "12",
+    "createdtime": "20211126215456",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/99/2781999_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/99/2781999_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9888031917",
+    "mapy": "37.2782156608",
+    "mlevel": "6",
+    "modifiedtime": "20220701160057",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "서호공원",
+    "zipcode": "16432",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2781864": {
+    "addr1": "경기 수원시 영통구 영통1동 1012-4",
+    "addr2": "(영통동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2781864",
+    "contenttypeid": "12",
+    "createdtime": "20211126215927",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/19/2781919_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/19/2781919_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0783152888",
+    "mapy": "37.2505232437",
+    "mlevel": "6",
+    "modifiedtime": "20230802194050",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "반달공원",
+    "zipcode": "16705",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2872885": {
+    "addr1": "경기도 수원시 영통구 망포동",
+    "addr2": "동탄지성로 549-15",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2872885",
+    "contenttypeid": "12",
+    "createdtime": "20221021161027",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/77/2872877_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/77/2872877_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0444825187",
+    "mapy": "37.2407598803",
+    "mlevel": "6",
+    "modifiedtime": "20221104104148",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "글빛누리공원",
+    "zipcode": "16686",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자유도로 있음_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

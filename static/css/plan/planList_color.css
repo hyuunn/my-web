@@ -1,0 +1,169 @@
+:root {
+    --blue : rgb(41, 108, 255);
+  }
+body{
+    background-color: black;
+    font-size: 18px;
+    color: white;
+}
+.navbar{
+    background-color: black;
+}
+*{
+    font-family: 'Noto Sans KR', sans-serif;
+}
+a{
+    text-decoration: none;
+    color: var(--blue);
+}
+#header button{
+    color: var(--blue);
+    font-weight: bold;
+}
+/* color */
+
+button{
+    background-color: transparent;
+    border: none;
+}
+/* .list a{
+    text-decoration: none;
+    color: #8344ff;    
+} */
+.card-body{
+    background-color: black;
+    color: white;
+}
+.card-body span{
+    color: yellow;
+}
+.card-body p{
+    color: white;
+}
+.list button{
+    float: right;
+    color: yellow;
+}
+
+#scheBox{
+    padding: 3em;
+    display: none;
+    transition: height 1s;
+    width: fit-content;
+    height: 300px;
+    border: 1px solid white;
+    border-radius: 25px;
+}
+#scheBox p{
+    color:white;
+}
+#scheBox input, #scheBox select, option{
+    background-color: var(--blue);
+    color: white;
+}
+input[type="date"]{
+    width: 130px;
+    height: 35px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+input[type="date"]::before {
+    content:attr(data-placeholder);
+    width: 100%;
+}
+input[type="date"]:focus::before,
+input[type="date"]:valid::before {
+    display: none;
+}
+select{
+    width: 130px;
+    height: 30px;
+}
+
+#intro{
+    text-align: center;
+    margin: 50px;
+    font-weight: bold;
+}
+
+.pList{
+    display: flex;
+    flex-wrap: wrap;
+}
+.list{
+    flex: 0 1 5%;
+    margin: 10px;
+    position: relative;
+}
+
+#create{
+    margin: 20px;
+    color: white;
+    background-color: var(--blue);
+    border: 1px solid white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#scheduler{
+    padding: 15px;
+    margin-top: 50px;
+}
+#scheduler p{
+    font-weight: bold;
+    text-align: center;
+}
+#calendar{
+    padding: 10px 20px;
+    width: 100%;
+    height: fit-content;
+    text-align: center;
+}
+
+.fc-day a {
+    color: white;
+    text-decoration: none;
+}
+.fc-day-sun a {
+    color: red;
+    text-decoration: none;
+}
+.fc-day-sat a {
+    color: blue;
+    text-decoration: none;
+}
+.fc-event-title{
+    color: white;
+}
+#calendar table{
+    width: 100%;
+}
+
+td {
+    width: 50px;
+    height: 100px;
+    vertical-align: top;
+}
+
+#calHead{
+    font-size: 20px;
+    font-weight: bold;
+    height: 100px;
+}
+#calHead td{
+    vertical-align: middle;
+}
+
+.today {     
+    background-color: #444;
+    color: #fff;
+    font-weight: 600;
+    cursor: pointer;
+}
+.futureDay.choiceDay,
+.today.choiceDay {
+    background: #444;
+    color: #fff;
+    font-weight: 600;
+    cursor: pointer;
+}

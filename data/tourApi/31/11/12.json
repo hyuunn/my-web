@@ -1,0 +1,610 @@
+{
+  "126704": {
+    "addr1": "경기도 부천시 소향로 162",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "126704",
+    "contenttypeid": "12",
+    "createdtime": "20031106090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/39/760139_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/39/760139_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7636924594",
+    "mapy": "37.5005914109",
+    "mlevel": "6",
+    "modifiedtime": "20231016165523",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "부천 중앙공원",
+    "zipcode": "14584",
+    "family": [],
+    "handi": [
+      {
+        "대중교통": "7호선 신중동역 1번 출구"
+      },
+      {
+        "접근로": "출입구까지 평지로 되어 있으나 흙(돌) 구간 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(2개/부천시장쪽(여닫이 도어), 체육시설 쪽(자동문))"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "127943": {
+    "addr1": "경기도 부천시 원미구 소사로 456",
+    "addr2": "(원미동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "127943",
+    "contenttypeid": "12",
+    "createdtime": "20031106090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/38/2705838_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/38/2705838_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7978866492",
+    "mapy": "37.4975451497",
+    "mlevel": "6",
+    "modifiedtime": "20230321133122",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "부천 원미공원",
+    "zipcode": "14659",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 평지로 되어있으나 잔디구간 있음"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(부천시립원미도서관 화장실 이용)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "407030": {
+    "addr1": "경기도 부천시 길주로 660",
+    "addr2": "(춘의동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010700",
+    "contentid": "407030",
+    "contenttypeid": "12",
+    "createdtime": "20080115000101",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/90/2537290_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/90/2537290_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8165652981",
+    "mapy": "37.5048113041",
+    "mlevel": "6",
+    "modifiedtime": "20231016170439",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "부천식물원",
+    "zipcode": "14656",
+    "family": [
+      {
+        "유모차": "대여 가능(3대/매표소, 신분증 필요)"
+      },
+      {
+        "수유실": "수유실 있음(매표소 옆/테이블, 아기의자, 쇼파 있음)"
+      }
+    ],
+    "handi": [
+      {
+        "대중교통": "7호선 까치울역 1번 출구"
+      },
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음(완만함)_무장애 편의시설"
+      },
+      {
+        "매표소": "매표소 있음"
+      },
+      {
+        "휠체어": "대여 가능(3대/매표소 옆/신분증 필요)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(실내 출입구 앞)_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "558819": {
+    "addr1": "경기도 부천시 조마루로 2",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020600",
+    "contentid": "558819",
+    "contenttypeid": "12",
+    "createdtime": "20080513225255",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/88/2431888_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/88/2431888_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7442498040",
+    "mapy": "37.5000216869",
+    "mlevel": "6",
+    "modifiedtime": "20230424134601",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "웅진플레이도시",
+    "zipcode": "14592",
+    "family": [
+      {
+        "수유실": "수유실 있음(지하 2층)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 엘리베이터로 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘레베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "의무실(지하 1층)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "756602": {
+    "addr1": "경기도 부천시 소사로593번길 124",
+    "addr2": "(도당동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "756602",
+    "contenttypeid": "12",
+    "createdtime": "20090624000547",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/46/759946_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/46/759946_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7899619590",
+    "mapy": "37.5122794075",
+    "mlevel": "6",
+    "modifiedtime": "20221227171149",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "도당공원",
+    "zipcode": "14487",
+    "family": [
+      {
+        "영유아가족 기타 지원 항목": "놀이터 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "주출입구에서 평지로 연결되나 산속 공원이라 오르막이 많음(흙 구간 있음)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(흙 구간 있음)"
+      },
+      {
+        "화장실": "장애인 화장실 있음(일반 화장실 내)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "756618": {
+    "addr1": "경기도 부천시 원미구 조마루로 15",
+    "addr2": "(상동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "756618",
+    "contenttypeid": "12",
+    "createdtime": "20090624002015",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.7451940436",
+    "mapy": "37.5042850974",
+    "mlevel": "6",
+    "modifiedtime": "20230215113950",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "상동호수공원",
+    "zipcode": "14592",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(주차장 앞 남녀화장실 옆)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2002467": {
+    "addr1": "경기도 부천시 원미구 길주로 105",
+    "addr2": "(상동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020600",
+    "contentid": "2002467",
+    "contenttypeid": "12",
+    "createdtime": "20150511230936",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/06/2002706_image2_1.jpeg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/06/2002706_image2_1.jpeg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7537931990",
+    "mapy": "37.5064350000",
+    "mlevel": "6",
+    "modifiedtime": "20230324140954",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "부천 동물테마파크 하이주",
+    "zipcode": "14542",
+    "family": [
+      {
+        "유모차": "대여가능(3층 고객상담실)"
+      },
+      {
+        "수유실": "수유실 있음(5층 유아휴게실)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2465022": {
+    "addr1": "경기도 부천시 오정로 233",
+    "addr2": "(오정동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0204",
+    "cat3": "A02040800",
+    "contentid": "2465022",
+    "contenttypeid": "12",
+    "createdtime": "20161220181645",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.7842675560",
+    "mapy": "37.5293328800",
+    "mlevel": "6",
+    "modifiedtime": "20220414160904",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "OBS 방송역사체험관",
+    "zipcode": "14442",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2736368": {
+    "addr1": "경기도 부천시 호현로387번길 41",
+    "addr2": "(소사본동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2736368",
+    "contenttypeid": "12",
+    "createdtime": "20210825184407",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/97/2736497_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/97/2736497_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7899241471",
+    "mapy": "37.4739199750",
+    "mlevel": "6",
+    "modifiedtime": "20230125113942",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "성주산체육공원",
+    "zipcode": "14757",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2736380": {
+    "addr1": "경기도 부천시 상오정로 183",
+    "addr2": "(오정동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2736380",
+    "contenttypeid": "12",
+    "createdtime": "20210825190428",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/20/2736620_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/20/2736620_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7961692311",
+    "mapy": "37.5299496859",
+    "mlevel": "6",
+    "modifiedtime": "20221220155337",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "오정대공원",
+    "zipcode": "14434",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2736408": {
+    "addr1": "경기도 부천시 연동로 89",
+    "addr2": "(옥길동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2736408",
+    "contenttypeid": "12",
+    "createdtime": "20210825194332",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/69/2736469_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/69/2736469_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8274069428",
+    "mapy": "37.4703210595",
+    "mlevel": "6",
+    "modifiedtime": "20221219175243",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "남부수자원생태공원",
+    "zipcode": "14785",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2781609": {
+    "addr1": "경기도 부천시 춘의동",
+    "addr2": "382",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010700",
+    "contentid": "2781609",
+    "contenttypeid": "12",
+    "createdtime": "20211126195508",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/00/2782000_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/00/2782000_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8182151887",
+    "mapy": "37.5033531695",
+    "mlevel": "6",
+    "modifiedtime": "20230719095836",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "무릉도원수목원",
+    "zipcode": "14656",
+    "family": [
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음(건물)"
+      },
+      {
+        "화장실": "장애인 화장실 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "안내요원": "안내요원 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2869027": {
+    "addr1": "경기도 부천시 고강동",
+    "addr2": "190-11",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2869027",
+    "contenttypeid": "12",
+    "createdtime": "20221018104826",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/23/2869023_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/23/2869023_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8125232917",
+    "mapy": "37.5300805175",
+    "mlevel": "6",
+    "modifiedtime": "20230209093539",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "수주근린공원",
+    "zipcode": "14405",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "2926899": {
+    "addr1": "전라남도 장성군 삼월길 5",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010100",
+    "contentid": "2926899",
+    "contenttypeid": "38",
+    "createdtime": "20221201154253",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/85/2926885_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/85/2926885_image3_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7741583797",
+    "mapy": "35.2913727847",
+    "mlevel": "6",
+    "modifiedtime": "20221226175033",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "황룡시장",
+    "zipcode": "57227",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

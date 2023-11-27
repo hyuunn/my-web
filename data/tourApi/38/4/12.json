@@ -1,0 +1,335 @@
+{
+  "126548": {
+    "addr1": "전라남도 광양시 명당길 160-16",
+    "addr2": "(태인동)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "126548",
+    "contenttypeid": "12",
+    "createdtime": "20030703090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.7602159882",
+    "mapy": "34.9599298357",
+    "mlevel": "6",
+    "modifiedtime": "20230817143207",
+    "sigungucode": "4",
+    "tel": "",
+    "title": "배알도 해변공원",
+    "zipcode": "57815",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "데크로드 구간 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "126960": {
+    "addr1": "전라남도 광양시 백계로 337 백운산휴양림",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010600",
+    "contentid": "126960",
+    "contenttypeid": "12",
+    "createdtime": "20030616090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.5985444870",
+    "mapy": "35.0516111635",
+    "mlevel": "6",
+    "modifiedtime": "20221130142530",
+    "sigungucode": "4",
+    "tel": "",
+    "title": "백운산자연휴양림",
+    "zipcode": "57702",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음(산림휴양관)"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(백운산영상체험관)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "127040": {
+    "addr1": "전라남도 광양시 다압면 지막1길 55",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0204",
+    "cat3": "A02040600",
+    "contentid": "127040",
+    "contenttypeid": "12",
+    "createdtime": "20031117090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/84/1606784_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/84/1606784_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7166918265",
+    "mapy": "35.0755466394",
+    "mlevel": "6",
+    "modifiedtime": "20230926174954",
+    "sigungucode": "4",
+    "tel": "",
+    "title": "홍쌍리 청매실농원",
+    "zipcode": "57709",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "남녀공용 휠체어 장애인 화장실 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(화장실 외부와 내부)"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2469406": {
+    "addr1": "전라남도 광양시 광양읍 인덕로 1100",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0204",
+    "cat3": "A02040800",
+    "contentid": "2469406",
+    "contenttypeid": "12",
+    "createdtime": "20161223223116",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.5827643517",
+    "mapy": "34.9808660669",
+    "mlevel": "6",
+    "modifiedtime": "20230913141339",
+    "sigungucode": "4",
+    "tel": "",
+    "title": "광양만권 경제자유구역 홍보관",
+    "zipcode": "57741",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2481652": {
+    "addr1": "전라남도 광양시 다압면 토끼재길 119-32",
+    "addr2": "(다압면)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03021700",
+    "contentid": "2481652",
+    "contenttypeid": "12",
+    "createdtime": "20170221000856",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/68/2481668_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/68/2481668_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7114399102",
+    "mapy": "35.0600288482",
+    "mlevel": "6",
+    "modifiedtime": "20230818161828",
+    "sigungucode": "4",
+    "tel": "",
+    "title": "느랭이골 자연 리조트",
+    "zipcode": "57709",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함(숲길구간 있음)"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2663268": {
+    "addr1": "전라남도 광양시 광양읍 강정길 33",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01011900",
+    "contentid": "2663268",
+    "contenttypeid": "12",
+    "createdtime": "20200713185707",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.6086181363",
+    "mapy": "34.9613492633",
+    "mlevel": "",
+    "modifiedtime": "20231102212558",
+    "sigungucode": "4",
+    "tel": "",
+    "title": "광양와인동굴",
+    "zipcode": "57749",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함(경사각이 다소 높음)"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(지동문)"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "주차장에서 출입구까지 다소 거리 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2717546": {
+    "addr1": "전라남도 광양시 중마청룡길 12",
+    "addr2": "(중동)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010900",
+    "contentid": "2717546",
+    "contenttypeid": "12",
+    "createdtime": "20210518200558",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.6989524089",
+    "mapy": "34.9406670431",
+    "mlevel": "",
+    "modifiedtime": "20211216231741",
+    "sigungucode": "4",
+    "tel": "010-2547-9188",
+    "title": "남도상회",
+    "zipcode": "57786",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "장애인 화장실 있음(인근 공용화장실)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2915925": {
+    "addr1": "전라남도 광양시 서천1길 44",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030600",
+    "contentid": "2915925",
+    "contenttypeid": "12",
+    "createdtime": "20221123112553",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/98/2915898_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/98/2915898_image3_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5790844070",
+    "mapy": "34.9696061572",
+    "mlevel": "6",
+    "modifiedtime": "20230321094319",
+    "sigungucode": "4",
+    "tel": "",
+    "title": "광양불고기특화거리",
+    "zipcode": "57754",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

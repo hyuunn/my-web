@@ -1,0 +1,86 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "0000",
+      "resultMsg": "OK"
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "addr1": "강원특별자치도 횡성군 횡성읍 삼일로 4-2",
+            "addr2": "",
+            "areacode": "32",
+            "booktour": "",
+            "cat1": "A04",
+            "cat2": "A0401",
+            "cat3": "A04010100",
+            "contentid": "132271",
+            "contenttypeid": "38",
+            "createdtime": "20030416090000",
+            "firstimage": "http://tong.visitkorea.or.kr/cms/resource/93/1928393_image2_1.jpg",
+            "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/93/1928393_image3_1.jpg",
+            "cpyrhtDivCd": "Type3",
+            "mapx": "127.9865595218",
+            "mapy": "37.4898843746",
+            "mlevel": "6",
+            "modifiedtime": "20230701103627",
+            "sigungucode": "18",
+            "tel": "033-342-2389",
+            "title": "횡성장 / 횡성시장 (1, 6일)",
+            "zipcode": "25232"
+          },
+          {
+            "addr1": "강원특별자치도 횡성군 우천면 우항3길 6",
+            "addr2": "",
+            "areacode": "32",
+            "booktour": "",
+            "cat1": "A04",
+            "cat2": "A0401",
+            "cat3": "A04010600",
+            "contentid": "229922",
+            "contenttypeid": "38",
+            "createdtime": "20060123090000",
+            "firstimage": "http://tong.visitkorea.or.kr/cms/resource/57/181257_image2_1.jpg",
+            "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/57/181257_image3_1.jpg",
+            "cpyrhtDivCd": "Type3",
+            "mapx": "128.0636978801",
+            "mapy": "37.4599253940",
+            "mlevel": "6",
+            "modifiedtime": "20230701101327",
+            "sigungucode": "18",
+            "tel": "",
+            "title": "횡성축협한우프라자 (우천점)",
+            "zipcode": "25248"
+          },
+          {
+            "addr1": "강원특별자치도 횡성군 안흥면 안흥로 27",
+            "addr2": "",
+            "areacode": "32",
+            "booktour": "",
+            "cat1": "A04",
+            "cat2": "A0401",
+            "cat3": "A04010100",
+            "contentid": "2704839",
+            "contenttypeid": "38",
+            "createdtime": "20210129182452",
+            "firstimage": "",
+            "firstimage2": "",
+            "cpyrhtDivCd": "",
+            "mapx": "128.1560798315",
+            "mapy": "37.4125298269",
+            "mlevel": "6",
+            "modifiedtime": "20230926171236",
+            "sigungucode": "18",
+            "tel": "",
+            "title": "횡성 안흥장",
+            "zipcode": "25271"
+          }
+        ]
+      },
+      "numOfRows": 3,
+      "pageNo": 1,
+      "totalCount": 3
+    }
+  }
+}

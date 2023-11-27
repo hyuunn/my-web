@@ -1,0 +1,208 @@
+{
+  "1847688": {
+    "addr1": "경기도 안산시 단원구 구봉길 6",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "1847688",
+    "contenttypeid": "39",
+    "createdtime": "20130928004720",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.5689942513",
+    "mapy": "37.2740003978",
+    "mlevel": "6",
+    "modifiedtime": "20230321105439",
+    "sigungucode": "15",
+    "tel": "032-884-4787",
+    "title": "배터지는집",
+    "zipcode": "15638",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2371884": {
+    "addr1": "경기도 안산시 단원구 대부황금로 1479",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2371884",
+    "contenttypeid": "39",
+    "createdtime": "20160304185029",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/26/2371926_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/26/2371926_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.5736157018",
+    "mapy": "37.2867878841",
+    "mlevel": "6",
+    "modifiedtime": "20231011164021",
+    "sigungucode": "15",
+    "tel": "032-881-4424",
+    "title": "사또횟집",
+    "zipcode": "15638",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "건물입구 무단차 접근 후 엘리베이터로 2층 접근(식당 2층)"
+      },
+      {
+        "기타 지원 항목": "입식(의자식)테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2761476": {
+    "addr1": "경기도 안산시 단원구 대부황금로 1273",
+    "addr2": "(대부북동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2761476",
+    "contenttypeid": "39",
+    "createdtime": "20211025190447",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/83/2761483_image2_1.jpeg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/83/2761483_image2_1.jpeg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.5720385213",
+    "mapy": "37.2702425535",
+    "mlevel": "6",
+    "modifiedtime": "20231011153947",
+    "sigungucode": "15",
+    "tel": "",
+    "title": "북동삼거리손칼국수",
+    "zipcode": "15640",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2781789": {
+    "addr1": "경기도 안산시 단원구 서위매봉길 40",
+    "addr2": "(대부북동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2781789",
+    "contenttypeid": "39",
+    "createdtime": "20211126212556",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/10/2781810_image2_1.jpeg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/10/2781810_image2_1.jpeg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.5683468871",
+    "mapy": "37.2813273146",
+    "mlevel": "6",
+    "modifiedtime": "20231004141038",
+    "sigungucode": "15",
+    "tel": "",
+    "title": "파도마루",
+    "zipcode": "15638",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2872282": {
+    "addr1": "경기도 안산시 상록구 예술광장1로 116",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2872282",
+    "contenttypeid": "39",
+    "createdtime": "20221021131638",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/72/2872272_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/72/2872272_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8451287903",
+    "mapy": "37.3264241850",
+    "mlevel": "6",
+    "modifiedtime": "20221202151549",
+    "sigungucode": "15",
+    "tel": "",
+    "title": "훈장골한우짝갈비",
+    "zipcode": "15291",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

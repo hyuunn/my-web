@@ -1,0 +1,133 @@
+{
+  "132120": {
+    "addr1": "충청북도 제천시 풍양로 108",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "132120",
+    "contenttypeid": "38",
+    "createdtime": "20031119090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/49/2021649_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/49/2021649_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.2112829602",
+    "mapy": "37.1366654537",
+    "mlevel": "6",
+    "modifiedtime": "20230222104444",
+    "sigungucode": "7",
+    "tel": "043-647-2047",
+    "title": "제천 중앙시장",
+    "zipcode": "27173",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(1층)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1309907": {
+    "addr1": "충청북도 제천시 내토로28길 3-1",
+    "addr2": "(화산동)",
+    "areacode": "33",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "1309907",
+    "contenttypeid": "38",
+    "createdtime": "20110616001639",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/59/1303859_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/59/1303859_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.2068946756",
+    "mapy": "37.1294662000",
+    "mlevel": "6",
+    "modifiedtime": "20221019144515",
+    "sigungucode": "7",
+    "tel": "",
+    "title": "제천 역전한마음시장",
+    "zipcode": "27196",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2610489": {
+    "addr1": "충청북도 제천시 원화산로 121",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010900",
+    "contentid": "2610489",
+    "contenttypeid": "38",
+    "createdtime": "20190711011032",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/11/2363411_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/11/2363411_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.2196130228",
+    "mapy": "37.1279388365",
+    "mlevel": "6",
+    "modifiedtime": "20221121095834",
+    "sigungucode": "7",
+    "tel": "",
+    "title": "제천 약초시장",
+    "zipcode": "27197",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

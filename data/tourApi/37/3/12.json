@@ -1,0 +1,117 @@
+{
+  "126339": {
+    "addr1": "전라북도 김제시 금산면 모악15길 1",
+    "addr2": "(금산면)",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010800",
+    "contentid": "126339",
+    "contenttypeid": "12",
+    "createdtime": "20030918090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/41/1603941_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/41/1603941_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0534614685",
+    "mapy": "35.7227452882",
+    "mlevel": "6",
+    "modifiedtime": "20230512181101",
+    "sigungucode": "3",
+    "tel": "",
+    "title": "금산사(김제)",
+    "zipcode": "54343",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "장애인화장실 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "127574": {
+    "addr1": "전라북도 김제시 금산면 모악15길",
+    "addr2": "(금산리) 일대",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010200",
+    "contentid": "127574",
+    "contenttypeid": "12",
+    "createdtime": "20070419090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/89/1974389_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/89/1974389_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0561028982",
+    "mapy": "35.7228286577",
+    "mlevel": "6",
+    "modifiedtime": "20220624134221",
+    "sigungucode": "3",
+    "tel": "063-540-3539",
+    "title": "모악산도립공원",
+    "zipcode": "54343",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "231895": {
+    "addr1": "전라북도 김제시 부량면 벽골제로 442",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010700",
+    "contentid": "231895",
+    "contenttypeid": "12",
+    "createdtime": "20071004090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.8531173673",
+    "mapy": "35.7546687724",
+    "mlevel": "6",
+    "modifiedtime": "20230811170258",
+    "sigungucode": "3",
+    "tel": "",
+    "title": "김제 벽골제",
+    "zipcode": "54425",
+    "family": [
+      {
+        "유모차": "대여가능"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "단차 및 경사가 거의없음"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

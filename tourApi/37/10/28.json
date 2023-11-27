@@ -1,0 +1,40 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "0000",
+      "resultMsg": "OK"
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "addr1": "전라북도 임실군 청웅면 청운로 168-46",
+            "addr2": "",
+            "areacode": "37",
+            "booktour": "",
+            "cat1": "A03",
+            "cat2": "A0302",
+            "cat3": "A03021600",
+            "contentid": "131828",
+            "contenttypeid": "28",
+            "createdtime": "20050831090000",
+            "firstimage": "http://tong.visitkorea.or.kr/cms/resource/34/1605334_image2_1.jpg",
+            "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/34/1605334_image3_1.jpg",
+            "cpyrhtDivCd": "Type3",
+            "mapx": "127.1929581513",
+            "mapy": "35.5870464371",
+            "mlevel": "6",
+            "modifiedtime": "20230728100326",
+            "sigungucode": "10",
+            "tel": "",
+            "title": "전라북도종합사격장",
+            "zipcode": "55934"
+          }
+        ]
+      },
+      "numOfRows": 1,
+      "pageNo": 1,
+      "totalCount": 1
+    }
+  }
+}

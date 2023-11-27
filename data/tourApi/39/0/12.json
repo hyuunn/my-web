@@ -1,0 +1,5868 @@
+{
+    "125445":{
+       "addr1":"제주특별자치도 제주시 한경면 녹차분재로 675",
+       "addr2":"(한경면)",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01010700",
+       "contentid":"125445",
+       "contenttypeid":"12",
+       "createdtime":"20031212090000",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/48/608548_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/48/608548_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.2551753838",
+       "mapy":"33.3254009536",
+       "mlevel":"6",
+       "modifiedtime":"20230503114437",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"생각하는 정원",
+       "zipcode":"63005",
+       "infantsfamily":"1",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          {
+             "유모차":"대여가능"
+          }
+       ],
+       "handi":[
+          {
+             "접근로":"관람동선은 턱이 없고 평탄하게 되어있어 휠체어 사용이 편리함"
+          },
+          {
+             "매표소":"장애인이 이용가능한 매표소 있음"
+          },
+          {
+             "휠체어":"수동휠체어 무료 대여 가능함"
+          },
+          {
+             "출입통로":"단차가 거의 없음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "126439":{
+       "addr1":"제주특별자치도 서귀포시 천제연로 132",
+       "addr2":"(중문동)",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01010800",
+       "contentid":"126439",
+       "contenttypeid":"12",
+       "createdtime":"20030925090000",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/08/2650708_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/08/2650708_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.4184294967",
+       "mapy":"33.2526559999",
+       "mlevel":"6",
+       "modifiedtime":"20230313135826",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"천제연폭포",
+       "zipcode":"63546",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"선임교 가는 길은 단차가 없고 평탄하게 되어 있어 휠체어사용자가 편함(폭포 가는 길은 계단이 있어 접근 제한됨)"
+          },
+          {
+             "화장실":"장애인 화장실 있음(주차장과 선임교 근처 2곳)"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "126441":{
+       "addr1":"제주특별자치도 서귀포시 돈내코로 137",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01010900",
+       "contentid":"126441",
+       "contenttypeid":"12",
+       "createdtime":"20030908090000",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/73/2665273_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/73/2665273_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.5820170154",
+       "mapy":"33.3005255267",
+       "mlevel":"6",
+       "modifiedtime":"20230216173240",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"돈내코(원앙폭포)",
+       "zipcode":"63582",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "화장실":"장애인 전용화장실 있음_무장애 편의시설"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "126443":{
+       "addr1":"제주특별자치도 서귀포시 안덕면 화순해안로",
+       "addr2":"(화순리)",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01011200",
+       "contentid":"126443",
+       "contenttypeid":"12",
+       "createdtime":"20030925090000",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/38/197738_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/38/197738_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.3335149080",
+       "mapy":"33.2407004292",
+       "mlevel":"6",
+       "modifiedtime":"20220727130425",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"화순금모래 해변",
+       "zipcode":"63530",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"해변가까지 접근 가능한 경사로가 있으나 모래사장까지 접근하는 경로에 1단 정도의 단차가 있고 일부구간은 휠체어 접근이 용이한 산책로가 있음"
+          },
+          {
+             "화장실":"장애인 전용 화장실 있음(주차장 앞 화순 화장실)"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "점자블록":"점자블록 있음(화장실 앞)_시각장애인 편의시설"
+          }
+       ]
+    },
+    "126447":{
+       "addr1":"제주특별자치도 서귀포시 성산읍 섭지코지로 107",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01011200",
+       "contentid":"126447",
+       "contenttypeid":"12",
+       "createdtime":"20030707090000",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/51/1617251_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/51/1617251_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.9280674087",
+       "mapy":"33.4302500880",
+       "mlevel":"6",
+       "modifiedtime":"20230425144822",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"신양 섭지해수욕장",
+       "zipcode":"63642",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "화장실":"장애인 화장실 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "126448":{
+       "addr1":"제주특별자치도 제주시 도리로",
+       "addr2":"(이호일동)",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01011200",
+       "contentid":"126448",
+       "contenttypeid":"12",
+       "createdtime":"20031222090000",
+       "firstimage":"",
+       "firstimage2":"",
+       "cpyrhtDivCd":"",
+       "mapx":"126.4531570913",
+       "mapy":"33.4974183784",
+       "mlevel":"6",
+       "modifiedtime":"20220629151048",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"이호테우해변",
+       "zipcode":"63111",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "화장실":"장애인 화장실 있음(제주해양관광 레저센터)"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "점자블록":"점자블록 있음(제주해양관광 레저센터 계단과 출입구)_시각장애인 편의시설"
+          }
+       ]
+    },
+    "126449":{
+       "addr1":"제주특별자치도 서귀포시 중문관광로72번길",
+       "addr2":"(색달동)",
+       "areacode":"39",
+       "booktour":"1",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01011200",
+       "contentid":"126449",
+       "contenttypeid":"12",
+       "createdtime":"20030925090000",
+       "firstimage":"",
+       "firstimage2":"",
+       "cpyrhtDivCd":"",
+       "mapx":"126.4108385503",
+       "mapy":"33.2498839643",
+       "mlevel":"6",
+       "modifiedtime":"20220629150520",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"중문·색달 해변",
+       "zipcode":"63535",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"해변가까지 접근 가능한 경사로가 설치되어 있으나 모래가 있음(경사로 중간에 낮은 턱의 단차가 있음)"
+          },
+          {
+             "화장실":"장애인 전용 화장실 있음(주차장 공중화장실)"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "126451":{
+       "addr1":"제주특별자치도 제주시 조천읍 조함해안로 519-10",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01011200",
+       "contentid":"126451",
+       "contenttypeid":"12",
+       "createdtime":"20030909090000",
+       "firstimage":"",
+       "firstimage2":"",
+       "cpyrhtDivCd":"",
+       "mapx":"126.6683567720",
+       "mapy":"33.5439000013",
+       "mlevel":"6",
+       "modifiedtime":"20230331133108",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"함덕 서우봉 해변 (함덕해수욕장)",
+       "zipcode":"63333",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "출입통로":"경사가 완만함"
+          },
+          {
+             "화장실":"장애인 화장실 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "126454":{
+       "addr1":"제주특별자치도 제주시 사라봉동길 74",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0202",
+       "cat3":"A02020700",
+       "contentid":"126454",
+       "contenttypeid":"12",
+       "createdtime":"20031111090000",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/92/197792_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/92/197792_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.5460485461",
+       "mapy":"33.5180620158",
+       "mlevel":"6",
+       "modifiedtime":"20230209141259",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"사라봉공원",
+       "zipcode":"63284",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"입구에는 계단이 3개 정도 있고 계단을 지나 별도봉 쪽으로 산책로가 있음\n휠체어 사용자나 유모차, 보행이 어려운 장애인은 차량용 진입로를 이용해 입장할 수 있음"
+          },
+          {
+             "화장실":"장애인용 화장실 있음(공원 입구에 위치, 전면접근이 가능하나 측면접근은 불가능하고 접이식문으로 되어 있음)_무장애 편의시설"
+          },
+          {
+             "기타 지원 항목":"장애인 활동보조 필요_어려움"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "126455":{
+       "addr1":"제주특별자치도 제주시 한림읍 한림로 300",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0202",
+       "cat3":"A02020700",
+       "contentid":"126455",
+       "contenttypeid":"12",
+       "createdtime":"20040226090000",
+       "firstimage":"",
+       "firstimage2":"",
+       "cpyrhtDivCd":"",
+       "mapx":"126.2415557152",
+       "mapy":"33.3886659647",
+       "mlevel":"6",
+       "modifiedtime":"20230215104354",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"한림공원",
+       "zipcode":"63011",
+       "infantsfamily":"1",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          {
+             "유모차":"대여가능 (24개월 이하, 대여료 1,000원)"
+          }
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "매표소":"장애인이 이용할 수 있는 매표소 있음"
+          },
+          {
+             "휠체어":"대여가능"
+          },
+          {
+             "화장실":"장애인 화장실 있음(공원 내 공중화장실)"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "126457":{
+       "addr1":"제주특별자치도 서귀포시 안덕면 산방로 218-12",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0201",
+       "cat3":"A02010800",
+       "contentid":"126457",
+       "contenttypeid":"12",
+       "createdtime":"20021008090000",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/39/1036539_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/39/1036539_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.3133472902",
+       "mapy":"33.2372560486",
+       "mlevel":"6",
+       "modifiedtime":"20230112101723",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"산방굴사(제주)",
+       "zipcode":"63528",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "화장실":"장애인용화장실 있음_무장애 편의시설"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "126459":{
+       "addr1":"제주특별자치도 제주시 사라봉길 75",
+       "addr2":"(건입동)",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0201",
+       "cat3":"A02010700",
+       "contentid":"126459",
+       "contenttypeid":"12",
+       "createdtime":"20021213090000",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/91/1618591_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/91/1618591_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.5470457247",
+       "mapy":"33.5161733522",
+       "mlevel":"6",
+       "modifiedtime":"20221118135251",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"모충사",
+       "zipcode":"63284",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함(내부에는 계단구간 있음)"
+          },
+          {
+             "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "화장실":"장애인 화장실 있음_무장애 편의시설"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "126460":{
+       "addr1":"제주특별자치도 제주시 관덕로 19",
+       "addr2":"(삼도이동)",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0201",
+       "cat3":"A02010100",
+       "contentid":"126460",
+       "contenttypeid":"12",
+       "createdtime":"20021213090000",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/75/2513575_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/75/2513575_image2_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.5219701925",
+       "mapy":"33.5132954930",
+       "mlevel":"6",
+       "modifiedtime":"20221220162311",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"관덕정(제주)",
+       "zipcode":"63166",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함(일부구간 단차 있음)"
+          },
+          {
+             "휠체어":"대여가능(매표소,사전구비문의)"
+          },
+          {
+             "출입통로":"주출입구는 경사로가 설치되어 있음"
+          },
+          {
+             "화장실":"장애인 전용 화장실 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "126461":{
+       "addr1":"제주특별자치도 제주시 516로 3041-24",
+       "addr2":"(아라일동)",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01010500",
+       "contentid":"126461",
+       "contenttypeid":"12",
+       "createdtime":"20021213090000",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/26/1618526_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/26/1618526_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.5547604989",
+       "mapy":"33.4476699442",
+       "mlevel":"6",
+       "modifiedtime":"20221129161001",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"산천단곰솔",
+       "zipcode":"63244",
+       "infantsfamily":"1",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          {
+             "영유아가족 기타 지원 항목":"기저귀교환대(여자화장실 내부)"
+          }
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "화장실":"장애인 화장실 있음(남녀공용)_무장애 편의시설"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "점자블록":"점자블록 있음(화장실 앞)_시각장애인 편의시설"
+          }
+       ]
+    },
+    "126464":{
+       "addr1":"제주특별자치도 서귀포시 중문관광로 93",
+       "addr2":"(색달동)",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01010700",
+       "contentid":"126464",
+       "contenttypeid":"12",
+       "createdtime":"20040224090000",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/49/2654749_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/49/2654749_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.4142854128",
+       "mapy":"33.2526059401",
+       "mlevel":"6",
+       "modifiedtime":"20230321093425",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"여미지식물원",
+       "zipcode":"63535",
+       "infantsfamily":"1",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          {
+             "유모차":"대여가능(무료)"
+          }
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 경사로가 설치되어 있음"
+          },
+          {
+             "휠체어":"대여가능(무료)"
+          },
+          {
+             "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+          },
+          {
+             "엘리베이터":"엘리베이터 있음"
+          },
+          {
+             "화장실":"장애인 화장실 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "126465":{
+       "addr1":"제주특별자치도 서귀포시 성산읍 혼인지로 39-22",
+       "addr2":"(성산읍)",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01010500",
+       "contentid":"126465",
+       "contenttypeid":"12",
+       "createdtime":"20020430090000",
+       "firstimage":"",
+       "firstimage2":"",
+       "cpyrhtDivCd":"",
+       "mapx":"126.8953344794",
+       "mapy":"33.4151428937",
+       "mlevel":"6",
+       "modifiedtime":"20221031195834",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"혼인지",
+       "zipcode":"63633",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함_무장애 편의시설"
+          },
+          {
+             "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+          },
+          {
+             "화장실":"장애인 전용 화장실 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "126466":{
+       "addr1":"제주특별자치도 서귀포시 중문관광로 154-17",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0202",
+       "cat3":"A02020600",
+       "contentid":"126466",
+       "contenttypeid":"12",
+       "createdtime":"20031104090000",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/61/2587961_image2_1.bmp",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/61/2587961_image2_1.bmp",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.4156521304",
+       "mapy":"33.2450179104",
+       "mlevel":"6",
+       "modifiedtime":"20230518105738",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"퍼시픽 리솜",
+       "zipcode":"63535",
+       "infantsfamily":"1",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          {
+             "수유실":"수유실 있음"
+          }
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 경사로가 설치되어 있음(자동문)"
+          },
+          {
+             "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함(자동문)"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "보조견 동반":"동반가능_시각장애인 편의시설"
+          }
+       ]
+    },
+    "126471":{
+       "addr1":"제주특별자치도 서귀포시 표선면 성읍정의현로 19",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0201",
+       "cat3":"A02010600",
+       "contentid":"126471",
+       "contenttypeid":"12",
+       "createdtime":"20030925090000",
+       "firstimage":"",
+       "firstimage2":"",
+       "cpyrhtDivCd":"",
+       "mapx":"126.8003906281",
+       "mapy":"33.3845391870",
+       "mlevel":"6",
+       "modifiedtime":"20220510170641",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"성읍민속마을",
+       "zipcode":"63624",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함(마을 내 구경하는 집 단차 없어 휠체어 내부 진입 가능)"
+          },
+          {
+             "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+          },
+          {
+             "화장실":"장애인 전용 화장실 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "126472":{
+       "addr1":"제주특별자치도 제주시 구좌읍 비자숲길 55",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01010700",
+       "contentid":"126472",
+       "contenttypeid":"12",
+       "createdtime":"20040226090000",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/66/2668266_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/66/2668266_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.8074904603",
+       "mapy":"33.4862530625",
+       "mlevel":"6",
+       "modifiedtime":"20230309141113",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"비자림",
+       "zipcode":"63351",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"삼림욕을 즐길 수 있는 오솔길은 턱은 없지만 흙으로 되어 있는 비포장길 있음"
+          },
+          {
+             "휠체어":"휠체어 무료 대여 가능함"
+          },
+          {
+             "화장실":"장애인 화장실 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "126473":{
+       "addr1":"제주특별자치도 제주시 애월읍 하가로",
+       "addr2":"(애월읍)",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01011700",
+       "contentid":"126473",
+       "contenttypeid":"12",
+       "createdtime":"20040226090000",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/96/2517296_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/96/2517296_image2_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.3475200185",
+       "mapy":"33.4547464297",
+       "mlevel":"6",
+       "modifiedtime":"20230503130942",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"연화못(하가못)",
+       "zipcode":"63036",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 경사로가 설치되어 있음(산책로 휠체어 이동 용이)_무장애편의시설"
+          },
+          {
+             "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+          },
+          {
+             "화장실":"장애인 전용 화장실 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "126474":{
+       "addr1":"제주특별자치도 제주시 조천읍 비자림로 768",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01010400",
+       "contentid":"126474",
+       "contenttypeid":"12",
+       "createdtime":"20040226090000",
+       "firstimage":"",
+       "firstimage2":"",
+       "cpyrhtDivCd":"",
+       "mapx":"126.6928183084",
+       "mapy":"33.4323127375",
+       "mlevel":"6",
+       "modifiedtime":"20220503155344",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"산굼부리",
+       "zipcode":"63346",
+       "infantsfamily":"1",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          {
+             "유모차":"대여가능(신분증제출)"
+          }
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함(전망대는 계단으로 되어있어 접근 제한)"
+          },
+          {
+             "휠체어":"대여가능(2대, 신분증제출)"
+          },
+          {
+             "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "화장실":"장애인 화장실 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "126672":{
+       "addr1":"제주특별자치도 서귀포시 대정읍 송악관광로",
+       "addr2":"(상모리)",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01010400",
+       "contentid":"126672",
+       "contenttypeid":"12",
+       "createdtime":"20030424090000",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/30/1620230_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/30/1620230_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.2907750868",
+       "mapy":"33.1994515348",
+       "mlevel":"6",
+       "modifiedtime":"20230127104047",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"송악산",
+       "zipcode":"63512",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 평지로 되어 있으나 흙(돌) 구간 있음(경사도가 있어 보호자도움 필요)"
+          },
+          {
+             "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(경사도가 있어 보호자도움 필요)"
+          },
+          {
+             "화장실":"장애인 화장실 있음_무장애 편의시설"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "127046":{
+       "addr1":"제주특별자치도 제주시 구좌읍 만장굴길 122",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0202",
+       "cat3":"A02020700",
+       "contentid":"127046",
+       "contenttypeid":"12",
+       "createdtime":"20031105090000",
+       "firstimage":"",
+       "firstimage2":"",
+       "cpyrhtDivCd":"",
+       "mapx":"126.7720396084",
+       "mapy":"33.5363247299",
+       "mlevel":"6",
+       "modifiedtime":"20230320200058",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"김녕미로공원",
+       "zipcode":"63348",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "매표소":"장애인 이용가능 매표소 있음"
+          },
+          {
+             "휠체어":"대여가능"
+          },
+          {
+             "출입통로":"단차가 없고 경사가 매우 완만함"
+          },
+          {
+             "화장실":"장애인용화장실 있음(접근은 가능하나 세면대, 대변기 손잡이가 잘못 설치되어 불편)"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "127055":{
+       "addr1":"제주특별자치도 제주시 사라봉길 75",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0201",
+       "cat3":"A02010700",
+       "contentid":"127055",
+       "contenttypeid":"12",
+       "createdtime":"20031121090000",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/23/1618223_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/23/1618223_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.5470457247",
+       "mapy":"33.5161733522",
+       "mlevel":"6",
+       "modifiedtime":"20220526131824",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"사라봉(모충사) 의병항쟁기념탑",
+       "zipcode":"63284",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "화장실":"장애인용화장실 있음(계단이 있어 휠체어 이동시 불편함)_무장애 편의시설"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "127310":{
+       "addr1":"제주특별자치도 제주시 애월읍 납읍리",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01010500",
+       "contentid":"127310",
+       "contenttypeid":"12",
+       "createdtime":"20030410090000",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/07/2513607_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/07/2513607_image2_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.3307108375",
+       "mapy":"33.4338956949",
+       "mlevel":"6",
+       "modifiedtime":"20220826153350",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"금산공원(납읍난대림지대)",
+       "zipcode":"63035",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "화장실":"장애인 전용 화장실 있음_무장애 편의시설"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "127479":{
+       "addr1":"제주특별자치도 제주시 명림로 584",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01010600",
+       "contentid":"127479",
+       "contenttypeid":"12",
+       "createdtime":"20031028090000",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/10/2364410_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/10/2364410_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.6252156649",
+       "mapy":"33.4400774642",
+       "mlevel":"6",
+       "modifiedtime":"20221107221941",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"제주절물자연휴양림",
+       "zipcode":"63313",
+       "infantsfamily":"1",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          {
+             "유모차":"대여가능"
+          }
+       ],
+       "handi":[
+          {
+             "접근로":"삼나무 숲은 데크와 경사로가 설치되어 있어 휠체어 사용자의 이용 용이함"
+          },
+          {
+             "휠체어":"대여가능(수동휠체어)"
+          },
+          {
+             "화장실":"장애인 화장실 있음(매표소 옆, 휴양림 안쪽 남녀공용)"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "127490":{
+       "addr1":"제주특별자치도 제주시 한림읍 한림로 329-10",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01011200",
+       "contentid":"127490",
+       "contenttypeid":"12",
+       "createdtime":"20030925090000",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/73/218873_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/73/218873_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.2394418960",
+       "mapy":"33.3937764770",
+       "mlevel":"6",
+       "modifiedtime":"20220524153216",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"협재해변",
+       "zipcode":"63011",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"해변가까지 무단차구간 있음"
+          },
+          {
+             "화장실":"장애인 전용화장실 있음(공영주차장 앞 공중화장실,모살밭회관 오른쪽 공중화장실)"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "점자블록":"점자블록 있음(모살밭회관 오른쪽 공중화장실)_시각장애인 편의시설"
+          }
+       ]
+    },
+    "127514":{
+       "addr1":"제주특별자치도 제주시 수목원길 72",
+       "addr2":"(연동)",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01010700",
+       "contentid":"127514",
+       "contenttypeid":"12",
+       "createdtime":"20040224090000",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/99/2525599_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/99/2525599_image2_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.4921487719",
+       "mapy":"33.4697692812",
+       "mlevel":"6",
+       "modifiedtime":"20220530110616",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"한라수목원",
+       "zipcode":"63143",
+       "infantsfamily":"1",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          {
+             "유모차":"대여가능"
+          },
+          {
+             "영유아가족 기타 지원 항목":"기저귀교환대 있음"
+          }
+       ],
+       "handi":[
+          {
+             "휠체어":"대여가능"
+          },
+          {
+             "화장실":"장애인 화장실 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "127520":{
+       "addr1":"제주특별자치도 서귀포시 대정읍 추사로 44",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0201",
+       "cat3":"A02010400",
+       "contentid":"127520",
+       "contenttypeid":"12",
+       "createdtime":"20030627090000",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/73/2641073_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/73/2641073_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.2783333805",
+       "mapy":"33.2499652075",
+       "mlevel":"6",
+       "modifiedtime":"20221115161256",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"서귀포 김정희 유배지",
+       "zipcode":"63517",
+       "infantsfamily":"1",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          {
+             "유모차":"대여가능(2대)"
+          }
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 경사로가 설치되어 있음"
+          },
+          {
+             "휠체어":"대여가능(2대)"
+          },
+          {
+             "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+          },
+          {
+             "엘리베이터":"엘리베이터 있음"
+          },
+          {
+             "화장실":"장애인 화장실 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "점자블록":"점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+          }
+       ]
+    },
+    "127744":{
+       "addr1":"제주특별자치도 제주시 삼성로 22",
+       "addr2":"(이도일동)",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0201",
+       "cat3":"A02010700",
+       "contentid":"127744",
+       "contenttypeid":"12",
+       "createdtime":"20031121090000",
+       "firstimage":"",
+       "firstimage2":"",
+       "cpyrhtDivCd":"",
+       "mapx":"126.5289586809",
+       "mapy":"33.5041771692",
+       "mlevel":"6",
+       "modifiedtime":"20230329111841",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"제주 삼성혈",
+       "zipcode":"63197",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 평지로 되어 있으나 흙(돌) 구간 있음"
+          },
+          {
+             "휠체어":"휠체어 무료대여 가능함"
+          },
+          {
+             "출입통로":"경사로가 설치되어 있음 , 단차가 없고 경사가 매우 완만함"
+          },
+          {
+             "화장실":"장애인용화장실 있음(내부공간은 넓으나 청소도구 등이 있어 이용이 불편함)_무장애 편의정보"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "127813":{
+       "addr1":"제주특별자치도 서귀포시 성산읍 섭지코지로 107",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01011100",
+       "contentid":"127813",
+       "contenttypeid":"12",
+       "createdtime":"20030827090000",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/80/2513480_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/80/2513480_image2_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.9280674087",
+       "mapy":"33.4302500880",
+       "mlevel":"6",
+       "modifiedtime":"20230329145045",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"섭지코지",
+       "zipcode":"63642",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"섭지코지 앞까지 차량으로 접근 가능함\n산책로 입구 턱 없음, 휠체어 이동 가능(최고 경사도 15~17도)\n성당건물이 있는 곳까지는 경사로가 가파름"
+          },
+          {
+             "출입통로":"단차없이 출입가능, 보행로 구간에 따라 기울기 차이가 다소 있음"
+          },
+          {
+             "화장실":"장애인용화장실 있음(섭지코지 주차장,웰컴센터 주차장에 위치, 대변기 전면 접근이 가능하나 측면 접근은 불가능함)"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "127857":{
+       "addr1":"제주특별자치도 서귀포시 성산읍 중산간동로 4150-30",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0202",
+       "cat3":"A02020700",
+       "contentid":"127857",
+       "contenttypeid":"12",
+       "createdtime":"20030701090000",
+       "firstimage":"",
+       "firstimage2":"",
+       "cpyrhtDivCd":"",
+       "mapx":"126.8422676322",
+       "mapy":"33.3812096725",
+       "mlevel":"6",
+       "modifiedtime":"20230131105129",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"일출랜드",
+       "zipcode":"63635",
+       "infantsfamily":"1",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          {
+             "유모차":"유모차 무료대여 가능함(신분증 보관)"
+          }
+       ],
+       "handi":[
+          {
+             "휠체어":"무료로 대여 가능함"
+          },
+          {
+             "화장실":"장애인 화장실 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "127860":{
+       "addr1":"제주특별자치도 제주시 한림읍 한림로 176",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0202",
+       "cat3":"A02020700",
+       "contentid":"127860",
+       "contenttypeid":"12",
+       "createdtime":"20040220090000",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/44/218744_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/44/218744_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.2267487402",
+       "mapy":"33.3854910837",
+       "mlevel":"6",
+       "modifiedtime":"20220719130803",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"금능석물원",
+       "zipcode":"63010",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "출입통로":"주출입구 경사로 설치됨(석물원 내 동굴은 계단이 있어 접근 제한함)_무장애 편의시설"
+          },
+          {
+             "화장실":"장애인용화장실 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "127870":{
+       "addr1":"제주특별자치도 제주시 애월읍 금성5길",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01011200",
+       "contentid":"127870",
+       "contenttypeid":"12",
+       "createdtime":"20031020090000",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/88/599788_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/88/599788_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.3043961883",
+       "mapy":"33.4460300474",
+       "mlevel":"6",
+       "modifiedtime":"20220728111925",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"곽지해수욕장 (곽지과물해변)",
+       "zipcode":"63034",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"경사로 있음"
+          },
+          {
+             "출입통로":"출입구에는 단차 및 경사가 거의 없으나 내부 보행로에는 경사가 있어 이동에 제약이 있음"
+          },
+          {
+             "화장실":"장애인 전용 화장실 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "128049":{
+       "addr1":"제주특별자치도 제주시 조천읍 비자림로 606",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0202",
+       "cat3":"A02020600",
+       "contentid":"128049",
+       "contenttypeid":"12",
+       "createdtime":"20040227090000",
+       "firstimage":"",
+       "firstimage2":"",
+       "cpyrhtDivCd":"",
+       "mapx":"126.6745670935",
+       "mapy":"33.4332262333",
+       "mlevel":"6",
+       "modifiedtime":"20230126132743",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"제주 센트럴파크",
+       "zipcode":"63346",
+       "infantsfamily":"1",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          {
+             "유모차":"대여가능"
+          }
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "휠체어":"대여가능"
+          },
+          {
+             "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "화장실":"장애인 화장실 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "128050":{
+       "addr1":"제주특별자치도 제주시 애월읍 항파두리로 50",
+       "addr2":"(애월읍)",
+       "areacode":"39",
+       "booktour":"1",
+       "cat1":"A02",
+       "cat2":"A0201",
+       "cat3":"A02010700",
+       "contentid":"128050",
+       "contenttypeid":"12",
+       "createdtime":"20040227090000",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/14/1618314_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/14/1618314_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.4089619525",
+       "mapy":"33.4523365568",
+       "mlevel":"6",
+       "modifiedtime":"20220804093213",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"제주 항파두리 항몽 유적",
+       "zipcode":"63057",
+       "infantsfamily":"1",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          {
+             "유모차":"대여가능(2대)"
+          }
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "휠체어":"대여가능(1대)"
+          },
+          {
+             "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "화장실":"장애인 화장실 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "점자블록":"점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+          },
+          {
+             "안내요원":"안내요원 있음"
+          }
+       ]
+    },
+    "128154":{
+       "addr1":"제주특별자치도 서귀포시 성산읍 성산등용로 112-7",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0202",
+       "cat3":"A02020800",
+       "contentid":"128154",
+       "contenttypeid":"12",
+       "createdtime":"20040531090000",
+       "firstimage":"",
+       "firstimage2":"",
+       "cpyrhtDivCd":"",
+       "mapx":"126.9337909207",
+       "mapy":"33.4732870934",
+       "mlevel":"3",
+       "modifiedtime":"20220518173424",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"성산포유람선",
+       "zipcode":"63643",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"휠체어로 승선 가능함"
+          },
+          {
+             "화장실":"장애인 화장실 있음(여객터미널)"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "128175":{
+       "addr1":"제주특별자치도 서귀포시 1100로 882",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01010600",
+       "contentid":"128175",
+       "contenttypeid":"12",
+       "createdtime":"20040625090000",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/11/1207811_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/11/1207811_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.4630826543",
+       "mapy":"33.3108197268",
+       "mlevel":"6",
+       "modifiedtime":"20220516171934",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"서귀포자연휴양림",
+       "zipcode":"63554",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함(돌구간 있음)<br/>\n데크로드가 설치된 등산로 있음(일부구간)"
+          },
+          {
+             "출입통로":"주출입구는 단차가 없고 관리사무소 앞 경사로 설치되어 있음"
+          },
+          {
+             "화장실":"장애인 전용 화장실 있음(경사로 설치 됨)"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "점자블록":"점자블록 있음(화장실 앞)_시각장애인 편의시설"
+          }
+       ]
+    },
+    "128345":{
+       "addr1":"제주특별자치도 서귀포시 표선면 돈오름로 170",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0204",
+       "cat3":"A02040800",
+       "contentid":"128345",
+       "contenttypeid":"12",
+       "createdtime":"20070913090000",
+       "firstimage":"",
+       "firstimage2":"",
+       "cpyrhtDivCd":"",
+       "mapx":"126.8159988653",
+       "mapy":"33.3295205105",
+       "mlevel":"6",
+       "modifiedtime":"20230130164730",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"제주허브동산",
+       "zipcode":"63628",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"경사로 설치됨(동산 위쪽과 펜션 쪽은 경사로가 가파름)"
+          },
+          {
+             "휠체어":"휠체어 무료 대여가능함"
+          },
+          {
+             "화장실":"장애인용화장실 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "128641":{
+       "addr1":"제주특별자치도 제주시 관덕로 25",
+       "addr2":"(삼도이동)",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0201",
+       "cat3":"A02010100",
+       "contentid":"128641",
+       "contenttypeid":"12",
+       "createdtime":"20051109090000",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/68/2517368_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/68/2517368_image2_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.5220646195",
+       "mapy":"33.5137037819",
+       "mlevel":"6",
+       "modifiedtime":"20230221132942",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"제주목관아",
+       "zipcode":"63166",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 경사로가 설치되어 있음"
+          },
+          {
+             "휠체어":"대여가능"
+          },
+          {
+             "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함(흙길 구간 있음)"
+          },
+          {
+             "화장실":"장애인 화장실 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "안내요원":"안내요원 있음"
+          }
+       ]
+    },
+    "128794":{
+       "addr1":"제주특별자치도 서귀포시 표선면 민속해안로",
+       "addr2":"(표선리)",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01011200",
+       "contentid":"128794",
+       "contenttypeid":"12",
+       "createdtime":"20060220090000",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/01/1618201_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/01/1618201_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.8396357961",
+       "mapy":"33.3256435401",
+       "mlevel":"6",
+       "modifiedtime":"20230403151347",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"표선 해비치 해변",
+       "zipcode":"63629",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"해변근처 무단차구간 있음(올레길3-A코스)"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "128795":{
+       "addr1":"제주특별자치도 서귀포시 남원읍 태위로 522-17",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01011100",
+       "contentid":"128795",
+       "contenttypeid":"12",
+       "createdtime":"20060221090000",
+       "firstimage":"",
+       "firstimage2":"",
+       "cpyrhtDivCd":"",
+       "mapx":"126.7037237502",
+       "mapy":"33.2733776834",
+       "mlevel":"6",
+       "modifiedtime":"20221111135405",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"남원 큰엉해안",
+       "zipcode":"63620",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "화장실":"장애인 화장실 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "점자블록":"점자유도로 있음(화장실 출구앞)_시각장애인 편의시설"
+          }
+       ]
+    },
+    "128802":{
+       "addr1":"제주특별자치도 서귀포시 대정읍 송악관광로 424",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0202",
+       "cat3":"A02020800",
+       "contentid":"128802",
+       "contenttypeid":"12",
+       "createdtime":"20060222090000",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/33/2455533_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/33/2455533_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.2905165994",
+       "mapy":"33.2074200956",
+       "mlevel":"6",
+       "modifiedtime":"20221012175500",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"마라도가는 여객선",
+       "zipcode":"63513",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+          },
+          {
+             "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+          },
+          {
+             "화장실":"장애인 전용 화장실 있음, 유람선 내 장애인 전용 화장실"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "128838":{
+       "addr1":"제주특별자치도 서귀포시 남성중로 40",
+       "addr2":"(서홍동)",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0202",
+       "cat3":"A02020800",
+       "contentid":"128838",
+       "contenttypeid":"12",
+       "createdtime":"20060320090000",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/82/1618782_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/82/1618782_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.5584621032",
+       "mapy":"33.2391930320",
+       "mlevel":"9",
+       "modifiedtime":"20230405092640",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"서귀포유람선 뉴파라다이스호",
+       "zipcode":"63594",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+          },
+          {
+             "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+          },
+          {
+             "화장실":"장애인 전용 화장실 있음(주차장 화장실)"
+          },
+          {
+             "기타 지원 항목":"유람선 탑승 시 전동휠체어 불가"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "129276":{
+       "addr1":"제주특별자치도 서귀포시 일주동로 8941",
+       "addr2":"(호근동)",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01010700",
+       "contentid":"129276",
+       "contenttypeid":"12",
+       "createdtime":"20070907090000",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/97/2676397_image2_1.JPG",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/97/2676397_image2_1.JPG",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.5360193536",
+       "mapy":"33.2503192271",
+       "mlevel":"6",
+       "modifiedtime":"20230502194459",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"석부작박물관",
+       "zipcode":"63571",
+       "infantsfamily":"1",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          {
+             "유모차":"대여가능(무료,3대,매표소,24개월 이하,신분증보관,사전문의)"
+          }
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 경사로가 설치되어 있으나 일부구간 접근 불가함"
+          },
+          {
+             "휠체어":"대여가능(무료,2대,신분증보관)"
+          },
+          {
+             "출입통로":"단차가 거의 없음, 내부 보행로에도 단차 발생시 경사로를 설치함_무장애 편의정보"
+          },
+          {
+             "화장실":"장애인 전용 화장실 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "보조견 동반":"동반가능"
+          }
+       ]
+    },
+    "129395":{
+       "addr1":"제주특별자치도 서귀포시 서홍로 4-42",
+       "addr2":"(서홍동)",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01010500",
+       "contentid":"129395",
+       "contenttypeid":"12",
+       "createdtime":"20061120090000",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/69/2549069_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/69/2549069_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.5551177065",
+       "mapy":"33.2499640127",
+       "mlevel":"6",
+       "modifiedtime":"20230327154719",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"천지연 걸매생태공원",
+       "zipcode":"63594",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"공원 진입로에 휠체어 이동가능한 목재데크 설치됨\n경사로 설치됨\n미끄럼 방지 설비가 되어 있음"
+          },
+          {
+             "출입통로":"출입구에는 단차가 거의 없음, 내부 보행로에는 일부구간에 단차 및 경사가 있음"
+          },
+          {
+             "화장실":"장애인전용화장실 있음(주차장 옆에 위치)"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "129400":{
+       "addr1":"제주특별자치도 제주시 구좌읍 구좌해안로 237",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01011200",
+       "contentid":"129400",
+       "contenttypeid":"12",
+       "createdtime":"20061121090000",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/72/221572_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/72/221572_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.7596485488",
+       "mapy":"33.5566778337",
+       "mlevel":"6",
+       "modifiedtime":"20220629150714",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"김녕성세기해변 (김녕해수욕장)",
+       "zipcode":"63348",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "출입통로":"단차 및 경사가 거의 없음"
+          },
+          {
+             "화장실":"장애인 화장실 있음"
+          },
+          {
+             "기타 지원 항목":"장애인 활동보조 필요_어려움"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "129401":{
+       "addr1":"제주특별자치도 제주시 삼양이동",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01011200",
+       "contentid":"129401",
+       "contenttypeid":"12",
+       "createdtime":"20061122090000",
+       "firstimage":"",
+       "firstimage2":"",
+       "cpyrhtDivCd":"",
+       "mapx":"126.5852560795",
+       "mapy":"33.5255284819",
+       "mlevel":"6",
+       "modifiedtime":"20220622151457",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"삼양해수욕장",
+       "zipcode":"63314",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"해변가까지 접근 가능한 경사로가 있음(돌 구간 있음)"
+          },
+          {
+             "화장실":"장애인 전용 화장실 있음(구조대사무실 건물)"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "129455":{
+       "addr1":"제주특별자치도 제주시 선사로2길 13",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0201",
+       "cat3":"A02010700",
+       "contentid":"129455",
+       "contenttypeid":"12",
+       "createdtime":"20070307090000",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/94/492094_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/94/492094_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.5877975763",
+       "mapy":"33.5232982139",
+       "mlevel":"6",
+       "modifiedtime":"20220908170302",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"제주 삼양동 유적",
+       "zipcode":"63318",
+       "infantsfamily":"1",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          {
+             "유모차":"유모차대여 가능"
+          }
+       ],
+       "handi":[
+          {
+             "접근로":"경사로 있음"
+          },
+          {
+             "휠체어":"휠체어 대여 가능함"
+          },
+          {
+             "출입통로":"경사로가 설치되어 있음"
+          },
+          {
+             "화장실":"장애인용화장실 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "129617":{
+       "addr1":"제주특별자치도 서귀포시 쇠소깍로 128",
+       "addr2":"(하효동)",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01010900",
+       "contentid":"129617",
+       "contenttypeid":"12",
+       "createdtime":"20070713090000",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/10/1786510_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/10/1786510_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.6231006558",
+       "mapy":"33.2521787368",
+       "mlevel":"6",
+       "modifiedtime":"20230322112330",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"쇠소깍",
+       "zipcode":"63600",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "출입통로":"단차가 거의 없으나 경사가 있음"
+          },
+          {
+             "화장실":"장애인 화장실 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "129619":{
+       "addr1":"제주특별자치도 제주시 한림읍 한림로 300",
+       "addr2":"(한림읍)",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01011900",
+       "contentid":"129619",
+       "contenttypeid":"12",
+       "createdtime":"20070713090000",
+       "firstimage":"",
+       "firstimage2":"",
+       "cpyrhtDivCd":"",
+       "mapx":"126.2381504642",
+       "mapy":"33.3882881753",
+       "mlevel":"6",
+       "modifiedtime":"20230216093814",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"협재굴(한림공원)",
+       "zipcode":"63011",
+       "infantsfamily":"1",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          {
+             "유모차":"유모차 유료대여 가능함 ( 24개월 이하, 대여료 1,000원, 쌍용각 휴게소에서 대여)"
+          }
+       ],
+       "handi":[
+          {
+             "휠체어":"휠체어 대여 가능함(무료) - 동굴을 제외한 모든 곳 휠체어 이동 가능함"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "129620":{
+       "addr1":"제주특별자치도 제주시 한림읍 한림로 300",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01011900",
+       "contentid":"129620",
+       "contenttypeid":"12",
+       "createdtime":"20070713090000",
+       "firstimage":"",
+       "firstimage2":"",
+       "cpyrhtDivCd":"",
+       "mapx":"126.2418362629",
+       "mapy":"33.3879021647",
+       "mlevel":"6",
+       "modifiedtime":"20230220111802",
+       "sigungucode":"4",
+       "tel":"064-796-0001",
+       "title":"쌍용굴(한림공원)",
+       "zipcode":"63011",
+       "infantsfamily":"1",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          {
+             "유모차":"대여가능(유료,24개월이하)"
+          }
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "휠체어":"대여가능"
+          },
+          {
+             "화장실":"장애인 화장실 있음(공원 공중화장실)"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "228853":{
+       "addr1":"제주특별자치도 제주시 용두암길",
+       "addr2":"(제주올레길17코스)",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01011100",
+       "contentid":"228853",
+       "contenttypeid":"12",
+       "createdtime":"20030619090000",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/44/2612544_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/44/2612544_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.5119710049",
+       "mapy":"33.5158033889",
+       "mlevel":"5",
+       "modifiedtime":"20230208152921",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"용두암",
+       "zipcode":"63152",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"경사로 있음\n해안 아래 용두암까지 접근하는 길은 계단으로 휠체어 사용자는 접근이 어려움"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "250282":{
+       "addr1":"제주특별자치도 제주시 애월읍 광령평화2길 1",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01010500",
+       "contentid":"250282",
+       "contenttypeid":"12",
+       "createdtime":"20071018090000",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/09/1618309_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/09/1618309_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.4323712429",
+       "mapy":"33.4428046493",
+       "mlevel":"6",
+       "modifiedtime":"20220914174332",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"제주공룡랜드",
+       "zipcode":"63064",
+       "infantsfamily":"1",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          {
+             "유모차":"대여 가능"
+          },
+          {
+             "수유실":"수유실 있음(1층)"
+          }
+       ],
+       "handi":[
+          {
+             "휠체어":"대여가능"
+          },
+          {
+             "출입통로":"주출입구가 평탄하여 휠체어 이용자도 쉽게 출입가능"
+          },
+          {
+             "화장실":"장애인 전용 화장실 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "250412":{
+       "addr1":"제주특별자치도 제주시 서해안로 630",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0202",
+       "cat3":"A02020400",
+       "contentid":"250412",
+       "contenttypeid":"12",
+       "createdtime":"20071026090000",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/40/1950440_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/40/1950440_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.5045688690",
+       "mapy":"33.5158588206",
+       "mlevel":"6",
+       "modifiedtime":"20230322132139",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"용두암해수랜드",
+       "zipcode":"63150",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 경사로 있어 휠체어 접근 가능함"
+          },
+          {
+             "엘리베이터":"엘리베이터 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "322836":{
+       "addr1":"제주특별자치도 서귀포시 남원읍 신례동로 256",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0202",
+       "cat3":"A02020700",
+       "contentid":"322836",
+       "contenttypeid":"12",
+       "createdtime":"20071211203035",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/47/2615547_image2_1.bmp",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/47/2615547_image2_1.bmp",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.6344317363",
+       "mapy":"33.3085171454",
+       "mlevel":"6",
+       "modifiedtime":"20230502194420",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"휴애리자연생활공원",
+       "zipcode":"63608",
+       "infantsfamily":"1",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          {
+             "유모차":"대여가능(매표소 옆,18개월 미만)"
+          },
+          {
+             "수유실":"수유실 있음"
+          }
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 평지로 되어 있으나 흙구간 있음"
+          },
+          {
+             "휠체어":"대여가능(매표소 옆)"
+          },
+          {
+             "화장실":"장애인 화장실 있음"
+          },
+          {
+             "기타 지원 항목":"지팡이 대여 가능함"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "591798":{
+       "addr1":"제주특별자치도 제주시 우도면 연평리",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01011200",
+       "contentid":"591798",
+       "contenttypeid":"12",
+       "createdtime":"20080723010727",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/04/1620304_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/04/1620304_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.9574573668",
+       "mapy":"33.5142746145",
+       "mlevel":"6",
+       "modifiedtime":"20220621173439",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"하고수동해변",
+       "zipcode":"63365",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"해변가까지 접근 가능한 무단차구간 있음(잔디재질)"
+          },
+          {
+             "화장실":"장애인 전용 화장실 있음(공중화장실,문이 협소함)"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "591866":{
+       "addr1":"제주특별자치도 제주시 한림읍 금능길",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01011200",
+       "contentid":"591866",
+       "contenttypeid":"12",
+       "createdtime":"20080723015000",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/56/2877156_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/56/2877156_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.2353395628",
+       "mapy":"33.3898379598",
+       "mlevel":"6",
+       "modifiedtime":"20221027113759",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"금능해수욕장",
+       "zipcode":"63010",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "화장실":"장애인 화장실 있음_무장애 편의시설"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "598187":{
+       "addr1":"제주특별자치도 제주시 선교로 267 선녀와나무꾼테마공원",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0202",
+       "cat3":"A02020600",
+       "contentid":"598187",
+       "contenttypeid":"12",
+       "createdtime":"20080730011523",
+       "firstimage":"",
+       "firstimage2":"",
+       "cpyrhtDivCd":"",
+       "mapx":"126.7020747488",
+       "mapy":"33.4800659394",
+       "mlevel":"6",
+       "modifiedtime":"20230313113535",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"선녀와나무꾼 테마공원",
+       "zipcode":"63341",
+       "infantsfamily":"1",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          {
+             "유모차":"대여가능(4대, 24개월 미만)"
+          }
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "휠체어":"대여가능(4대)"
+          },
+          {
+             "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "화장실":"장애인 화장실 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "점자블록":"점자블록 있음(먹거리장터 주출입구)_시각장애인 편의시설"
+          }
+       ]
+    },
+    "598558":{
+       "addr1":"제주특별자치도 제주시 우도면 우도해안길 252",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01011200",
+       "contentid":"598558",
+       "contenttypeid":"12",
+       "createdtime":"20080730180615",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/38/2654838_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/38/2654838_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.9437532672",
+       "mapy":"33.5026812286",
+       "mlevel":"6",
+       "modifiedtime":"20230417140419",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"우도 산호해변(서빈백사)",
+       "zipcode":"63365",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"해변가까지 경사로구간 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "600584":{
+       "addr1":"제주특별자치도 서귀포시 남원읍 태위로 522-12",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0202",
+       "cat3":"A02020600",
+       "contentid":"600584",
+       "contenttypeid":"12",
+       "createdtime":"20080801012738",
+       "firstimage":"",
+       "firstimage2":"",
+       "cpyrhtDivCd":"",
+       "mapx":"126.7028238197",
+       "mapy":"33.2737526275",
+       "mlevel":"6",
+       "modifiedtime":"20230323105757",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"금호리조트 제주아쿠아나",
+       "zipcode":"63620",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 경사로가 설치되어 있음"
+          },
+          {
+             "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+          },
+          {
+             "엘리베이터":"엘리베이터 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "점자블록":"점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+          },
+          {
+             "안내요원":"안내요원 있음"
+          }
+       ]
+    },
+    "601489":{
+       "addr1":"제주특별자치도 서귀포시 남성로128번길 13",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01010200",
+       "contentid":"601489",
+       "contenttypeid":"12",
+       "createdtime":"20080801195236",
+       "firstimage":"",
+       "firstimage2":"",
+       "cpyrhtDivCd":"",
+       "mapx":"126.5559872587",
+       "mapy":"33.2417982612",
+       "mlevel":"6",
+       "modifiedtime":"20220518104343",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"서귀포해양도립공원",
+       "zipcode":"63594",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "출입통로":"단차 및 경사가 거의 없음"
+          },
+          {
+             "화장실":"장애인 화장실 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "635928":{
+       "addr1":"제주특별자치도 서귀포시 남원읍 남위남성로 164",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0202",
+       "cat3":"A02020700",
+       "contentid":"635928",
+       "contenttypeid":"12",
+       "createdtime":"20081010235434",
+       "firstimage":"",
+       "firstimage2":"",
+       "cpyrhtDivCd":"",
+       "mapx":"126.6931798395",
+       "mapy":"33.2901534421",
+       "mlevel":"6",
+       "modifiedtime":"20220720155658",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"최남단체험감귤농장",
+       "zipcode":"63619",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+          },
+          {
+             "화장실":"장애인 화장실 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "642353":{
+       "addr1":"제주특별자치도 제주시 한경면 녹차분재로 462",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01010500",
+       "contentid":"642353",
+       "contenttypeid":"12",
+       "createdtime":"20081027233955",
+       "firstimage":"",
+       "firstimage2":"",
+       "cpyrhtDivCd":"",
+       "mapx":"126.2736767929",
+       "mapy":"33.3146607642",
+       "mlevel":"6",
+       "modifiedtime":"20220516141344",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"제주 유리의성",
+       "zipcode":"63005",
+       "infantsfamily":"1",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          {
+             "유모차":"대여가능(4대)"
+          }
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "휠체어":"대여가능(2대)"
+          },
+          {
+             "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+          },
+          {
+             "엘리베이터":"엘리베이터 있음"
+          },
+          {
+             "화장실":"장애인 화장실 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "점자블록":"점자블록 있음(주출입구)_시각장애인 편의시설"
+          }
+       ]
+    },
+    "660972":{
+       "addr1":"제주특별자치도 제주시 구좌읍 하도리",
+       "addr2":"(구좌읍)",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01010500",
+       "contentid":"660972",
+       "contenttypeid":"12",
+       "createdtime":"20081203020332",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/40/1620040_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/40/1620040_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.8905991314",
+       "mapy":"33.5204700670",
+       "mlevel":"6",
+       "modifiedtime":"20221129105230",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"제주 하도리 철새도래지",
+       "zipcode":"63363",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 평지로 되어 있으나 흙(돌) 구간 있음"
+          },
+          {
+             "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "화장실":"장애인 화장실 있음(하도해수욕장 화장실)"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "점자블록":"점자블록 있음(화장실 앞)_시각장애인 편의시설"
+          }
+       ]
+    },
+    "665594":{
+       "addr1":"제주특별자치도 제주시 한림읍 월림7길 155",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01010500",
+       "contentid":"665594",
+       "contenttypeid":"12",
+       "createdtime":"20081211001353",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/22/1620122_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/22/1620122_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.2430896662",
+       "mapy":"33.3549530518",
+       "mlevel":"6",
+       "modifiedtime":"20220831171543",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"더마파크",
+       "zipcode":"63017",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 경사로가 설치되어 있음"
+          },
+          {
+             "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+          },
+          {
+             "화장실":"장애인 화장실 있음"
+          },
+          {
+             "관람석":"장애인 전용 관람석 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "점자블록":"점자블록 있음_시각장애인 편의시설"
+          }
+       ]
+    },
+    "741109":{
+       "addr1":"제주특별자치도 서귀포시 안덕면 병악로 166",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01010700",
+       "contentid":"741109",
+       "contenttypeid":"12",
+       "createdtime":"20090526200728",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/31/2616831_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/31/2616831_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.3682663519",
+       "mapy":"33.2898983201",
+       "mlevel":"6",
+       "modifiedtime":"20221027151407",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"카멜리아힐",
+       "zipcode":"63526",
+       "infantsfamily":"1",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          {
+             "유모차":"대여가능"
+          },
+          {
+             "수유실":"수유실 있음"
+          }
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함(산책로 내 포토존 제외한 길 휠체어 이동 용이)"
+          },
+          {
+             "휠체어":"대여가능"
+          },
+          {
+             "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "화장실":"장애인 화장실 있음"
+          },
+          {
+             "기타 지원 항목":"일부 박석 구간이 있어 휠체어 이용시 주의"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "안내요원":"안내요원 있음_시각장애인 편의시설"
+          }
+       ]
+    },
+    "745313":{
+       "addr1":"제주특별자치도 제주시 선돌목동길 60",
+       "addr2":"(오등동)",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0202",
+       "cat3":"A02020700",
+       "contentid":"745313",
+       "contenttypeid":"12",
+       "createdtime":"20090602003938",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/41/1618541_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/41/1618541_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.5492471590",
+       "mapy":"33.4445757549",
+       "mlevel":"6",
+       "modifiedtime":"20220418144040",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"제주별빛누리공원",
+       "zipcode":"63242",
+       "infantsfamily":"1",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          {
+             "유모차":"대여가능"
+          },
+          {
+             "수유실":"수유실 있음(전시관 2층)"
+          },
+          {
+             "영유아가족 기타 지원 항목":"유아놀이방 있음(전시관 1층)"
+          }
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "휠체어":"대여가능"
+          },
+          {
+             "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+          },
+          {
+             "엘리베이터":"엘리베이터 있음"
+          },
+          {
+             "화장실":"장애인 화장실 있음(1F)"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "점자블록":"점자유도로 있음(전시관 출입구 앞)<br />\n점자 블록 있음_시각장애인 편의시설"
+          }
+       ]
+    },
+    "745449":{
+       "addr1":"제주특별자치도 제주시 조천읍 선교로 266",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0204",
+       "cat3":"A02040800",
+       "contentid":"745449",
+       "contenttypeid":"12",
+       "createdtime":"20090602193830",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/08/1620108_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/08/1620108_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.7061797858",
+       "mapy":"33.4871596654",
+       "mlevel":"6",
+       "modifiedtime":"20221013172741",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"다희연",
+       "zipcode":"63341",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+          },
+          {
+             "화장실":"장애인 화장실 있음"
+          },
+          {
+             "기타 지원 항목":"의자식 테이블 있음(동굴카페)"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "점자블록":"점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+          }
+       ]
+    },
+    "780778":{
+       "addr1":"제주특별자치도 서귀포시 안덕면 중산간서로 1881",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0204",
+       "cat3":"A02040800",
+       "contentid":"780778",
+       "contenttypeid":"12",
+       "createdtime":"20090819195250",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/93/1010693_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/93/1010693_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.3218259602",
+       "mapy":"33.2889726923",
+       "mlevel":"6",
+       "modifiedtime":"20220908173918",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"이상한 나라의 앨리스",
+       "zipcode":"63522",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "출입통로":"입구에 턱이나 계단없이 수평으로 접근 가능하나 출구에 15cm의 턱이 있음\n_무장애 편의정보"
+          },
+          {
+             "화장실":"맞은편에 있는 소인국테마파크의 장애인용 화장실 이용이 가능함"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "802844":{
+       "addr1":"제주특별자치도 제주시 516로 2596",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01010700",
+       "contentid":"802844",
+       "contenttypeid":"12",
+       "createdtime":"20090915015638",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/25/1938325_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/25/1938325_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.5982320810",
+       "mapy":"33.4319418220",
+       "mlevel":"6",
+       "modifiedtime":"20230328135728",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"한라생태숲",
+       "zipcode":"63312",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 경사로가 설치되어 있음(숲길,돌길 있음)"
+          },
+          {
+             "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+          },
+          {
+             "화장실":"장애인 전용 화장실 있음(간이화장실에는 없으며 입구화장실에는 있음)"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "점자블록":"점자블록 있음(탐방안내센터)_시각장애인 편의시설"
+          }
+       ]
+    },
+    "879234":{
+       "addr1":"제주특별자치도 서귀포시 남성중로 40",
+       "addr2":"(서홍동)",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0205",
+       "cat3":"A02050100",
+       "contentid":"879234",
+       "contenttypeid":"12",
+       "createdtime":"20091127184614",
+       "firstimage":"",
+       "firstimage2":"",
+       "cpyrhtDivCd":"",
+       "mapx":"126.5591481767",
+       "mapy":"33.2381875982",
+       "mlevel":"6",
+       "modifiedtime":"20220218142232",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"새섬 새연교",
+       "zipcode":"63594",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "화장실":"장애인 화장실 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "987913":{
+       "addr1":"제주특별자치도 서귀포시 안덕면 평화로319번길 31-11",
+       "addr2":"(안덕면)",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0206",
+       "cat3":"A02060600",
+       "contentid":"987913",
+       "contenttypeid":"12",
+       "createdtime":"20100329201913",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/09/1618509_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/09/1618509_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.3055443214",
+       "mapy":"33.2763404987",
+       "mlevel":"6",
+       "modifiedtime":"20221202114632",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"점보빌리지",
+       "zipcode":"63521",
+       "infantsfamily":"1",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          {
+             "수유실":"수유실 있음"
+          }
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+          },
+          {
+             "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+          },
+          {
+             "화장실":"장애인 전용 화장실 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "1146121":{
+       "addr1":"제주특별자치도 제주시 조천읍 번영로 1278-169",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01010500",
+       "contentid":"1146121",
+       "contenttypeid":"12",
+       "createdtime":"20101215010113",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/39/2046439_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/39/2046439_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.6670616591",
+       "mapy":"33.4564874302",
+       "mlevel":"6",
+       "modifiedtime":"20221017171416",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"에코랜드테마파크",
+       "zipcode":"63346",
+       "infantsfamily":"1",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          {
+             "유모차":"대여가능(5대)"
+          }
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "휠체어":"대여가능(10대)"
+          },
+          {
+             "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "화장실":"장애인 화장실 있음(매표소앞 메인역)"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "1329201":{
+       "addr1":"제주특별자치도 제주시 구좌읍 비자림로 2134-47",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0202",
+       "cat3":"A02020600",
+       "contentid":"1329201",
+       "contenttypeid":"12",
+       "createdtime":"20110712224139",
+       "firstimage":"",
+       "firstimage2":"",
+       "cpyrhtDivCd":"",
+       "mapx":"126.8006909929",
+       "mapy":"33.4887498991",
+       "mlevel":"4",
+       "modifiedtime":"20230119095450",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"메이즈랜드",
+       "zipcode":"63351",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 경사로가 설치되어 있음"
+          },
+          {
+             "휠체어":"휠체어 무료대여 가능함"
+          },
+          {
+             "출입통로":"건물 내부까지 경사로 및 엘리베이터 이용가능함"
+          },
+          {
+             "엘리베이터":"장애인용 엘리베이터 있음"
+          },
+          {
+             "화장실":"장애인 화장실 있음"
+          },
+          {
+             "기타 지원 항목":"데크로드 산책로 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "점자블록":"점자유도로 있음(1층출입구 앞)_시각장애인 편의시설"
+          },
+          {
+             "점자 홍보물 및 점자 표지판":"점자 안내판 있음"
+          }
+       ]
+    },
+    "1620936":{
+       "addr1":"제주특별자치도 서귀포시 이중섭로 4-1",
+       "addr2":"(서귀동)",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0203",
+       "cat3":"A02030400",
+       "contentid":"1620936",
+       "contenttypeid":"12",
+       "createdtime":"20120503005234",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/17/1617217_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/17/1617217_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.5640058774",
+       "mapy":"33.2476394103",
+       "mlevel":"6",
+       "modifiedtime":"20220310133052",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"이중섭 문화거리",
+       "zipcode":"63595",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"대부분 무단차이나 접근이 불가한 계단구간이 있음"
+          },
+          {
+             "화장실":"장애인 전용 화장실 있음(미술관 이용)"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "1621077":{
+       "addr1":"제주특별자치도 제주시 구좌읍 세화길",
+       "addr2":"(구좌읍)",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01011200",
+       "contentid":"1621077",
+       "contenttypeid":"12",
+       "createdtime":"20120503024033",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/59/1618259_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/59/1618259_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.8605738644",
+       "mapy":"33.5244858032",
+       "mlevel":"6",
+       "modifiedtime":"20230502134241",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"세화해변",
+       "zipcode":"63361",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"해변가까지 무단차로 연결 됨"
+          },
+          {
+             "화장실":"장애인 전용 화장실 있음(주차장 화장실,무단차)"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "점자블록":"점자블록 있음(주차장 화장실 앞)_시각장애인 편의시설"
+          }
+       ]
+    },
+    "1621118":{
+       "addr1":"제주특별자치도 제주시 구좌읍 해녀박물관길 26",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0201",
+       "cat3":"A02010700",
+       "contentid":"1621118",
+       "contenttypeid":"12",
+       "createdtime":"20120503030149",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/51/1618251_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/51/1618251_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.8639930584",
+       "mapy":"33.5225027447",
+       "mlevel":"",
+       "modifiedtime":"20220922111040",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"제주해녀항일운동기념탑",
+       "zipcode":"63362",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 경사로가 설치되어 있음"
+          },
+          {
+             "화장실":"장애인 화장실 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "1672315":{
+       "addr1":"제주특별자치도 제주시 명림로 520",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01010500",
+       "contentid":"1672315",
+       "contenttypeid":"12",
+       "createdtime":"20120718013358",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/75/2549075_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/75/2549075_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.6266209993",
+       "mapy":"33.4444547805",
+       "mlevel":"",
+       "modifiedtime":"20230328093449",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"제주 노루생태관찰원",
+       "zipcode":"63313",
+       "infantsfamily":"1",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          {
+             "유모차":"대여가능(매표소)"
+          }
+       ],
+       "handi":[
+          {
+             "접근로":"관찰원 출입구까지 턱이 없어 휠체어 접근 가능함<br />\n전시관 출입구까지 경사로가 설치되어 있음(수동문)"
+          },
+          {
+             "휠체어":"대여가능(매표소)"
+          },
+          {
+             "화장실":"장애인 화장실 있음(매표소 옆,전시관 건물 내)"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "점자블록":"점자블록 있음(전시관 출입구 앞)_시각장애인 편의시설"
+          }
+       ]
+    },
+    "1737497":{
+       "addr1":"제주특별자치도 서귀포시 중문관광로110번길 15",
+       "addr2":"(색달동)",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0206",
+       "cat3":"A02060100",
+       "contentid":"1737497",
+       "contenttypeid":"12",
+       "createdtime":"20121023011904",
+       "firstimage":"",
+       "firstimage2":"",
+       "cpyrhtDivCd":"",
+       "mapx":"126.4133188934",
+       "mapy":"33.2497673500",
+       "mlevel":"6",
+       "modifiedtime":"20230330112001",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"제주 초콜릿랜드",
+       "zipcode":"63535",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 경사로가 설치되어 있음"
+          },
+          {
+             "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+          },
+          {
+             "화장실":"장애인 화장실 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "1812994":{
+       "addr1":"제주특별자치도 서귀포시 표선면 녹산로 381-15",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0204",
+       "cat3":"A02040800",
+       "contentid":"1812994",
+       "contenttypeid":"12",
+       "createdtime":"20130524020417",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/39/2850539_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/39/2850539_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.7358351388",
+       "mapy":"33.3833355051",
+       "mlevel":"6",
+       "modifiedtime":"20220906175922",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"조랑말체험공원",
+       "zipcode":"63622",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"주차장에서 박물관까지 자갈구간이 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "1861656":{
+       "addr1":"제주특별자치도 서귀포시 1100로 1555",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01010500",
+       "contentid":"1861656",
+       "contenttypeid":"12",
+       "createdtime":"20131122020353",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/44/2658444_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/44/2658444_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.4630149420",
+       "mapy":"33.3576728826",
+       "mlevel":"6",
+       "modifiedtime":"20221219165021",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"1100고지습지",
+       "zipcode":"63554",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "화장실":"장애인 화장실 있음(출입문 여닫이/손잡이)"
+          },
+          {
+             "기타 지원 항목":"관람로 나무데크 설치됨"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "1874612":{
+       "addr1":"제주특별자치도 제주시 송이길 226",
+       "addr2":"(회천동)",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0204",
+       "cat3":"A02040800",
+       "contentid":"1874612",
+       "contenttypeid":"12",
+       "createdtime":"20131220203815",
+       "firstimage":"",
+       "firstimage2":"",
+       "cpyrhtDivCd":"",
+       "mapx":"126.6286842945",
+       "mapy":"33.4626805753",
+       "mlevel":"",
+       "modifiedtime":"20230125142306",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"지속가능환경교육센터",
+       "zipcode":"63330",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 경사로가 설치되어 있음"
+          },
+          {
+             "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+          },
+          {
+             "엘리베이터":"엘리베이터 있음"
+          },
+          {
+             "화장실":"장애인전용 화장실 있음 (남여공용)"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "1898484":{
+       "addr1":"제주특별자치도 서귀포시 표선면 남조로 1487-73",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01010600",
+       "contentid":"1898484",
+       "contenttypeid":"12",
+       "createdtime":"20140224184127",
+       "firstimage":"",
+       "firstimage2":"",
+       "cpyrhtDivCd":"",
+       "mapx":"126.6742707606",
+       "mapy":"33.3952748674",
+       "mlevel":"6",
+       "modifiedtime":"20220905133429",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"붉은오름자연휴양림",
+       "zipcode":"63622",
+       "infantsfamily":"1",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          {
+             "유모차":"매표소에서 유모차 대여가능 (4대구비, 숙박시 무상대여, 당일관람시 신분증 지참)"
+          }
+       ],
+       "handi":[
+          {
+             "접근로":"진입로, 삼나무데크길 휠체어로 이용가능"
+          },
+          {
+             "휠체어":"매표소에서 대여가능(숙박시 무상대여, 당일관람시 신분증 지참)"
+          },
+          {
+             "화장실":"장애인전용 화장실 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "점자블록":"삼나무데크길에 점자블록 설치되어 있음"
+          }
+       ]
+    },
+    "1907801":{
+       "addr1":"제주특별자치도 제주시 명림로 430",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0202",
+       "cat3":"A02020700",
+       "contentid":"1907801",
+       "contenttypeid":"12",
+       "createdtime":"20140325194836",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/44/1806044_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/44/1806044_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.6177605342",
+       "mapy":"33.4498540414",
+       "mlevel":"6",
+       "modifiedtime":"20221221103448",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"제주4·3평화공원",
+       "zipcode":"63313",
+       "infantsfamily":"1",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          {
+             "유모차":"대여가능(안내데스크)"
+          },
+          {
+             "수유실":"수유실있음"
+          },
+          {
+             "영유아가족 기타 지원 항목":"임산부휴게실 있음"
+          }
+       ],
+       "handi":[
+          {
+             "접근로":"일부계단이 있는 구간을 제외한 모든 구간 휠체어로 이용가능"
+          },
+          {
+             "휠체어":"대여가능(안내데스크)"
+          },
+          {
+             "출입통로":"경사로를 이용하여 휠체어로 기념관 진입가능,외부의 보행로 폭은 넓고 단차가 거의 없으나 경사가 있음"
+          },
+          {
+             "엘리베이터":"엘리베이터 있음"
+          },
+          {
+             "화장실":"장애인 화장실 있음(안내데스크 옆)"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "점자블록":"점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+          },
+          {
+             "보조견 동반":"동반가능"
+          },
+          {
+             "안내요원":"안내요원 있음"
+          }
+       ]
+    },
+    "1918639":{
+       "addr1":"제주특별자치도 제주시 구좌읍 해맞이해안로 480-1",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01011200",
+       "contentid":"1918639",
+       "contenttypeid":"12",
+       "createdtime":"20140513194334",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/15/1831415_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/15/1831415_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.7983896767",
+       "mapy":"33.5546536829",
+       "mlevel":"6",
+       "modifiedtime":"20230328105932",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"월정리해변(월정리해수욕장)",
+       "zipcode":"63358",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "기타 지원 항목":"데크로드 산책로 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "1925362":{
+       "addr1":"제주특별자치도 제주시 용담3동",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0202",
+       "cat3":"A02020700",
+       "contentid":"1925362",
+       "contenttypeid":"12",
+       "createdtime":"20140612223856",
+       "firstimage":"",
+       "firstimage2":"",
+       "cpyrhtDivCd":"",
+       "mapx":"126.4871647806",
+       "mapy":"33.5178999837",
+       "mlevel":"6",
+       "modifiedtime":"20230309092222",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"어영소공원",
+       "zipcode":"63114",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"대부분 무단차이나 돌길있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "점자블록":"점자블록 있음(화장실 입구 안)_시각장애인 편의시설"
+          }
+       ]
+    },
+    "2023350":{
+       "addr1":"제주특별자치도 서귀포시 남원읍 한신로531번길 22-1",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0203",
+       "cat3":"A02030100",
+       "contentid":"2023350",
+       "contenttypeid":"12",
+       "createdtime":"20150811204012",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/42/2023342_image2_1.JPG",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/42/2023342_image2_1.JPG",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.7451829828",
+       "mapy":"33.3203953813",
+       "mlevel":"6",
+       "modifiedtime":"20230125140128",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"제주 동백마을",
+       "zipcode":"63616",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"전반적으로 마을길이 평평하여 휠체어로 둘러보기 가능_무장애 편의시설"
+          },
+          {
+             "출입통로":"경사로를 이용하여 실내 체험장 으로 출입가능"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "2027184":{
+       "addr1":"제주특별자치도 제주시 구좌읍 김녕로 148-11",
+       "addr2":"(구좌읍)",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0201",
+       "cat3":"A02010800",
+       "contentid":"2027184",
+       "contenttypeid":"12",
+       "createdtime":"20150903232315",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/76/2027876_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/76/2027876_image2_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.7536019143",
+       "mapy":"33.5539724801",
+       "mlevel":"6",
+       "modifiedtime":"20230206171014",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"금룡사(제주)",
+       "zipcode":"63357",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"잔디로 이루어진 평지로 휠체어로 접근가능함_무장애 편의정보"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "2032460":{
+       "addr1":"제주특별자치도 서귀포시 서홍동 766-1",
+       "addr2":"(서홍동)",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01011100",
+       "contentid":"2032460",
+       "contenttypeid":"12",
+       "createdtime":"20151006224017",
+       "firstimage":"",
+       "firstimage2":"",
+       "cpyrhtDivCd":"",
+       "mapx":"126.5497655804",
+       "mapy":"33.2415842972",
+       "mlevel":"6",
+       "modifiedtime":"20230130165732",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"황우지해안",
+       "zipcode":"63594",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"해안가까지 접근로가 있음(흙재질)"
+          },
+          {
+             "화장실":"장애인 전용 화장실 있음(주차장 앞,경사로 설치 됨)"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "2414812":{
+       "addr1":"제주특별자치도 제주시 신산로 92-12",
+       "addr2":"(일도이동)",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0202",
+       "cat3":"A02020700",
+       "contentid":"2414812",
+       "contenttypeid":"12",
+       "createdtime":"20160909235812",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/20/2405220_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/20/2405220_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.5337915690",
+       "mapy":"33.5052799020",
+       "mlevel":"6",
+       "modifiedtime":"20230307105902",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"신산공원",
+       "zipcode":"63270",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함(돌길있음)"
+          },
+          {
+             "출입통로":"주출입구까지 단차가 없어 휠체어 접근 가능함"
+          },
+          {
+             "화장실":"장애인 전용 화장실 있음(공원 내 공중화장실)"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "점자블록":"점자블록 있음(공중화장실 앞)_점자블록 있음"
+          }
+       ]
+    },
+    "2418778":{
+       "addr1":"제주특별자치도 서귀포시 표선면 번영로 2644",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0202",
+       "cat3":"A02020600",
+       "contentid":"2418778",
+       "contenttypeid":"12",
+       "createdtime":"20160920200212",
+       "firstimage":"",
+       "firstimage2":"",
+       "cpyrhtDivCd":"",
+       "mapx":"126.7847499840",
+       "mapy":"33.3990984383",
+       "mlevel":"6",
+       "modifiedtime":"20230404141515",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"다이나믹 메이즈 (제주 성읍점)",
+       "zipcode":"63624",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 경사로가 설치되어 있음(수동문)"
+          },
+          {
+             "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "화장실":"장애인 화장실 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "안내요원":"안내요원 있음_시각장애인 편의시설"
+          }
+       ]
+    },
+    "2469463":{
+       "addr1":"제주특별자치도 서귀포시 녹산로 554 정석항공관",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0204",
+       "cat3":"A02040800",
+       "contentid":"2469463",
+       "contenttypeid":"12",
+       "createdtime":"20161224014816",
+       "firstimage":"",
+       "firstimage2":"",
+       "cpyrhtDivCd":"",
+       "mapx":"126.7231832338",
+       "mapy":"33.3931758821",
+       "mlevel":"6",
+       "modifiedtime":"20220617174714",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"정석 항공관",
+       "zipcode":"63622",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함(수동문)"
+          },
+          {
+             "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "엘리베이터":"엘리베이터 있음(관제탑)"
+          },
+          {
+             "화장실":"장애인 전용 화장실 있음(일반화장실 옆)"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "2472824":{
+       "addr1":"제주특별자치도 제주시 1100로 3198-8",
+       "addr2":"(노형동)",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0204",
+       "cat3":"A02040900",
+       "contentid":"2472824",
+       "contenttypeid":"12",
+       "createdtime":"20170106184650",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/73/2721573_image2_1.png",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/73/2721573_image2_1.png",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.4857714937",
+       "mapy":"33.4721633588",
+       "mlevel":"6",
+       "modifiedtime":"20221227130936",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"넥슨컴퓨터박물관",
+       "zipcode":"63091",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+          },
+          {
+             "엘리베이터":"엘리베이터 있음"
+          },
+          {
+             "화장실":"장애인 화장실 있음(지하1층)"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "점자블록":"점자블록 있음(엘리베이터 내부)_시각장애인 편의시설"
+          },
+          {
+             "보조견 동반":"동반가능"
+          },
+          {
+             "안내요원":"안내데스크 있음(1층 로비)"
+          }
+       ]
+    },
+    "2479639":{
+       "addr1":"제주특별자치도 제주시 애월읍 평화로 2346",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01010700",
+       "contentid":"2479639",
+       "contenttypeid":"12",
+       "createdtime":"20170208003906",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/40/2479040_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/40/2479040_image2_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.4089792859",
+       "mapy":"33.4226259562",
+       "mlevel":"6",
+       "modifiedtime":"20221129114235",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"제주불빛정원",
+       "zipcode":"63066",
+       "infantsfamily":"1",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          {
+             "유모차":"대여가능"
+          }
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "휠체어":"대여가능"
+          },
+          {
+             "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함_무장애 편의시설"
+          },
+          {
+             "화장실":"장애인 화장실 있음(출입구 단차 약 15cm 있음)"
+          },
+          {
+             "기타 지원 항목":"관람로에 요철마감, 매트 마감 부분 있음 / 평탄하지 않아서 도움이 필요함"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "2553685":{
+       "addr1":"제주특별자치도 제주시 은수길 69",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01010500",
+       "contentid":"2553685",
+       "contenttypeid":"12",
+       "createdtime":"20180714004246",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/88/2553688_image2_1.bmp",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/88/2553688_image2_1.bmp",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.4879352279",
+       "mapy":"33.4706885565",
+       "mlevel":"6",
+       "modifiedtime":"20220517151746",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"수목원테마파크(아이스뮤지엄)",
+       "zipcode":"63141",
+       "infantsfamily":"1",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          {
+             "유모차":"대여가능"
+          }
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "휠체어":"대여가능"
+          },
+          {
+             "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "엘리베이터":"장애인용 엘리베이터 있음"
+          },
+          {
+             "화장실":"장애인 화장실 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "2562214":{
+       "addr1":"제주특별자치도 서귀포시 안덕면 신화역사로304번길 98",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0204",
+       "cat3":"A02040800",
+       "contentid":"2562214",
+       "contenttypeid":"12",
+       "createdtime":"20181005190158",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/95/2562195_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/95/2562195_image2_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.3076045827",
+       "mapy":"33.3065177523",
+       "mlevel":"6",
+       "modifiedtime":"20230517095339",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"신화테마파크",
+       "zipcode":"63521",
+       "infantsfamily":"1",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          {
+             "유모차":"대여가능"
+          },
+          {
+             "수유실":"수유실 있음(테마파크 안내데스크 옆)"
+          }
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "휠체어":"대여가능"
+          },
+          {
+             "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "화장실":"장애인 화장실 있음"
+          },
+          {
+             "관람석":"장애인 전용 관람석은 없으나 공연장 내 휠체어가 접근 가능한 공간 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "보조견 동반":"동반가능_시각장애인 편의시설"
+          }
+       ]
+    },
+    "2562239":{
+       "addr1":"제주특별자치도 서귀포시 신화역사로304번길 38",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0204",
+       "cat3":"A02040800",
+       "contentid":"2562239",
+       "contenttypeid":"12",
+       "createdtime":"20181005193519",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/15/2562215_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/15/2562215_image2_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.3197479556",
+       "mapy":"33.3072595277",
+       "mlevel":"6",
+       "modifiedtime":"20230508093406",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"신화워터파크",
+       "zipcode":"63522",
+       "infantsfamily":"1",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          {
+             "수유실":"수유실 있음(1층 실내워터파크)"
+          }
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "휠체어":"대여가능"
+          },
+          {
+             "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "엘리베이터":"엘리베이터 있음"
+          },
+          {
+             "화장실":"장애인 화장실 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "점자블록":"점자블록 있음(로비 내 화장실,엘리베이터 앞)_시각장애인 편의시설"
+          }
+       ]
+    },
+    "2606210":{
+       "addr1":"제주특별자치도 제주시 1100로 3047",
+       "addr2":"(노형동)",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01010500",
+       "contentid":"2606210",
+       "contenttypeid":"12",
+       "createdtime":"20190613005036",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/44/2642844_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/44/2642844_image2_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.4853023976",
+       "mapy":"33.4585759664",
+       "mlevel":"6",
+       "modifiedtime":"20220630141943",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"브릭캠퍼스 제주",
+       "zipcode":"63078",
+       "infantsfamily":"1",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          {
+             "수유실":"수유실 있음(플레이1동 2층/카페동)"
+          }
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 경사로가 설치되어 있음"
+          },
+          {
+             "휠체어":"대여가능(2대, 신분증 보관)"
+          },
+          {
+             "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+          },
+          {
+             "엘리베이터":"엘리베이터 있음(플레이동)"
+          },
+          {
+             "화장실":"장애인 화장실 있음(매표소)"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "점자블록":"점자블록 있음_시각장애인 편의시설"
+          },
+          {
+             "보조견 동반":"동반가능"
+          },
+          {
+             "안내요원":"안내요원 있음(안내데스크)"
+          }
+       ]
+    },
+    "2609181":{
+       "addr1":"제주특별자치도 서귀포시 남원읍 태위로 536",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01010500",
+       "contentid":"2609181",
+       "contenttypeid":"12",
+       "createdtime":"20190703200831",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/79/2609179_image2_1.bmp",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/79/2609179_image2_1.bmp",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.7052763696",
+       "mapy":"33.2744387019",
+       "mlevel":"6",
+       "modifiedtime":"20221125132458",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"코코몽에코파크 (제주)",
+       "zipcode":"63620",
+       "infantsfamily":"1",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          {
+             "수유실":"수유실 있음"
+          }
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "안내요원":"안내요원 있음"
+          }
+       ]
+    },
+    "2621914":{
+       "addr1":"제주특별자치도 서귀포시 대정읍 최남단해안로 120",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0202",
+       "cat3":"A02020800",
+       "contentid":"2621914",
+       "contenttypeid":"12",
+       "createdtime":"20191001000023",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/05/2621905_image2_1.bmp",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/05/2621905_image2_1.bmp",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.2583887734",
+       "mapy":"33.2100942980",
+       "mlevel":"6",
+       "modifiedtime":"20230116092846",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"마라도 가파도 정기여객선",
+       "zipcode":"63513",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+          },
+          {
+             "화장실":"장애인 화장실 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "점자블록":"점자블록 있음(주출입구)_시각장애인 편의시설"
+          }
+       ]
+    },
+    "2633955":{
+       "addr1":"제주특별자치도 제주시 조천읍 남조로 2243",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0202",
+       "cat3":"A02020600",
+       "contentid":"2633955",
+       "contenttypeid":"12",
+       "createdtime":"20191107225841",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/82/2638282_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/82/2638282_image2_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.6596065516",
+       "mapy":"33.4652169011",
+       "mlevel":"6",
+       "modifiedtime":"20230502194645",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"서프라이즈 테마파크",
+       "zipcode":"63345",
+       "infantsfamily":"1",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          {
+             "유모차":"대여가능(2대, 24개월 이하)"
+          }
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "휠체어":"대여가능(2대, 안내데스크)"
+          },
+          {
+             "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "화장실":"장애인 화장실 있음(주차장)"
+          },
+          {
+             "기타 지원 항목":"보행로 나무데크&인조잔디 조성"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "점자블록":"점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+          },
+          {
+             "보조견 동반":"동반가능"
+          },
+          {
+             "안내요원":"안내요원 있음(전시해설자 있음)"
+          }
+       ]
+    },
+    "2638442":{
+       "addr1":"제주특별자치도 제주시 한림읍 한림로 555",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0203",
+       "cat3":"A02030400",
+       "contentid":"2638442",
+       "contenttypeid":"12",
+       "createdtime":"20191123012810",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/92/2639392_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/92/2639392_image2_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.2561567959",
+       "mapy":"33.4077974098",
+       "mlevel":"6",
+       "modifiedtime":"20230504155431",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"한라산소주 공장투어",
+       "zipcode":"63012",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+          },
+          {
+             "엘리베이터":"엘리베이터 있음"
+          },
+          {
+             "화장실":"장애인 화장실 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "점자블록":"점자블록 있음(주출입구)_시각장애인 편의시설"
+          },
+          {
+             "안내요원":"안내요원 있음(투어가이드/사전예약)"
+          }
+       ]
+    },
+    "2663244":{
+       "addr1":"제주특별자치도 서귀포시 안덕면 산록남로762번길 113",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0201",
+       "cat3":"A02010900",
+       "contentid":"2663244",
+       "contenttypeid":"12",
+       "createdtime":"20200711003507",
+       "firstimage":"",
+       "firstimage2":"",
+       "cpyrhtDivCd":"",
+       "mapx":"126.3877920933",
+       "mapy":"33.3051886051",
+       "mlevel":"",
+       "modifiedtime":"20220602164929",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"방주교회",
+       "zipcode":"63525",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "2674014":{
+       "addr1":"제주특별자치도 제주시 한경면 판조로 253-6",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A03",
+       "cat2":"A0303",
+       "cat3":"A03030200",
+       "contentid":"2674014",
+       "contenttypeid":"12",
+       "createdtime":"20200924002928",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/43/2718143_image2_1.JPG",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/43/2718143_image2_1.JPG",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.2182391712",
+       "mapy":"33.3494560488",
+       "mlevel":"6",
+       "modifiedtime":"20221104161757",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"비체올린",
+       "zipcode":"63003",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 평지로 되어 있으나 카약 승선장 입구에 1단 턱이 있음"
+          },
+          {
+             "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "화장실":"장애인 화장실 있음(카약승선 교육장 앞)_무장애 편의시설"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "보조견 동반":"동반가능_시각장애인 편의시설"
+          },
+          {
+             "안내요원":"안내요원 있음"
+          }
+       ]
+    },
+    "2704412":{
+       "addr1":"제주특별자치도 제주시 첨단동길 160-20",
+       "addr2":"(월평동)",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0204",
+       "cat3":"A02040800",
+       "contentid":"2704412",
+       "contenttypeid":"12",
+       "createdtime":"20210121190456",
+       "firstimage":"",
+       "firstimage2":"",
+       "cpyrhtDivCd":"",
+       "mapx":"126.5862409359",
+       "mapy":"33.4548279883",
+       "mlevel":"6",
+       "modifiedtime":"20221123145714",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"아침미소목장",
+       "zipcode":"63311",
+       "infantsfamily":"1",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          {
+             "영유아가족 기타 지원 항목":"귀저귀교환대 있음"
+          }
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 평지로 되어 있으나 흙(돌) 구간 있음"
+          },
+          {
+             "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+          },
+          {
+             "기타 지원 항목":"의자식테이블 있음(카페)"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "2704456":{
+       "addr1":"제주특별자치도 서귀포시 대정읍 중산간서로 2260-15",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0202",
+       "cat3":"A02020700",
+       "contentid":"2704456",
+       "contenttypeid":"12",
+       "createdtime":"20210122004635",
+       "firstimage":"",
+       "firstimage2":"",
+       "cpyrhtDivCd":"",
+       "mapx":"126.2873540959",
+       "mapy":"33.2825728584",
+       "mlevel":"6",
+       "modifiedtime":"20230118163526",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"노리매공원",
+       "zipcode":"63519",
+       "infantsfamily":"1",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          {
+             "유모차":"대여가능"
+          },
+          {
+             "수유실":"수유실 있음"
+          }
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "휠체어":"대여가능"
+          },
+          {
+             "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "엘리베이터":"엘리베이터 있음"
+          },
+          {
+             "화장실":"장애인 화장실 있음(본관1층)"
+          },
+          {
+             "관람석":"장애인 전용 관람석 있음(3D상영관)"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "2707930":{
+       "addr1":"제주특별자치도 서귀포시 안덕면 중산간서로 1878",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0202",
+       "cat3":"A02020600",
+       "contentid":"2707930",
+       "contenttypeid":"12",
+       "createdtime":"20210303223436",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/26/2707926_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/26/2707926_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.3221786685",
+       "mapy":"33.2907197270",
+       "mlevel":"6",
+       "modifiedtime":"20230310111917",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"소인국테마파크",
+       "zipcode":"63522",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 경사로가 설치되어 있음"
+          },
+          {
+             "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "점자블록":"점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+          }
+       ]
+    },
+    "2714222":{
+       "addr1":"제주특별자치도 제주시 구좌읍 금백조로 930",
+       "addr2":"스누피 공원",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01010500",
+       "contentid":"2714222",
+       "contenttypeid":"12",
+       "createdtime":"20210421235959",
+       "firstimage":"",
+       "firstimage2":"",
+       "cpyrhtDivCd":"",
+       "mapx":"126.7781800789",
+       "mapy":"33.4441600213",
+       "mlevel":"6",
+       "modifiedtime":"20221124153029",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"스누피가든",
+       "zipcode":"63355",
+       "infantsfamily":"1",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          {
+             "유모차":"대여가능"
+          },
+          {
+             "수유실":"수유실 있음"
+          }
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 경사로가 설치되어 있음"
+          },
+          {
+             "휠체어":"대여가능"
+          },
+          {
+             "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+          },
+          {
+             "엘리베이터":"엘리베이터 있음"
+          },
+          {
+             "화장실":"장애인 화장실 있음"
+          },
+          {
+             "기타 지원 항목":"내부관람은 경사로 있음, 야외정원이 있는 길은 도움이 필요함(순환버스 이동경로로 관람시 단차 없이 관람가능)"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "점자블록":"점자블록 있음(주출입구)_시각장애인 편의시설"
+          },
+          {
+             "안내요원":"안내요원 있음"
+          }
+       ]
+    },
+    "2714241":{
+       "addr1":"제주특별자치도 제주시 애월읍 어림비로 478",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0206",
+       "cat3":"A02060500",
+       "contentid":"2714241",
+       "contenttypeid":"12",
+       "createdtime":"20210422015634",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/41/2867941_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/41/2867941_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.3449882076",
+       "mapy":"33.3967250327",
+       "mlevel":"6",
+       "modifiedtime":"20230331100310",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"아르떼뮤지엄 제주",
+       "zipcode":"63038",
+       "infantsfamily":"1",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          {
+             "유모차":"대여가능"
+          },
+          {
+             "수유실":"수유실 있음"
+          }
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "휠체어":"대여가능"
+          },
+          {
+             "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+          },
+          {
+             "화장실":"장애인 화장실 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "점자블록":"점자유도로 있음_시각장애인 편의시설"
+          },
+          {
+             "안내요원":"안내요원 있음"
+          }
+       ]
+    },
+    "2723542":{
+       "addr1":"제주특별자치도 제주시 애월읍 애월로1길 26-4",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01011200",
+       "contentid":"2723542",
+       "contenttypeid":"12",
+       "createdtime":"20210625233324",
+       "firstimage":"",
+       "firstimage2":"",
+       "cpyrhtDivCd":"",
+       "mapx":"126.3101064260",
+       "mapy":"33.4627838378",
+       "mlevel":"6",
+       "modifiedtime":"20220629151913",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"한담해변",
+       "zipcode":"63043",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+          },
+          {
+             "기타 지원 항목":"휠체어 이동 가능한 산책로 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "보조견 동반":"동반가능_시각장애인 편의시설"
+          }
+       ]
+    },
+    "2751986":{
+       "addr1":"제주특별자치도 제주시 조천읍 선교로 474-1",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01010500",
+       "contentid":"2751986",
+       "contenttypeid":"12",
+       "createdtime":"20210930213259",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/85/2751985_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/85/2751985_image2_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.7095828183",
+       "mapy":"33.4630929367",
+       "mlevel":"6",
+       "modifiedtime":"20221129112253",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"포레스트사파리",
+       "zipcode":"63341",
+       "infantsfamily":"1",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          {
+             "유모차":"대여가능"
+          }
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 경사로가 설치되어 있음"
+          },
+          {
+             "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+          },
+          {
+             "화장실":"장애인 화장실 있음"
+          },
+          {
+             "기타 지원 항목":"내부관람로 단차없음 / 외부관람로는 단차 없고 일부 구간 경사 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "안내요원":"안내요원 있음_시각장애인 편의시설"
+          }
+       ]
+    },
+    "2778897":{
+       "addr1":"제주특별자치도 서귀포시 대정읍 안성리 995-1",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01010500",
+       "contentid":"2778897",
+       "contenttypeid":"12",
+       "createdtime":"20211124233746",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/97/2799597_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/97/2799597_image2_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.2837741374",
+       "mapy":"33.2697020020",
+       "mlevel":"6",
+       "modifiedtime":"20220818135006",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"안성리수국길",
+       "zipcode":"63520",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "출입통로":"출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "보조견 동반":"동반가능_시각장애인 편의시설"
+          }
+       ]
+    },
+    "2779454":{
+       "addr1":"제주특별자치도 제주시 구좌읍 종달리 112-4",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01010500",
+       "contentid":"2779454",
+       "contenttypeid":"12",
+       "createdtime":"20211125184853",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/58/2799758_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/58/2799758_image2_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.9073118129",
+       "mapy":"33.5099742759",
+       "mlevel":"6",
+       "modifiedtime":"20221202134955",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"종달리수국길",
+       "zipcode":"63364",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "보조견 동반":"동반가능_시각장애인 편의시설"
+          }
+       ]
+    },
+    "2788436":{
+       "addr1":"제주특별자치도 제주시 중앙로 1",
+       "addr2":"(건입동)",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0202",
+       "cat3":"A02020700",
+       "contentid":"2788436",
+       "contenttypeid":"12",
+       "createdtime":"20211208023959",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/85/2799785_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/85/2799785_image2_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.5251198075",
+       "mapy":"33.5181894454",
+       "mlevel":"6",
+       "modifiedtime":"20220701151914",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"탑동광장",
+       "zipcode":"63276",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "보조견 동반":"동반가능_시각장애인 편의시설"
+          }
+       ]
+    },
+    "2798882":{
+       "addr1":"제주특별자치도 제주시 우도면 우도해안길 70",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"0",
+       "cat1":"A02",
+       "cat2":"A0202",
+       "cat3":"A02020800",
+       "contentid":"2798882",
+       "contenttypeid":"12",
+       "createdtime":"20211215224432",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/38/2799638_image2_1.JPG",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/38/2799638_image2_1.JPG",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.9515555965",
+       "mapy":"33.4928352215",
+       "mlevel":"6",
+       "modifiedtime":"20230504173700",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"제주 우도 천진항 대합실",
+       "zipcode":"63365",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"0",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+          },
+          {
+             "화장실":"장애인 화장실 있음"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          
+       ]
+    },
+    "2858467":{
+       "addr1":"제주특별자치도 서귀포시 에듀시티로 178",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01010200",
+       "contentid":"2858467",
+       "contenttypeid":"12",
+       "createdtime":"20220922115604",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/62/2858462_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/62/2858462_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.2735802771",
+       "mapy":"33.2832503451",
+       "mlevel":"6",
+       "modifiedtime":"20221025174627",
+       "sigungucode":"3",
+       "tel":"",
+       "title":"제주곶자왈도립공원",
+       "zipcode":"63644",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "휠체어":"대여가능"
+          },
+          {
+             "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "엘리베이터":"엘리베이터 있음"
+          },
+          {
+             "화장실":"장애인 화장실 있음"
+          },
+          {
+             "기타 지원 항목":"관람로 평평하여 휠체어 이동 가능"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "점자블록":"점자블록 있음(주출입구)_시각장애인 편의시설"
+          },
+          {
+             "안내요원":"안내요원 있음"
+          }
+       ]
+    },
+    "2930935":{
+       "addr1":"제주특별자치도 제주시 애월읍 곽지리",
+       "addr2":"",
+       "areacode":"39",
+       "booktour":"",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01010500",
+       "contentid":"2930935",
+       "contenttypeid":"12",
+       "createdtime":"20221206182536",
+       "firstimage":"",
+       "firstimage2":"",
+       "cpyrhtDivCd":"",
+       "mapx":"126.3106092402",
+       "mapy":"33.4592286841",
+       "mlevel":"6",
+       "modifiedtime":"20230202154404",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"한담해안산책로",
+       "zipcode":"63034",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "보조견 동반":"동반가능_시각장애인 편의시설"
+          }
+       ]
+    },
+    "2948051":{
+       "addr1":"제주특별자치도 제주시 한경면 청수리",
+       "addr2":"청수리 956-6",
+       "areacode":"39",
+       "booktour":"",
+       "cat1":"A01",
+       "cat2":"A0101",
+       "cat3":"A01010400",
+       "contentid":"2948051",
+       "contenttypeid":"12",
+       "createdtime":"20230207174552",
+       "firstimage":"http://tong.visitkorea.or.kr/cms/resource/57/2948057_image2_1.jpg",
+       "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/57/2948057_image3_1.jpg",
+       "cpyrhtDivCd":"Type3",
+       "mapx":"126.2503099104",
+       "mapy":"33.2907297100",
+       "mlevel":"6",
+       "modifiedtime":"20230502191934",
+       "sigungucode":"4",
+       "tel":"",
+       "title":"산양큰엉곶",
+       "zipcode":"63006",
+       "infantsfamily":"0",
+       "hearinghandicap":"0",
+       "blindhandicap":"1",
+       "handicap":"1",
+       "family":[
+          
+       ],
+       "handi":[
+          {
+             "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+          },
+          {
+             "화장실":"장애인 화장실 있음_무장애 편의시설"
+          },
+          {
+             "기타 지원 항목":"유모차와 휠체어 진입 이동 가능한 산책로 있음(달구지길)"
+          }
+       ],
+       "hearing":[
+          
+       ],
+       "blind":[
+          {
+             "점자블록":"점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+          }
+       ]
+    }
+ }

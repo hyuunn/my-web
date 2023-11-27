@@ -1,0 +1,109 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "0000",
+      "resultMsg": "OK"
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "addr1": "전라북도 전주시 완산구 효동2길 18",
+            "addr2": "",
+            "areacode": "37",
+            "booktour": "",
+            "cat1": "A04",
+            "cat2": "A0401",
+            "cat3": "A04010200",
+            "contentid": "522069",
+            "contenttypeid": "38",
+            "createdtime": "20080318190446",
+            "firstimage": "http://tong.visitkorea.or.kr/cms/resource/71/1976671_image2_1.jpg",
+            "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/71/1976671_image3_1.jpg",
+            "cpyrhtDivCd": "Type3",
+            "mapx": "127.1266278208",
+            "mapy": "35.8049316525",
+            "mlevel": "6",
+            "modifiedtime": "20231103132833",
+            "sigungucode": "12",
+            "tel": "",
+            "title": "전주 서부시장",
+            "zipcode": "55093"
+          },
+          {
+            "addr1": "전라북도 전주시 완산구 태평3길 70",
+            "addr2": "",
+            "areacode": "37",
+            "booktour": "",
+            "cat1": "A04",
+            "cat2": "A0401",
+            "cat3": "A04010200",
+            "contentid": "1003205",
+            "contenttypeid": "38",
+            "createdtime": "20100421005519",
+            "firstimage": "http://tong.visitkorea.or.kr/cms/resource/60/1164260_image2_1.jpg",
+            "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/60/1164260_image3_1.jpg",
+            "cpyrhtDivCd": "Type3",
+            "mapx": "127.1424814345",
+            "mapy": "35.8252268407",
+            "mlevel": "6",
+            "modifiedtime": "20230905185624",
+            "sigungucode": "12",
+            "tel": "063-253-6535",
+            "title": "전주 신중앙시장",
+            "zipcode": "54996"
+          },
+          {
+            "addr1": "전라북도 전주시 완산구 풍남문1길 19-3",
+            "addr2": "",
+            "areacode": "37",
+            "booktour": "",
+            "cat1": "A04",
+            "cat2": "A0401",
+            "cat3": "A04010200",
+            "contentid": "132326",
+            "contenttypeid": "38",
+            "createdtime": "20031119090000",
+            "firstimage": "http://tong.visitkorea.or.kr/cms/resource/98/2366398_image2_1.jpg",
+            "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/98/2366398_image3_1.jpg",
+            "cpyrhtDivCd": "Type3",
+            "mapx": "127.1475535303",
+            "mapy": "35.8128283393",
+            "mlevel": "6",
+            "modifiedtime": "20230217151111",
+            "sigungucode": "12",
+            "tel": "",
+            "title": "전주 남부시장",
+            "zipcode": "55043"
+          },
+          {
+            "addr1": "전라북도 전주시 덕진구 모래내4길 8-8",
+            "addr2": "(인후동2가)",
+            "areacode": "37",
+            "booktour": "",
+            "cat1": "A04",
+            "cat2": "A0401",
+            "cat3": "A04010200",
+            "contentid": "1187336",
+            "contenttypeid": "38",
+            "createdtime": "20110127193250",
+            "firstimage": "http://tong.visitkorea.or.kr/cms/resource/84/1164184_image2_1.jpg",
+            "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/84/1164184_image3_1.jpg",
+            "cpyrhtDivCd": "Type3",
+            "mapx": "127.1438922026",
+            "mapy": "35.8335564735",
+            "mlevel": "6",
+            "modifiedtime": "20221005103122",
+            "sigungucode": "12",
+            "tel": "063-278-5802",
+            "title": "전주 모래내시장",
+            "zipcode": "54926"
+          }
+        ]
+      },
+      "numOfRows": 4,
+      "pageNo": 1,
+      "totalCount": 4
+    }
+  }
+}

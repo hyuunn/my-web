@@ -1,0 +1,590 @@
+{
+  "2712920": {
+    "addr1": "세종특별자치시 시청대로 137",
+    "addr2": "(보람동)",
+    "areacode": "8",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2712920",
+    "contenttypeid": "39",
+    "createdtime": "20210401025810",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.2867983027",
+    "mapy": "36.4800407074",
+    "mlevel": "6",
+    "modifiedtime": "20230512101203",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "써밋뷰",
+    "zipcode": "30151",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2712939": {
+    "addr1": "세종특별자치시 금남면 세종로 470",
+    "addr2": "",
+    "areacode": "8",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2712939",
+    "contenttypeid": "39",
+    "createdtime": "20210401232644",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.2789106409",
+    "mapy": "36.4608844298",
+    "mlevel": "6",
+    "modifiedtime": "20230822161909",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "농부의 한우",
+    "zipcode": "30083",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2734922": {
+    "addr1": "세종특별자치시 도움1로 106 메가시티 B101호",
+    "addr2": "(종촌동)",
+    "areacode": "8",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020300",
+    "contentid": "2734922",
+    "contenttypeid": "39",
+    "createdtime": "20210818225631",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/97/2735097_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/97/2735097_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2481400379",
+    "mapy": "36.5028624065",
+    "mlevel": "6",
+    "modifiedtime": "20230802203220",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "중부회수산시장",
+    "zipcode": "30064",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2805700": {
+    "addr1": "세종특별자치시 연서면 연서면 도신고복로 (605)",
+    "addr2": "",
+    "areacode": "8",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2805700",
+    "contenttypeid": "39",
+    "createdtime": "20220127182320",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.2274030930",
+    "mapy": "36.6018340166",
+    "mlevel": "6",
+    "modifiedtime": "20220503173528",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "리틀그레이프",
+    "zipcode": "30042",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2869602": {
+    "addr1": "세종특별자치시  의당전의로 286",
+    "addr2": "",
+    "areacode": "8",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2869602",
+    "contenttypeid": "39",
+    "createdtime": "20221018163207",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/91/2869591_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/91/2869591_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1787790559",
+    "mapy": "36.6249055048",
+    "mlevel": "6",
+    "modifiedtime": "20221102173525",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "캐슬가든",
+    "zipcode": "30007",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2869702": {
+    "addr1": "세종특별자치시  한누리대로 288 갤러리밸류시티",
+    "addr2": "2층 204호",
+    "areacode": "8",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020200",
+    "contentid": "2869702",
+    "contenttypeid": "39",
+    "createdtime": "20221018165750",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/94/2869694_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/94/2869694_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2571118052",
+    "mapy": "36.4899779312",
+    "mlevel": "6",
+    "modifiedtime": "20221102174024",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "에이트",
+    "zipcode": "30128",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2869775": {
+    "addr1": "세종특별자치시  금남구즉로 152",
+    "addr2": "",
+    "areacode": "8",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2869775",
+    "contenttypeid": "39",
+    "createdtime": "20221018171153",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/64/2869764_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/64/2869764_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2952615757",
+    "mapy": "36.4747997918",
+    "mlevel": "6",
+    "modifiedtime": "20221103094008",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "이도커피",
+    "zipcode": "30079",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2869808": {
+    "addr1": "세종특별자치시  금남구즉로 497",
+    "addr2": "",
+    "areacode": "8",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2869808",
+    "contenttypeid": "39",
+    "createdtime": "20221018172207",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/97/2869797_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/97/2869797_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3307110189",
+    "mapy": "36.4805525392",
+    "mlevel": "6",
+    "modifiedtime": "20221103095139",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "이도커피 사유",
+    "zipcode": "30082",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2870069": {
+    "addr1": "세종특별자치시  호탄길 48",
+    "addr2": "",
+    "areacode": "8",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2870069",
+    "contenttypeid": "39",
+    "createdtime": "20221019102935",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/47/2870047_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/47/2870047_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2987390883",
+    "mapy": "36.4730722736",
+    "mlevel": "6",
+    "modifiedtime": "20230208112503",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "카페 비일상",
+    "zipcode": "30079",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2871298": {
+    "addr1": "세종특별자치시  장기로 650-7",
+    "addr2": "",
+    "areacode": "8",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2871298",
+    "contenttypeid": "39",
+    "createdtime": "20221020102713",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/86/2871286_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/86/2871286_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2103604553",
+    "mapy": "36.4895271557",
+    "mlevel": "6",
+    "modifiedtime": "20221103132606",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "바우정원",
+    "zipcode": "30054",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2871389": {
+    "addr1": "세종특별자치시  도래말길 5",
+    "addr2": "",
+    "areacode": "8",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2871389",
+    "contenttypeid": "39",
+    "createdtime": "20221020104635",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/72/2871372_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/72/2871372_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1514683893",
+    "mapy": "36.6986132172",
+    "mlevel": "6",
+    "modifiedtime": "20221103133125",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "백제기사식당",
+    "zipcode": "30000",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2871402": {
+    "addr1": "세종특별자치시  마음안로 161 로뎀빌딩Ⅱ",
+    "addr2": "",
+    "areacode": "8",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2871402",
+    "contenttypeid": "39",
+    "createdtime": "20221020105104",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/97/2871397_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/97/2871397_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2337992962",
+    "mapy": "36.5161661819",
+    "mlevel": "6",
+    "modifiedtime": "20221103134324",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "보재기손두부",
+    "zipcode": "30062",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2871442": {
+    "addr1": "세종특별자치시  나성남로 7-16 신영드림타워",
+    "addr2": "",
+    "areacode": "8",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2871442",
+    "contenttypeid": "39",
+    "createdtime": "20221020110626",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/36/2871436_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/36/2871436_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2621809993",
+    "mapy": "36.4824594380",
+    "mlevel": "6",
+    "modifiedtime": "20221103134710",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "세종장어대가",
+    "zipcode": "30129",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2871514": {
+    "addr1": "세종특별자치시  아름서1길 13-5 마드리드A",
+    "addr2": "",
+    "areacode": "8",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020200",
+    "contentid": "2871514",
+    "contenttypeid": "39",
+    "createdtime": "20221020112509",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/04/2871504_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/04/2871504_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2425958593",
+    "mapy": "36.5113891080",
+    "mlevel": "6",
+    "modifiedtime": "20221103135913",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "시즌파이브 프리미엄 본점",
+    "zipcode": "30100",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

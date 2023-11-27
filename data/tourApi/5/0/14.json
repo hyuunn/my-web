@@ -1,0 +1,1698 @@
+{
+  "129757":{
+     "addr1":"광주광역시 서구 학생독립로 30",
+     "addr2":"(화정동)",
+     "areacode":"5",
+     "booktour":"",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060900",
+     "contentid":"129757",
+     "contenttypeid":"14",
+     "createdtime":"20071106102844",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/44/1195944_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/44/1195944_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.8650124428",
+     "mapy":"35.1406302465",
+     "mlevel":"6",
+     "modifiedtime":"20230509135313",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"광주학생독립운동기념회관",
+     "zipcode":"62024",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        },
+        {
+           "기타 지원 항목":"장애인실(1층)운영"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주요시설 연결 됨)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "129761":{
+     "addr1":"광주광역시 북구 하서로 52",
+     "addr2":"(운암동)",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060500",
+     "contentid":"129761",
+     "contenttypeid":"14",
+     "createdtime":"20071106102854",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/32/1033032_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/32/1033032_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.8858428681",
+     "mapy":"35.1832174547",
+     "mlevel":"6",
+     "modifiedtime":"20220613112929",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"광주시립미술관",
+     "zipcode":"61104",
+     "family":[
+        {
+           "유모차":"대여가능(3대,안내데스크)"
+        },
+        {
+           "수유실":"수유실 있음(1층)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음(자동문)"
+        },
+        {
+           "휠체어":"대여가능(수동 2대,전동 2대,안내데스크)"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"장애인 엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음(1층)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주 출입구 앞,화장실 앞,엘리베이터 앞,각 전시실 입구)_시각장애인 편의시설"
+        },
+        {
+           "보조견 동반":"동반가능"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "129782":{
+     "addr1":"광주광역시 북구 하서로 110",
+     "addr2":"(매곡동)",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060100",
+     "contentid":"129782",
+     "contenttypeid":"14",
+     "createdtime":"20071106102955",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/30/1587630_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/30/1587630_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.8830651901",
+     "mapy":"35.1890417498",
+     "mlevel":"6",
+     "modifiedtime":"20230726135308",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"국립광주박물관",
+     "zipcode":"61066",
+     "family":[
+        {
+           "유모차":"대여 가능(매표소 2대, 전시관 2대, 교육관 2대)"
+        },
+        {
+           "수유실":"수유실 있음(어린이 박물관)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음(수동문)"
+        },
+        {
+           "휠체어":"대여 가능(매표소 2대, 전시관 1대)"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"장애인 엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음(1층)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자유도로 있음(매표소에서 전시관까지 이동거리)<br />\n점자블록 있음(주 출입구 앞,매표소 앞,계단 앞)_시각장애인 편의시설"
+        },
+        {
+           "보조견 동반":"동반 가능"
+        },
+        {
+           "오디오 가이드":"전시해설 음성안내기 있음"
+        },
+        {
+           "점자 홍보물 및 점자 표지판":"점자안내판 있음"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "130032":{
+     "addr1":"광주광역시 광산구 상무대로 265",
+     "addr2":"",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060700",
+     "contentid":"130032",
+     "contenttypeid":"14",
+     "createdtime":"20071106103919",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/82/1888782_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/82/1888782_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.7951296891",
+     "mapy":"35.1424455318",
+     "mlevel":"6",
+     "modifiedtime":"20230412114008",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"광산문화원",
+     "zipcode":"62421",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "130033":{
+     "addr1":"광주광역시 서구 풍금로 182",
+     "addr2":"(금호동) 빛고을국악전수관 내",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060700",
+     "contentid":"130033",
+     "contenttypeid":"14",
+     "createdtime":"20071106103921",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/16/1587716_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/16/1587716_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.8599131134",
+     "mapy":"35.1318478187",
+     "mlevel":"6",
+     "modifiedtime":"20230727171153",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"광주광역시 서구문화원",
+     "zipcode":"62015",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음(수동문)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주요시설 연결됨)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "130058":{
+     "addr1":"광주광역시 북구 북문대로 60",
+     "addr2":"",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060600",
+     "contentid":"130058",
+     "contenttypeid":"14",
+     "createdtime":"20071106104021",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.8813878390",
+     "mapy":"35.1779374203",
+     "mlevel":"6",
+     "modifiedtime":"20230605104905",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"광주예술의전당",
+     "zipcode":"61104",
+     "family":[
+        {
+           "수유실":"수유실 있음"
+        },
+        {
+           "영유아가족 기타 지원 항목":"어린이 놀이방 있음"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음(수동문)"
+        },
+        {
+           "휠체어":"대여가능(2대,안내데스크)"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"장애인 엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음(대 극장,소 극장)"
+        },
+        {
+           "관람석":"장애인 관람석 있음(대극장 18석,소극장 7석)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자유도로 있음(엘리베이터 앞)<br />\n점자블록 있음(대극장 진입 출입구 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "130065":{
+     "addr1":"광주광역시 북구 서하로 48-25",
+     "addr2":"(용봉동)",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060100",
+     "contentid":"130065",
+     "contenttypeid":"14",
+     "createdtime":"20071106104041",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/95/1033095_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/95/1033095_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.8884092845",
+     "mapy":"35.1841423940",
+     "mlevel":"6",
+     "modifiedtime":"20230811160034",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"광주 역사민속박물관",
+     "zipcode":"61104",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주 출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        },
+        {
+           "기타 지원 항목":"휠체어전용 열람석 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(접근로)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "130117":{
+     "addr1":"광주광역시 동구 예술길 18-1",
+     "addr2":"(궁동)",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060500",
+     "contentid":"130117",
+     "contenttypeid":"14",
+     "createdtime":"20071106104252",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/58/1587558_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/58/1587558_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9181852835",
+     "mapy":"35.1500689678",
+     "mlevel":"6",
+     "modifiedtime":"20230703100459",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"무등갤러리",
+     "zipcode":"61475",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함_무장애 편의시설"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "130208":{
+     "addr1":"광주광역시 북구 향토문화로 65",
+     "addr2":"(중흥동)",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060700",
+     "contentid":"130208",
+     "contenttypeid":"14",
+     "createdtime":"20071106104659",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/90/1888790_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/90/1888790_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9136739994",
+     "mapy":"35.1728607617",
+     "mlevel":"6",
+     "modifiedtime":"20221229094641",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"광주 북구문화원",
+     "zipcode":"61207",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+        },
+        {
+           "출입통로":"주출입구는 계단으로 휠체어 접근 불가하나 주차장 옆 보조출입구로 휠체어 접근 가능"
+        },
+        {
+           "엘리베이터":"휠체어 리프트 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        },
+        {
+           "기타 지원 항목":"휴게소 산책로 휠체어 접근 가능"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(보조출입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "130392":{
+     "addr1":"광주광역시 남구 봉선로 208",
+     "addr2":"(봉선동)",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060700",
+     "contentid":"130392",
+     "contenttypeid":"14",
+     "createdtime":"20071106105523",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/11/1888811_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/11/1888811_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9172194019",
+     "mapy":"35.1221193287",
+     "mlevel":"6",
+     "modifiedtime":"20221124114324",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"광주 남구문화원",
+     "zipcode":"61705",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실, 엘리베이터 입구)_시각장애인 편의시설"
+        },
+        {
+           "점자 홍보물 및 점자 표지판":"촉지안내도 있음"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "130639":{
+     "addr1":"광주광역시 동구 의재로 140-6",
+     "addr2":"",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060500",
+     "contentid":"130639",
+     "contenttypeid":"14",
+     "createdtime":"20050630090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/64/1944864_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/64/1944864_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9430502112",
+     "mapy":"35.1317742306",
+     "mlevel":"6",
+     "modifiedtime":"20220720172558",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"우제길미술관",
+     "zipcode":"61494",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로 설치되어 있음_무장애 편의시설"
+        },
+        {
+           "출입통로":"주출입구 휠체어 진입 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "130807":{
+     "addr1":"광주광역시 남구 중앙로 15",
+     "addr2":"",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060900",
+     "contentid":"130807",
+     "contenttypeid":"14",
+     "createdtime":"20060419090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/17/1587517_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/17/1587517_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9005647433",
+     "mapy":"35.1450970088",
+     "mlevel":"6",
+     "modifiedtime":"20230629163856",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"금호평생교육관",
+     "zipcode":"61633",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(본관1층에만)"
+        },
+        {
+           "기타 지원 항목":"장애인 열람실이 있었으나 지금은 운영 중단함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(관외~주출입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "130808":{
+     "addr1":"광주광역시 광산구 송정공원로 8-13",
+     "addr2":"(소촌동)",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060900",
+     "contentid":"130808",
+     "contenttypeid":"14",
+     "createdtime":"20060420090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/27/1587327_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/27/1587327_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.7998069918",
+     "mapy":"35.1449147758",
+     "mlevel":"6",
+     "modifiedtime":"20230410113240",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"광주 송정도서관",
+     "zipcode":"62380",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "기타 지원 항목":"장애인실 있음(1층)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(접근로,주출입구,주요시설 연결)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "130809":{
+     "addr1":"광주광역시 서구 상무민주로 61",
+     "addr2":"",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060900",
+     "contentid":"130809",
+     "contenttypeid":"14",
+     "createdtime":"20060421090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/55/1559655_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/55/1559655_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.8585681905",
+     "mapy":"35.1557506526",
+     "mlevel":"6",
+     "modifiedtime":"20230530115414",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"광주학생교육문화회관",
+     "zipcode":"61965",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(접근로,관내 주요시설 연결 됨)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "130810":{
+     "addr1":"광주광역시 북구 면앙로 130",
+     "addr2":"(우산동)",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060900",
+     "contentid":"130810",
+     "contenttypeid":"14",
+     "createdtime":"20060421090000",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.9253034327",
+     "mapy":"35.1766327548",
+     "mlevel":"6",
+     "modifiedtime":"20230209113246",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"광주광역시립무등도서관",
+     "zipcode":"61191",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"장애인리프트 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        },
+        {
+           "기타 지원 항목":"책나래(장애인 도서 택배무료)서비스,장애인실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "130811":{
+     "addr1":"광주광역시 동구 경양로 355",
+     "addr2":"(산수동)",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060900",
+     "contentid":"130811",
+     "contenttypeid":"14",
+     "createdtime":"20060421090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/88/1587588_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/88/1587588_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9284731545",
+     "mapy":"35.1544075405",
+     "mlevel":"6",
+     "modifiedtime":"20230217095214",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"광주광역시립산수도서관",
+     "zipcode":"61418",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"주출입구 접근로에 계단이 많아 장애인주차장쪽으로 진입하면 평지 진입 가능(주출입구까지 차로 이동)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        },
+        {
+           "기타 지원 항목":"책나래(장애인 도서 무료택배)서비스,장애인실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "130835":{
+     "addr1":"광주광역시 남구 제중로 56",
+     "addr2":"(양림동)",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060900",
+     "contentid":"130835",
+     "contenttypeid":"14",
+     "createdtime":"20060510090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/94/1587494_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/94/1587494_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9139775859",
+     "mapy":"35.1395200873",
+     "mlevel":"6",
+     "modifiedtime":"20230322100153",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"광주광역시립 사직도서관",
+     "zipcode":"61640",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터는 없으나 4층까지 장애인리프트 설치되어 있음(5층건물)"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주출입구부터 관내 주요시설까지 이어짐)_시각장애인 편의시설"
+        },
+        {
+           "기타 지원 항목":"책나래서비스(장애인 도서우편 서비스) 이용가능"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "231964":{
+     "addr1":"광주광역시 북구 설죽로 477",
+     "addr2":"",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060100",
+     "contentid":"231964",
+     "contenttypeid":"14",
+     "createdtime":"20070830090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/12/1195812_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/12/1195812_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.8986968221",
+     "mapy":"35.2017405787",
+     "mlevel":"6",
+     "modifiedtime":"20220518095614",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"남도향토음식박물관·호남문화자료전시관",
+     "zipcode":"61057",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음(수동문)"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(1,2층)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주요시설 입구 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "252654":{
+     "addr1":"광주광역시 서구 상무누리로 30",
+     "addr2":"(치평동)",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060400",
+     "contentid":"252654",
+     "contenttypeid":"14",
+     "createdtime":"20071031090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/11/1559711_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/11/1559711_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.8405033459",
+     "mapy":"35.1467624742",
+     "mlevel":"6",
+     "modifiedtime":"20221012173230",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"김대중컨벤션센터",
+     "zipcode":"61958",
+     "family":[
+        {
+           "유모차":"무료대여"
+        },
+        {
+           "수유실":"수유실 있음(1층)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "휠체어":"무료대여"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(각 층,각 건물)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "969963":{
+     "addr1":"광주광역시 서구 내방로 111",
+     "addr2":"(치평동)",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060600",
+     "contentid":"969963",
+     "contenttypeid":"14",
+     "createdtime":"20100309225229",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/36/1559636_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/36/1559636_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.8513576102",
+     "mapy":"35.1600194930",
+     "mlevel":"6",
+     "modifiedtime":"20230725163443",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"광주시청 야외음악당",
+     "zipcode":"61945",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1621168":{
+     "addr1":"광주광역시 남구 고싸움로 2",
+     "addr2":"(칠석동)",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02061100",
+     "contentid":"1621168",
+     "contenttypeid":"14",
+     "createdtime":"20120503034940",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/35/1587535_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/35/1587535_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.8375388610",
+     "mapy":"35.0697294541",
+     "mlevel":"6",
+     "modifiedtime":"20220804091637",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"고싸움놀이전수교육관",
+     "zipcode":"61758",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음 (전수관,공중화장실)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1745001":{
+     "addr1":"광주광역시 남구 천변좌로338번길 7",
+     "addr2":"",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060600",
+     "contentid":"1745001",
+     "contenttypeid":"14",
+     "createdtime":"20121031234546",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.9086750662",
+     "mapy":"35.1479301594",
+     "mlevel":"6",
+     "modifiedtime":"20221004152236",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"빛고을시민문화관",
+     "zipcode":"61636",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인화장실 있음"
+        },
+        {
+           "관람석":"장애인 전용 관람석 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(출입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2009775":{
+     "addr1":"광주광역시 동구 문화전당로 38",
+     "addr2":"(광산동)",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060300",
+     "contentid":"2009775",
+     "contenttypeid":"14",
+     "createdtime":"20150612233803",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/75/2008275_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/75/2008275_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9207267855",
+     "mapy":"35.1476692819",
+     "mlevel":"6",
+     "modifiedtime":"20221226163701",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"국립아시아문화전당",
+     "zipcode":"61485",
+     "family":[
+        {
+           "유모차":"대여가능"
+        },
+        {
+           "수유실":"수유실 있음"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "휠체어":"대여가능"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음_시각장애인 편의시설"
+        },
+        {
+           "보조견 동반":"동반가능"
+        },
+        {
+           "안내요원":"안내요원 있음(방문자센터)"
+        },
+        {
+           "오디오 가이드":"음성안내기 있음"
+        },
+        {
+           "점자 홍보물 및 점자 표지판":"점자안내판 있음"
+        },
+        {
+           "기타 지원 항목":"전시해설 프로그램 운영(1일 6회)"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2033294":{
+     "addr1":"광주광역시 북구 첨단과기로 235",
+     "addr2":"(오룡동)",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060300",
+     "contentid":"2033294",
+     "contenttypeid":"14",
+     "createdtime":"20151014012556",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/43/2015043_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/43/2015043_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.8498782136",
+     "mapy":"35.2298976827",
+     "mlevel":"6",
+     "modifiedtime":"20220920151947",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"국립광주과학관",
+     "zipcode":"61005",
+     "family":[
+        {
+           "유모차":"대여가능(만36개월 미만 유아 사용가능,1층 중앙안내데스크)"
+        },
+        {
+           "수유실":"수유실 있음(어린이관)"
+        },
+        {
+           "영유아가족 기타 지원 항목":"유아휴게실 있음(어린이관)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함(수동문,자동문)"
+        },
+        {
+           "휠체어":"대여가능(수동휠체어 2대,1층 중앙안내데스크)"
+        },
+        {
+           "출입통로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"장애인 엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음(1,2층)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자유도로 있음(주 출입구 앞)<br />\n점자블록 있음(매표소 앞,화장실 앞,엘리베이터 앞)_시각장애인 편의시설"
+        },
+        {
+           "보조견 동반":"동반가능"
+        },
+        {
+           "기타 지원 항목":"전시물 해설 점자표기 있음"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2555853":{
+     "addr1":"광주광역시 동구 증심사길 9",
+     "addr2":"(운림동)",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060500",
+     "contentid":"2555853",
+     "contenttypeid":"14",
+     "createdtime":"20180731010423",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/44/2555844_image2_1.JPG",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/44/2555844_image2_1.JPG",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9537047651",
+     "mapy":"35.1341630308",
+     "mlevel":"6",
+     "modifiedtime":"20230214143457",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"무등현대미술관",
+     "zipcode":"61493",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구 휠체어 통과 가능함 (수동문)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2733539":{
+     "addr1":"광주광역시 북구 풍암제길 14",
+     "addr2":"",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060300",
+     "contentid":"2733539",
+     "contenttypeid":"14",
+     "createdtime":"20210813023950",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/40/2733540_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/40/2733540_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9983305395",
+     "mapy":"35.1675239100",
+     "mlevel":"6",
+     "modifiedtime":"20230802192414",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"무등산 분청사기 전시실",
+     "zipcode":"61147",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "안내요원":"전시해설자 있음_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2733545":{
+     "addr1":"광주광역시 동구 의재로 222",
+     "addr2":"",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060300",
+     "contentid":"2733545",
+     "contenttypeid":"14",
+     "createdtime":"20210813024731",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/46/2733546_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/46/2733546_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9523771168",
+     "mapy":"35.1336797291",
+     "mlevel":"6",
+     "modifiedtime":"20221227130905",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"광주 전통문화관",
+     "zipcode":"61493",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+        },
+        {
+           "안내요원":"안내요원 있음"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2752366":{
+     "addr1":"광주광역시 동구 동명로67번길 29",
+     "addr2":"(산수동)",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0203",
+     "cat3":"A02030400",
+     "contentid":"2752366",
+     "contenttypeid":"14",
+     "createdtime":"20211001185837",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/41/2752341_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/41/2752341_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9258956386",
+     "mapy":"35.1530215418",
+     "mlevel":"6",
+     "modifiedtime":"20230719153327",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"푸른마을 공동체센터",
+     "zipcode":"61432",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+        },
+        {
+           "화장실":"장애인 화장실 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+        },
+        {
+           "오디오 가이드":"음성버튼(점자안내판)"
+        },
+        {
+           "점자 홍보물 및 점자 표지판":"점자안내판 있음"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2755010":{
+     "addr1":"광주광역시 동구 금남로 221",
+     "addr2":"(금남로3가)",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060200",
+     "contentid":"2755010",
+     "contenttypeid":"14",
+     "createdtime":"20211008200027",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/76/2755276_image2_1.JPG",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/76/2755276_image2_1.JPG",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9167687536",
+     "mapy":"35.1496051068",
+     "mlevel":"6",
+     "modifiedtime":"20221221154555",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"5·18민주화운동 기록관",
+     "zipcode":"61475",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+        },
+        {
+           "안내요원":"안내요원 있음"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2822357":{
+     "addr1":"광주광역시 서구 상무대로 1165",
+     "addr2":"",
+     "areacode":"5",
+     "booktour":"",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060500",
+     "contentid":"2822357",
+     "contenttypeid":"14",
+     "createdtime":"20220531141901",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/48/2822348_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/48/2822348_image3_1.jpg",
+     "cpyrhtDivCd":"Type1",
+     "mapx":"126.8891044104",
+     "mapy":"35.1544846441",
+     "mlevel":"6",
+     "modifiedtime":"20230726094815",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"하정웅미술관(광주)",
+     "zipcode":"61935",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"휠체어가 올라갈 수 있는 경사로 설치되어 있음"
+        },
+        {
+           "출입통로":"주 출입구에서 휠체어 통과 가능함(수동문)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음(장애인용)"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(1층/남녀분리)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "안내요원":"안내데스크 있음(1층 로비/보조 안내요원 상주)"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2950834":{
+     "addr1":"광주광역시 동구 동계천로 137-17",
+     "addr2":"",
+     "areacode":"5",
+     "booktour":"",
+     "cat1":"A02",
+     "cat2":"A0203",
+     "cat3":"A02030400",
+     "contentid":"2950834",
+     "contenttypeid":"14",
+     "createdtime":"20230227170932",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/14/2951314_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/14/2951314_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9251957806",
+     "mapy":"35.1498607765",
+     "mlevel":"6",
+     "modifiedtime":"20230308135229",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"여행자의 집",
+     "zipcode":"61434",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능"
+        },
+        {
+           "안내요원":"안내요원 있음(1층 라운지)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2999735":{
+     "addr1":"광주광역시 동구 중앙로 302 광주고등학교",
+     "addr2":"",
+     "areacode":"5",
+     "booktour":"",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060200",
+     "contentid":"2999735",
+     "contenttypeid":"14",
+     "createdtime":"20230822182436",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/21/2999721_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/21/2999721_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9207459497",
+     "mapy":"35.1587791383",
+     "mlevel":"6",
+     "modifiedtime":"20230822182723",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"4.19 민주혁명역사관",
+     "zipcode":"61412",
+     "family":[
+        
+     ],
+     "handi":[
+        
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"0"
+  }
+}

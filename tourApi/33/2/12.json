@@ -1,0 +1,328 @@
+{
+  "125865": {
+    "addr1": "충청북도 단양군 단양읍 소백산등산길 12",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020200",
+    "contentid": "125865",
+    "contenttypeid": "12",
+    "createdtime": "20031126090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/03/176503_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/03/176503_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.4208025284",
+    "mapy": "36.9648335809",
+    "mlevel": "6",
+    "modifiedtime": "20230427114610",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "단양 다리안관광지",
+    "zipcode": "27024",
+    "family": [],
+    "handi": [
+      {
+        "출입통로": "차량진입이 금지된 보행전용로가 설치되어 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "125978": {
+    "addr1": "충청북도 단양군 영춘면 하리",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010200",
+    "contentid": "125978",
+    "contenttypeid": "12",
+    "createdtime": "20031106090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.4846718729",
+    "mapy": "37.0576269042",
+    "mlevel": "6",
+    "modifiedtime": "20230719164621",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "단양 온달산성",
+    "zipcode": "27020",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(주차장 쪽)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "126766": {
+    "addr1": "충청북도 단양군 매포읍 삼봉로 644-13",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0205",
+    "cat3": "A02050300",
+    "contentid": "126766",
+    "contenttypeid": "12",
+    "createdtime": "20020422090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/44/567044_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/44/567044_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.3417752212",
+    "mapy": "37.0007696372",
+    "mlevel": "6",
+    "modifiedtime": "20230610054055",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "도담삼봉 음악분수",
+    "zipcode": "27008",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "식당 및 휴게시설에는 경사로 설치됨\n음악분수 앞으로 올라가는 길은 계단만 있고 경사로가 따로 설치되어 있지 않음"
+      },
+      {
+        "화장실": "장애인전용 화장실 있음 (남녀공용)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "127677": {
+    "addr1": "충청북도 단양군 영춘면 구인사길 73",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010800",
+    "contentid": "127677",
+    "contenttypeid": "12",
+    "createdtime": "20031106090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.4811562387",
+    "mapy": "37.0331852014",
+    "mlevel": "6",
+    "modifiedtime": "20220915171306",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "구인사(단양)",
+    "zipcode": "27020",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "장애인용화장실 있음_무장애  편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "127953": {
+    "addr1": "충청북도 단양군 단양읍 삼봉로 187-17",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020600",
+    "contentid": "127953",
+    "contenttypeid": "12",
+    "createdtime": "20031106090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/28/567028_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/28/567028_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.3626906905",
+    "mapy": "36.9775838038",
+    "mlevel": "6",
+    "modifiedtime": "20230320192025",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "소노문 단양 오션플레이",
+    "zipcode": "27012",
+    "family": [
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "의무실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "129193": {
+    "addr1": "충청북도 단양군 단성면 대잠2길 15",
+    "addr2": "(단성면)",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010600",
+    "contentid": "129193",
+    "contenttypeid": "12",
+    "createdtime": "20060807090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/84/219184_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/84/219184_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.3095443831",
+    "mapy": "36.9185756949",
+    "mlevel": "6",
+    "modifiedtime": "20220519162648",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "소선암자연휴양림",
+    "zipcode": "27026",
+    "family": [],
+    "handi": [
+      {
+        "엘리베이터": "엘리베이터 있음(4층 산림복합휴양관에 있음)"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "보행의 연속성 양호함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1626705": {
+    "addr1": "충청북도 단양군 단양읍 다리안로 534",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020200",
+    "contentid": "1626705",
+    "contenttypeid": "12",
+    "createdtime": "20120510014220",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/47/1595347_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/47/1595347_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.4177192229",
+    "mapy": "36.9733269923",
+    "mlevel": "6",
+    "modifiedtime": "20220714170413",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "천동관광지",
+    "zipcode": "27024",
+    "family": [],
+    "handi": [],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "0"
+  },
+  "2604656": {
+    "addr1": "충청북도 단양군 적성면 애곡리",
+    "addr2": "산18-15",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01011800",
+    "contentid": "2604656",
+    "contenttypeid": "12",
+    "createdtime": "20190531231156",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/79/2618379_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/79/2618379_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.3398232796",
+    "mapy": "36.9780499884",
+    "mlevel": "6",
+    "modifiedtime": "20230610084354",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "단양강 잔도",
+    "zipcode": "27014",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능(1대/단양군보건소)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

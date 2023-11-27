@@ -1,0 +1,129 @@
+{
+  "129706": {
+    "addr1": "전라남도 보성군 보성읍 송재로 281-11",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060700",
+    "contentid": "129706",
+    "contenttypeid": "14",
+    "createdtime": "20071106102624",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/10/1743110_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/10/1743110_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0886684121",
+    "mapy": "34.7782137224",
+    "mlevel": "6",
+    "modifiedtime": "20230328142757",
+    "sigungucode": "10",
+    "tel": "",
+    "title": "보성문화원",
+    "zipcode": "59453",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(2층)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "654770": {
+    "addr1": "전라남도 보성군 벌교읍 홍암로 89-19",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "654770",
+    "contenttypeid": "14",
+    "createdtime": "20081119221601",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.3522879249",
+    "mapy": "34.8492352234",
+    "mlevel": "6",
+    "modifiedtime": "20221201155528",
+    "sigungucode": "10",
+    "tel": "",
+    "title": "태백산맥문학관",
+    "zipcode": "59423",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1623825": {
+    "addr1": "전라남도 보성군 죽산길 520-1",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "1623825",
+    "contenttypeid": "14",
+    "createdtime": "20120507204713",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/82/1606982_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/82/1606982_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1321989642",
+    "mapy": "34.9590941228",
+    "mlevel": "6",
+    "modifiedtime": "20220530092027",
+    "sigungucode": "10",
+    "tel": "",
+    "title": "대원사 티벳박물관",
+    "zipcode": "59401",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "주출입구는 계단이 많으나 무단차로 접근가능한 우회도 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

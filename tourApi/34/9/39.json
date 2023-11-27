@@ -1,0 +1,129 @@
+{
+  "800398": {
+    "addr1": "충청남도 아산시 충무로20번길 19",
+    "addr2": "",
+    "areacode": "34",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "800398",
+    "contenttypeid": "39",
+    "createdtime": "20090909200037",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/80/2640980_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/80/2640980_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0066819221",
+    "mapy": "36.7824371237",
+    "mlevel": "6",
+    "modifiedtime": "20230811091912",
+    "sigungucode": "9",
+    "tel": "041-545-7880",
+    "title": "현대갈비",
+    "zipcode": "31514",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2363744": {
+    "addr1": "충청남도 아산시 온천대로 1452",
+    "addr2": "",
+    "areacode": "34",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2363744",
+    "contenttypeid": "39",
+    "createdtime": "20160122183331",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/95/2363495_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/95/2363495_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9990603899",
+    "mapy": "36.7823342236",
+    "mlevel": "6",
+    "modifiedtime": "20231110135130",
+    "sigungucode": "9",
+    "tel": "041-533-9942",
+    "title": "온양 청국장집",
+    "zipcode": "31506",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2838959": {
+    "addr1": "충청남도 아산시 신정로 496-2",
+    "addr2": "",
+    "areacode": "34",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2838959",
+    "contenttypeid": "39",
+    "createdtime": "20220818144519",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/37/2838937_image2_1.png",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/37/2838937_image3_1.png",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9746464305",
+    "mapy": "36.7637720412",
+    "mlevel": "6",
+    "modifiedtime": "20221014113238",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "카페 안낙",
+    "zipcode": "31559",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

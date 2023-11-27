@@ -1,0 +1,40 @@
+{
+  "131696": {
+    "addr1": "경기도 김포시 월곶면 용강로13번길 38",
+    "addr2": "(월곶면)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03020200",
+    "contentid": "131696",
+    "contenttypeid": "28",
+    "createdtime": "20040225090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.5521834056",
+    "mapy": "37.7207870316",
+    "mlevel": "6",
+    "modifiedtime": "20230214143547",
+    "sigungucode": "8",
+    "tel": "031-989-6700",
+    "title": "김포시청소년수련원",
+    "zipcode": "10024",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

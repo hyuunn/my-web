@@ -1,0 +1,27 @@
+.progressDiv{
+    position:absolute;
+    width:80px;
+    height:122px;
+   border:solid 1px gray;
+   display:flex;
+   flex-direction:column;
+   align-items:center;
+   background-color: white;
+   justify-items: space-evenly;
+}
+.none{
+    display: none;
+}
+#menu{
+    position:relative;
+    left:20px;
+    top:-10px;
+}
+
+.font{
+    font-weight: bold;
+}
+.modal_close{
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,47 @@
+{
+  "1603474": {
+    "addr1": "전라북도 김제시 부량면 벽골제로 442",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "1603474",
+    "contenttypeid": "39",
+    "createdtime": "20120416234825",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.8531201463",
+    "mapy": "35.7546132231",
+    "mlevel": "6",
+    "modifiedtime": "20230807131531",
+    "sigungucode": "3",
+    "tel": "063-548-9595",
+    "title": "지평선 한우명품관",
+    "zipcode": "54425",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음(수동문)_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주 출입구 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

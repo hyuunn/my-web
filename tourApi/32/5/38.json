@@ -1,0 +1,251 @@
+{
+  "132395": {
+    "addr1": "강원특별자치도 속초시 동해대로 4236",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010600",
+    "contentid": "132395",
+    "contenttypeid": "38",
+    "createdtime": "20031027090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/21/1948021_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/21/1948021_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.5777261751",
+    "mapy": "38.1974551954",
+    "mlevel": "6",
+    "modifiedtime": "20230823150456",
+    "sigungucode": "5",
+    "tel": "033-636-2000",
+    "title": "아남프라자",
+    "zipcode": "24853",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1260275": {
+    "addr1": "강원특별자치도 속초시 중앙로147번길 12",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "1260275",
+    "contenttypeid": "38",
+    "createdtime": "20110419233649",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/13/2733213_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/13/2733213_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.5905498066",
+    "mapy": "38.2039935729",
+    "mlevel": "6",
+    "modifiedtime": "20230701102025",
+    "sigungucode": "5",
+    "tel": "033-635-8433",
+    "title": "속초관광수산시장(구 중앙시장)",
+    "zipcode": "24832",
+    "family": [
+      {
+        "수유실": "수유실 있음(고객지원센터)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(전통시장 주차장)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "안내요원": "안내요원 있음(관광안내소)"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2364960": {
+    "addr1": "강원특별자치도 속초시 설악금강대교로 67",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010600",
+    "contentid": "2364960",
+    "contenttypeid": "38",
+    "createdtime": "20160128191926",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/75/2364975_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/75/2364975_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.5943524795",
+    "mapy": "38.1962834336",
+    "mlevel": "6",
+    "modifiedtime": "20230804155713",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "청호활어회센터",
+    "zipcode": "24883",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "주출입구 계단,보조출입구 무단차"
+      },
+      {
+        "엘리베이터": "장애인용 엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "입식(의자식)테이블 및 휠체어 이용가능한 식당 있음(식당 내 화장실)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2710901": {
+    "addr1": "강원특별자치도 속초시 중앙부두길 24",
+    "addr2": "(중앙동)",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010900",
+    "contentid": "2710901",
+    "contenttypeid": "38",
+    "createdtime": "20210324225554",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/96/2732796_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/96/2732796_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.5922275037",
+    "mapy": "38.2017077606",
+    "mlevel": "6",
+    "modifiedtime": "20230701102055",
+    "sigungucode": "5",
+    "tel": "0507-1471-2302",
+    "title": "속초 청년몰 갯배st",
+    "zipcode": "24838",
+    "family": [
+      {
+        "수유실": "수유실 있음"
+      },
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2776866": {
+    "addr1": "강원특별자치도 속초시 대포항희망길 59",
+    "addr2": "(대포동)",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "2776866",
+    "contenttypeid": "38",
+    "createdtime": "20211122184043",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.6058215776",
+    "mapy": "38.1740279130",
+    "mlevel": "6",
+    "modifiedtime": "20230701103551",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "대포항관광수산시장",
+    "zipcode": "24901",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

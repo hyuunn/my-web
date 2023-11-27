@@ -1,0 +1,464 @@
+{
+  "133964": {
+    "addr1": "경상북도 경주시 교촌안길 19-4",
+    "addr2": "",
+    "areacode": "35",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "133964",
+    "contenttypeid": "39",
+    "createdtime": "20040225090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/97/2368297_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/97/2368297_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.2170091715",
+    "mapy": "35.8305693745",
+    "mlevel": "6",
+    "modifiedtime": "20230531135728",
+    "sigungucode": "2",
+    "tel": "0507-1390-3408",
+    "title": "요석궁",
+    "zipcode": "38170",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "보도와 차도가 혼용"
+      },
+      {
+        "출입통로": "출입구에 단차가 있으나 원활한 이동 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "403845": {
+    "addr1": "경상북도 경주시 북정로 5",
+    "addr2": "",
+    "areacode": "35",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "403845",
+    "contenttypeid": "39",
+    "createdtime": "20080120072036",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/85/400885_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/85/400885_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.2151562459",
+    "mapy": "35.8414708862",
+    "mlevel": "6",
+    "modifiedtime": "20230726133643",
+    "sigungucode": "2",
+    "tel": "054-772-1384",
+    "title": "[백년가게]진가네대구갈비",
+    "zipcode": "38159",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "403847": {
+    "addr1": "경상북도 경주시 북군길 7",
+    "addr2": "",
+    "areacode": "35",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "403847",
+    "contenttypeid": "39",
+    "createdtime": "20080120072040",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/90/400890_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/90/400890_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.2628878797",
+    "mapy": "35.8518178431",
+    "mlevel": "6",
+    "modifiedtime": "20230414105615",
+    "sigungucode": "2",
+    "tel": "054-745-2791",
+    "title": "맷돌순두부",
+    "zipcode": "38116",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "휠체어 운행 가능함._무장애 편의정보"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "686398": {
+    "addr1": "경상북도 경주시 포석로1050번길 42",
+    "addr2": "",
+    "areacode": "35",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "686398",
+    "contenttypeid": "39",
+    "createdtime": "20090130183931",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/56/689556_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/56/689556_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.2141204335",
+    "mapy": "35.8341661353",
+    "mlevel": "6",
+    "modifiedtime": "20221117164047",
+    "sigungucode": "2",
+    "tel": "054-749-5776",
+    "title": "삼포쌈밥",
+    "zipcode": "38166",
+    "family": [],
+    "handi": [
+      {
+        "출입통로": "주출입구 무단차\n원활한 이동 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1829262": {
+    "addr1": "경상북도 경주시 내남면 포석로 110-1",
+    "addr2": "",
+    "areacode": "35",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "1829262",
+    "contenttypeid": "39",
+    "createdtime": "20130719220640",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/78/1969878_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/78/1969878_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.2060651517",
+    "mapy": "35.7515725245",
+    "mlevel": "6",
+    "modifiedtime": "20231102153519",
+    "sigungucode": "2",
+    "tel": "054-748-2119",
+    "title": "용산회식당",
+    "zipcode": "38197",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1963952": {
+    "addr1": "경상북도 경주시 양남면 동남로 1021",
+    "addr2": "",
+    "areacode": "35",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "1963952",
+    "contenttypeid": "39",
+    "createdtime": "20141110193709",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/06/1963906_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/06/1963906_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.3693222270",
+    "mapy": "35.6843387387",
+    "mlevel": "6",
+    "modifiedtime": "20230802202518",
+    "sigungucode": "2",
+    "tel": "054-740-0566",
+    "title": "썬시티 레스토랑",
+    "zipcode": "38221",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음(자동문,수동문)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1986664": {
+    "addr1": "경상북도 경주시 알천남로 316",
+    "addr2": "",
+    "areacode": "35",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020200",
+    "contentid": "1986664",
+    "contenttypeid": "39",
+    "createdtime": "20150129004953",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/30/1986230_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/30/1986230_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.2322297215",
+    "mapy": "35.8424544312",
+    "mlevel": "6",
+    "modifiedtime": "20220926181245",
+    "sigungucode": "2",
+    "tel": "054-772-1777",
+    "title": "반월성화덕피자",
+    "zipcode": "38150",
+    "family": [
+      {
+        "유아용 보조 의자": "구비(2대)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음(수동문)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2736662": {
+    "addr1": "경상북도 경주시 북군길 9",
+    "addr2": "(북군동)",
+    "areacode": "35",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2736662",
+    "contenttypeid": "39",
+    "createdtime": "20210826191236",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/10/2736910_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/10/2736910_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.2630073183",
+    "mapy": "35.8516234226",
+    "mlevel": "6",
+    "modifiedtime": "20230120140332",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "낙지마실",
+    "zipcode": "38116",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2736677": {
+    "addr1": "경상북도 경주시 보불로 107",
+    "addr2": "(하동)",
+    "areacode": "35",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2736677",
+    "contenttypeid": "39",
+    "createdtime": "20210826193051",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/15/2736915_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/15/2736915_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.3131156906",
+    "mapy": "35.7938364463",
+    "mlevel": "6",
+    "modifiedtime": "20231108170223",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "늘봄떡갈비쌈밥",
+    "zipcode": "38126",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문/자동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2840458": {
+    "addr1": "경상북도 경주시 다래길 15",
+    "addr2": "",
+    "areacode": "35",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2840458",
+    "contenttypeid": "39",
+    "createdtime": "20220822132053",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/48/2840448_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/48/2840448_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.4598589791",
+    "mapy": "35.6768329661",
+    "mlevel": "6",
+    "modifiedtime": "20221014101824",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "소풍가다",
+    "zipcode": "38220",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문/자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2907335": {
+    "addr1": "경상북도 경주시 포석로 986",
+    "addr2": "1층",
+    "areacode": "35",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2907335",
+    "contenttypeid": "39",
+    "createdtime": "20221114134535",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/33/2907333_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/33/2907333_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.2098931722",
+    "mapy": "35.8290221927",
+    "mlevel": "6",
+    "modifiedtime": "20221206145709",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "늘곰탕",
+    "zipcode": "38170",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

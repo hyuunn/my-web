@@ -1,0 +1,612 @@
+{
+  "129864": {
+    "addr1": "경기도 안산시 상록구 석호로 144",
+    "addr2": "(사동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060700",
+    "contentid": "129864",
+    "contenttypeid": "14",
+    "createdtime": "20071106103335",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/74/1852774_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/74/1852774_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8477015303",
+    "mapy": "37.2993690339",
+    "mlevel": "6",
+    "modifiedtime": "20230306151506",
+    "sigungucode": "15",
+    "tel": "",
+    "title": "안산문화원",
+    "zipcode": "15585",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(각 층에 있으나 층별로 남자화장실, 여자화장실 번갈아가며 있음)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "130295": {
+    "addr1": "경기도 안산시 상록구 성포로 6",
+    "addr2": "(성포동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060600",
+    "contentid": "130295",
+    "contenttypeid": "14",
+    "createdtime": "20071106105052",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/80/1852780_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/80/1852780_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8422486012",
+    "mapy": "37.3226745686",
+    "mlevel": "6",
+    "modifiedtime": "20230414105956",
+    "sigungucode": "15",
+    "tel": "",
+    "title": "성포예술공원",
+    "zipcode": "15296",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "무단차 공원임"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(토프레소 건너 장애인주차장 옆)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "130556": {
+    "addr1": "경기도 안산시 단원구 화랑로 312",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060600",
+    "contentid": "130556",
+    "contenttypeid": "14",
+    "createdtime": "20050401090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/28/182828_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/28/182828_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8229588005",
+    "mapy": "37.3186413608",
+    "mlevel": "6",
+    "modifiedtime": "20220914145352",
+    "sigungucode": "15",
+    "tel": "",
+    "title": "안산문화예술의전당",
+    "zipcode": "15355",
+    "family": [
+      {
+        "영유아가족 기타 지원 항목": "어린이놀이방 운영"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문,수동문)"
+      },
+      {
+        "엘리베이터": "장애인용 엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "관람석": "장애인 전용 관람석 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자유도로 있음_시각장애인 편의시설"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "촉지안내도 있음(극장입구)"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "130557": {
+    "addr1": "경기도 안산시 상록구 성호로 131",
+    "addr2": "(이동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "130557",
+    "contenttypeid": "14",
+    "createdtime": "20050401090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/06/1593506_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/06/1593506_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8595666825",
+    "mapy": "37.3150618697",
+    "mlevel": "6",
+    "modifiedtime": "20230228113445",
+    "sigungucode": "15",
+    "tel": "",
+    "title": "성호박물관",
+    "zipcode": "15316",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "장애인용 엘리베이터 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(접근로,주요시설 연결됨)_시각장애인 편의시설"
+      },
+      {
+        "유도안내설비": "점자손잡이 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "631278": {
+    "addr1": "경기도 안산시 단원구 동산로 268",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060500",
+    "contentid": "631278",
+    "contenttypeid": "14",
+    "createdtime": "20081002192628",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/73/1593473_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/73/1593473_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8099598046",
+    "mapy": "37.3250570533",
+    "mlevel": "6",
+    "modifiedtime": "20231017133626",
+    "sigungucode": "15",
+    "tel": "",
+    "title": "경기도미술관",
+    "zipcode": "15385",
+    "family": [
+      {
+        "유모차": "대여 가능(5대/방문 전 예약)"
+      },
+      {
+        "수유실": "수유실 있음(정문 입구 오른쪽 5m)"
+      },
+      {
+        "영유아가족 기타 지원 항목": "일반화장실 내 유아용 변기 및 영유아 거치대 설치되어 있음"
+      }
+    ],
+    "handi": [
+      {
+        "대중교통": "4호선 수인분당선 서해초지역 4번 출구에서 621m"
+      },
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음(완만함)_무장애 편의시설"
+      },
+      {
+        "휠체어": "대여 가능(5대/방문 전 예약)"
+      },
+      {
+        "출입통로": "주 출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음(총 3곳)"
+      },
+      {
+        "화장실": "장애인 화장실 있음(1층 입구에서 3m, 자동문 버튼)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구, 엘리베이터, 계단)_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      },
+      {
+        "큰활자 홍보물": "큰활자홍보물 있음(점자안내문)"
+      },
+      {
+        "유도안내설비": "점자손잡이 있음(계단)"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "654645": {
+    "addr1": "경기도 안산시 단원구 대부황금로 7",
+    "addr2": "(선감동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "654645",
+    "contenttypeid": "14",
+    "createdtime": "20081119182020",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/44/2550744_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/44/2550744_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6461116918",
+    "mapy": "37.1924945304",
+    "mlevel": "6",
+    "modifiedtime": "20230322094852",
+    "sigungucode": "15",
+    "tel": "",
+    "title": "안산 어촌민속박물관",
+    "zipcode": "15652",
+    "family": [
+      {
+        "유모차": "대여가능"
+      },
+      {
+        "수유실": "있음(1층사무실 옆)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로 설치되어 있음"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "주출입구에 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "장애인용 엘리베이터 있음(휠체어1대크기)"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(관리사무소 앞)"
+      },
+      {
+        "관람석": "휠체어석은 없으나 휠체어가 접근 가능한 공간 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구,전시관입구,화장실 등 주요시설)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1850702": {
+    "addr1": "경기도 안산시 단원구 부흥로 254",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "1850702",
+    "contenttypeid": "14",
+    "createdtime": "20131011194155",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/84/1796484_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/84/1796484_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6022093641",
+    "mapy": "37.2203933061",
+    "mlevel": "6",
+    "modifiedtime": "20221018093927",
+    "sigungucode": "15",
+    "tel": "",
+    "title": "유리섬박물관",
+    "zipcode": "15650",
+    "family": [
+      {
+        "유모차": "대여가능(매표소)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인전용 화장실 있음(층마다)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2362944": {
+    "addr1": "경기도 안산시 상록구 샘골서길 64",
+    "addr2": "(본오동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060200",
+    "contentid": "2362944",
+    "contenttypeid": "14",
+    "createdtime": "20160116022718",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.8627223802",
+    "mapy": "37.2996442689",
+    "mlevel": "6",
+    "modifiedtime": "20220722150617",
+    "sigungucode": "15",
+    "tel": "",
+    "title": "최용신기념관",
+    "zipcode": "15539",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음(수동문)_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(지하1층)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주 출입구 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "오디오 가이드": "음성안내기 있음"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "촉지안내도 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2513112": {
+    "addr1": "경기도 안산시 단원구 와동공원로 109",
+    "addr2": "와동체육공원 내 별도 전시관 (와동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "2513112",
+    "contenttypeid": "14",
+    "createdtime": "20171027182426",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.8202695617",
+    "mapy": "37.3400249447",
+    "mlevel": "6",
+    "modifiedtime": "20231016130544",
+    "sigungucode": "15",
+    "tel": "",
+    "title": "와동 생태곤충 체험관",
+    "zipcode": "15252",
+    "family": [],
+    "handi": [
+      {
+        "대중교통": "서해선 선부역 1번 출구 도보 19분 / 버스 320, 101번 탑승"
+      },
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주 출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "화장실": "장애인 화장실 있음(와동체육관 1층/남녀공용, 자동문, 대/소변기 손잡이, 장애인용 세면대, 유아용 보호의자 1개 있음)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자 홍보물 및 점자 표지판": "점자 안내판 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2615563": {
+    "addr1": "경기도 안산시 상록구 충장로 422",
+    "addr2": "(성포동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060500",
+    "contentid": "2615563",
+    "contenttypeid": "14",
+    "createdtime": "20190817012415",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.8512673985",
+    "mapy": "37.3164448953",
+    "mlevel": "6",
+    "modifiedtime": "20230222105921",
+    "sigungucode": "15",
+    "tel": "",
+    "title": "김홍도미술관",
+    "zipcode": "15294",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능(2대)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2684972": {
+    "addr1": "경기도 안산시 단원구 대남로 233",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060500",
+    "contentid": "2684972",
+    "contenttypeid": "14",
+    "createdtime": "20201124003344",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.5760005234",
+    "mapy": "37.2245645862",
+    "mlevel": "6",
+    "modifiedtime": "20230710161114",
+    "sigungucode": "15",
+    "tel": "",
+    "title": "종이미술관",
+    "zipcode": "15649",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2761302": {
+    "addr1": "경기도 안산시 단원구 선감로 101-19",
+    "addr2": "(선감동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030400",
+    "contentid": "2761302",
+    "contenttypeid": "14",
+    "createdtime": "20211022201914",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/71/2761371_image2_1.jpeg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/71/2761371_image2_1.jpeg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6313815255",
+    "mapy": "37.2271569225",
+    "mlevel": "6",
+    "modifiedtime": "20221227183608",
+    "sigungucode": "15",
+    "tel": "",
+    "title": "경기창작센터",
+    "zipcode": "15651",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

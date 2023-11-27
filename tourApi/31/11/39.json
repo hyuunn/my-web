@@ -1,0 +1,323 @@
+{
+  "133106": {
+    "addr1": "경기도 부천시 신흥로 313",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "133106",
+    "contenttypeid": "39",
+    "createdtime": "20030829090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/88/1854388_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/88/1854388_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7744994904",
+    "mapy": "37.5119125088",
+    "mlevel": "6",
+    "modifiedtime": "20230313094956",
+    "sigungucode": "11",
+    "tel": "032-677-8800",
+    "title": "손가면옥",
+    "zipcode": "14517",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2534393": {
+    "addr1": "경기도 부천시 도약로 1",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2534393",
+    "contenttypeid": "39",
+    "createdtime": "20180124183527",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.7465492434",
+    "mapy": "37.5125647142",
+    "mlevel": "6",
+    "modifiedtime": "20220818100709",
+    "sigungucode": "11",
+    "tel": "032-320-6001",
+    "title": "골드러시",
+    "zipcode": "14505",
+    "family": [
+      {
+        "수유실": "수유실 있음"
+      },
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2843137": {
+    "addr1": "경기도 부천시 신흥로 150 위브더스테이트",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020200",
+    "contentid": "2843137",
+    "contenttypeid": "39",
+    "createdtime": "20220824141503",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/24/2843124_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/24/2843124_image3_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7780995634",
+    "mapy": "37.4975642403",
+    "mlevel": "6",
+    "modifiedtime": "20231102172907",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "나리스키친",
+    "zipcode": "14574",
+    "family": [
+      {
+        "유아용 보조 의자": "구비(6개)"
+      },
+      {
+        "영유아가족 기타 지원 항목": "유아 식기 있음"
+      }
+    ],
+    "handi": [
+      {
+        "대중교통": "7호선 신중동역 2번 출구 도보 10분"
+      },
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음(완만함)_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2843194": {
+    "addr1": "경기도 부천시 여월로 210-1",
+    "addr2": "1층",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020200",
+    "contentid": "2843194",
+    "contenttypeid": "39",
+    "createdtime": "20220824142632",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/81/2843181_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/81/2843181_image3_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8217284910",
+    "mapy": "37.5128549055",
+    "mlevel": "6",
+    "modifiedtime": "20220916151025",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "버터팬",
+    "zipcode": "14477",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2843276": {
+    "addr1": "경기도 부천시 신흥로 103 영제빌딩",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2843276",
+    "contenttypeid": "39",
+    "createdtime": "20220824143858",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/34/2843234_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/34/2843234_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7779080433",
+    "mapy": "37.4929619940",
+    "mlevel": "6",
+    "modifiedtime": "20231013152932",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "서안메밀집",
+    "zipcode": "14612",
+    "family": [],
+    "handi": [
+      {
+        "대중교통": "6번, 015번, 60-1번, 66번 버스"
+      },
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주 출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2870173": {
+    "addr1": "경기도 부천시 길주로 1",
+    "addr2": "1층",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2870173",
+    "contenttypeid": "39",
+    "createdtime": "20221019110823",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/53/2870153_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/53/2870153_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7422053159",
+    "mapy": "37.5082512500",
+    "mlevel": "6",
+    "modifiedtime": "20231102174217",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "오라델떼",
+    "zipcode": "14505",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음(완만함)"
+      },
+      {
+        "출입통로": "주 출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "화장실": "인근 장애인 화장실 있음 (한국만화박물관 1층)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2874935": {
+    "addr1": "경기도 부천시 소향로 248 금강5차프라자",
+    "addr2": "108호",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2874935",
+    "contenttypeid": "39",
+    "createdtime": "20221025150739",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/32/2874932_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/32/2874932_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7755719385",
+    "mapy": "37.5003527605",
+    "mlevel": "6",
+    "modifiedtime": "20231102172717",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "미블랑 케이크",
+    "zipcode": "14580",
+    "family": [],
+    "handi": [
+      {
+        "대중교통": "7호선 신중동역 2번 출구 도보 8분"
+      },
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음(가파름)_무장애 편의시설"
+      },
+      {
+        "출입통로": "주 출입구는 경사로가 있어 휠체어 접근 가능함(자동문)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반 가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

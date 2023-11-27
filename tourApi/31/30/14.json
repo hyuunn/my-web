@@ -1,0 +1,86 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "0000",
+      "resultMsg": "OK"
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "addr1": "경기도 하남시 덕풍동로 30",
+            "addr2": "(덕풍동)",
+            "areacode": "31",
+            "booktour": "0",
+            "cat1": "A02",
+            "cat2": "A0206",
+            "cat3": "A02060100",
+            "contentid": "130726",
+            "contenttypeid": "14",
+            "createdtime": "20060208090000",
+            "firstimage": "http://tong.visitkorea.or.kr/cms/resource/97/1963797_image2_1.jpg",
+            "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/97/1963797_image2_1.jpg",
+            "cpyrhtDivCd": "Type3",
+            "mapx": "127.2060620129",
+            "mapy": "37.5454469089",
+            "mlevel": "6",
+            "modifiedtime": "20231108100100",
+            "sigungucode": "30",
+            "tel": "",
+            "title": "하남역사박물관",
+            "zipcode": "12934"
+          },
+          {
+            "addr1": "경기도 하남시 신평로 125",
+            "addr2": "(덕풍동)",
+            "areacode": "31",
+            "booktour": "0",
+            "cat1": "A02",
+            "cat2": "A0206",
+            "cat3": "A02060600",
+            "contentid": "1730693",
+            "contenttypeid": "14",
+            "createdtime": "20121009225717",
+            "firstimage": "",
+            "firstimage2": "",
+            "cpyrhtDivCd": "",
+            "mapx": "127.2067730815",
+            "mapy": "37.5446858991",
+            "mlevel": "6",
+            "modifiedtime": "20231108095515",
+            "sigungucode": "30",
+            "tel": "",
+            "title": "하남문화예술회관",
+            "zipcode": "12934"
+          },
+          {
+            "addr1": "경기도 하남시 덕풍동로 12",
+            "addr2": "",
+            "areacode": "31",
+            "booktour": "0",
+            "cat1": "A02",
+            "cat2": "A0206",
+            "cat3": "A02060700",
+            "contentid": "130192",
+            "contenttypeid": "14",
+            "createdtime": "20071106104627",
+            "firstimage": "",
+            "firstimage2": "",
+            "cpyrhtDivCd": "",
+            "mapx": "127.2067064442",
+            "mapy": "37.5438526613",
+            "mlevel": "6",
+            "modifiedtime": "20230516115403",
+            "sigungucode": "30",
+            "tel": "",
+            "title": "하남문화원",
+            "zipcode": "12934"
+          }
+        ]
+      },
+      "numOfRows": 3,
+      "pageNo": 1,
+      "totalCount": 3
+    }
+  }
+}

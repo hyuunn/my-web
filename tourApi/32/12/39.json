@@ -1,0 +1,84 @@
+{
+  "2686662": {
+    "addr1": "강원특별자치도 철원군 갈말읍 호국로 4507",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2686662",
+    "contenttypeid": "39",
+    "createdtime": "20201126192842",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.2973812415",
+    "mapy": "38.1268003108",
+    "mlevel": "6",
+    "modifiedtime": "20230702050459",
+    "sigungucode": "12",
+    "tel": "033-452-4992",
+    "title": "동주산성",
+    "zipcode": "24046",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2686943": {
+    "addr1": "강원특별자치도 철원군 김화읍 김화로 607",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020200",
+    "contentid": "2686943",
+    "contenttypeid": "39",
+    "createdtime": "20201126232550",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.4194275335",
+    "mapy": "38.2492104807",
+    "mlevel": "6",
+    "modifiedtime": "20230702053050",
+    "sigungucode": "12",
+    "tel": "033-458-7683",
+    "title": "쏠레일",
+    "zipcode": "24054",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

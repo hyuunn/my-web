@@ -1,0 +1,588 @@
+{
+  "126341": {
+    "addr1": "전라남도 장성군 북하면 백양로 1239",
+    "addr2": "(북하면)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010800",
+    "contentid": "126341",
+    "contenttypeid": "12",
+    "createdtime": "20040203090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/09/2516009_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/09/2516009_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8828255458",
+    "mapy": "35.4400716726",
+    "mlevel": "6",
+    "modifiedtime": "20230516105338",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "백양사",
+    "zipcode": "57205",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능(사전확인)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 있으나 우회도로 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(사찰 내)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "126783": {
+    "addr1": "전라남도 장성군 황룡면 홍길동로 431",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010500",
+    "contentid": "126783",
+    "contenttypeid": "12",
+    "createdtime": "20021127090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/07/1275907_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/07/1275907_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7265702481",
+    "mapy": "35.3186605607",
+    "mlevel": "6",
+    "modifiedtime": "20230202112057",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "홍길동 생가",
+    "zipcode": "57223",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "127168": {
+    "addr1": "전라남도 장성군 북이면 방장로 353",
+    "addr2": "(북이면)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010600",
+    "contentid": "127168",
+    "contenttypeid": "12",
+    "createdtime": "20030612090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/97/2040897_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/97/2040897_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7458042490",
+    "mapy": "35.4451632173",
+    "mlevel": "6",
+    "modifiedtime": "20230405150618",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "국립 방장산자연휴양림",
+    "zipcode": "57202",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "현관 단체 제거됨"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      },
+      {
+        "객실": "장애인 전용 객실 있음(화장실 편의시설-욕조손잡이 포함,1인용 장애인 전용 침대구비,숲속의 집-진달래,개나리,민들레)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(장애인객실)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "127204": {
+    "addr1": "전라남도 장성군 북하면 신성리 산 20",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010200",
+    "contentid": "127204",
+    "contenttypeid": "12",
+    "createdtime": "20040210090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.8251297397",
+    "mapy": "35.4766471016",
+    "mlevel": "6",
+    "modifiedtime": "20220602175923",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "장성 입암산성",
+    "zipcode": "57204",
+    "family": [],
+    "handi": [],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "0"
+  },
+  "127394": {
+    "addr1": "전라남도 장성군 서삼면 추암로 716",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020500",
+    "contentid": "127394",
+    "contenttypeid": "12",
+    "createdtime": "20030703090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.7314629993",
+    "mapy": "35.3688466251",
+    "mlevel": "6",
+    "modifiedtime": "20231031090500",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "국립장성치유의숲",
+    "zipcode": "57231",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "장애인 화장실 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "127719": {
+    "addr1": "전라남도 장성군 백양로 591-8 장성북상면수몰문화관",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020200",
+    "contentid": "127719",
+    "contenttypeid": "12",
+    "createdtime": "20031120090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/01/2516801_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/01/2516801_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8510679121",
+    "mapy": "35.4140574142",
+    "mlevel": "6",
+    "modifiedtime": "20230802210002",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "장성호관광지",
+    "zipcode": "57204",
+    "family": [],
+    "handi": [
+      {
+        "출입통로": "단차와 기울기가 없음"
+      },
+      {
+        "화장실": "장애인 화장실 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "250289": {
+    "addr1": "전라남도 장성군 물뫼길 25 동학농민혁명 황룡전적비",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010700",
+    "contentid": "250289",
+    "contenttypeid": "12",
+    "createdtime": "20071019090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/96/2516796_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/96/2516796_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7554627210",
+    "mapy": "35.2950998257",
+    "mlevel": "6",
+    "modifiedtime": "20230320220235",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "장성 황룡 전적",
+    "zipcode": "57225",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(공중화장실,경사로설치됨)"
+      },
+      {
+        "기타 지원 항목": "탑까지 계단구간이 있으나 우회도로 접근 가능"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2553976": {
+    "addr1": "전라남도 장성군 방장로 353 방장산자연휴양림관리사무소",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010600",
+    "contentid": "2553976",
+    "contenttypeid": "12",
+    "createdtime": "20180717223758",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/79/2553979_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/79/2553979_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7514232211",
+    "mapy": "35.4440884340",
+    "mlevel": "6",
+    "modifiedtime": "20230307140157",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "국립장성숲체원",
+    "zipcode": "57202",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근은 가능하나 산지경사가 급하여 휠체어 단독운행은 불가"
+      },
+      {
+        "휠체어": "휠체어 무료 대여(5대, 배움2동 교육자료실)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없고 경사로가 설치되어 있음(수동문)"
+      },
+      {
+        "엘리베이터": "장애인용 엘리베이터 있음(3대,숙소동,배움동)"
+      },
+      {
+        "화장실": "장애인 화장실 있음(숙소동1 2층 좌측, 숙소동2 입구 좌측, 배움동2 입구 양측)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(배움동1 및 중앙통로 옆 난간 등)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2633951": {
+    "addr1": "전라남도 장성군 장성읍 봉덕리",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0205",
+    "cat3": "A02050100",
+    "contentid": "2633951",
+    "contenttypeid": "12",
+    "createdtime": "20191107225203",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/55/2638555_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/55/2638555_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8230688307",
+    "mapy": "35.3660651552",
+    "mlevel": "6",
+    "modifiedtime": "20230814142540",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "장성호 출렁다리(장성호 수변길)",
+    "zipcode": "57209",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2742199": {
+    "addr1": "전라남도 장성군 삼계면 수연로 620",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2742199",
+    "contenttypeid": "12",
+    "createdtime": "20210909220334",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/54/2742554_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/54/2742554_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6849053261",
+    "mapy": "35.2856108248",
+    "mlevel": "6",
+    "modifiedtime": "20230404151327",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "평림댐 장미공원",
+    "zipcode": "57236",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_무장애 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2742209": {
+    "addr1": "전라남도 장성군 황룡면 홍길동로 431",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020600",
+    "contentid": "2742209",
+    "contenttypeid": "12",
+    "createdtime": "20210909221214",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/72/2742572_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/72/2742572_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7265702481",
+    "mapy": "35.3186605607",
+    "mlevel": "6",
+    "modifiedtime": "20231102133239",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "홍길동 테마파크",
+    "zipcode": "57223",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2778474": {
+    "addr1": "전라남도 장성군 장성읍 신흥로 138",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2778474",
+    "contenttypeid": "12",
+    "createdtime": "20211124193548",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/42/2800642_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/42/2800642_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8171084963",
+    "mapy": "35.3562245018",
+    "mlevel": "6",
+    "modifiedtime": "20230804161922",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "장성호수변공원",
+    "zipcode": "57209",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2820794": {
+    "addr1": "전라남도 장성군 남창로 351",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A02",
+    "cat2": "A0204",
+    "cat3": "A02040800",
+    "contentid": "2820794",
+    "contenttypeid": "12",
+    "createdtime": "20220520093754",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/85/2820785_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/85/2820785_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8433731091",
+    "mapy": "35.4551665134",
+    "mlevel": "6",
+    "modifiedtime": "20220614171951",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "별내리마을",
+    "zipcode": "57204",
+    "family": [
+      {
+        "수유실": "* 별도 공간 없음(단, 가능한 공간 제공 가능)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "* 본관 로비까지 휠체어 가능\n* 로비 이외 공간은 휠체어 이동 불가"
+      },
+      {
+        "출입통로": "* 주 출입구 휠체어  통과 가능"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "* 있음(계단, 출입구)"
+      },
+      {
+        "보조견 동반": "* 보조견 동반 가능"
+      },
+      {
+        "안내요원": "* 사무실 겸 안내데스크 있음(비상주)"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2820820": {
+    "addr1": "전라남도 장성군 역전로 105",
+    "addr2": "2층",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A02",
+    "cat2": "A0204",
+    "cat3": "A02040800",
+    "contentid": "2820820",
+    "contenttypeid": "12",
+    "createdtime": "20220520102105",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/91/2820791_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/91/2820791_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7805131111",
+    "mapy": "35.3017383853",
+    "mlevel": "6",
+    "modifiedtime": "20220614172039",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "위인더랜드",
+    "zipcode": "57220",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "* 주차장과 건물 입구 단차 낮음(3cm)"
+      },
+      {
+        "휠체어": "* 휠체어 통과 가능"
+      },
+      {
+        "엘리베이터": "* 장애인 전용 엘리베이터는 아니지만 11인용으로 휠체어 탑승 용이"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

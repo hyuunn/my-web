@@ -1,0 +1,1239 @@
+{
+  "129759": {
+    "addr1": "강원특별자치도 춘천시 효자상길5번길 13",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060600",
+    "contentid": "129759",
+    "contenttypeid": "14",
+    "createdtime": "20071106102848",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/34/2029834_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/34/2029834_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7292937668",
+    "mapy": "37.8726351683",
+    "mlevel": "6",
+    "modifiedtime": "20230701104036",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "춘천문화예술회관",
+    "zipcode": "24336",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "관람석": "장애인 전용 관람석 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "129819": {
+    "addr1": "강원특별자치도 춘천시 한림대학길 1",
+    "addr2": "(옥천동)",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "129819",
+    "contenttypeid": "14",
+    "createdtime": "20071106103150",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/38/1836938_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/38/1836938_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7382147441",
+    "mapy": "37.8872030845",
+    "mlevel": "6",
+    "modifiedtime": "20230701104053",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "한림대학교박물관",
+    "zipcode": "24252",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음(수동문)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "129840": {
+    "addr1": "강원특별자치도 춘천시 강원대학길 1",
+    "addr2": "(효자동)",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "129840",
+    "contenttypeid": "14",
+    "createdtime": "20071106103246",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/33/700633_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/33/700633_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7438036813",
+    "mapy": "37.8684387044",
+    "mlevel": "6",
+    "modifiedtime": "20230701105226",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "강원대학교중앙박물관",
+    "zipcode": "24341",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차 없이 연결 됨"
+      },
+      {
+        "출입통로": "주출입구 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(1층 로비)"
+      },
+      {
+        "기타 지원 항목": "4층 건물이나 엘리베이터가 없음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(외부~주출입구 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "129940": {
+    "addr1": "강원특별자치도 춘천시 퇴계농공로 40",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060700",
+    "contentid": "129940",
+    "contenttypeid": "14",
+    "createdtime": "20071106103620",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/46/1836946_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/46/1836946_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7436598077",
+    "mapy": "37.8496742180",
+    "mlevel": "6",
+    "modifiedtime": "20230701105546",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "춘천문화원",
+    "zipcode": "24420",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "130299": {
+    "addr1": "강원특별자치도 춘천시 수변공원길 18",
+    "addr2": "(삼천동)",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060600",
+    "contentid": "130299",
+    "contenttypeid": "14",
+    "createdtime": "20071106105101",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/55/181955_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/55/181955_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7061624816",
+    "mapy": "37.8745622907",
+    "mlevel": "6",
+    "modifiedtime": "20230701105504",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "공지천시민공원 야외공연장",
+    "zipcode": "24239",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "장애인 전용 화장실 있음(축구장 뒤,경사로 설치됨)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "130472": {
+    "addr1": "강원특별자치도 춘천시 서면 박사로 854",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "130472",
+    "contenttypeid": "14",
+    "createdtime": "20071106105939",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/05/2743005_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/05/2743005_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.6918882316",
+    "mapy": "37.8930876473",
+    "mlevel": "6",
+    "modifiedtime": "20230725164113",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "춘천 애니메이션박물관&토이로봇관",
+    "zipcode": "24461",
+    "family": [
+      {
+        "유모차": "대여 가능(4대/안내데스크/신분증보관)"
+      },
+      {
+        "수유실": "수유실 있음(1층)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "대여 가능(2대/안내데스크/신분증보관)"
+      },
+      {
+        "출입통로": "주 출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(남녀공용/1개)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반 가능"
+      },
+      {
+        "안내요원": "안내요원 있음(1층 로비)"
+      },
+      {
+        "오디오 가이드": "인공지능 도슨트 있음"
+      },
+      {
+        "유도안내설비": "핸드레일 점자촉지판 있음(계단 손잡이)"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "130487": {
+    "addr1": "강원특별자치도 춘천시 영서로 3017",
+    "addr2": "(사농동)",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060600",
+    "contentid": "130487",
+    "contenttypeid": "14",
+    "createdtime": "20040309090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/12/2745912_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/12/2745912_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7201820312",
+    "mapy": "37.9215737485",
+    "mlevel": "6",
+    "modifiedtime": "20230701105438",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "춘천인형극장&인형극박물관",
+    "zipcode": "24235",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "관람석": "장애인 전용 관람석 있음(3석)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "안내요원": "안내요원 있음(1층 로비)"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "130654": {
+    "addr1": "강원특별자치도 춘천시 우석로 70",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "130654",
+    "contenttypeid": "14",
+    "createdtime": "20050830090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/97/2739797_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/97/2739797_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7538473472",
+    "mapy": "37.8638949767",
+    "mlevel": "6",
+    "modifiedtime": "20231017133400",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "국립춘천박물관",
+    "zipcode": "24325",
+    "family": [
+      {
+        "유모차": "대여 가능(안내데스크,30개월 미만 유아 사용 가능)"
+      },
+      {
+        "수유실": "수유실 있음(본관 1층)"
+      },
+      {
+        "영유아가족 기타 지원 항목": "장애인 화장실 내 영유아거치대\n본관 1층 야외에 유아 놀이방 있음"
+      }
+    ],
+    "handi": [
+      {
+        "대중교통": "경춘선 남춘천역 3번 출구에서 100번 버스"
+      },
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음(완만함)_무장애 편의시설"
+      },
+      {
+        "휠체어": "대여 가능(2대/안내데스크)"
+      },
+      {
+        "출입통로": "주 출입구는 경사로가 있어 휠체어 접근 가능함(완만함)(수동문/자동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음(본관, 어린이박물관)"
+      },
+      {
+        "화장실": "장애인 화장실 있음(본관 각 층 일반화장실, 어린이 박물관)"
+      },
+      {
+        "관람석": "장애인 전용 관람석 있음"
+      },
+      {
+        "기타 지원 항목": "본관 동선 내 경사로 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(각 건물 입구, 엘리베이터, 계단)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      },
+      {
+        "오디오 가이드": "음성안내어플 제공"
+      },
+      {
+        "큰활자 홍보물": "점자(촉지)안내문 있음(본관, 어린이박물관)"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자 안내문 있음(1층 입구)"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "130661": {
+    "addr1": "강원특별자치도 춘천시 서부대성로 71",
+    "addr2": "(옥천동)",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060500",
+    "contentid": "130661",
+    "contenttypeid": "14",
+    "createdtime": "20051013090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.7311599712",
+    "mapy": "37.8824785029",
+    "mlevel": "6",
+    "modifiedtime": "20230701104459",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "춘천미술관",
+    "zipcode": "24264",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "130664": {
+    "addr1": "강원특별자치도 춘천시 신북읍 신샘밭로 361",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "130664",
+    "contenttypeid": "14",
+    "createdtime": "20051017090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/93/2549593_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/93/2549593_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7502791735",
+    "mapy": "37.9254988538",
+    "mlevel": "6",
+    "modifiedtime": "20230701104144",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "강원경찰박물관",
+    "zipcode": "24206",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "주차장에서 출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "130727": {
+    "addr1": "강원특별자치도 춘천시 삭주로145번길 69-8",
+    "addr2": "(후평동)",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060900",
+    "contentid": "130727",
+    "contenttypeid": "14",
+    "createdtime": "20060209090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/27/2666627_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/27/2666627_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7450806177",
+    "mapy": "37.8928719974",
+    "mlevel": "6",
+    "modifiedtime": "20230701105147",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "소양도서관",
+    "zipcode": "24232",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "장애인용 엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "130728": {
+    "addr1": "강원특별자치도 춘천시 화목원길 24",
+    "addr2": "(사농동)",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "130728",
+    "contenttypeid": "14",
+    "createdtime": "20060209090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/60/182060_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/60/182060_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7255592885",
+    "mapy": "37.9225959520",
+    "mlevel": "6",
+    "modifiedtime": "20230701104215",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "강원도 산림박물관",
+    "zipcode": "24207",
+    "family": [
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(경사로,주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "130729": {
+    "addr1": "강원특별자치도 춘천시 남산면 강촌로 311",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060900",
+    "contentid": "130729",
+    "contenttypeid": "14",
+    "createdtime": "20060213090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/09/1836909_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/09/1836909_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.6432928307",
+    "mapy": "37.7931761426",
+    "mlevel": "6",
+    "modifiedtime": "20230701104427",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "남산도서관(춘천)",
+    "zipcode": "24465",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "130730": {
+    "addr1": "강원특별자치도 춘천시 동내면 학곡동1길 17-4",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060900",
+    "contentid": "130730",
+    "contenttypeid": "14",
+    "createdtime": "20060214090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/28/2666628_image2_1.jpeg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/28/2666628_image2_1.jpeg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7628584618",
+    "mapy": "37.8361594807",
+    "mlevel": "6",
+    "modifiedtime": "20230701104545",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "동내도서관",
+    "zipcode": "24408",
+    "family": [
+      {
+        "영유아가족 기타 지원 항목": "어린이실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(계단)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "130833": {
+    "addr1": "강원특별자치도 춘천시 우석로 100",
+    "addr2": "(석사동)",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060900",
+    "contentid": "130833",
+    "contenttypeid": "14",
+    "createdtime": "20060510090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/99/2745899_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/99/2745899_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7572803690",
+    "mapy": "37.8638561555",
+    "mlevel": "6",
+    "modifiedtime": "20231017112157",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "춘천시립도서관(장난감도서관)",
+    "zipcode": "24327",
+    "family": [
+      {
+        "수유실": "수유실 있음(소파, 기저귀교환대, 전자레인지, 정수기, 세면대)"
+      },
+      {
+        "영유아가족 기타 지원 항목": "유아용 화장실 있음(1층, 남녀구분), 유아 놀이방 있음, 유아차 보관대 있음"
+      }
+    ],
+    "handi": [
+      {
+        "대중교통": "경춘선 남춘천역 1번 출구에서 100번 버스, 춘천지방법원에서 10번 버스"
+      },
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음(완만함)_무장애 편의시설"
+      },
+      {
+        "휠체어": "대여 가능(안내데스크 문의)"
+      },
+      {
+        "출입통로": "주 출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음(점자표시 있음)"
+      },
+      {
+        "화장실": "장애인 화장실 있음(각 층에 위치/자동문 버튼)"
+      },
+      {
+        "관람석": "장애인 전용 관람석은 없으나 휠체어 접근 가능한 공간 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음(1F 카페)\n높낮이 조절 가능한 장애인 전용 열람석 있음, 독서보조기기 있음, 전동휠체어 급속충전기 있음"
+      }
+    ],
+    "hearing": [
+      {
+        "자막 비디오 가이드 및 영상 자막 안내": "휴대용 독서 청각 보조기 있음, 오디오북 있음"
+      }
+    ],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구, 엘리베이터, 계단)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "안내요원": "안내요원 있음(1층 로비)"
+      },
+      {
+        "오디오 가이드": "인쇄물음성출력기, 화면낭독 서비스, 공공이용보청기 있음"
+      },
+      {
+        "큰활자 홍보물": "큰활조홍보물 있음(큰 글자 도서)"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자홍보물 있음(1층 입구)"
+      },
+      {
+        "기타 지원 항목": "탁상용 독서확대기, 인쇄물 음성출력기, 장애인용 PC 있음\n장애인 전용 열람석 있음(화면 낭독 서비스)"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "1",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "130908": {
+    "addr1": "강원특별자치도 춘천시 신북읍 신북로 264",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "130908",
+    "contenttypeid": "14",
+    "createdtime": "20070523090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/57/2745857_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/57/2745857_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7497674166",
+    "mapy": "37.9487350284",
+    "mlevel": "6",
+    "modifiedtime": "20230701104106",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "춘천막국수체험박물관",
+    "zipcode": "24203",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(1,2층)"
+      },
+      {
+        "관람석": "장애인 전용 관람석은 없으나 휠체어 접근 가능한 공간 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자유도로 있음(주출입구)_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "촉지안내도 있음, 점자도서 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "915509": {
+    "addr1": "강원특별자치도 춘천시 이디오피아길 1",
+    "addr2": "(근화동)",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060200",
+    "contentid": "915509",
+    "contenttypeid": "14",
+    "createdtime": "20100107182810",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/52/2743052_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/52/2743052_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7117508840",
+    "mapy": "37.8738208146",
+    "mlevel": "6",
+    "modifiedtime": "20230821163646",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "에티오피아한국전참전기념관",
+    "zipcode": "24238",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "휠체어": "대여가능(무료)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(1,2층)"
+      },
+      {
+        "관람석": "장애인 전용 관람석은 없으나 휠체어 접근 가능한 공간 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "안내요원": "안내요원 있음(1층 로비)"
+      },
+      {
+        "오디오 가이드": "음성안내기 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1279232": {
+    "addr1": "강원특별자치도 춘천시 춘천로 112",
+    "addr2": "(효자동)",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060600",
+    "contentid": "1279232",
+    "contenttypeid": "14",
+    "createdtime": "20110516182701",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/50/1836950_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/50/1836950_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7276939015",
+    "mapy": "37.8729823203",
+    "mlevel": "6",
+    "modifiedtime": "20230701104042",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "축제극장 몸짓",
+    "zipcode": "24336",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      },
+      {
+        "관람석": "장애인 전용 관람석 있음(2석)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2472919": {
+    "addr1": "강원특별자치도 춘천시 신동면 풍류1길 156",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "2472919",
+    "contenttypeid": "14",
+    "createdtime": "20170106200805",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/34/2748734_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/34/2748734_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7248179735",
+    "mapy": "37.8194162732",
+    "mlevel": "6",
+    "modifiedtime": "20230814154345",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "책과인쇄박물관",
+    "zipcode": "24412",
+    "family": [],
+    "handi": [
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문/자동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "안내요원": "안내요원 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2557970": {
+    "addr1": "강원특별자치도 춘천시 남산면 남이섬길 1",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "2557970",
+    "contenttypeid": "14",
+    "createdtime": "20180817203734",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/70/2645170_image2_1.bmp",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/70/2645170_image2_1.bmp",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5261035858",
+    "mapy": "37.7901159965",
+    "mlevel": "6",
+    "modifiedtime": "20230712102900",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "남이섬 노래박물관",
+    "zipcode": "24464",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2637940": {
+    "addr1": "강원특별자치도 춘천시 서면 박사로 854",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "2637940",
+    "contenttypeid": "14",
+    "createdtime": "20191121190401",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.6918882316",
+    "mapy": "37.8930876473",
+    "mlevel": "6",
+    "modifiedtime": "20230726094008",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "토이로봇관",
+    "zipcode": "24461",
+    "family": [
+      {
+        "유모차": "대여가능(4대)"
+      },
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "대여가능(2대)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "장애인 전용 관람석은 없으나 휠체어 접근 가능한 공간 있음"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2648390": {
+    "addr1": "강원특별자치도 춘천시 사북면 화악지암길 99",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060500",
+    "contentid": "2648390",
+    "contenttypeid": "14",
+    "createdtime": "20200221231349",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/57/2748657_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/57/2748657_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5783546816",
+    "mapy": "37.9683823241",
+    "mlevel": "6",
+    "modifiedtime": "20230701105108",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "이상원미술관",
+    "zipcode": "24200",
+    "family": [
+      {
+        "유모차": "대여가능(4대)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능(1대)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "안내요원": "안내요원 있음(안내데스크)"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2710577": {
+    "addr1": "강원특별자치도 춘천시 스포츠타운길399번길 25",
+    "addr2": "(삼천동)",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030400",
+    "contentid": "2710577",
+    "contenttypeid": "14",
+    "createdtime": "20210323222820",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/59/2739659_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/59/2739659_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7023128553",
+    "mapy": "37.8737734220",
+    "mlevel": "6",
+    "modifiedtime": "20230701104637",
+    "sigungucode": "13",
+    "tel": "033-818-3200",
+    "title": "KT&G 상상마당 춘천",
+    "zipcode": "24239",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자유도로 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2710607": {
+    "addr1": "강원특별자치도 춘천시 남면 충효로 1503",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060200",
+    "contentid": "2710607",
+    "contenttypeid": "14",
+    "createdtime": "20210323232258",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/63/2748563_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/63/2748563_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5706730992",
+    "mapy": "37.7441388313",
+    "mlevel": "6",
+    "modifiedtime": "20230701103927",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "의암류인석기념관",
+    "zipcode": "24468",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

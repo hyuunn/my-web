@@ -1,0 +1,502 @@
+{
+  "129844": {
+    "addr1": "경기도 안성시 대덕면 서동대로 4726",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "129844",
+    "contenttypeid": "14",
+    "createdtime": "20041223090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/06/1941706_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/06/1941706_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2301750634",
+    "mapy": "37.0051043220",
+    "mlevel": "6",
+    "modifiedtime": "20230412144043",
+    "sigungucode": "16",
+    "tel": "",
+    "title": "중앙대학교박물관",
+    "zipcode": "17546",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음(수동문)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(1층)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(경사로면)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "129870": {
+    "addr1": "경기도 안성시 보개면 종합운동장로 203",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060700",
+    "contentid": "129870",
+    "contenttypeid": "14",
+    "createdtime": "20041223090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/00/191200_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/00/191200_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3240857757",
+    "mapy": "37.0142327321",
+    "mlevel": "6",
+    "modifiedtime": "20231031093753",
+    "sigungucode": "16",
+    "tel": "",
+    "title": "안성문화원",
+    "zipcode": "17508",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "130439": {
+    "addr1": "경기도 안성시 원곡면 만세로 868",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060200",
+    "contentid": "130439",
+    "contenttypeid": "14",
+    "createdtime": "20051228090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/29/1589729_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/29/1589729_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1752784178",
+    "mapy": "37.0627716844",
+    "mlevel": "6",
+    "modifiedtime": "20230220160758",
+    "sigungucode": "16",
+    "tel": "",
+    "title": "안성 3.1운동기념관",
+    "zipcode": "17555",
+    "family": [
+      {
+        "유모차": "대여가능(5대,안내데스크)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음(수동문)"
+      },
+      {
+        "휠체어": "대여가능(3대,안내데스크)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "리프트 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(1층)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주 출입구 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "130440": {
+    "addr1": "경기도 안성시 대덕면 서동대로 4726-15",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "130440",
+    "contenttypeid": "14",
+    "createdtime": "20041223090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/17/2996017_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/17/2996017_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2283306103",
+    "mapy": "37.0114035624",
+    "mlevel": "6",
+    "modifiedtime": "20230725180936",
+    "sigungucode": "16",
+    "tel": "",
+    "title": "안성맞춤박물관",
+    "zipcode": "17546",
+    "family": [],
+    "handi": [
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "130547": {
+    "addr1": "경기도 안성시 보개면 남사당로 198-2",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060600",
+    "contentid": "130547",
+    "contenttypeid": "14",
+    "createdtime": "20050309090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/81/1781881_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/81/1781881_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3101448759",
+    "mapy": "37.0318221187",
+    "mlevel": "6",
+    "modifiedtime": "20220420163258",
+    "sigungucode": "16",
+    "tel": "",
+    "title": "안성 남사당 공연장",
+    "zipcode": "17508",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함(무단차)"
+      },
+      {
+        "휠체어": "대여가능(안내소)"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(일반 대형주차장 공중화장실,관객화장실)"
+      },
+      {
+        "관람석": "장애인 전용 관람석 있음(각 구역 뒷줄)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "130867": {
+    "addr1": "경기도 안성시 안성맞춤대로 1150",
+    "addr2": "(금산동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060900",
+    "contentid": "130867",
+    "contenttypeid": "14",
+    "createdtime": "20060928090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/14/191414_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/14/191414_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2684379935",
+    "mapy": "37.0152260620",
+    "mlevel": "6",
+    "modifiedtime": "20230313160956",
+    "sigungucode": "16",
+    "tel": "",
+    "title": "안성시립도서관",
+    "zipcode": "17587",
+    "family": [
+      {
+        "영유아가족 기타 지원 항목": "어린이실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "두루두루 서비스(장애인 택배대출 서비스)있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 연결됨)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "130901": {
+    "addr1": "경기도 안성시 삼죽면 동아예대길 47",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "130901",
+    "contenttypeid": "14",
+    "createdtime": "20070328090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/38/1593238_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/38/1593238_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3575620273",
+    "mapy": "37.0599974995",
+    "mlevel": "6",
+    "modifiedtime": "20231030141422",
+    "sigungucode": "16",
+    "tel": "",
+    "title": "이경순 소리박물관",
+    "zipcode": "17516",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구에 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "관내진입부터 전시관까지 평지로 되어있어 휠체어 관람 용이하나<br />\n건물진입도로가 경사가 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설<br/>\n(주출입구 엘리베이터 등 앞)"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2554094": {
+    "addr1": "경기도 안성시 삼죽면 동아예대길 47",
+    "addr2": "동아방송예술대학교 엔터테인먼트관",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060500",
+    "contentid": "2554094",
+    "contenttypeid": "14",
+    "createdtime": "20180718014233",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/92/2554092_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/92/2554092_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3575620273",
+    "mapy": "37.0599974995",
+    "mlevel": "6",
+    "modifiedtime": "20231030175106",
+    "sigungucode": "16",
+    "tel": "",
+    "title": "동아방송예술대학교 DIMA아트센터",
+    "zipcode": "17516",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 휠체어가 통과 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "장애인용 엘리베이터 있음(휠체어 2대크기)"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2638584": {
+    "addr1": "경기도 안성시 보개면 남사당로 198-11",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "2638584",
+    "contenttypeid": "14",
+    "createdtime": "20191125230255",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.3108919406",
+    "mapy": "37.0350273181",
+    "mlevel": "6",
+    "modifiedtime": "20221212173939",
+    "sigungucode": "16",
+    "tel": "",
+    "title": "박두진 문학관",
+    "zipcode": "17508",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음<br />\n점자유도로 있음_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "안내요원": "문화관광해설자 있음"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2747170": {
+    "addr1": "경기도 안성시 발화대길 21",
+    "addr2": "(현수동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060600",
+    "contentid": "2747170",
+    "contenttypeid": "14",
+    "createdtime": "20210917233025",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/85/2750585_image2_1.png",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/85/2750585_image2_1.png",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2789568725",
+    "mapy": "37.0014500623",
+    "mlevel": "6",
+    "modifiedtime": "20231012170443",
+    "sigungucode": "16",
+    "tel": "",
+    "title": "안성맞춤아트홀",
+    "zipcode": "17596",
+    "family": [
+      {
+        "수유실": "수유실 있음(공연장동 2층)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "관람석": "장애인 전용 관람석 있음(대공연장 10석/소공연장 3석)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

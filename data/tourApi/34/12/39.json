@@ -1,0 +1,895 @@
+{
+  "699569": {
+    "addr1": "충청남도 천안시 동남구 병천면 아우내순대길 27",
+    "addr2": "",
+    "areacode": "34",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "699569",
+    "contenttypeid": "39",
+    "createdtime": "20090226010526",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/93/700493_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/93/700493_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2978535194",
+    "mapy": "36.7604642652",
+    "mlevel": "6",
+    "modifiedtime": "20230530131816",
+    "sigungucode": "12",
+    "tel": "041-564-2544",
+    "title": "먹거리순대",
+    "zipcode": "31254",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "800008": {
+    "addr1": "충청남도 천안시 동남구 공고담길 43-5",
+    "addr2": "",
+    "areacode": "34",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020400",
+    "contentid": "800008",
+    "contenttypeid": "39",
+    "createdtime": "20090909004557",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/46/1902546_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/46/1902546_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1568313399",
+    "mapy": "36.8165830733",
+    "mlevel": "6",
+    "modifiedtime": "20221115173534",
+    "sigungucode": "12",
+    "tel": "041-556-3179",
+    "title": "천진",
+    "zipcode": "31123",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "821078": {
+    "addr1": "충청남도 천안시 동남구 유량로 140",
+    "addr2": "",
+    "areacode": "34",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "821078",
+    "contenttypeid": "39",
+    "createdtime": "20091016004834",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/89/819289_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/89/819289_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1742188758",
+    "mapy": "36.8087870578",
+    "mlevel": "6",
+    "modifiedtime": "20220826153520",
+    "sigungucode": "12",
+    "tel": "041-555-3531",
+    "title": "녹원",
+    "zipcode": "31068",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "매장 내 턱 없음._무장애 편의정보"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1923504": {
+    "addr1": "충청남도 천안시 동남구 천호지길 11",
+    "addr2": "",
+    "areacode": "34",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "1923504",
+    "contenttypeid": "39",
+    "createdtime": "20140603223200",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.1729627297",
+    "mapy": "36.8343785333",
+    "mlevel": "6",
+    "modifiedtime": "20230627111531",
+    "sigungucode": "12",
+    "tel": "070-4007-5220",
+    "title": "마리스커피",
+    "zipcode": "31116",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2605882": {
+    "addr1": "충청남도 천안시 서북구 성환읍 성환11길 15",
+    "addr2": "",
+    "areacode": "34",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2605882",
+    "contenttypeid": "39",
+    "createdtime": "20190611200851",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/86/2606486_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/86/2606486_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1296254723",
+    "mapy": "36.9169710238",
+    "mlevel": "6",
+    "modifiedtime": "20230323092752",
+    "sigungucode": "12",
+    "tel": "041-581-2065",
+    "title": "[백년가게]진주회관본관",
+    "zipcode": "31016",
+    "family": [
+      {
+        "수유실": "수유실 있음(탈의실 공간 이용)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음(10석)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2605883": {
+    "addr1": "충청남도 천안시 서북구 성정중4길 30",
+    "addr2": "",
+    "areacode": "34",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2605883",
+    "contenttypeid": "39",
+    "createdtime": "20190611201621",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/92/2606492_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/92/2606492_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1362634686",
+    "mapy": "36.8267843109",
+    "mlevel": "6",
+    "modifiedtime": "20230203143827",
+    "sigungucode": "12",
+    "tel": "041-555-8107",
+    "title": "[백년가게]큰댁",
+    "zipcode": "31108",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2734936": {
+    "addr1": "충청남도 천안시 서북구 한들2로 46-5",
+    "addr2": "(백석동)",
+    "areacode": "34",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2734936",
+    "contenttypeid": "39",
+    "createdtime": "20210818230858",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/85/2735085_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/85/2735085_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1197205039",
+    "mapy": "36.8272145236",
+    "mlevel": "6",
+    "modifiedtime": "20230126112847",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "화덕으로간고등어",
+    "zipcode": "31097",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2743371": {
+    "addr1": "충청남도 천안시 동남구 태조산길 103",
+    "addr2": "(유량동)",
+    "areacode": "34",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2743371",
+    "contenttypeid": "39",
+    "createdtime": "20210910234634",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.1748770144",
+    "mapy": "36.8137031704",
+    "mlevel": "6",
+    "modifiedtime": "20230921160319",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "태조석갈비",
+    "zipcode": "31068",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문/자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2808015": {
+    "addr1": "충청남도 천안시 서북구 성정두정로 14 스위스캐슬",
+    "addr2": "",
+    "areacode": "34",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2808015",
+    "contenttypeid": "39",
+    "createdtime": "20220222162533",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.1413491176",
+    "mapy": "36.8269121646",
+    "mlevel": "6",
+    "modifiedtime": "20220503144415",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "소사벌소한마리",
+    "zipcode": "31110",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2808028": {
+    "addr1": "충청남도 천안시 동남구 동평3길 60",
+    "addr2": "",
+    "areacode": "34",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2808028",
+    "contenttypeid": "39",
+    "createdtime": "20220222163705",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.2441996237",
+    "mapy": "36.7746644524",
+    "mlevel": "6",
+    "modifiedtime": "20220503144221",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "까치카페",
+    "zipcode": "31230",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2809410": {
+    "addr1": "충청남도 천안시 서북구 불당21로 40 천안불당 호반써밋플레이스",
+    "addr2": "",
+    "areacode": "34",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020300",
+    "contentid": "2809410",
+    "contenttypeid": "39",
+    "createdtime": "20220304175717",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.1045028129",
+    "mapy": "36.8133075213",
+    "mlevel": "6",
+    "modifiedtime": "20220503133649",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "콤폰",
+    "zipcode": "31156",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2815445": {
+    "addr1": "충청남도 천안시 서북구 성정공원5로 42",
+    "addr2": "",
+    "areacode": "34",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020300",
+    "contentid": "2815445",
+    "contenttypeid": "39",
+    "createdtime": "20220408105019",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.1422601301",
+    "mapy": "36.8275398864",
+    "mlevel": "6",
+    "modifiedtime": "20220503105044",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "스시츠키",
+    "zipcode": "31110",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2819195": {
+    "addr1": "충청남도 천안시 동남구 해솔1길 27",
+    "addr2": "",
+    "areacode": "34",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020200",
+    "contentid": "2819195",
+    "contenttypeid": "39",
+    "createdtime": "20220510175959",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.1750415422",
+    "mapy": "36.7899253543",
+    "mlevel": "6",
+    "modifiedtime": "20220520175318",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "프리미엄뷔페 베리",
+    "zipcode": "31070",
+    "family": [
+      {
+        "수유실": "수유실 있음"
+      },
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2824523": {
+    "addr1": "충청남도 천안시 동남구 옛시청길 29 힐스테이트 천안",
+    "addr2": "",
+    "areacode": "34",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2824523",
+    "contenttypeid": "39",
+    "createdtime": "20220620141036",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/81/2824481_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/81/2824481_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1502460663",
+    "mapy": "36.8076923132",
+    "mlevel": "6",
+    "modifiedtime": "20231017175608",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "천안타운홀",
+    "zipcode": "31131",
+    "family": [
+      {
+        "수유실": "수유실 있음(패밀리룸)"
+      },
+      {
+        "영유아가족 기타 지원 항목": "장애인 화장실 내 기저귀 교환대 있음\n패밀리룸 있음(46층 회의실)\n46층 화장실 내 유아용 세면대 있음"
+      }
+    ],
+    "handi": [
+      {
+        "대중교통": "1호선 천안역 1번 출구에서 도보 7분"
+      },
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음(완만함)_무장애 편의시설"
+      },
+      {
+        "출입통로": "주 출입구는 턱이 없어 휠체어 접근 가능함(여닫이 문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(46층 회의실에 위치)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(전망대 주 출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2839045": {
+    "addr1": "충청남도 천안시 동남구 교촌7길 46-11",
+    "addr2": "",
+    "areacode": "34",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2839045",
+    "contenttypeid": "39",
+    "createdtime": "20220818151103",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/09/2839009_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/09/2839009_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2275753911",
+    "mapy": "36.8011611078",
+    "mlevel": "6",
+    "modifiedtime": "20221014112407",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "루베아",
+    "zipcode": "31229",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2839068": {
+    "addr1": "충청남도 천안시 서북구 쌍용대로 85 몽상가인",
+    "addr2": "",
+    "areacode": "34",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2839068",
+    "contenttypeid": "39",
+    "createdtime": "20220818151814",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/56/2839056_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/56/2839056_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1321033261",
+    "mapy": "36.8051756142",
+    "mlevel": "6",
+    "modifiedtime": "20221014112136",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "몽상가인",
+    "zipcode": "31155",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2839090": {
+    "addr1": "충청남도 천안시 동남구 통세골2길 41",
+    "addr2": "",
+    "areacode": "34",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2839090",
+    "contenttypeid": "39",
+    "createdtime": "20220818152641",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/78/2839078_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/78/2839078_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1211218518",
+    "mapy": "36.7734540708",
+    "mlevel": "6",
+    "modifiedtime": "20221014111959",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "카페온담",
+    "zipcode": "31209",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(회전문/자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2839108": {
+    "addr1": "충청남도 천안시 동남구 해솔1길 27-29",
+    "addr2": "",
+    "areacode": "34",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2839108",
+    "contenttypeid": "39",
+    "createdtime": "20220818153300",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/96/2839096_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/96/2839096_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1772663239",
+    "mapy": "36.7905975388",
+    "mlevel": "6",
+    "modifiedtime": "20221014110709",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "핀스커피",
+    "zipcode": "31070",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문/자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2868939": {
+    "addr1": "충청남도 천안시 서북구 한들2로 64",
+    "addr2": "",
+    "areacode": "34",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2868939",
+    "contenttypeid": "39",
+    "createdtime": "20221018100857",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/32/2868932_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/32/2868932_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1199704460",
+    "mapy": "36.8284977138",
+    "mlevel": "6",
+    "modifiedtime": "20221102094005",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "아리랑 숯불갈비이야기",
+    "zipcode": "31097",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2868985": {
+    "addr1": "충청남도 천안시 동남구 교천지산길 104",
+    "addr2": "",
+    "areacode": "34",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020400",
+    "contentid": "2868985",
+    "contenttypeid": "39",
+    "createdtime": "20221018102108",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/74/2868974_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/74/2868974_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1987508516",
+    "mapy": "36.7777993939",
+    "mlevel": "6",
+    "modifiedtime": "20221102170813",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "해물화짬뽕",
+    "zipcode": "31228",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

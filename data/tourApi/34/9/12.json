@@ -1,0 +1,716 @@
+{
+  "125856": {
+    "addr1": "충청남도 아산시 온천동",
+    "addr2": "",
+    "areacode": "34",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020300",
+    "contentid": "125856",
+    "contenttypeid": "12",
+    "createdtime": "20030207090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/59/2366359_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/59/2366359_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9995242099",
+    "mapy": "36.7833257842",
+    "mlevel": "6",
+    "modifiedtime": "20230110103444",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "온양온천지구",
+    "zipcode": "31507",
+    "family": [],
+    "handi": [
+      {
+        "출입통로": "주출입구 무단차"
+      },
+      {
+        "화장실": "장애인 화장실 있음(대변기 활동공간이 기준에 못 미치고 소변기 손잡이가 없으나 이용에 불편은 없음)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(장애인화장실에만 점형블록이 설치 되어 있음)"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "125867": {
+    "addr1": "충청남도 아산시 신정로 616",
+    "addr2": "(방축동)",
+    "areacode": "34",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020200",
+    "contentid": "125867",
+    "contenttypeid": "12",
+    "createdtime": "20031007090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/08/2519808_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/08/2519808_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9839592682",
+    "mapy": "36.7715352005",
+    "mlevel": "6",
+    "modifiedtime": "20230202142126",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "신정호관광지",
+    "zipcode": "31564",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "125945": {
+    "addr1": "충청남도 아산시 염치읍 현충사길 126",
+    "addr2": "(염치읍)",
+    "areacode": "34",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010700",
+    "contentid": "125945",
+    "contenttypeid": "12",
+    "createdtime": "20030324090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/38/1599738_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/38/1599738_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0328983143",
+    "mapy": "36.8076263527",
+    "mlevel": "6",
+    "modifiedtime": "20220525142635",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "현충사",
+    "zipcode": "31451",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "휠체어리프트 있음(현충사 본전 주출입구 옆)\n유물관 접근로는 다소 가파른 경사로로 되어 있음"
+      },
+      {
+        "휠체어": "휠체어 무료 대여 가능함"
+      },
+      {
+        "화장실": "장애인전용화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "126001": {
+    "addr1": "충청남도 아산시 송악면 외암민속길9번길 13-2",
+    "addr2": "",
+    "areacode": "34",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010600",
+    "contentid": "126001",
+    "contenttypeid": "12",
+    "createdtime": "20030909090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.0144465112",
+    "mapy": "36.7310403994",
+    "mlevel": "6",
+    "modifiedtime": "20230811110543",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "외암민속마을",
+    "zipcode": "31557",
+    "family": [
+      {
+        "유모차": "대여가능(5대)"
+      },
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 평지로 되어 있으나 흙(돌) 구간 있음"
+      },
+      {
+        "휠체어": "대여가능(5대)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자 홍보물 및 점자 표지판": "촉지음성안내도"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "126899": {
+    "addr1": "충청남도 아산시 영인면 아산온천로 16-26",
+    "addr2": "",
+    "areacode": "34",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010600",
+    "contentid": "126899",
+    "contenttypeid": "12",
+    "createdtime": "20031209090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.9505937184",
+    "mapy": "36.8410210525",
+    "mlevel": "6",
+    "modifiedtime": "20230811131658",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "아산 영인산자연휴양림 숲속야영장",
+    "zipcode": "31432",
+    "family": [],
+    "handi": [
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "127767": {
+    "addr1": "충청남도 아산시 음봉면 아산온천로157번길 67",
+    "addr2": "",
+    "areacode": "34",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020300",
+    "contentid": "127767",
+    "contenttypeid": "12",
+    "createdtime": "20031201090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/98/1601498_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/98/1601498_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9806239354",
+    "mapy": "36.8558420962",
+    "mlevel": "6",
+    "modifiedtime": "20230707103505",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "아산 스파비스",
+    "zipcode": "31442",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "128111": {
+    "addr1": "충청남도 아산시 도고면 아산만로 37-37",
+    "addr2": "",
+    "areacode": "34",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010700",
+    "contentid": "128111",
+    "contenttypeid": "12",
+    "createdtime": "20040417090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/64/2366364_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/64/2366364_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8589155690",
+    "mapy": "36.7502826733",
+    "mlevel": "6",
+    "modifiedtime": "20230906141304",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "세계꽃식물원",
+    "zipcode": "31549",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(LIAF 가든센터)_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "128127": {
+    "addr1": "충청남도 아산시 인주면 공세리성당길 10",
+    "addr2": "",
+    "areacode": "34",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010900",
+    "contentid": "128127",
+    "contenttypeid": "12",
+    "createdtime": "20040430090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.9134070332",
+    "mapy": "36.8833377411",
+    "mlevel": "6",
+    "modifiedtime": "20230223135922",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "아산 공세리성당",
+    "zipcode": "31427",
+    "family": [
+      {
+        "유모차": "대여가능"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함(성당 내 휠체어 진입 가능)"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "주출입구는 경사로 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "128128": {
+    "addr1": "충청남도 천안시 동남구 광덕면 광덕사길",
+    "addr2": "",
+    "areacode": "34",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010400",
+    "contentid": "128128",
+    "contenttypeid": "12",
+    "createdtime": "20040430090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/64/1495664_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/64/1495664_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0355346456",
+    "mapy": "36.6889095067",
+    "mlevel": "6",
+    "modifiedtime": "20220120113740",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "광덕산(아산)",
+    "zipcode": "31220",
+    "family": [
+      {
+        "영유아가족 기타 지원 항목": "기저귀교환대 있음 (화장실 내부)"
+      }
+    ],
+    "handi": [
+      {
+        "출입통로": "유효폭은 1.54m임"
+      },
+      {
+        "화장실": "장애인 화장실 있음_무장애 편의시설\n출입구 문 앞이 나무침목과 자갈로 인하여 넘어 질 염려가 있음(도움벨이 변기 위에 있음)\n불이 켜지는 문자 시각설비와 잠금장치 설치되어 있음\n대변기 유효바닥면적의 폭과 깊이, 대변기 측면 활동공간이 기준에 약간 미흡함\n세정장치는 광감지식 형태로 앉은 상태에서 화장지걸이 등 이용 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "128130": {
+    "addr1": "충청남도 아산시 신창면 서부남로790번길 20-52",
+    "addr2": "",
+    "areacode": "34",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010800",
+    "contentid": "128130",
+    "contenttypeid": "12",
+    "createdtime": "20040430090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/47/1962047_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/47/1962047_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9271973448",
+    "mapy": "36.7853826067",
+    "mlevel": "6",
+    "modifiedtime": "20220714114052",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "인취사(아산)",
+    "zipcode": "31536",
+    "family": [],
+    "handi": [
+      {
+        "출입통로": "출입구 경사로 있음"
+      },
+      {
+        "화장실": "장애인용화장실 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "631934": {
+    "addr1": "충청남도 아산시 도고면 도고온천로 176",
+    "addr2": "",
+    "areacode": "34",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020300",
+    "contentid": "631934",
+    "contenttypeid": "12",
+    "createdtime": "20081006224344",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/38/2480338_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/38/2480338_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8879486462",
+    "mapy": "36.7655814199",
+    "mlevel": "6",
+    "modifiedtime": "20230113132135",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "파라다이스 스파도고",
+    "zipcode": "31547",
+    "family": [
+      {
+        "수유실": "수유실 있음"
+      },
+      {
+        "영유아가족 기타 지원 항목": "유아놀이방"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "안내요원": "안내요원 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "662268": {
+    "addr1": "충청남도 아산시 영인면 월선길 20-42",
+    "addr2": "",
+    "areacode": "34",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010700",
+    "contentid": "662268",
+    "contenttypeid": "12",
+    "createdtime": "20081205185130",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/74/2748774_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/74/2748774_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9263450490",
+    "mapy": "36.8725197718",
+    "mlevel": "6",
+    "modifiedtime": "20230628132709",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "피나클랜드 수목원",
+    "zipcode": "31428",
+    "family": [
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "경사로 설치됨_무장애 편의시설"
+      },
+      {
+        "화장실": "장애인전용 화장실 있음 (남녀공용설치)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2037031": {
+    "addr1": "충청남도 아산시 온천대로 1459",
+    "addr2": "",
+    "areacode": "34",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020300",
+    "contentid": "2037031",
+    "contenttypeid": "12",
+    "createdtime": "20151030015106",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/18/2037318_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/18/2037318_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9989798179",
+    "mapy": "36.7832035657",
+    "mlevel": "6",
+    "modifiedtime": "20230523105201",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "온양관광호텔 온천탕",
+    "zipcode": "31507",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2037326": {
+    "addr1": "충청남도 아산시 실옥로 220",
+    "addr2": "(배미동)",
+    "areacode": "34",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020600",
+    "contentid": "2037326",
+    "contenttypeid": "12",
+    "createdtime": "20151031004953",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/73/2366373_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/73/2366373_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9778452017",
+    "mapy": "36.7983042325",
+    "mlevel": "6",
+    "modifiedtime": "20230811164403",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "아산 환경과학공원",
+    "zipcode": "31529",
+    "family": [
+      {
+        "유모차": "입구 매표소에서 유모차 대여가능함"
+      },
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "전반적으로 평탄하여 휠체어나 유모차로 실외 관람가능함"
+      },
+      {
+        "출입통로": "생태곤중원 - 출입구가 평탄하여 휠체어로 출입가능\n건강문화센터 - 출입구에 낮은 턱이 1개 있음"
+      },
+      {
+        "엘리베이터": "생태곤충원, 건강문화센터에 엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2606741": {
+    "addr1": "충청남도 아산시 탕정면 탕정면로8번길 55-7",
+    "addr2": "",
+    "areacode": "34",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030100",
+    "contentid": "2606741",
+    "contenttypeid": "12",
+    "createdtime": "20190615013018",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/37/2654737_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/37/2654737_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0616376806",
+    "mapy": "36.7969864197",
+    "mlevel": "6",
+    "modifiedtime": "20230126113911",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "지중해마을",
+    "zipcode": "31456",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(탕정면행정복지센터)_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2753921": {
+    "addr1": "충청남도 아산시 선장면 선장로 121-10",
+    "addr2": "",
+    "areacode": "34",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2753921",
+    "contenttypeid": "12",
+    "createdtime": "20211006223857",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.8596088645",
+    "mapy": "36.7904030637",
+    "mlevel": "6",
+    "modifiedtime": "20230228110858",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "선장포노을공원",
+    "zipcode": "31546",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "667568": {
+    "addr1": "경기도 안양시 만안구 안양로291번길 21",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "667568",
+    "contenttypeid": "39",
+    "createdtime": "20081215225201",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.9185811521",
+    "mapy": "37.4005252302",
+    "mlevel": "6",
+    "modifiedtime": "20230518102156",
+    "sigungucode": "17",
+    "tel": "031-466-9955",
+    "title": "시골죽집",
+    "zipcode": "14001",
+    "family": [],
+    "handi": [
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "808976": {
+    "addr1": "경기도 안양시 동안구 시민대로 230",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020200",
+    "contentid": "808976",
+    "contenttypeid": "39",
+    "createdtime": "20090924023645",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.9564890455",
+    "mapy": "37.3923074154",
+    "mlevel": "6",
+    "modifiedtime": "20220921135438",
+    "sigungucode": "17",
+    "tel": "031-444-7000",
+    "title": "싼타루치아",
+    "zipcode": "14067",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구/엘리베이터 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "809037": {
+    "addr1": "경기도 안양시 동안구 관악대로 181",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "809037",
+    "contenttypeid": "39",
+    "createdtime": "20090924181108",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.9441733054",
+    "mapy": "37.3992036172",
+    "mlevel": "6",
+    "modifiedtime": "20230906141623",
+    "sigungucode": "17",
+    "tel": "031-386-9966",
+    "title": "이조성쑥돌밥설렁탕",
+    "zipcode": "13920",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "809130": {
+    "addr1": "경기도 안양시 동안구 귀인로 295",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "809130",
+    "contenttypeid": "39",
+    "createdtime": "20090924194615",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/10/1943510_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/10/1943510_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9713544543",
+    "mapy": "37.3889664015",
+    "mlevel": "6",
+    "modifiedtime": "20230525162524",
+    "sigungucode": "17",
+    "tel": "031-422-6677",
+    "title": "진성장어",
+    "zipcode": "14060",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2739436": {
+    "addr1": "경기도 안양시 만안구 삼막로 34-15",
+    "addr2": "(석수동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2739436",
+    "contenttypeid": "39",
+    "createdtime": "20210902231534",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/58/2759758_image2_1.jpeg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/58/2759758_image2_1.jpeg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9116450686",
+    "mapy": "37.4220476088",
+    "mlevel": "6",
+    "modifiedtime": "20230524145127",
+    "sigungucode": "17",
+    "tel": "",
+    "title": "흥부가",
+    "zipcode": "13910",
+    "family": [
+      {
+        "영유아가족 기타 지원 항목": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2739444": {
+    "addr1": "경기도 안양시 만안구 병목안로 286",
+    "addr2": "(안양동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2739444",
+    "contenttypeid": "39",
+    "createdtime": "20210902232541",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/58/2768358_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/58/2768358_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9057384282",
+    "mapy": "37.3807939568",
+    "mlevel": "6",
+    "modifiedtime": "20230524135742",
+    "sigungucode": "17",
+    "tel": "",
+    "title": "두루터",
+    "zipcode": "14026",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

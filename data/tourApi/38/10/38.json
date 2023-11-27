@@ -1,0 +1,82 @@
+{
+  "132067": {
+    "addr1": "전라남도 보성군 보성읍 현충로 42-1",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010100",
+    "contentid": "132067",
+    "contenttypeid": "38",
+    "createdtime": "20020417090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/82/3027182_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/82/3027182_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0772586154",
+    "mapy": "34.7656343875",
+    "mlevel": "6",
+    "modifiedtime": "20231027181046",
+    "sigungucode": "10",
+    "tel": "061-852-3360",
+    "title": "보성장 / 녹차골 보성향토시장 (2, 7일)",
+    "zipcode": "59458",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_무장애 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1976879": {
+    "addr1": "전라남도 보성군 회천면 남부관광로 2274",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010600",
+    "contentid": "1976879",
+    "contenttypeid": "38",
+    "createdtime": "20141217224322",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/29/1972129_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/29/1972129_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0841159983",
+    "mapy": "34.6672566546",
+    "mlevel": "6",
+    "modifiedtime": "20230109104942",
+    "sigungucode": "10",
+    "tel": "061-852-2151",
+    "title": "수협 보성회천수산물위판장",
+    "zipcode": "59471",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

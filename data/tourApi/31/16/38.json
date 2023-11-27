@@ -1,0 +1,44 @@
+{
+  "2904784": {
+    "addr1": "경기도 안성시 장기로45번길 44",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "2904784",
+    "contenttypeid": "38",
+    "createdtime": "20221110144526",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/79/2904779_image2_1.jpeg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/79/2904779_image3_1.jpeg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2689104003",
+    "mapy": "37.0070742334",
+    "mlevel": "6",
+    "modifiedtime": "20221201162508",
+    "sigungucode": "16",
+    "tel": "",
+    "title": "중앙시장",
+    "zipcode": "17581",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

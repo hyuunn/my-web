@@ -1,0 +1,248 @@
+{
+  "133128": {
+    "addr1": "경기도 동두천시 생연로 127",
+    "addr2": "(생연동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "133128",
+    "contenttypeid": "39",
+    "createdtime": "20030829090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/13/1188613_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/13/1188613_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0512019551",
+    "mapy": "37.9039440505",
+    "mlevel": "6",
+    "modifiedtime": "20230622101119",
+    "sigungucode": "10",
+    "tel": "031-865-2413",
+    "title": "평남면옥",
+    "zipcode": "11331",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "133450": {
+    "addr1": "경기도 동두천시 큰시장로 28-10",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "133450",
+    "contenttypeid": "39",
+    "createdtime": "20030829090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/73/1022273_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/73/1022273_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0550461307",
+    "mapy": "37.9010750107",
+    "mlevel": "6",
+    "modifiedtime": "20230313111228",
+    "sigungucode": "10",
+    "tel": "031-865-2428",
+    "title": "송월관",
+    "zipcode": "11333",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "133451": {
+    "addr1": "경기도 동두천시 생연로 124",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "133451",
+    "contenttypeid": "39",
+    "createdtime": "20040219090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/21/1188621_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/21/1188621_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0513547312",
+    "mapy": "37.9035218803",
+    "mlevel": "6",
+    "modifiedtime": "20230601162931",
+    "sigungucode": "10",
+    "tel": "031-863-2011",
+    "title": "생연칼국수삼계탕",
+    "zipcode": "11330",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "133452": {
+    "addr1": "경기도 동두천시 생연로 185-1",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "133452",
+    "contenttypeid": "39",
+    "createdtime": "20030827090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/49/1188749_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/49/1188749_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0529322037",
+    "mapy": "37.9090851487",
+    "mlevel": "6",
+    "modifiedtime": "20230726133032",
+    "sigungucode": "10",
+    "tel": "031-865-3626",
+    "title": "진미옥설렁탕",
+    "zipcode": "11326",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "134606": {
+    "addr1": "경기도 동두천시 생연로 192",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "134606",
+    "contenttypeid": "39",
+    "createdtime": "20040708090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/58/1901358_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/58/1901358_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0535099206",
+    "mapy": "37.9093629046",
+    "mlevel": "6",
+    "modifiedtime": "20230217163622",
+    "sigungucode": "10",
+    "tel": "031-865-2130",
+    "title": "삼복횟집",
+    "zipcode": "11326",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2841328": {
+    "addr1": "경기도 동두천시 평화로 2718",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2841328",
+    "contenttypeid": "39",
+    "createdtime": "20220823102738",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/22/2841322_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/22/2841322_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0569339924",
+    "mapy": "37.9306438176",
+    "mlevel": "6",
+    "modifiedtime": "20230125151855",
+    "sigungucode": "10",
+    "tel": "",
+    "title": "유정부대찌개",
+    "zipcode": "11307",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

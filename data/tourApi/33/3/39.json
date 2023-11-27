@@ -1,0 +1,318 @@
+{
+  "134259": {
+    "addr1": "충청북도 보은군 속리산면 법주사로 261",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "134259",
+    "contenttypeid": "39",
+    "createdtime": "20060702090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/41/1193841_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/41/1193841_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.8219795416",
+    "mapy": "36.5314555326",
+    "mlevel": "6",
+    "modifiedtime": "20230424134801",
+    "sigungucode": "3",
+    "tel": "043-543-3917",
+    "title": "속리토속음식점",
+    "zipcode": "28908",
+    "family": [],
+    "handi": [
+      {
+        "출입통로": "경사로 설치, 여닫이문_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "691744": {
+    "addr1": "충청북도 보은군 속리산면 법주사로 287",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "691744",
+    "contenttypeid": "39",
+    "createdtime": "20090212201317",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/83/1193883_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/83/1193883_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.8241348588",
+    "mapy": "36.5330998275",
+    "mlevel": "6",
+    "modifiedtime": "20220926160539",
+    "sigungucode": "3",
+    "tel": "043-543-4846",
+    "title": "덕림산채식당",
+    "zipcode": "28908",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "704462": {
+    "addr1": "충청북도 보은군 속리산면 법주사로 260",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "704462",
+    "contenttypeid": "39",
+    "createdtime": "20090310195941",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/30/712630_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/30/712630_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.8222239750",
+    "mapy": "36.5310611372",
+    "mlevel": "6",
+    "modifiedtime": "20220928142240",
+    "sigungucode": "3",
+    "tel": "043-543-3655",
+    "title": "문장대식당",
+    "zipcode": "28908",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "704469": {
+    "addr1": "충청북도 보은군 속리산면 법주사로 268",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "704469",
+    "contenttypeid": "39",
+    "createdtime": "20090310200428",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/39/723939_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/39/723939_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.8228572386",
+    "mapy": "36.5315388721",
+    "mlevel": "6",
+    "modifiedtime": "20230120150935",
+    "sigungucode": "3",
+    "tel": "043-543-0433",
+    "title": "신토불이약초식당",
+    "zipcode": "28908",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "704481": {
+    "addr1": "충청북도 보은군 속리산면 법주사로 250",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "704481",
+    "contenttypeid": "39",
+    "createdtime": "20090310202626",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/61/712861_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/61/712861_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.8214685032",
+    "mapy": "36.5304834124",
+    "mlevel": "6",
+    "modifiedtime": "20230622171742",
+    "sigungucode": "3",
+    "tel": "043-543-3930",
+    "title": "속리산옛고을",
+    "zipcode": "28908",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "704500": {
+    "addr1": "충청북도 보은군 속리산면 법주사로 268-4",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "704500",
+    "contenttypeid": "39",
+    "createdtime": "20090310204352",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/61/712661_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/61/712661_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.8229461217",
+    "mapy": "36.5314583271",
+    "mlevel": "6",
+    "modifiedtime": "20230302143030",
+    "sigungucode": "3",
+    "tel": "043-543-3715",
+    "title": "풍미식당",
+    "zipcode": "28908",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "704501": {
+    "addr1": "충청북도 보은군 속리산면 법주사로 272",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "704501",
+    "contenttypeid": "39",
+    "createdtime": "20090310210736",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/38/712638_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/38/712638_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.8231460966",
+    "mapy": "36.5317277447",
+    "mlevel": "6",
+    "modifiedtime": "20221229100055",
+    "sigungucode": "3",
+    "tel": "043-543-3686",
+    "title": "석정식당",
+    "zipcode": "28908",
+    "family": [],
+    "handi": [
+      {
+        "출입통로": "주출입구에 높이차이가 없음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "704502": {
+    "addr1": "충청북도 보은군 법주사로 258-3",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "704502",
+    "contenttypeid": "39",
+    "createdtime": "20090310211505",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/36/712636_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/36/712636_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.8224017385",
+    "mapy": "36.5310167011",
+    "mlevel": "6",
+    "modifiedtime": "20230811164713",
+    "sigungucode": "3",
+    "tel": "043-543-4702",
+    "title": "찬우물",
+    "zipcode": "28908",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

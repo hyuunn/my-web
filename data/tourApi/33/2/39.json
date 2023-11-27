@@ -1,0 +1,158 @@
+{
+  "134555": {
+    "addr1": "충청북도 단양군 단성면 상선암길 38",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "134555",
+    "contenttypeid": "39",
+    "createdtime": "20040308090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/08/1849808_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/08/1849808_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.2953719858",
+    "mapy": "36.8724668329",
+    "mlevel": "6",
+    "modifiedtime": "20230502104625",
+    "sigungucode": "2",
+    "tel": "043-422-1447",
+    "title": "선암가든",
+    "zipcode": "27026",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "주출입구에 턱이나 계단이 없음._무장애 편의정보"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "686351": {
+    "addr1": "충청북도 단양군 단양읍 수변로 85",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "686351",
+    "contenttypeid": "39",
+    "createdtime": "20090130025047",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/90/688190_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/90/688190_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.3706509315",
+    "mapy": "36.9829888876",
+    "mlevel": "6",
+    "modifiedtime": "20230727173602",
+    "sigungucode": "2",
+    "tel": "043-421-8825",
+    "title": "박쏘가리",
+    "zipcode": "27011",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구 단차있으나 원활한 이동 가능_무장애 편의정보"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "보조견 동반 가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1801058": {
+    "addr1": "충청북도 단양군 단양읍 수변로 61",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "1801058",
+    "contenttypeid": "39",
+    "createdtime": "20130326233245",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.3703954576",
+    "mapy": "36.9809696702",
+    "mlevel": "6",
+    "modifiedtime": "20230725094125",
+    "sigungucode": "2",
+    "tel": "043-422-3706",
+    "title": "달큼한 오후",
+    "zipcode": "27011",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "경사로 있음"
+      },
+      {
+        "출입통로": "주출입구 무단차(경사로 있음)_무장애 편의정보r>\n다소 협소한 유효폭 확보"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2530819": {
+    "addr1": "충청북도 단양군 가곡면 두산길 196-86",
+    "addr2": "(가곡면)",
+    "areacode": "33",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2530819",
+    "contenttypeid": "39",
+    "createdtime": "20180110183242",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/18/2530818_image2_1.jpeg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/18/2530818_image2_1.jpeg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.3943151389",
+    "mapy": "36.9946852109",
+    "mlevel": "6",
+    "modifiedtime": "20230119145301",
+    "sigungucode": "2",
+    "tel": "1644-4674",
+    "title": "CAFE SANN",
+    "zipcode": "27021",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

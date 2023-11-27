@@ -1,0 +1,82 @@
+{
+  "129709": {
+    "addr1": "충청북도 영동군 영동읍 영동천2길 29",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060700",
+    "contentid": "129709",
+    "contenttypeid": "14",
+    "createdtime": "20071106102629",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/37/1847837_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/37/1847837_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7773823124",
+    "mapy": "36.1725901624",
+    "mlevel": "6",
+    "modifiedtime": "20220519193802",
+    "sigungucode": "4",
+    "tel": "",
+    "title": "영동문화원",
+    "zipcode": "29144",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음 (점자유도로)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "130443": {
+    "addr1": "충청북도 영동군 심천면 국악로 9",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "130443",
+    "contenttypeid": "14",
+    "createdtime": "20071106105749",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/39/764639_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/39/764639_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7049321798",
+    "mapy": "36.2101762428",
+    "mlevel": "6",
+    "modifiedtime": "20230313093831",
+    "sigungucode": "4",
+    "tel": "",
+    "title": "난계국악박물관",
+    "zipcode": "29106",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

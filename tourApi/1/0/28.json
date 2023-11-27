@@ -1,0 +1,1785 @@
+{
+  "130997":{
+     "addr1":"서울특별시 종로구 종로 69",
+     "addr2":"(종로2가)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03020200",
+     "contentid":"130997",
+     "contenttypeid":"28",
+     "createdtime":"20030421090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/77/2023277_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/77/2023277_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9855674875",
+     "mapy":"37.5704816924",
+     "mlevel":"6",
+     "modifiedtime":"20230724182453",
+     "sigungucode":"23",
+     "tel":"",
+     "title":"서울 YMCA 사회체육부",
+     "zipcode":"03164",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실, 엘리베이터)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "131009":{
+     "addr1":"서울특별시 중구 을지로 30",
+     "addr2":"(소공동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03020200",
+     "contentid":"131009",
+     "contenttypeid":"28",
+     "createdtime":"20021107090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/00/1898300_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/00/1898300_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9816346542",
+     "mapy":"37.5654794250",
+     "mlevel":"6",
+     "modifiedtime":"20221229092028",
+     "sigungucode":"24",
+     "tel":"02-317-7305~6",
+     "title":"호텔롯데 휘트니스클럽",
+     "zipcode":"04533",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(건물입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "131021":{
+     "addr1":"서울특별시 광진구 워커힐로 177",
+     "addr2":"(광장동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03021000",
+     "contentid":"131021",
+     "contenttypeid":"28",
+     "createdtime":"20030328090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/60/1903160_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/60/1903160_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.1107898477",
+     "mapy":"37.5552218298",
+     "mlevel":"6",
+     "modifiedtime":"20221013174022",
+     "sigungucode":"6",
+     "tel":"",
+     "title":"파라다이스 카지노 워커힐",
+     "zipcode":"04963",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        },
+        {
+           "객실":"장애인 전용 객실 있음(쉐라톤,W호텔)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "131122":{
+     "addr1":"서울특별시 종로구 성균관로 91",
+     "addr2":"(혜화동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03020200",
+     "contentid":"131122",
+     "contenttypeid":"28",
+     "createdtime":"20030526090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/10/1898310_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/10/1898310_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9988407089",
+     "mapy":"37.5905434879",
+     "mlevel":"6",
+     "modifiedtime":"20230601172554",
+     "sigungucode":"23",
+     "tel":"02-745-6701~4",
+     "title":"올림픽기념국민생활관",
+     "zipcode":"03066",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음(수동문)"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음(1층)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주 출입구 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "131136":{
+     "addr1":"서울특별시 영등포구 문래로 110",
+     "addr2":"(문래동3가)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03020200",
+     "contentid":"131136",
+     "contenttypeid":"28",
+     "createdtime":"20030410090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/93/2028293_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/93/2028293_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.8940106221",
+     "mapy":"37.5188582745",
+     "mlevel":"6",
+     "modifiedtime":"20230811171337",
+     "sigungucode":"20",
+     "tel":"02-2167-0100",
+     "title":"문래청소년수련관",
+     "zipcode":"07296",
+     "family":[
+        {
+           "영유아가족 기타 지원 항목":"장애청소년 방과후교실 운영"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구까지 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음(층마다)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "131137":{
+     "addr1":"서울특별시 양천구 목동서로 143",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03020200",
+     "contentid":"131137",
+     "contenttypeid":"28",
+     "createdtime":"20021125090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/30/2356830_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/30/2356830_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.8754786448",
+     "mapy":"37.5307176769",
+     "mlevel":"6",
+     "modifiedtime":"20220915104902",
+     "sigungucode":"19",
+     "tel":"02-2642-1318",
+     "title":"목동청소년수련관",
+     "zipcode":"07991",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로 있어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음 (주요시설 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "131138":{
+     "addr1":"서울특별시 중구 을지로11길 23",
+     "addr2":"(수표동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03020200",
+     "contentid":"131138",
+     "contenttypeid":"28",
+     "createdtime":"20030328090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/06/2459306_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/06/2459306_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9905199091",
+     "mapy":"37.5671210604",
+     "mlevel":"6",
+     "modifiedtime":"20230413174159",
+     "sigungucode":"24",
+     "tel":"02-2267-2914",
+     "title":"서울청소년수련관",
+     "zipcode":"04543",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실, 엘리베이터)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "131139":{
+     "addr1":"서울특별시 강남구 영동대로131길 26",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03020200",
+     "contentid":"131139",
+     "contenttypeid":"28",
+     "createdtime":"20030527090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/23/2462023_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/23/2462023_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.0541432145",
+     "mapy":"37.5204498480",
+     "mlevel":"6",
+     "modifiedtime":"20230814141857",
+     "sigungucode":"1",
+     "tel":"02-544-9725",
+     "title":"강남청소년수련관",
+     "zipcode":"06073",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        },
+        {
+           "기타 지원 항목":"층수 이동시 직원 도움 가능"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실, 입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "131297":{
+     "addr1":"서울특별시 송파구 올림픽로 240 롯데월드",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03021300",
+     "contentid":"131297",
+     "contenttypeid":"28",
+     "createdtime":"20040817090000",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.0976311526",
+     "mapy":"37.5123821225",
+     "mlevel":"6",
+     "modifiedtime":"20230110104158",
+     "sigungucode":"18",
+     "tel":"",
+     "title":"롯데월드 아이스링크(실내)",
+     "zipcode":"05554",
+     "family":[
+        {
+           "유모차":"대여가능(1층 유모차대여소)"
+        },
+        {
+           "수유실":"수유실 있음"
+        },
+        {
+           "영유아가족 기타 지원 항목":"유아휴게실 있음"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "휠체어":"대여가능(1층,유모차 대여소)"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음(B1층)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주 출입구 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "131313":{
+     "addr1":"서울특별시 광진구 워커힐로 93",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0303",
+     "cat3":"A03030700",
+     "contentid":"131313",
+     "contenttypeid":"28",
+     "createdtime":"20070907090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/80/1903180_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/80/1903180_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.0976467159",
+     "mapy":"37.5511415116",
+     "mlevel":"6",
+     "modifiedtime":"20230610063748",
+     "sigungucode":"6",
+     "tel":"02-446-1238",
+     "title":"정립회관 수영센터(실내)",
+     "zipcode":"04958",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구와 보조출입구에 턱이 없어 휠체어 접근 가능함(자동문)<br />\n(장애인 주차 이용 후 보조출입구를 이용하면 단거리 접근 가능)"
+        },
+        {
+           "엘리베이터":"장애인용 엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        },
+        {
+           "기타 지원 항목":"장애인을 위한 탈의실,샤워공간,휠체어 진입가능 수영장 입구 있음<br />\n편마비장애인과 휠체어 장애인을 위한 수영장 편의시설 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자유도로 있음_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "131314":{
+     "addr1":"서울특별시 강동구 올림픽로89길 39",
+     "addr2":"(천호동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0303",
+     "cat3":"A03030700",
+     "contentid":"131314",
+     "contenttypeid":"28",
+     "createdtime":"20071106113916",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.1242166149",
+     "mapy":"37.5477896024",
+     "mlevel":"6",
+     "modifiedtime":"20230125095353",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"한강시민공원 광나루수영장(실외)",
+     "zipcode":"05244",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 무단차 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(수영장 내 샤워실 및 화장실은 단차가 있고 놀이터화장실은 경사로로 단차 제거 됨)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "131315":{
+     "addr1":"서울특별시 서초구 잠원로 221-124",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0303",
+     "cat3":"A03030700",
+     "contentid":"131315",
+     "contenttypeid":"28",
+     "createdtime":"20020718090000",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.0122970150",
+     "mapy":"37.5208018331",
+     "mlevel":"6",
+     "modifiedtime":"20230803101243",
+     "sigungucode":"15",
+     "tel":"",
+     "title":"한강시민공원 잠원수영장(실외)",
+     "zipcode":"06513",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(잠원주차장 화장실,테니스장 옆 공중화장실 및 안내센터건물,각각 경사로 설치 됨)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "131317":{
+     "addr1":"서울특별시 영등포구 여의동로 330",
+     "addr2":"(여의도동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0303",
+     "cat3":"A03030700",
+     "contentid":"131317",
+     "contenttypeid":"28",
+     "createdtime":"20030619090000",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.9336123570",
+     "mapy":"37.5263886632",
+     "mlevel":"6",
+     "modifiedtime":"20230405094721",
+     "sigungucode":"20",
+     "tel":"",
+     "title":"한강시민공원 여의도수영장(실외)",
+     "zipcode":"07337",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 무단차로 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(축구장 개방화장실,서강대교 하부 개방화장실)"
+        },
+        {
+           "기타 지원 항목":"점자블록 있음(119수난구조대 건물있음,무단차로 연결 됨)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "131318":{
+     "addr1":"서울특별시 송파구 한가람로 65",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0303",
+     "cat3":"A03030700",
+     "contentid":"131318",
+     "contenttypeid":"28",
+     "createdtime":"20030619090000",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.0867514361",
+     "mapy":"37.5176813118",
+     "mlevel":"6",
+     "modifiedtime":"20221219132433",
+     "sigungucode":"18",
+     "tel":"",
+     "title":"한강시민공원 잠실수영장(실외)",
+     "zipcode":"05502",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 무단차로 연결 됨"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(수영자 내 경사로가 설치된 화장실이 있으나 경사가 가파름)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "131408":{
+     "addr1":"서울특별시 동작구 여의대방로20길 33",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03020200",
+     "contentid":"131408",
+     "contenttypeid":"28",
+     "createdtime":"20021118090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/55/1898355_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/55/1898355_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9186119526",
+     "mapy":"37.4906564343",
+     "mlevel":"6",
+     "modifiedtime":"20230422130552",
+     "sigungucode":"12",
+     "tel":"02-834-7231~4",
+     "title":"서울특별시립 보라매청소년수련관",
+     "zipcode":"07062",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실, 엘리베이터)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "131455":{
+     "addr1":"서울특별시 강남구 광평로 144",
+     "addr2":"(수서동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03020200",
+     "contentid":"131455",
+     "contenttypeid":"28",
+     "createdtime":"20040220090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/19/2462119_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/19/2462119_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.0888077714",
+     "mapy":"37.4835991945",
+     "mlevel":"6",
+     "modifiedtime":"20221111172115",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"서울특별시립수서청소년수련관",
+     "zipcode":"06362",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실, 입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "131624":{
+     "addr1":"서울특별시 종로구 지봉로5길 7-5",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0303",
+     "cat3":"A03030700",
+     "contentid":"131624",
+     "contenttypeid":"28",
+     "createdtime":"20030530090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/65/1868065_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/65/1868065_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.0144592128",
+     "mapy":"37.5735124146",
+     "mlevel":"6",
+     "modifiedtime":"20220718174036",
+     "sigungucode":"23",
+     "tel":"",
+     "title":"종로구시설관리공단 종로구민회관(실내)",
+     "zipcode":"03104",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(접근로,주출입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "131712":{
+     "addr1":"서울특별시 마포구 월드컵로 240",
+     "addr2":"(성산동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03020300",
+     "contentid":"131712",
+     "contenttypeid":"28",
+     "createdtime":"20031208090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/97/1805797_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/97/1805797_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.8972867084",
+     "mapy":"37.5683081417",
+     "mlevel":"6",
+     "modifiedtime":"20230324105052",
+     "sigungucode":"13",
+     "tel":"",
+     "title":"서울월드컵경기장",
+     "zipcode":"03932",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"주차장에서 경기장 엘리베이터 입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"장애인 엘리베이터 있음(동문,서문,남문,북문)"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        },
+        {
+           "관람석":"장애인 관람석 있음<br />\n1층 : D1-D2문 / B~G블럭 / 14열 / 1~32 좌석<br />\n3층 : S4문 / F블럭 / 40열 / 1~20 좌석<br />\nN1문  / F블럭 / 40열 / 20~39 좌석<br />\nE1,E5문 / A~H블럭 / 40열 / 1~33 좌석"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자유도로 및 점자블록 있음(엘리베이터 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "131822":{
+     "addr1":"서울특별시 성북구 안암로 145",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03021300",
+     "contentid":"131822",
+     "contenttypeid":"28",
+     "createdtime":"20050113090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/21/688321_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/21/688321_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.0318266080",
+     "mapy":"37.5899635928",
+     "mlevel":"6",
+     "modifiedtime":"20230109155304",
+     "sigungucode":"17",
+     "tel":"",
+     "title":"고려대학교 아이스링크",
+     "zipcode":"02841",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        },
+        {
+           "관람석":"장애인 전용 관람석은 없으나 휠체어 접근 가능한 공간 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주출입구)_시각장애인 편의시설"
+        },
+        {
+           "점자 홍보물 및 점자 표지판":"점자안내판 있음"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "131852":{
+     "addr1":"서울특별시 동작구 여의대방로54길 18",
+     "addr2":"(대방동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03020200",
+     "contentid":"131852",
+     "contenttypeid":"28",
+     "createdtime":"20060524090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/73/1898373_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/73/1898373_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9272383527",
+     "mapy":"37.5116708141",
+     "mlevel":"6",
+     "modifiedtime":"20230725110615",
+     "sigungucode":"12",
+     "tel":"",
+     "title":"서울여성플라자",
+     "zipcode":"06939",
+     "family":[
+        {
+           "영유아가족 기타 지원 항목":"영유아동반 화장실 있음"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실, 엘리베이터)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "131903":{
+     "addr1":"서울특별시 강남구 테헤란로87길 58",
+     "addr2":"(삼성동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03021000",
+     "contentid":"131903",
+     "contenttypeid":"28",
+     "createdtime":"20070206090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/40/2996840_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/40/2996840_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.0575320333",
+     "mapy":"37.5120258870",
+     "mlevel":"6",
+     "modifiedtime":"20230802202431",
+     "sigungucode":"1",
+     "tel":"02-3466-6000",
+     "title":"세븐럭카지노(강남코엑스점)",
+     "zipcode":"06164",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함_무장애 편의시설"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함(회전문,수동문)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "131958":{
+     "addr1":"서울특별시 도봉구 노해로69길 132",
+     "addr2":"(창동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03020200",
+     "contentid":"131958",
+     "contenttypeid":"28",
+     "createdtime":"20070503090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/75/1898375_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/75/1898375_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.0507507166",
+     "mapy":"37.6582337733",
+     "mlevel":"6",
+     "modifiedtime":"20220915111847",
+     "sigungucode":"10",
+     "tel":"",
+     "title":"창동문화체육센터",
+     "zipcode":"01412",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음(1,2,3층)"
+        },
+        {
+           "관람석":"장애인 전용 관람석 있음(2층 공연장,무대 앞 좌열2석,우열2석)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주 출입구 앞)_시각장애인 편의시설"
+        },
+        {
+           "보조견 동반":"동반가능(로비에서만)"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "558912":{
+     "addr1":"서울특별시 송파구 올림픽로 424",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03020300",
+     "contentid":"558912",
+     "contenttypeid":"28",
+     "createdtime":"20080513234405",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/41/1903241_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/41/1903241_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.1229758237",
+     "mapy":"37.5209871362",
+     "mlevel":"6",
+     "modifiedtime":"20220929110001",
+     "sigungucode":"18",
+     "tel":"",
+     "title":"올림픽공원 경기장",
+     "zipcode":"05540",
+     "family":[
+        {
+           "유모차":"대여가능(동1문 5개, 세계평화의문 4개,24개월 미만 무료 3시간 신분증 보관)"
+        }
+     ],
+     "handi":[
+        {
+           "휠체어":"대여가능(세계평화의문 5개,동1문 5개)"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "767780":{
+     "addr1":"서울특별시 강남구 압구정동 379-1",
+     "addr2":"(압구정동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0303",
+     "cat3":"A03030100",
+     "contentid":"767780",
+     "contenttypeid":"28",
+     "createdtime":"20090717233206",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/46/2042446_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/46/2042446_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.0192072655",
+     "mapy":"37.5289676753",
+     "mlevel":"6",
+     "modifiedtime":"20230630143301",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"리버시티",
+     "zipcode":"06000",
+     "family":[
+        
+     ],
+     "handi":[
+        
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"0"
+  },
+  "990140":{
+     "addr1":"서울특별시 중구 동호로 241",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03020300",
+     "contentid":"990140",
+     "contenttypeid":"28",
+     "createdtime":"20100331234809",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/07/2017907_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/07/2017907_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.0068047884",
+     "mapy":"37.5582390522",
+     "mlevel":"6",
+     "modifiedtime":"20230328100116",
+     "sigungucode":"24",
+     "tel":"",
+     "title":"장충체육관",
+     "zipcode":"04605",
+     "family":[
+        {
+           "수유실":"수유실 있음(2층)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(각 층,각 건물)"
+        },
+        {
+           "관람석":"장애인 전용 관람석 있음(40석,2층 제일 앞면)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자유도로 있음_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1017568":{
+     "addr1":"서울특별시 강동구 천호대로206길 87",
+     "addr2":"(둔촌동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03021700",
+     "contentid":"1017568",
+     "contenttypeid":"28",
+     "createdtime":"20100510192214",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/69/2030469_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/69/2030469_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.1540697938",
+     "mapy":"37.5358637478",
+     "mlevel":"6",
+     "modifiedtime":"20220801111658",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"강동그린웨이 가족캠핑장",
+     "zipcode":"05357",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "화장실":"장애인 화장실 있음(자동미닫이문)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(장애인화장실 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1054888":{
+     "addr1":"서울특별시 영등포구 여의동로 330",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03020500",
+     "contentid":"1054888",
+     "contenttypeid":"28",
+     "createdtime":"20100705201950",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/00/1898400_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/00/1898400_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9336123570",
+     "mapy":"37.5263886632",
+     "mlevel":"6",
+     "modifiedtime":"20230331113029",
+     "sigungucode":"20",
+     "tel":"",
+     "title":"여의도 둘레길(여의도 자전거도로)",
+     "zipcode":"07337",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1093200":{
+     "addr1":"서울특별시 송파구 올림픽로 25",
+     "addr2":"(잠실동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03020200",
+     "contentid":"1093200",
+     "contenttypeid":"28",
+     "createdtime":"20100915185528",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/68/629668_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/68/629668_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.0736415981",
+     "mapy":"37.5148536263",
+     "mlevel":"6",
+     "modifiedtime":"20230719142542",
+     "sigungucode":"18",
+     "tel":"",
+     "title":"서울종합운동장(잠실종합운동장)",
+     "zipcode":"05500",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "휠체어":"대여가능"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실, 엘리베이터)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1354065":{
+     "addr1":"서울특별시 양천구 안양천로 939",
+     "addr2":"(목동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03020300",
+     "contentid":"1354065",
+     "contenttypeid":"28",
+     "createdtime":"20110808222310",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/71/1807971_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/71/1807971_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.8819114075",
+     "mapy":"37.5301456356",
+     "mlevel":"6",
+     "modifiedtime":"20230502114551",
+     "sigungucode":"19",
+     "tel":"",
+     "title":"목동운동장(목동아이스링크,사격장)",
+     "zipcode":"07990",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로 있어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(비상벨 있음)"
+        },
+        {
+           "관람석":"장애인 전용 관람석 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음 (화장실 입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1362516":{
+     "addr1":"서울특별시 영등포구 여의서로 160",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0301",
+     "cat3":"A03010200",
+     "contentid":"1362516",
+     "contenttypeid":"28",
+     "createdtime":"20110812232810",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/80/2601180_image2_1.bmp",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/80/2601180_image2_1.bmp",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9116252334",
+     "mapy":"37.5348539529",
+     "mlevel":"6",
+     "modifiedtime":"20230403144432",
+     "sigungucode":"20",
+     "tel":"",
+     "title":"서울마리나 요트&클럽",
+     "zipcode":"07231",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(출입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2406545":{
+     "addr1":"서울특별시 관악구 중앙동",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03022700",
+     "contentid":"2406545",
+     "contenttypeid":"28",
+     "createdtime":"20160831001142",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/37/2405137_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/37/2405137_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9657867851",
+     "mapy":"37.4426850694",
+     "mlevel":"6",
+     "modifiedtime":"20221124165441",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"관악산 자락길",
+     "zipcode":"08825",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"무장애숲길 조성되어 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(화장실마다 칸 있음)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2406564":{
+     "addr1":"서울특별시 성북구 솔샘로25가길 8",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03022700",
+     "contentid":"2406564",
+     "contenttypeid":"28",
+     "createdtime":"20160831004250",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/43/2405143_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/43/2405143_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.0053837227",
+     "mapy":"37.6199235229",
+     "mlevel":"6",
+     "modifiedtime":"20230808103030",
+     "sigungucode":"17",
+     "tel":"",
+     "title":"북한산 자락길",
+     "zipcode":"02701",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"주차장에서 출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        },
+        {
+           "기타 지원 항목":"자락길 4.5km 전구간 개통 완료"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2553819":{
+     "addr1":"서울특별시 마포구 동교로51길 133",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03022700",
+     "contentid":"2553819",
+     "contenttypeid":"28",
+     "createdtime":"20180716223036",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.9197680413",
+     "mapy":"37.5665448593",
+     "mlevel":"6",
+     "modifiedtime":"20230320103955",
+     "sigungucode":"13",
+     "tel":"",
+     "title":"경의선숲길(연트럴파크)",
+     "zipcode":"03979",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음(홍대입구역 4번출구)"
+        },
+        {
+           "화장실":"장애인 화장실 있음(동교어린이공원)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2647687":{
+     "addr1":"서울특별시 서초구 올림픽대로 2085-14",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0303",
+     "cat3":"A03030300",
+     "contentid":"2647687",
+     "contenttypeid":"28",
+     "createdtime":"20200213184348",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/00/2647700_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/00/2647700_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9959959554",
+     "mapy":"37.5125052818",
+     "mlevel":"",
+     "modifiedtime":"20230721145525",
+     "sigungucode":"15",
+     "tel":"",
+     "title":"골든블루마리나",
+     "zipcode":"06500",
+     "family":[
+        {
+           "수유실":"수유실 있음(가빛섬 1층)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음(가빛섬 내 1층)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능(선착장까지 가능/요트탑승불가)"
+        },
+        {
+           "안내요원":"안내요원 있음(사전문의)"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2704696":{
+     "addr1":"서울특별시 노원구 하계동 107-2",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03022700",
+     "contentid":"2704696",
+     "contenttypeid":"28",
+     "createdtime":"20210128000835",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/58/2650858_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/58/2650858_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.0694164404",
+     "mapy":"37.6316233163",
+     "mlevel":"6",
+     "modifiedtime":"20230220155737",
+     "sigungucode":"9",
+     "tel":"",
+     "title":"경춘선숲길",
+     "zipcode":"01851",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  }
+}

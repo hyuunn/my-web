@@ -1,0 +1,241 @@
+{
+  "133184": {
+    "addr1": "경기도 여주시 대신면 천서리길 26",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "133184",
+    "contenttypeid": "39",
+    "createdtime": "20030829090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/99/1188599_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/99/1188599_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5489738547",
+    "mapy": "37.4032390852",
+    "mlevel": "6",
+    "modifiedtime": "20230327135302",
+    "sigungucode": "20",
+    "tel": "031-882-8300",
+    "title": "강계봉진막국수",
+    "zipcode": "12608",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "134070": {
+    "addr1": "경기도 여주시 여양로 222-3",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020400",
+    "contentid": "134070",
+    "contenttypeid": "39",
+    "createdtime": "20040102090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/75/1885075_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/75/1885075_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.6493176639",
+    "mapy": "37.3028553147",
+    "mlevel": "6",
+    "modifiedtime": "20221216164220",
+    "sigungucode": "20",
+    "tel": "031-885-0705",
+    "title": "만다린",
+    "zipcode": "12636",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2792633": {
+    "addr1": "경기도 여주시 월평로 53",
+    "addr2": "(월송동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2792633",
+    "contenttypeid": "39",
+    "createdtime": "20211213191615",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/54/2794754_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/54/2794754_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.6066944825",
+    "mapy": "37.2769241972",
+    "mlevel": "6",
+    "modifiedtime": "20230901133542",
+    "sigungucode": "20",
+    "tel": "",
+    "title": "리트커피",
+    "zipcode": "12645",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2873132": {
+    "addr1": "경기도 여주시 도예로 247",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2873132",
+    "contenttypeid": "39",
+    "createdtime": "20221024135950",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/21/2873121_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/21/2873121_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.6575470116",
+    "mapy": "37.3190008219",
+    "mlevel": "6",
+    "modifiedtime": "20231102175831",
+    "sigungucode": "20",
+    "tel": "",
+    "title": "무이숲",
+    "zipcode": "12636",
+    "family": [
+      {
+        "유모차": "대여 가능(4대/1층)"
+      },
+      {
+        "유아용 보조 의자": "구비(5개)"
+      },
+      {
+        "영유아가족 기타 지원 항목": "장애인 화장실 내 유아용 보호의자 있음\n화장실 내 기저귀 교환대 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음(완만함)"
+      },
+      {
+        "휠체어": "대여 가능(1개)"
+      },
+      {
+        "출입통로": "주 출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음 (1층/점자표시)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반 가능 (정해진 구역)"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2873199": {
+    "addr1": "경기도 여주시 명품1로 87 한식당",
+    "addr2": "1층",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2873199",
+    "contenttypeid": "39",
+    "createdtime": "20221024141810",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/89/2873189_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/89/2873189_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.6113449196",
+    "mapy": "37.2469971849",
+    "mlevel": "6",
+    "modifiedtime": "20221103154759",
+    "sigungucode": "20",
+    "tel": "",
+    "title": "여내울 수월정",
+    "zipcode": "12646",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

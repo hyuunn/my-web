@@ -1,0 +1,3806 @@
+{
+  "129725":{
+     "addr1":"부산광역시 남구 유엔평화로76번길 1 부산문화회관",
+     "addr2":"",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060600",
+     "contentid":"129725",
+     "contenttypeid":"14",
+     "createdtime":"20071106102708",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.0937450823",
+     "mapy":"35.1285070990",
+     "mlevel":"6",
+     "modifiedtime":"20220525110839",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"부산문화회관",
+     "zipcode":"48534",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"주차장에서 출입구까지 경사로 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구에 경사로가 설치되어 있음"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음(점자블록)"
+        },
+        {
+           "화장실":"장애인 화장실 있음 (대극장 3개,남녀구분)"
+        },
+        {
+           "관람석":"1층 통로기준 왼쪽 맨 뒷줄 5개<br />\n오른쪽 양 사이트 2개씩 총 4개\n뒷부분 좌석 맨 뒷줄 5개\n2,3층 맨 뒷줄 5개"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "129733":{
+     "addr1":"부산광역시 동구 자성로133번길 16",
+     "addr2":"",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060600",
+     "contentid":"129733",
+     "contenttypeid":"14",
+     "createdtime":"20071106102729",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.0651972831",
+     "mapy":"35.1388026415",
+     "mlevel":"6",
+     "modifiedtime":"20220518170212",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"부산시민회관",
+     "zipcode":"48742",
+     "family":[
+        {
+           "수유실":"수유실 있음<br />\n(대극장 내,소극장 이용객은 대극장에 공연이 있을시에만 이용가능)"
+        },
+        {
+           "영유아가족 기타 지원 항목":"어린이놀이방 있음"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"도보에서 건물, 건물에서 출입구까지 경사로가 설치되어 있으며 경사로에 장애인경사로 표지판이 설치되어 있음"
+        },
+        {
+           "휠체어":"대여가능"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음(대극장,소극장)"
+        },
+        {
+           "관람석":"장애인 관람석 있음(대극장 18석,소극장 6석)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자유도로 있음_시각장애인 편의시설"
+        },
+        {
+           "안내요원":"안내가능(대극장 안내데스크,소극장 안내데스크)"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "129783":{
+     "addr1":"부산광역시 남구 유엔평화로 63",
+     "addr2":"",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060100",
+     "contentid":"129783",
+     "contenttypeid":"14",
+     "createdtime":"20071106102957",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/64/1571064_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/64/1571064_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.0947838516",
+     "mapy":"35.1295542233",
+     "mlevel":"6",
+     "modifiedtime":"20220916164649",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"부산박물관",
+     "zipcode":"48529",
+     "family":[
+        {
+           "유모차":"유모차 무료 대여(3대)"
+        },
+        {
+           "수유실":"수유실 있음(동래관 1층)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "휠체어":"휠체어 무료 대여(3대)"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함(본관 회전문,수동문/문화체험관 자동문)"
+        },
+        {
+           "엘리베이터":"장애인용 엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        {
+           "수화안내":"부산박물관 자동안내 모바일 앱(수화 영상 안내 기능)"
+        }
+     ],
+     "blind":[
+        {
+           "오디오 가이드":"한국어 음성가이드기 있음 (안내데스크)"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"1",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "129823":{
+     "addr1":"부산광역시 남구 수영로 309",
+     "addr2":"(대연동)",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060100",
+     "contentid":"129823",
+     "contenttypeid":"14",
+     "createdtime":"20071106103202",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/24/1859024_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/24/1859024_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.0969499828",
+     "mapy":"35.1422639512",
+     "mlevel":"6",
+     "modifiedtime":"20230126131749",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"경성대학교 문화홍보처 박물관",
+     "zipcode":"48434",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로 설치되어 있음"
+        },
+        {
+           "엘리베이터":"엘레베이터 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "129938":{
+     "addr1":"부산광역시 중구 중앙대로 21",
+     "addr2":"",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060500",
+     "contentid":"129938",
+     "contenttypeid":"14",
+     "createdtime":"20071106103616",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/79/1982379_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/79/1982379_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.0361619914",
+     "mapy":"35.0995426115",
+     "mlevel":"6",
+     "modifiedtime":"20221229134116",
+     "sigungucode":"15",
+     "tel":"",
+     "title":"정인갤러리",
+     "zipcode":"48955",
+     "family":[
+        {
+           "수유실":"수유실 있음(아가사랑방)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구에 계단(1단) 있으며 외부와 연결된 엘리베이터 이용 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음(외부연결,5번출구)_무장애 편의시설"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(롯데 백화점 화장실 이용)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실 입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "130145":{
+     "addr1":"부산광역시 동래구 복천로 63",
+     "addr2":"(복천동)",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060100",
+     "contentid":"130145",
+     "contenttypeid":"14",
+     "createdtime":"20071106104414",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/59/1205059_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/59/1205059_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.0911042192",
+     "mapy":"35.2088924921",
+     "mlevel":"6",
+     "modifiedtime":"20220831145426",
+     "sigungucode":"6",
+     "tel":"",
+     "title":"복천박물관(부산)",
+     "zipcode":"47800",
+     "family":[
+        {
+           "유모차":"대여가능"
+        }
+     ],
+     "handi":[
+        {
+           "휠체어":"대여가능"
+        },
+        {
+           "출입통로":"경사로가 설치되어 있음(수동문)"
+        },
+        {
+           "엘리베이터":"장애인용 엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음(1층)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자유도로 있음_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "130166":{
+     "addr1":"부산광역시 해운대구 APEC로 58",
+     "addr2":"(우동)",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060500",
+     "contentid":"130166",
+     "contenttypeid":"14",
+     "createdtime":"20071106104508",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/62/2712662_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/62/2712662_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.1370458254",
+     "mapy":"35.1666980687",
+     "mlevel":"6",
+     "modifiedtime":"20230824100808",
+     "sigungucode":"16",
+     "tel":"",
+     "title":"부산시립미술관",
+     "zipcode":"48060",
+     "family":[
+        {
+           "유모차":"대여가능(안내소)"
+        },
+        {
+           "수유실":"수유실 있음 (안내소 뒤쪽)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "휠체어":"대여가능(안내데스크)"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음(남녀공용)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "130216":{
+     "addr1":"부산광역시 강서구 낙동북로 477 강서구청",
+     "addr2":"별관 3층",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060700",
+     "contentid":"130216",
+     "contenttypeid":"14",
+     "createdtime":"20071106104713",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"128.9805054495",
+     "mapy":"35.2113235102",
+     "mlevel":"6",
+     "modifiedtime":"20230629161051",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"부산 강서문화원",
+     "zipcode":"46702",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "130252":{
+     "addr1":"부산광역시 동래구 우장춘로 175",
+     "addr2":"",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060100",
+     "contentid":"130252",
+     "contenttypeid":"14",
+     "createdtime":"20071106104902",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/81/1155481_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/81/1155481_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.0759940639",
+     "mapy":"35.2219685247",
+     "mlevel":"6",
+     "modifiedtime":"20220518112304",
+     "sigungucode":"6",
+     "tel":"",
+     "title":"부산해양자연사박물관",
+     "zipcode":"47700",
+     "family":[
+        {
+           "유모차":"대여가능"
+        },
+        {
+           "수유실":"수유실 있음(1관 4층, 2관 연결다리)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음(수동문)"
+        },
+        {
+           "휠체어":"대여가능"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"장애인 엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음(1관 1~3층)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주 출입구 앞,각 전시실 앞,엘리베이터 앞)_시각장애인 편의시설"
+        },
+        {
+           "기타 지원 항목":"시각 장애인관 있음"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "130264":{
+     "addr1":"부산광역시 중구 중앙대로 130",
+     "addr2":"(중앙동4가)",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060500",
+     "contentid":"130264",
+     "contenttypeid":"14",
+     "createdtime":"20071106104935",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/91/2445491_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/91/2445491_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.0374394009",
+     "mapy":"35.1089749129",
+     "mlevel":"6",
+     "modifiedtime":"20230328131036",
+     "sigungucode":"15",
+     "tel":"",
+     "title":"한광미술관",
+     "zipcode":"48937",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함(전시장 내 휠체어 이용 용이)"
+        },
+        {
+           "출입통로":"주출입구는 경사로 있어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "130345":{
+     "addr1":"부산광역시 부산진구 엄광로 176",
+     "addr2":"(가야동)",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060900",
+     "contentid":"130345",
+     "contenttypeid":"14",
+     "createdtime":"20071106105322",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/22/1982322_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/22/1982322_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.0346331923",
+     "mapy":"35.1418461812",
+     "mlevel":"6",
+     "modifiedtime":"20230811110443",
+     "sigungucode":"7",
+     "tel":"",
+     "title":"동의대학교 중앙도서관",
+     "zipcode":"47340",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "엘리베이터":"엘레베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "안내요원":"안내요원 있음"
+        },
+        {
+           "기타 지원 항목":"시각장애인용'독서확대기'<br />\n장애인우편대출서비스<br />\n장애인용 자료 검색대<br />\n장애인용 일반열람실 지정석"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "130354":{
+     "addr1":"부산광역시 서구 감천로 262",
+     "addr2":"",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060900",
+     "contentid":"130354",
+     "contenttypeid":"14",
+     "createdtime":"20071106105344",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/07/1982307_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/07/1982307_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.0139810929",
+     "mapy":"35.0809776153",
+     "mlevel":"6",
+     "modifiedtime":"20230818140214",
+     "sigungucode":"11",
+     "tel":"",
+     "title":"고신대학교복음병원 의학도서관",
+     "zipcode":"49267",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 단차 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"장애인용 엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주출입구, 화장실, 엘리베이터)_시각장애인 편의시설"
+        },
+        {
+           "점자 홍보물 및 점자 표지판":"점자안내판 있음(입구)"
+        },
+        {
+           "유도안내설비":"점자손잡이 있음(경사로손잡이)"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "130380":{
+     "addr1":"부산광역시 기장군 기장읍 청강로74번길 35-6",
+     "addr2":"",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060700",
+     "contentid":"130380",
+     "contenttypeid":"14",
+     "createdtime":"20071106105500",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/30/1895730_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/30/1895730_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.2217032374",
+     "mapy":"35.2353502842",
+     "mlevel":"6",
+     "modifiedtime":"20230629152826",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"기장문화원",
+     "zipcode":"46080",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"주차장에서 출입구까지 평지로 연결 됨"
+        },
+        {
+           "출입통로":"주출입구에 경사로 설치되어 있음"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 이용가능한 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(시설안내)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "130381":{
+     "addr1":"부산광역시 동래구 문화로 80",
+     "addr2":"(명륜동)",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060700",
+     "contentid":"130381",
+     "contenttypeid":"14",
+     "createdtime":"20071106105501",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/32/1895732_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/32/1895732_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.0901153279",
+     "mapy":"35.2121004469",
+     "mlevel":"6",
+     "modifiedtime":"20230629113021",
+     "sigungucode":"6",
+     "tel":"",
+     "title":"동래문화원",
+     "zipcode":"47746",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(1층)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(출입구 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "130382":{
+     "addr1":"부산광역시 사상구 가야대로196번길 51",
+     "addr2":"(학장동)",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060700",
+     "contentid":"130382",
+     "contenttypeid":"14",
+     "createdtime":"20071106105503",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/42/1895742_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/42/1895742_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.9948587180",
+     "mapy":"35.1476309123",
+     "mlevel":"6",
+     "modifiedtime":"20230227102923",
+     "sigungucode":"9",
+     "tel":"",
+     "title":"사상문화원",
+     "zipcode":"47022",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(접근로~주출입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "130383":{
+     "addr1":"부산광역시 금정구 중앙대로1826번길 10-4",
+     "addr2":"(구서동)",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060700",
+     "contentid":"130383",
+     "contenttypeid":"14",
+     "createdtime":"20071106105505",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/17/1982317_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/17/1982317_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.0932029798",
+     "mapy":"35.2472993377",
+     "mlevel":"6",
+     "modifiedtime":"20221226181920",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"금정문화원",
+     "zipcode":"46250",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(2층)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "130483":{
+     "addr1":"부산광역시 금정구 금정도서관로 33",
+     "addr2":"",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060900",
+     "contentid":"130483",
+     "contenttypeid":"14",
+     "createdtime":"20071106110016",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/65/1982365_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/65/1982365_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.0962020218",
+     "mapy":"35.2726271087",
+     "mlevel":"6",
+     "modifiedtime":"20230403150551",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"부산금정도서관",
+     "zipcode":"46213",
+     "family":[
+        {
+           "영유아가족 기타 지원 항목":"유아실,어린이자료실 있음"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"장애인 주차구역 옆 턱이 없는 보조출입구 이용가능"
+        },
+        {
+           "출입통로":"주출입구는 계단이 있으나 보조출입구로 턱 없이 접근 가능함"
+        },
+        {
+           "엘리베이터":"장애인용 엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(접근로)_시각장애인 편의시설"
+        },
+        {
+           "점자 홍보물 및 점자 표지판":"점자안내판 있음"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "130484":{
+     "addr1":"부산광역시 금정구 체육공원로 7",
+     "addr2":"(구서동)",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060600",
+     "contentid":"130484",
+     "contenttypeid":"14",
+     "createdtime":"20071106110019",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.0944806842",
+     "mapy":"35.2459439575",
+     "mlevel":"6",
+     "modifiedtime":"20230308133919",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"부산 금정문화회관",
+     "zipcode":"46251",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "관람석":"장애인 전용 관람석 있음(9석)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "130521":{
+     "addr1":"부산광역시 서구 구덕로 225",
+     "addr2":"",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060100",
+     "contentid":"130521",
+     "contenttypeid":"14",
+     "createdtime":"20041007090000",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.0187911335",
+     "mapy":"35.1049250231",
+     "mlevel":"6",
+     "modifiedtime":"20230417111321",
+     "sigungucode":"11",
+     "tel":"",
+     "title":"동아대학교 석당박물관(부산)",
+     "zipcode":"49236",
+     "family":[
+        {
+           "유모차":"대여가능(1대,24개월이하,신분증보관)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "휠체어":"대여가능(무료,1대,신분증보관)"
+        },
+        {
+           "출입통로":"주출입구는 계단이 있으나 보조출입구는 경사로가 있음"
+        },
+        {
+           "엘리베이터":"장애인용 엘리베이터 있음(휠체어 2대 가용크기)"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(1층,2층)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(계단,입구)_시각장애인 편의시설"
+        },
+        {
+           "오디오 가이드":"음성안내기 이용가능"
+        },
+        {
+           "점자 홍보물 및 점자 표지판":"촉지안내도 있음"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "130606":{
+     "addr1":"부산광역시 기장군 기장읍 기장해안로 216",
+     "addr2":"",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060300",
+     "contentid":"130606",
+     "contenttypeid":"14",
+     "createdtime":"20050613090000",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.2223127383",
+     "mapy":"35.1911580230",
+     "mlevel":"6",
+     "modifiedtime":"20220908173448",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"수산과학관(부산)",
+     "zipcode":"46083",
+     "family":[
+        {
+           "유모차":"무료대여(3대)"
+        },
+        {
+           "수유실":"수유실 있음(전시관 뒷편)"
+        },
+        {
+           "영유아가족 기타 지원 항목":"영유아 프로그램 운영중임"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "휠체어":"무료대여(2대)"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(전시관 내,야외전시관 근처)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "130653":{
+     "addr1":"부산광역시 중구 충장대로 20",
+     "addr2":"",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060100",
+     "contentid":"130653",
+     "contenttypeid":"14",
+     "createdtime":"20050823090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/77/200477_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/77/200477_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.0383005496",
+     "mapy":"35.1048559456",
+     "mlevel":"6",
+     "modifiedtime":"20220510163611",
+     "sigungucode":"15",
+     "tel":"",
+     "title":"부산세관박물관",
+     "zipcode":"48940",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "130663":{
+     "addr1":"부산광역시 중구 동광길 49",
+     "addr2":"",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060300",
+     "contentid":"130663",
+     "contenttypeid":"14",
+     "createdtime":"20051013090000",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.0345397607",
+     "mapy":"35.1050336342",
+     "mlevel":"6",
+     "modifiedtime":"20230612171502",
+     "sigungucode":"15",
+     "tel":"",
+     "title":"40계단 문화관",
+     "zipcode":"48927",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음 (주출입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "130668":{
+     "addr1":"부산광역시 해운대구 APEC로 55",
+     "addr2":"",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060400",
+     "contentid":"130668",
+     "contenttypeid":"14",
+     "createdtime":"20051021090000",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.1363347095",
+     "mapy":"35.1691116738",
+     "mlevel":"6",
+     "modifiedtime":"20230728110100",
+     "sigungucode":"16",
+     "tel":"",
+     "title":"벡스코(BEXCO)",
+     "zipcode":"48060",
+     "family":[
+        {
+           "수유실":"수유실 있음(제2전시실 4A홀)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음(전시장,컨벤션홀,오디토리움)"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(전시장,컨벤션홀,오디토리움)"
+        },
+        {
+           "관람석":"장애인 전용 관람석 있음(20석,오디토리움)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(실내시설 연결됨)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "130737":{
+     "addr1":"부산광역시 부산진구 초읍천로 113-10",
+     "addr2":"",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060300",
+     "contentid":"130737",
+     "contenttypeid":"14",
+     "createdtime":"20060222090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/74/1982374_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/74/1982374_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.0455755619",
+     "mapy":"35.1828751212",
+     "mlevel":"6",
+     "modifiedtime":"20221005113043",
+     "sigungucode":"7",
+     "tel":"",
+     "title":"부산자유회관(부산통일관)",
+     "zipcode":"47100",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(접근로)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "130749":{
+     "addr1":"부산광역시 동래구 명안로46번길 35",
+     "addr2":"(명장동)",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060900",
+     "contentid":"130749",
+     "contenttypeid":"14",
+     "createdtime":"20060307090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/47/1982347_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/47/1982347_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.1065697598",
+     "mapy":"35.2008714550",
+     "mlevel":"6",
+     "modifiedtime":"20220914094812",
+     "sigungucode":"6",
+     "tel":"",
+     "title":"부산광역시립 명장도서관",
+     "zipcode":"47778",
+     "family":[
+        {
+           "영유아가족 기타 지원 항목":"어린이실 있음"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주출입구)_시각장애인 편의시설"
+        },
+        {
+           "유도안내설비":"점자손잡이 있음(경사로손잡이)"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "130751":{
+     "addr1":"부산광역시 사하구 승학로 247",
+     "addr2":"(괴정동)",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060900",
+     "contentid":"130751",
+     "contenttypeid":"14",
+     "createdtime":"20060307090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/48/1982348_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/48/1982348_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.9910824750",
+     "mapy":"35.1033496897",
+     "mlevel":"6",
+     "modifiedtime":"20220602141200",
+     "sigungucode":"10",
+     "tel":"",
+     "title":"부산광역시립 사하도서관",
+     "zipcode":"49321",
+     "family":[
+        {
+           "영유아가족 기타 지원 항목":"어린이실 있음(2층)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(계단,주출입구,관내 주요시설)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "130752":{
+     "addr1":"부산광역시 부산진구 월드컵대로 462",
+     "addr2":"(초읍동)",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060900",
+     "contentid":"130752",
+     "contenttypeid":"14",
+     "createdtime":"20060307090000",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.0501640534",
+     "mapy":"35.1828141013",
+     "mlevel":"6",
+     "modifiedtime":"20220906113909",
+     "sigungucode":"7",
+     "tel":"",
+     "title":"부산광역시립 시민도서관",
+     "zipcode":"47103",
+     "family":[
+        {
+           "영유아가족 기타 지원 항목":"꿈있는 책마을(영유아실)있음"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(1층)"
+        },
+        {
+           "기타 지원 항목":"장애인 정보누리터 운영"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주요시설 연결 됨)_시각장애인 편의시설"
+        },
+        {
+           "점자 홍보물 및 점자 표지판":"촉지안내도 있음"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "130766":{
+     "addr1":"부산광역시 해운대구 양운로 183",
+     "addr2":"(좌동)",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060900",
+     "contentid":"130766",
+     "contenttypeid":"14",
+     "createdtime":"20060320090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/67/1859067_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/67/1859067_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.1689871837",
+     "mapy":"35.1779224038",
+     "mlevel":"6",
+     "modifiedtime":"20230323111826",
+     "sigungucode":"16",
+     "tel":"",
+     "title":"부산 해운대도서관",
+     "zipcode":"48080",
+     "family":[
+        {
+           "수유실":"수유실 있음"
+        },
+        {
+           "영유아가족 기타 지원 항목":"어린이실 있음"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "엘리베이터":"장애인용 엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(접근로~주요시설 앞)_시각장애인 편의시설"
+        },
+        {
+           "점자 홍보물 및 점자 표지판":"점자안내판 있음(우동분관)"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "130774":{
+     "addr1":"부산광역시 영도구 태종로 729",
+     "addr2":"(동삼동)",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060300",
+     "contentid":"130774",
+     "contenttypeid":"14",
+     "createdtime":"20060327090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/48/1572248_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/48/1572248_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.0796423170",
+     "mapy":"35.0712160269",
+     "mlevel":"6",
+     "modifiedtime":"20230629105105",
+     "sigungucode":"14",
+     "tel":"",
+     "title":"동삼동패총전시관",
+     "zipcode":"49125",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구가지 단차가 없어 휠체어 접근 가능함_무장애 편의시설"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(패총인의 생활 앞)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "130793":{
+     "addr1":"부산광역시 영도구 함지로79번길 6",
+     "addr2":"(동삼동)",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060900",
+     "contentid":"130793",
+     "contenttypeid":"14",
+     "createdtime":"20060412090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/51/1895751_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/51/1895751_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.0660433825",
+     "mapy":"35.0755014082",
+     "mlevel":"6",
+     "modifiedtime":"20230629174537",
+     "sigungucode":"14",
+     "tel":"",
+     "title":"부산광역시 영도도서관",
+     "zipcode":"49114",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(접근로,주출입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "130795":{
+     "addr1":"부산광역시 중구 망양로193번길 146",
+     "addr2":"(보수동1가)",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060900",
+     "contentid":"130795",
+     "contenttypeid":"14",
+     "createdtime":"20060414090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/60/1982360_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/60/1982360_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.0269458417",
+     "mapy":"35.1099940500",
+     "mlevel":"6",
+     "modifiedtime":"20230322100911",
+     "sigungucode":"15",
+     "tel":"",
+     "title":"부산광역시립 중앙도서관",
+     "zipcode":"48903",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(1층)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음 (주요 시설 입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "130796":{
+     "addr1":"부산광역시 해운대구 재반로282번길 38",
+     "addr2":"",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060900",
+     "contentid":"130796",
+     "contenttypeid":"14",
+     "createdtime":"20060418090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/32/1982332_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/32/1982332_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.1338451325",
+     "mapy":"35.2020357183",
+     "mlevel":"6",
+     "modifiedtime":"20220525135915",
+     "sigungucode":"16",
+     "tel":"",
+     "title":"부산 반여도서관",
+     "zipcode":"48025",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(1층)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(실내시설 연결됨)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "130797":{
+     "addr1":"부산광역시 연제구 고분로191번길 16 부산광역시립연산도서관",
+     "addr2":"",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060900",
+     "contentid":"130797",
+     "contenttypeid":"14",
+     "createdtime":"20060418090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/23/1561923_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/23/1561923_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.1040120547",
+     "mapy":"35.1861091721",
+     "mlevel":"6",
+     "modifiedtime":"20220422171338",
+     "sigungucode":"13",
+     "tel":"",
+     "title":"부산광역시립 연산도서관",
+     "zipcode":"47558",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로 설치되어 있으나 부지 자체의 경사가 가파름"
+        },
+        {
+           "출입통로":"주출입구에 휠체어 접근 가능_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "130798":{
+     "addr1":"부산광역시 동구 성북로36번길 54",
+     "addr2":"(범일동)",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060900",
+     "contentid":"130798",
+     "contenttypeid":"14",
+     "createdtime":"20060418090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/28/1982328_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/28/1982328_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.0524428566",
+     "mapy":"35.1380885970",
+     "mlevel":"6",
+     "modifiedtime":"20230222174931",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"부산 동구도서관",
+     "zipcode":"48763",
+     "family":[
+        {
+           "영유아가족 기타 지원 항목":"어린이실 있음"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주출입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "130799":{
+     "addr1":"부산광역시 기장군 기장읍 차성동로126번길 13-5",
+     "addr2":"",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060900",
+     "contentid":"130799",
+     "contenttypeid":"14",
+     "createdtime":"20060418090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/56/1895756_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/56/1895756_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.2172810028",
+     "mapy":"35.2497097044",
+     "mlevel":"6",
+     "modifiedtime":"20230310101321",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"부산 기장도서관",
+     "zipcode":"46063",
+     "family":[
+        {
+           "수유실":"수유실 있음(1층 가족독서방 앞)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(1층)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "130801":{
+     "addr1":"부산광역시 금정구 서부로76번길 5",
+     "addr2":"(서동)",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060900",
+     "contentid":"130801",
+     "contenttypeid":"14",
+     "createdtime":"20060418090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/57/1982357_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/57/1982357_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.0994365249",
+     "mapy":"35.2198858586",
+     "mlevel":"6",
+     "modifiedtime":"20230807145422",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"부산광역시립 서동도서관",
+     "zipcode":"46313",
+     "family":[
+        {
+           "영유아가족 기타 지원 항목":"어린이실 있음"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(접근로,주출입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "130834":{
+     "addr1":"부산광역시 사상구 덕상로72번길 9",
+     "addr2":"",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060900",
+     "contentid":"130834",
+     "contenttypeid":"14",
+     "createdtime":"20060510090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/03/1895803_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/03/1895803_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.9898027697",
+     "mapy":"35.1781301800",
+     "mlevel":"6",
+     "modifiedtime":"20230629174135",
+     "sigungucode":"9",
+     "tel":"",
+     "title":"부산점자도서관",
+     "zipcode":"46938",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"주차장에서 출입구까지 계단 없이 평지(아스팔트)로 연결됨"
+        },
+        {
+           "출입통로":"주출입구에서 경사로가 완만하게 설치되어 있음"
+        },
+        {
+           "화장실":"장애인용 화장실 있음<br/>"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(접근로~출입로 시설 입구)_시각장애인 편의시설"
+        },
+        {
+           "기타 지원 항목":"점자도서(점자도서,점자라벨도서,점묵자 혼용도서,촉각도서)<br />\n전자도서,청각도서자료(테이프,CD,MP3),묵자도서 등\n시각장애인을 위한 도서컨텐츠 다수<br />\n전화,서신,이메일로 도서신청 가능하며 무료 우편으로 배달 가능"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "229912":{
+     "addr1":"부산광역시 해운대구 해운대해변로 266",
+     "addr2":"(중동)",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020600",
+     "contentid":"229912",
+     "contenttypeid":"14",
+     "createdtime":"20070716090000",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.1610328343",
+     "mapy":"35.1591965750",
+     "mlevel":"6",
+     "modifiedtime":"20230203093721",
+     "sigungucode":"16",
+     "tel":"",
+     "title":"SEA LIFE 부산아쿠아리움",
+     "zipcode":"48100",
+     "family":[
+        {
+           "수유실":"수유실 있음"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "휠체어":"대여가능"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음(지하1층)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주출입구)_시각장애인 편의시설"
+        },
+        {
+           "안내요원":"안내요원 있음"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1243628":{
+     "addr1":"부산광역시 북구 학사로 128",
+     "addr2":"(화명동)",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060300",
+     "contentid":"1243628",
+     "contenttypeid":"14",
+     "createdtime":"20110328235603",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/69/1982369_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/69/1982369_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.0084662884",
+     "mapy":"35.2337659545",
+     "mlevel":"6",
+     "modifiedtime":"20220826115656",
+     "sigungucode":"8",
+     "tel":"",
+     "title":"부산어촌민속관",
+     "zipcode":"46527",
+     "family":[
+        {
+           "유모차":"무료대여(2개)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "휠체어":"무료대여(1개)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1395604":{
+     "addr1":"부산광역시 부산진구 국악로 2",
+     "addr2":"(연지동)",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02061100",
+     "contentid":"1395604",
+     "contenttypeid":"14",
+     "createdtime":"20111005193136",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.0542528980",
+     "mapy":"35.1714404510",
+     "mlevel":"6",
+     "modifiedtime":"20221229101729",
+     "sigungucode":"7",
+     "tel":"",
+     "title":"국립부산국악원",
+     "zipcode":"47130",
+     "family":[
+        {
+           "수유실":"수유실 있음(공연장 2층)"
+        },
+        {
+           "영유아가족 기타 지원 항목":"어린이방을 운영중임(보모동반)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차 없이 평지로 연결 됨<br/>\n출입구까지 경사로 설치되어 있음"
+        },
+        {
+           "휠체어":"휠체어 무료대여(4대)"
+        },
+        {
+           "출입통로":"주출입구에 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음(점자블록,점자번호판)<br/>\n엘리베이터를 통해 외부에서 공연장까지 접근 가능함(엘리베이터가 외부와 연결되어 있음)"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(각 층)"
+        },
+        {
+           "관람석":"장애인 전용 관람석 있음(연악당8석,예지당3석,왕비의잔치3석)<br/>\n-연악당A열가 4석, 다 4석<br/>\n-예지당 나 3석 -왕비의 잔치 A열 3석"
+        },
+        {
+           "기타 지원 항목":"공연장 안내요원의 도움을 받을 수 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음_시각장애인 편의시설<br/>\n-국악원 야외의 접근로에서부터 원내 주요시설 앞까지 연결되어 있음\n(공연장 앞,계단 앞,엘리베이터 앞 등등)"
+        },
+        {
+           "오디오 가이드":"입구에 시각장애인 오디오 있음"
+        },
+        {
+           "유도안내설비":"점자손잡이 있음"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1607138":{
+     "addr1":"부산광역시 금정구 부산대학로63번길 2",
+     "addr2":"",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060100",
+     "contentid":"1607138",
+     "contenttypeid":"14",
+     "createdtime":"20120419192625",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.0798600805",
+     "mapy":"35.2333923163",
+     "mlevel":"6",
+     "modifiedtime":"20230223135900",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"부산대학교 박물관",
+     "zipcode":"46241",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 계단이 있고 보조출입구는 무단차임"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(부산대강의동 건물이용)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1607203":{
+     "addr1":"부산광역시 남구 수영로 309",
+     "addr2":"",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060100",
+     "contentid":"1607203",
+     "contenttypeid":"14",
+     "createdtime":"20120419203023",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.0969499828",
+     "mapy":"35.1422639512",
+     "mlevel":"6",
+     "modifiedtime":"20220713164318",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"경성대학교 조류관",
+     "zipcode":"48434",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(1층)"
+        },
+        {
+           "기타 지원 항목":"실내 단차구간 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1607637":{
+     "addr1":"부산광역시 북구 시랑로132번길 88",
+     "addr2":"(구포동)",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060300",
+     "contentid":"1607637",
+     "contenttypeid":"14",
+     "createdtime":"20120420012438",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/02/1572002_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/02/1572002_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.0042455100",
+     "mapy":"35.1944619491",
+     "mlevel":"6",
+     "modifiedtime":"20220826141209",
+     "sigungucode":"8",
+     "tel":"",
+     "title":"부산과학기술대학교 민속자료실",
+     "zipcode":"46639",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"박물관 내 장애인 화장실이 없어 대학교 강의건물 이용"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1608530":{
+     "addr1":"부산광역시 서구 임시수도기념로 45",
+     "addr2":"(부민동3가)",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060200",
+     "contentid":"1608530",
+     "contenttypeid":"14",
+     "createdtime":"20120420191505",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.0176357101",
+     "mapy":"35.1037640206",
+     "mlevel":"6",
+     "modifiedtime":"20230228155649",
+     "sigungucode":"11",
+     "tel":"",
+     "title":"임시수도기념관",
+     "zipcode":"49236",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"정문은 평지로 휠체어 통과 가능\n 관저와 전시관 연결 경사로 있어 휠체어 통과 가능함\n 관저 현관에 문턱이 있어 휠체어 접근 어려움 전시관 정문 경사로 설치되어 있어 휠체어 통과 가능"
+        },
+        {
+           "휠체어":"휠체어 무료 대여(안내데스크,신분증보관)"
+        },
+        {
+           "출입통로":"전시관 주출입구에 휠체어가 통과 가능함(수동문) 대통령관저 주출입구는 현관문에 턱이 있어 휠체어 접근이 어려움"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1608725":{
+     "addr1":"부산광역시 동래구 우장춘로62번길 7",
+     "addr2":"(온천동)",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060200",
+     "contentid":"1608725",
+     "contenttypeid":"14",
+     "createdtime":"20120421000204",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.0720279747",
+     "mapy":"35.2135249530",
+     "mlevel":"6",
+     "modifiedtime":"20230423054836",
+     "sigungucode":"6",
+     "tel":"",
+     "title":"우장춘기념관",
+     "zipcode":"47720",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"정문은 계단 및 자갈이 있어 주차장에서 주차 후 별도로 마련된 경사로 출입구를 이용(주차장 오른쪽)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1747870":{
+     "addr1":"부산광역시 동래구 문화로 80 동래문화회관",
+     "addr2":"",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060600",
+     "contentid":"1747870",
+     "contenttypeid":"14",
+     "createdtime":"20121106000845",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.0905625108",
+     "mapy":"35.2121198984",
+     "mlevel":"6",
+     "modifiedtime":"20230403144235",
+     "sigungucode":"6",
+     "tel":"",
+     "title":"동래문화회관",
+     "zipcode":"47746",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음(전시관,대공연장 건물)"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(대소극장,전시관)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1747913":{
+     "addr1":"부산광역시 북구 금곡대로46번길 50",
+     "addr2":"(덕천동)",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060600",
+     "contentid":"1747913",
+     "contenttypeid":"14",
+     "createdtime":"20121106004729",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.0057670798",
+     "mapy":"35.2134515157",
+     "mlevel":"6",
+     "modifiedtime":"20230413135910",
+     "sigungucode":"8",
+     "tel":"",
+     "title":"북구문화예술회관 공연장",
+     "zipcode":"46547",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "휠체어":"대여가능"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "엘리베이터":"장애인용 엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음(공연장 복도,빙상장 매표소)"
+        },
+        {
+           "관람석":"장애인 전용 좌석 있음 (무대 앞 가-1,가-2,나-1,나-2)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자유도로 있음_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1747948":{
+     "addr1":"부산광역시 영도구 함지로79번길 6",
+     "addr2":"(동삼동)",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060600",
+     "contentid":"1747948",
+     "contenttypeid":"14",
+     "createdtime":"20121106005527",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.0660433825",
+     "mapy":"35.0755014082",
+     "mlevel":"6",
+     "modifiedtime":"20230228140231",
+     "sigungucode":"14",
+     "tel":"",
+     "title":"영도문화예술회관",
+     "zipcode":"49114",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "출입통로":"주출입구는 계단이 있으며 보조출입구로 무단차 접근 가능함"
+        },
+        {
+           "관람석":"장애인 전용 관람석 있음(대공연장 6석,소공연장 4석)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(출입구 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1748028":{
+     "addr1":"부산광역시 사하구 낙동남로1233번길 25",
+     "addr2":"(하단동)",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060600",
+     "contentid":"1748028",
+     "contenttypeid":"14",
+     "createdtime":"20121106014704",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"128.9447641030",
+     "mapy":"35.1099925394",
+     "mlevel":"6",
+     "modifiedtime":"20230210092758",
+     "sigungucode":"10",
+     "tel":"",
+     "title":"을숙도문화회관",
+     "zipcode":"49300",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 휠체어를 위한 별도의 경사로통로가 있음(장애인표지판)"
+        },
+        {
+           "출입통로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "엘리베이터":"장애인용 엘리베이터 있음"
+        },
+        {
+           "관람석":"장애인 전용 관람석 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자유도로 있음_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1748157":{
+     "addr1":"부산광역시 해운대구 양운로 97 해운대문화회관",
+     "addr2":"",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060600",
+     "contentid":"1748157",
+     "contenttypeid":"14",
+     "createdtime":"20121106015237",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.1740313744",
+     "mapy":"35.1711815853",
+     "mlevel":"6",
+     "modifiedtime":"20220524131710",
+     "sigungucode":"16",
+     "tel":"",
+     "title":"해운대문화회관",
+     "zipcode":"48102",
+     "family":[
+        {
+           "수유실":"수유실 있음"
+        },
+        {
+           "영유아가족 기타 지원 항목":"놀이방 운영"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "엘리베이터":"장애인용 엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음(1층)"
+        },
+        {
+           "관람석":"장애인 전용 관람석 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자유도로 있음_시각장애인 편의시설"
+        },
+        {
+           "점자 홍보물 및 점자 표지판":"점자안내판 있음(주출입구 앞)"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1756065":{
+     "addr1":"부산광역시 동구 자성로 99",
+     "addr2":"(범일동)",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060100",
+     "contentid":"1756065",
+     "contenttypeid":"14",
+     "createdtime":"20121122203318",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.0620170875",
+     "mapy":"35.1357723666",
+     "mlevel":"6",
+     "modifiedtime":"20230802201249",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"조선통신사역사관",
+     "zipcode":"48746",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함_무장애 편의시설"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(대문 오른쪽)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(출입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1825843":{
+     "addr1":"부산광역시 영도구 해양로301번길 45",
+     "addr2":"",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060100",
+     "contentid":"1825843",
+     "contenttypeid":"14",
+     "createdtime":"20130708192833",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.0803198368",
+     "mapy":"35.0785402199",
+     "mlevel":"6",
+     "modifiedtime":"20230728093106",
+     "sigungucode":"14",
+     "tel":"",
+     "title":"국립해양박물관",
+     "zipcode":"49111",
+     "family":[
+        {
+           "유모차":"유모차 대여 가능 (2층안내소)"
+        },
+        {
+           "수유실":"수유실 있음(2,4층, 4층에 전자레인지 있음)"
+        },
+        {
+           "영유아가족 기타 지원 항목":"2층 수유실앞 유아전용 화장실 있음 \n 실외놀이터  화장실에 기저귀교환대, 영유아보호의자, 남아소변기, 유아세면대 있음 \n장애인화장실에 기저귀교환대, 영유아보호의자 있음어린이 박물관 내 키즈 마술쇼, 종이접기 등 체험 프로그램다양"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "휠체어":"무료대여(1층 안내데스크-1대,2층-2대)"
+        },
+        {
+           "출입통로":"주차장(야외)에서 주출입구(2층) 이동시 엘리베이터 이용"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음(2대이상 가능크기)"
+        },
+        {
+           "화장실":"장애인전용 화장실 있음(각 층마다)"
+        },
+        {
+           "관람석":"4D 영상관 내 휠체어석 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(출입구,화장실 앞)_시각장애인 편의시설"
+        },
+        {
+           "점자 홍보물 및 점자 표지판":"촉지안내도 있음"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1839022":{
+     "addr1":"부산광역시 중구 대청로126번길 12",
+     "addr2":"(동광동3가) 부산영화체험박물관 2층",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060500",
+     "contentid":"1839022",
+     "contenttypeid":"14",
+     "createdtime":"20130820000626",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/51/2539151_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/51/2539151_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.0336899238",
+     "mapy":"35.1017589855",
+     "mlevel":"6",
+     "modifiedtime":"20230330104735",
+     "sigungucode":"15",
+     "tel":"",
+     "title":"부산 트릭아이뮤지엄",
+     "zipcode":"48950",
+     "family":[
+        {
+           "수유실":"수유실 있음"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능(수동문,자동문)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1918263":{
+     "addr1":"부산광역시 해운대구 동백로 116",
+     "addr2":"",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060400",
+     "contentid":"1918263",
+     "contenttypeid":"14",
+     "createdtime":"20140509230900",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/17/781017_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/17/781017_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.1513116443",
+     "mapy":"35.1523943787",
+     "mlevel":"6",
+     "modifiedtime":"20230209132505",
+     "sigungucode":"16",
+     "tel":"",
+     "title":"누리마루 APEC하우스",
+     "zipcode":"48100",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "휠체어":"휠체어무료대여가능 (3층, 2대구비)"
+        },
+        {
+           "출입통로":"동백공원 장애인 전용주차장에서 출발해 산책로 아래쪽 도로를 따라온 탐방객은 1층 엘리베이터를 이용해 3층 전시 공간으로 진입"
+        },
+        {
+           "엘리베이터":"장애인용 엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인전용화장실(남녀구분) 있음(3층)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자유도로 있음_시각장애인 편의시설"
+        },
+        {
+           "오디오 가이드":"한국어 해설영상 제공"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1940446":{
+     "addr1":"부산광역시 금정구 죽전1길 29",
+     "addr2":"",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060500",
+     "contentid":"1940446",
+     "contenttypeid":"14",
+     "createdtime":"20140811230436",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.0542062355",
+     "mapy":"35.2524397057",
+     "mlevel":"6",
+     "modifiedtime":"20230302101835",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"킴스아트필드미술관",
+     "zipcode":"46237",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "출입통로":"1관출입구에는 계단이 2칸있음, 2관출입구는 무단차로 휠체어로 건물진입 가능"
+        },
+        {
+           "화장실":"장애인전용화장실 있음 (공용)_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1940880":{
+     "addr1":"부산광역시 금정구 팔송로 60-6",
+     "addr2":"(남산동)",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060200",
+     "contentid":"1940880",
+     "contenttypeid":"14",
+     "createdtime":"20140813013944",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.0857918242",
+     "mapy":"35.2723686113",
+     "mlevel":"6",
+     "modifiedtime":"20230320194958",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"요산김정한문학관",
+     "zipcode":"46217",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 평지로 되어 있으나 흙(돌) 구간 있음"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2019594":{
+     "addr1":"부산광역시 영도구 해양로301번길 23",
+     "addr2":"",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060300",
+     "contentid":"2019594",
+     "contenttypeid":"14",
+     "createdtime":"20150721012333",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/51/2019551_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/51/2019551_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.0779422192",
+     "mapy":"35.0802260985",
+     "mlevel":"6",
+     "modifiedtime":"20220715101246",
+     "sigungucode":"14",
+     "tel":"",
+     "title":"해양환경공단 해양환경교육원(부산)",
+     "zipcode":"49111",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "출입통로":"경사로를 이용하여 휠체어로 출입가능"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(1층)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2385666":{
+     "addr1":"부산광역시 기장군 기장읍 동부산관광6로 59",
+     "addr2":"",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060300",
+     "contentid":"2385666",
+     "contenttypeid":"14",
+     "createdtime":"20160530182720",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/23/2371123_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/23/2371123_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.2127159794",
+     "mapy":"35.2046146711",
+     "mlevel":"6",
+     "modifiedtime":"20221107212709",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"국립부산과학관",
+     "zipcode":"46081",
+     "family":[
+        {
+           "유모차":"유모차 대여가능(25대,신분증 보관)"
+        },
+        {
+           "수유실":"수유실 있음(전자렌지,유아침대 있음)"
+        },
+        {
+           "영유아가족 기타 지원 항목":"어린이관 운영"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘레베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2550799":{
+     "addr1":"부산광역시 동래구 충렬대로202번가길 13",
+     "addr2":"",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060100",
+     "contentid":"2550799",
+     "contenttypeid":"14",
+     "createdtime":"20180614233446",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/98/2550798_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/98/2550798_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.0824607235",
+     "mapy":"35.2017320232",
+     "mlevel":"6",
+     "modifiedtime":"20230106154803",
+     "sigungucode":"6",
+     "tel":"",
+     "title":"한국기독교선교박물관",
+     "zipcode":"47817",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "엘리베이터":"장애인용 엘리베이터 있음(휠체어 2대크기)"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2551424":{
+     "addr1":"부산광역시 남구 홍곡로320번길 100",
+     "addr2":"(대연동)",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060300",
+     "contentid":"2551424",
+     "contenttypeid":"14",
+     "createdtime":"20180620201049",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/17/2551417_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/17/2551417_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.0918731368",
+     "mapy":"35.1243241989",
+     "mlevel":"6",
+     "modifiedtime":"20220818171953",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"국립일제강제동원역사관",
+     "zipcode":"48532",
+     "family":[
+        {
+           "유모차":"유모차 무료 대여(2대/신분증 지참/안내데스크에서 대여)"
+        },
+        {
+           "수유실":"수유실 있음(4층)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "휠체어":"휠체어 무료 대여(2대/신분증 지참/안내데스크에서 대여)"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"장애인용 엘리베이터 있음<br />\n추모공원 휠체어리프트 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음(4층,남녀분리)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자유도로 있음_시각장애인 편의시설"
+        },
+        {
+           "보조견 동반":"동반가능"
+        },
+        {
+           "오디오 가이드":"전시음성안내 제공"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2556598":{
+     "addr1":"부산광역시 기장군 정관읍 정관중앙로 122",
+     "addr2":"",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060100",
+     "contentid":"2556598",
+     "contenttypeid":"14",
+     "createdtime":"20180807020507",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/90/2556590_image2_1.JPG",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/90/2556590_image2_1.JPG",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.1849372349",
+     "mapy":"35.3269448875",
+     "mlevel":"6",
+     "modifiedtime":"20230223134107",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"정관박물관",
+     "zipcode":"46019",
+     "family":[
+        {
+           "유모차":"유모차 무료 대여(2대,1층안내데스크,신분증보관)"
+        },
+        {
+           "수유실":"수유실 있음(3층)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "휠체어":"휠체어 무료 대여(2대,1층안내데스크,신분증보관)"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "엘리베이터":"장애인용 엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음(1,3층,남녀분리)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주출입구 앞,엘리베이터 앞,화장실 앞)_시각장애인 편의시설"
+        },
+        {
+           "유도안내설비":"점자손잡이 있음(1층 계단)"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2558329":{
+     "addr1":"부산광역시 남구 홍곡로320번길 106",
+     "addr2":"(대연동)",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060200",
+     "contentid":"2558329",
+     "contenttypeid":"14",
+     "createdtime":"20180821192126",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/24/2558324_image2_1.JPG",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/24/2558324_image2_1.JPG",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.0933063256",
+     "mapy":"35.1250519219",
+     "mlevel":"6",
+     "modifiedtime":"20230323102214",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"유엔평화기념관",
+     "zipcode":"48532",
+     "family":[
+        {
+           "유모차":"무료 대여 가능(3대)"
+        },
+        {
+           "수유실":"수유실 있음(3층)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구가지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "휠체어":"무료 대여 가능(6대)"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"장애인용 엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2565356":{
+     "addr1":"부산광역시 해운대구 센텀동로 41",
+     "addr2":"부산정보산업진흥원 2층",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060300",
+     "contentid":"2565356",
+     "contenttypeid":"14",
+     "createdtime":"20181107184146",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/55/2565355_image2_1.bmp",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/55/2565355_image2_1.bmp",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.1307239832",
+     "mapy":"35.1728778149",
+     "mlevel":"6",
+     "modifiedtime":"20230221100919",
+     "sigungucode":"16",
+     "tel":"",
+     "title":"부산 스마트시티 전시관",
+     "zipcode":"48059",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2605688":{
+     "addr1":"부산광역시 사하구 낙동남로 1191 부산현대미술관",
+     "addr2":"",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060500",
+     "contentid":"2605688",
+     "contenttypeid":"14",
+     "createdtime":"20190610221751",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/82/2603382_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/82/2603382_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.9427198532",
+     "mapy":"35.1093703494",
+     "mlevel":"6",
+     "modifiedtime":"20230308113550",
+     "sigungucode":"10",
+     "tel":"",
+     "title":"부산현대미술관",
+     "zipcode":"49300",
+     "family":[
+        {
+           "유모차":"대여가능(3대)"
+        },
+        {
+           "수유실":"수유실 있음"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "휠체어":"대여가능(3대)"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음_시각장애인 편의시설"
+        },
+        {
+           "점자 홍보물 및 점자 표지판":"점자안내판 있음"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2650801":{
+     "addr1":"부산광역시 해운대구 센텀서로 20",
+     "addr2":"(우동)",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060500",
+     "contentid":"2650801",
+     "contenttypeid":"14",
+     "createdtime":"20200330225944",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.1290602788",
+     "mapy":"35.1714112817",
+     "mlevel":"6",
+     "modifiedtime":"20230615153719",
+     "sigungucode":"16",
+     "tel":"",
+     "title":"뮤지엄 원",
+     "zipcode":"48058",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음(1층)"
+        },
+        {
+           "관람석":"장애인 전용 관람석은 없으나 휠체어 접근 가능한 공간 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주출입구)<br />\n점자유도로 있음_시각장애인 편의시설"
+        },
+        {
+           "안내요원":"안내요원 있음(1층 안내데스크)"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2714515":{
+     "addr1":"부산광역시 강서구 거가대로 2571",
+     "addr2":"(천성동)",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060300",
+     "contentid":"2714515",
+     "contenttypeid":"14",
+     "createdtime":"20210426185430",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"128.8096309940",
+     "mapy":"35.0230581337",
+     "mlevel":"6",
+     "modifiedtime":"20221104144136",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"거가대교 홍보전시관",
+     "zipcode":"46770",
+     "family":[
+        {
+           "수유실":"수유실 있음"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자유도로 있음_시각장애인 편의시설"
+        },
+        {
+           "안내요원":"안내요원 있음(관광안내소)"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2720650":{
+     "addr1":"부산광역시 영도구 해양로195번길 180",
+     "addr2":"(동삼동)",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0203",
+     "cat3":"A02030400",
+     "contentid":"2720650",
+     "contenttypeid":"14",
+     "createdtime":"20210611024556",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.0767921517",
+     "mapy":"35.0863698352",
+     "mlevel":"6",
+     "modifiedtime":"20230811161814",
+     "sigungucode":"14",
+     "tel":"",
+     "title":"피아크 P.ARK",
+     "zipcode":"49013",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주 출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음 (장애인용/휠체어 2대크기)"
+        },
+        {
+           "화장실":"장애인용 화장실 있음 (1, 2, 4, 5, 6층)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주출입구)_시각장애인 편의시설"
+        },
+        {
+           "안내요원":"안내데스크 있음(1층 로비/경비업체)"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2732346":{
+     "addr1":"부산광역시 수영구 구락로123번길 20",
+     "addr2":"(망미동)",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060300",
+     "contentid":"2732346",
+     "contenttypeid":"14",
+     "createdtime":"20210809232659",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/59/2732359_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/59/2732359_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.1156002056",
+     "mapy":"35.1762660444",
+     "mlevel":"6",
+     "modifiedtime":"20221103172919",
+     "sigungucode":"12",
+     "tel":"",
+     "title":"현대 모터스튜디오 부산",
+     "zipcode":"48212",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주출입구)_시각장애인 편의시설"
+        },
+        {
+           "안내요원":"안내요원 있음"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2736377":{
+     "addr1":"부산광역시 영도구 벚꽃길 75",
+     "addr2":"(청학동)",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060200",
+     "contentid":"2736377",
+     "contenttypeid":"14",
+     "createdtime":"20210825185747",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/71/2736471_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/71/2736471_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.0583548936",
+     "mapy":"35.0853307223",
+     "mlevel":"6",
+     "modifiedtime":"20230623163728",
+     "sigungucode":"14",
+     "tel":"",
+     "title":"영도 조내기 고구마 역사기념관",
+     "zipcode":"49087",
+     "family":[
+        {
+           "수유실":"수유실 있음(1층)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+        },
+        {
+           "안내요원":"안내요원 있음"
+        },
+        {
+           "점자 홍보물 및 점자 표지판":"점자안내판 있음"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2784363":{
+     "addr1":"부산광역시 중구 대청로 104",
+     "addr2":"(대청동2가)",
+     "areacode":"6",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060100",
+     "contentid":"2784363",
+     "contenttypeid":"14",
+     "createdtime":"20211201194130",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/50/2787750_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/50/2787750_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.0312012262",
+     "mapy":"35.1026838356",
+     "mlevel":"6",
+     "modifiedtime":"20230321145421",
+     "sigungucode":"15",
+     "tel":"",
+     "title":"부산근대역사관",
+     "zipcode":"48949",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"안내요원 있음_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2823059":{
+     "addr1":"부산광역시 기장군 임랑해안길 1 박태준기념관",
+     "addr2":"",
+     "areacode":"6",
+     "booktour":"",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060200",
+     "contentid":"2823059",
+     "contenttypeid":"14",
+     "createdtime":"20220608110246",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/54/2823054_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/54/2823054_image3_1.jpg",
+     "cpyrhtDivCd":"Type1",
+     "mapx":"129.2612503134",
+     "mapy":"35.3169141022",
+     "mlevel":"6",
+     "modifiedtime":"20220613104738",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"박태준기념관",
+     "zipcode":"46038",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "화장실":"장애인 화장실 있음(전시관동)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "안내요원":"안내요원 있음(1층 로비)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  }
+}

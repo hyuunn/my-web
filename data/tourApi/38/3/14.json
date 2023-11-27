@@ -1,0 +1,151 @@
+{
+  "129991": {
+    "addr1": "전라남도 곡성군 곡성읍 곡성로 855",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060700",
+    "contentid": "129991",
+    "contenttypeid": "14",
+    "createdtime": "20071106103800",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.2974151402",
+    "mapy": "35.2804829367",
+    "mlevel": "6",
+    "modifiedtime": "20230913105637",
+    "sigungucode": "3",
+    "tel": "",
+    "title": "곡성문화원",
+    "zipcode": "57535",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1054221": {
+    "addr1": "전라남도 곡성군 곡성읍 곡성로 855",
+    "addr2": "(곡성읍)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060600",
+    "contentid": "1054221",
+    "contenttypeid": "14",
+    "createdtime": "20100703001505",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/43/3026943_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/43/3026943_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2971596157",
+    "mapy": "35.2801301942",
+    "mlevel": "6",
+    "modifiedtime": "20231027170703",
+    "sigungucode": "3",
+    "tel": "",
+    "title": "곡성레저문화센터",
+    "zipcode": "57535",
+    "family": [],
+    "handi": [
+      {
+        "휠체어": "휠체어 대여가능"
+      },
+      {
+        "출입통로": "출입구 경사로"
+      },
+      {
+        "엘리베이터": "엘리베이터/리프트"
+      },
+      {
+        "화장실": "장애인전용 화장실 있음 (1층)"
+      },
+      {
+        "관람석": "휠체어석 있음 (1층 양쪽문 사이 10석)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2663258": {
+    "addr1": "전라남도 곡성군 오곡면 기차마을로 232",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "2663258",
+    "contenttypeid": "14",
+    "createdtime": "20200711014252",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/59/2663259_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/59/2663259_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3082975874",
+    "mapy": "35.2775723415",
+    "mlevel": "6",
+    "modifiedtime": "20230817165559",
+    "sigungucode": "3",
+    "tel": "",
+    "title": "한국초콜릿연구소 뮤지엄 곡성지점",
+    "zipcode": "57544",
+    "family": [
+      {
+        "유모차": "대여가능"
+      },
+      {
+        "영유아가족 기타 지원 항목": "놀이방 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음(안내데스크)"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

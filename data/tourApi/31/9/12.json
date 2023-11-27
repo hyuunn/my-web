@@ -1,0 +1,812 @@
+{
+  "125546": {
+    "addr1": "경기도 남양주시 진접읍 광릉수목원로 354",
+    "addr2": "(진접읍)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010700",
+    "contentid": "125546",
+    "contenttypeid": "12",
+    "createdtime": "20031128090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/79/2364479_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/79/2364479_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1767420667",
+    "mapy": "37.7528333807",
+    "mlevel": "6",
+    "modifiedtime": "20230309134729",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "남양주 광릉(세조,정희왕후) [유네스코 세계문화유산]",
+    "zipcode": "12001",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음 (2개)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "연속적으로 설치되어 있음_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "125548": {
+    "addr1": "경기도 남양주시 홍유릉로 352-1",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010700",
+    "contentid": "125548",
+    "contenttypeid": "12",
+    "createdtime": "20031128090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/20/2005620_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/20/2005620_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2096231122",
+    "mapy": "37.6315564164",
+    "mlevel": "6",
+    "modifiedtime": "20230329143511",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "남양주 홍릉(고종과 명성황후)과 유릉(순종과 순명,순정 황후) [유네스코 세계문화유산]",
+    "zipcode": "12238",
+    "family": [
+      {
+        "유모차": "대여가능"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      },
+      {
+        "휠체어": "휠체어 대여 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "126539": {
+    "addr1": "경기도 남양주시 진접읍 봉선사길 32",
+    "addr2": "(진접읍)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010800",
+    "contentid": "126539",
+    "contenttypeid": "12",
+    "createdtime": "20031128090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/84/2678584_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/84/2678584_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1837471484",
+    "mapy": "37.7471036189",
+    "mlevel": "6",
+    "modifiedtime": "20230719134656",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "봉선사(경기)",
+    "zipcode": "12001",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "126806": {
+    "addr1": "경기도 남양주시 조안면 다산로747번길 11",
+    "addr2": "(조안면)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010700",
+    "contentid": "126806",
+    "contenttypeid": "12",
+    "createdtime": "20031014090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/56/920056_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/56/920056_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2992793643",
+    "mapy": "37.5165547311",
+    "mlevel": "6",
+    "modifiedtime": "20220513134818",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "다산유적지(남양주)",
+    "zipcode": "12283",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "유적지 뒤편으로는 다산의 생가와 묘가 있는데 다산의 묘는 산 위에 있어서 접근이 어려움"
+      },
+      {
+        "휠체어": "수동휠체어 3대 무료 대여 가능함(입구 관리사무소)"
+      },
+      {
+        "출입통로": "주출입구 경사로설치됨"
+      },
+      {
+        "엘리베이터": "있음"
+      },
+      {
+        "화장실": "장애인전용 화장실 있음(출입문이 주름문(자바라)으로 되어 있음)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "127818": {
+    "addr1": "경기도 남양주시 수동면 축령산로 299",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010600",
+    "contentid": "127818",
+    "contenttypeid": "12",
+    "createdtime": "20030701090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/38/2617838_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/38/2617838_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3132573374",
+    "mapy": "37.7548439679",
+    "mlevel": "6",
+    "modifiedtime": "20230320214607",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "축령산자연휴양림",
+    "zipcode": "12025",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함(등산로 휠체어 진입 불가)"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "250408": {
+    "addr1": "경기도 남양주시 진건읍 사릉로 180",
+    "addr2": "(진건읍)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010700",
+    "contentid": "250408",
+    "contenttypeid": "12",
+    "createdtime": "20071026090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/44/2480844_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/44/2480844_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1973099372",
+    "mapy": "37.6457823166",
+    "mlevel": "6",
+    "modifiedtime": "20230220102121",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "남양주 사릉(정순왕후) [유네스코 세계문화유산]",
+    "zipcode": "12140",
+    "family": [
+      {
+        "유모차": "대여가능"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "612826": {
+    "addr1": "경기도 남양주시 조안면 삼봉리",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030100",
+    "contentid": "612826",
+    "contenttypeid": "12",
+    "createdtime": "20080821021211",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/34/2481334_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/34/2481334_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3388234571",
+    "mapy": "37.5970905473",
+    "mlevel": "6",
+    "modifiedtime": "20230524102053",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "삼봉리 한식마을",
+    "zipcode": "12278",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "780768": {
+    "addr1": "경기도 남양주시 화도읍 폭포로 562",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010800",
+    "contentid": "780768",
+    "contenttypeid": "12",
+    "createdtime": "20090819193036",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/20/2444820_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/20/2444820_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3459579117",
+    "mapy": "37.6320477289",
+    "mlevel": "6",
+    "modifiedtime": "20230324175606",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "화도푸른물센터 피아노폭포",
+    "zipcode": "12194",
+    "family": [
+      {
+        "수유실": "수유실 있음"
+      },
+      {
+        "영유아가족 기타 지원 항목": "기저귀교환대 있음(화장실 내)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "장애인 엘리베이터 있음(건물외부와 연결 됨)"
+      },
+      {
+        "화장실": "장애인 화장실 있음(피아노화장실 이용, 점자안내 있음)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(계단,엘리베이터 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1213516": {
+    "addr1": "경기도 남양주시 수동면 비룡로 1635",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030100",
+    "contentid": "1213516",
+    "contenttypeid": "12",
+    "createdtime": "20110222234150",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/22/1782022_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/22/1782022_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2759606441",
+    "mapy": "37.7580762441",
+    "mlevel": "6",
+    "modifiedtime": "20221109091605",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "몽골문화촌",
+    "zipcode": "12024",
+    "family": [],
+    "handi": [
+      {
+        "휠체어": "휠체어 대여 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1312443": {
+    "addr1": "경기도 남양주시 불암산로59번길 48-31",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010700",
+    "contentid": "1312443",
+    "contenttypeid": "12",
+    "createdtime": "20110620184134",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/52/2049352_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/52/2049352_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0988548862",
+    "mapy": "37.6504494362",
+    "mlevel": "6",
+    "modifiedtime": "20230125131713",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "산들소리",
+    "zipcode": "12100",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "장애인 화장실 2개 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2500687": {
+    "addr1": "경기도 남양주시 조안면 다산로 767",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010500",
+    "contentid": "2500687",
+    "contenttypeid": "12",
+    "createdtime": "20170721010625",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.2983933950",
+    "mapy": "37.5144132971",
+    "mlevel": "6",
+    "modifiedtime": "20230512102646",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "다산생태공원",
+    "zipcode": "12283",
+    "family": [
+      {
+        "수유실": "수유실 있음(인포메이션 센터)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 평지로 되어 있으나 흙구간 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(주차장 앞,경사로)"
+      },
+      {
+        "기타 지원 항목": "소내나루 전망대(데크로드로 된 경사로)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2602619": {
+    "addr1": "경기도 남양주시 조안면 북한강로 398",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010700",
+    "contentid": "2602619",
+    "contenttypeid": "12",
+    "createdtime": "20190521200132",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/12/2675412_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/12/2675412_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3132463631",
+    "mapy": "37.5575613373",
+    "mlevel": "6",
+    "modifiedtime": "20230313112138",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "물의정원",
+    "zipcode": "12281",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2633910": {
+    "addr1": "경기도 남양주시 수동면 지둔로307번길 47-4",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010700",
+    "contentid": "2633910",
+    "contenttypeid": "12",
+    "createdtime": "20191107223849",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/91/2637891_image2_1.bmp",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/91/2637891_image2_1.bmp",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2956131424",
+    "mapy": "37.7058187921",
+    "mlevel": "6",
+    "modifiedtime": "20230927143214",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "물맑음수목원",
+    "zipcode": "12028",
+    "family": [
+      {
+        "유모차": "대여가능"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함(목재문화체험장)"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(목재문화체험장)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음(목재문화체험장)"
+      },
+      {
+        "화장실": "장애인 화장실 있음(목재문화체험장, 야외)"
+      },
+      {
+        "기타 지원 항목": "수목원 이용시 흙(돌) 구간/경사로가 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설(목재문화체험장)"
+      },
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "안내요원": "숲해설자 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2733839": {
+    "addr1": "경기도 남양주시 와부읍 덕소로2번길 15",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2733839",
+    "contenttypeid": "12",
+    "createdtime": "20210813191433",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/82/2740382_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/82/2740382_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2047303235",
+    "mapy": "37.5893306777",
+    "mlevel": "6",
+    "modifiedtime": "20230302101937",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "남양주한강변시민공원",
+    "zipcode": "12216",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2734937": {
+    "addr1": "경기도 남양주시 다산순환로 149",
+    "addr2": "(다산동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2734937",
+    "contenttypeid": "12",
+    "createdtime": "20210818230810",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/09/2735009_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/09/2735009_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1442237502",
+    "mapy": "37.6232950799",
+    "mlevel": "6",
+    "modifiedtime": "20231025131019",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "다산수변공원",
+    "zipcode": "12248",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2735280": {
+    "addr1": "경기도 남양주시 강변북로632번길 41-9",
+    "addr2": "(수석동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2735280",
+    "contenttypeid": "12",
+    "createdtime": "20210819230358",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/74/2735374_image2_1.jpeg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/74/2735374_image2_1.jpeg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1736221229",
+    "mapy": "37.5865721013",
+    "mlevel": "6",
+    "modifiedtime": "20221220165918",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "남양주한강체육공원(남양주 수석동 체육공원)",
+    "zipcode": "12268",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2765504": {
+    "addr1": "경기도 남양주시 순화궁로 449",
+    "addr2": "(별내동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2765504",
+    "contenttypeid": "12",
+    "createdtime": "20211102003435",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/35/2766335_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/35/2766335_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1198914239",
+    "mapy": "37.6656119422",
+    "mlevel": "6",
+    "modifiedtime": "20230302092850",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "별내체육공원",
+    "zipcode": "12098",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2772196": {
+    "addr1": "경기도 남양주시 다산중앙로146번길 62",
+    "addr2": "(다산동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2772196",
+    "contenttypeid": "12",
+    "createdtime": "20211110201835",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/23/2772623_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/23/2772623_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1597833908",
+    "mapy": "37.6251562566",
+    "mlevel": "6",
+    "modifiedtime": "20230404101605",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "다산중앙공원",
+    "zipcode": "12285",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

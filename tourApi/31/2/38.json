@@ -1,0 +1,189 @@
+{
+  "1071954": {
+    "addr1": "경기도 고양시 일산동구 정발산로 24",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010600",
+    "contentid": "1071954",
+    "contenttypeid": "38",
+    "createdtime": "20100810193628",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/69/1072169_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/69/1072169_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7719651266",
+    "mapy": "37.6557235124",
+    "mlevel": "6",
+    "modifiedtime": "20231016144425",
+    "sigungucode": "2",
+    "tel": "031-931-5114",
+    "title": "웨스턴돔 (WesternDom)",
+    "zipcode": "10403",
+    "family": [],
+    "handi": [
+      {
+        "대중교통": "지하철 3호선 정발산역 1번 출구에서 455m"
+      },
+      {
+        "접근로": "지하 및 주 출입구까지 경사로가 설치되어 있음(완만함)_무장애 편의시설"
+      },
+      {
+        "출입통로": "주 출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘레베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "비상용 공기호흡기 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1144856": {
+    "addr1": "경기도 고양시 일산동구 중앙로 1305-56",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010600",
+    "contentid": "1144856",
+    "contenttypeid": "38",
+    "createdtime": "20101211012808",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/21/1928921_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/21/1928921_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7683208674",
+    "mapy": "37.6609756139",
+    "mlevel": "6",
+    "modifiedtime": "20230719152042",
+    "sigungucode": "2",
+    "tel": "0507-1370-9600",
+    "title": "라페스타 (Lafesta)",
+    "zipcode": "10401",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1314565": {
+    "addr1": "경기도 고양시 일산서구 탄중로101번길 13",
+    "addr2": "(덕이동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030600",
+    "contentid": "1314565",
+    "contenttypeid": "38",
+    "createdtime": "20110623035911",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/16/1787116_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/16/1787116_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7557655552",
+    "mapy": "37.6930299906",
+    "mlevel": "6",
+    "modifiedtime": "20221229114459",
+    "sigungucode": "2",
+    "tel": "덕이동소상공인협동조합 031-925-0606",
+    "title": "덕이동 로데오거리",
+    "zipcode": "10236",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2500091": {
+    "addr1": "경기도 고양시 덕양구 화정로 52",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010600",
+    "contentid": "2500091",
+    "contenttypeid": "38",
+    "createdtime": "20170717202024",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.8313491943",
+    "mapy": "37.6343437266",
+    "mlevel": "6",
+    "modifiedtime": "20221013173919",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "팬텀 (세이브존 화정점)",
+    "zipcode": "10500",
+    "family": [
+      {
+        "수유실": "수유실 있음(5층)"
+      },
+      {
+        "영유아가족 기타 지원 항목": "유아휴게실 있음(5층)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(3층)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

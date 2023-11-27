@@ -1,0 +1,1146 @@
+{
+  "125551": {
+    "addr1": "경기도 고양시 덕양구 서삼릉길 233-126",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010700",
+    "contentid": "125551",
+    "contenttypeid": "12",
+    "createdtime": "20020510090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/85/1150385_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/85/1150385_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8685255167",
+    "mapy": "37.6639909412",
+    "mlevel": "6",
+    "modifiedtime": "20231023165024",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "고양 서삼릉(장경왕후) [유네스코 세계문화유산]",
+    "zipcode": "10292",
+    "family": [
+      {
+        "유모차": "대여가능"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      },
+      {
+        "휠체어": "대여가능(3대)"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "125552": {
+    "addr1": "경기도 고양시 덕양구 서오릉로 334-32",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010700",
+    "contentid": "125552",
+    "contenttypeid": "12",
+    "createdtime": "20021014090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/88/1589188_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/88/1589188_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9007820485",
+    "mapy": "37.6236101060",
+    "mlevel": "6",
+    "modifiedtime": "20231025140038",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "고양 서오릉 [유네스코 세계문화유산]",
+    "zipcode": "10548",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 평지로 되어있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(화장실 앞)"
+      },
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "125562": {
+    "addr1": "경기도 고양시 덕양구 행주로15번길 89",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "1",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010200",
+    "contentid": "125562",
+    "contenttypeid": "12",
+    "createdtime": "20031128090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/18/1589218_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/18/1589218_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8264701618",
+    "mapy": "37.5961203093",
+    "mlevel": "6",
+    "modifiedtime": "20231023161016",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "행주산성",
+    "zipcode": "10440",
+    "family": [
+      {
+        "유모차": "유모차 무료대여 가능함"
+      }
+    ],
+    "handi": [
+      {
+        "휠체어": "휠체어 무료 대여 가능함"
+      },
+      {
+        "화장실": "장애인용화장실 있음(매표소 2개소, 산성 정상 1개소)_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "127197": {
+    "addr1": "경기도 고양시 일산동구 호수로 595",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "127197",
+    "contenttypeid": "12",
+    "createdtime": "20031107090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/36/2364836_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/36/2364836_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7688126877",
+    "mapy": "37.6539236657",
+    "mlevel": "6",
+    "modifiedtime": "20230321095425",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "일산호수공원",
+    "zipcode": "10400",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(호반화장실)"
+      },
+      {
+        "기타 지원 항목": "데크로드 산책로 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(호반화장실 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "523999": {
+    "addr1": "경기도 고양시 일산서구 송산로 464-52",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010700",
+    "contentid": "523999",
+    "contenttypeid": "12",
+    "createdtime": "20080321202238",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/86/1855986_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/86/1855986_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7313513319",
+    "mapy": "37.6855470939",
+    "mlevel": "6",
+    "modifiedtime": "20230203100959",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "선인장다육식물연구소(구 선인장연구소)",
+    "zipcode": "10224",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "612790": {
+    "addr1": "경기도 고양시 덕양구 행주산성로144번길 31-16",
+    "addr2": "(행주외동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030100",
+    "contentid": "612790",
+    "contenttypeid": "12",
+    "createdtime": "20080821013017",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/43/2480643_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/43/2480643_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8203594246",
+    "mapy": "37.6026638839",
+    "mlevel": "6",
+    "modifiedtime": "20230905185945",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "행주외동 장어마을",
+    "zipcode": "10440",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "612796": {
+    "addr1": "경기도 고양시 일산동구 풍산로 35",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030400",
+    "contentid": "612796",
+    "contenttypeid": "12",
+    "createdtime": "20080821014629",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/17/2483017_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/17/2483017_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7894408589",
+    "mapy": "37.6716219729",
+    "mlevel": "6",
+    "modifiedtime": "20220818154118",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "풍동 애니골",
+    "zipcode": "10301",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1845544": {
+    "addr1": "경기도 고양시 일산서구 한류월드로 300 고양 원마운트",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020300",
+    "contentid": "1845544",
+    "contenttypeid": "12",
+    "createdtime": "20130917002220",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.7545414686",
+    "mapy": "37.6646082788",
+    "mlevel": "6",
+    "modifiedtime": "20231025140805",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "원마운트 워터파크",
+    "zipcode": "10392",
+    "family": [
+      {
+        "유모차": "유모차 대여 가능함"
+      }
+    ],
+    "handi": [
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1917062": {
+    "addr1": "경기도 고양시 덕양구 배다골길 131",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020600",
+    "contentid": "1917062",
+    "contenttypeid": "12",
+    "createdtime": "20140430195453",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.8477755691",
+    "mapy": "37.6309333061",
+    "mlevel": "6",
+    "modifiedtime": "20231023161552",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "배다골테마파크",
+    "zipcode": "10482",
+    "family": [
+      {
+        "유모차": "대여 가능(5대/매표소/유료 : 2,000원/신분증 제출)"
+      },
+      {
+        "수유실": "수유실 있음 (박물관 옆 별도건물)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함(생태하천 체험 제외)"
+      },
+      {
+        "휠체어": "대여 가능(5대/매표소/신분증 제출)"
+      },
+      {
+        "화장실": "장애인 화장실 있음(박물관)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(박물관 건물)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2456640": {
+    "addr1": "고양시 일산동구와 서구 일대(고양관광정보센터-일산문화공원-라페스타와 웨스턴돔-일산호수공원-원마운트-아쿠아플라넷-킨텍스)",
+    "addr2": "(장항동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020200",
+    "contentid": "2456640",
+    "contenttypeid": "12",
+    "createdtime": "20161214233059",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.7727121731",
+    "mapy": "37.6595397482",
+    "mlevel": "6",
+    "modifiedtime": "20230321091246",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "고양 관광특구",
+    "zipcode": "10402",
+    "family": [],
+    "handi": [
+      {
+        "휠체어": "시설마다 대여 여부 상이"
+      },
+      {
+        "화장실": "장애인전용 화장실"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2505393": {
+    "addr1": "경기도 고양시 덕양구 고양대로 1955",
+    "addr2": "(동산동) 스타필드 4층",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03020200",
+    "contentid": "2505393",
+    "contenttypeid": "12",
+    "createdtime": "20170904223604",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/86/2505386_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/86/2505386_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8949874720",
+    "mapy": "37.6469683958",
+    "mlevel": "6",
+    "modifiedtime": "20230327113710",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "스포츠몬스터 고양",
+    "zipcode": "10595",
+    "family": [
+      {
+        "유모차": "대여가능(1층,대여소)<br />\n24개월 이하 유아 가능"
+      },
+      {
+        "수유실": "수유실 있음(3층)"
+      },
+      {
+        "영유아가족 기타 지원 항목": "유아휴게실 있음(3층)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함(수동문,자동문)"
+      },
+      {
+        "휠체어": "대여가능(1층,대여소)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(각 층 마다)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자유도로 있음(주 출입구 앞),점자블록 있음(화장실 앞)_시각장애인 편의시설"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2589655": {
+    "addr1": "경기도 고양시 덕양구 고양대로 1955",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020600",
+    "contentid": "2589655",
+    "contenttypeid": "12",
+    "createdtime": "20190130225429",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.8947986027",
+    "mapy": "37.6468795139",
+    "mlevel": "6",
+    "modifiedtime": "20230113134316",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "아쿠아필드 고양",
+    "zipcode": "10595",
+    "family": [
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능(1대)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2613637": {
+    "addr1": "경기도 고양시 일산서구 대산로 213",
+    "addr2": "(대화동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030400",
+    "contentid": "2613637",
+    "contenttypeid": "12",
+    "createdtime": "20190731004320",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/23/2405523_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/23/2405523_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7547910638",
+    "mapy": "37.6781539277",
+    "mlevel": "6",
+    "modifiedtime": "20220818155129",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "일산 대화동 먹자골목",
+    "zipcode": "10377",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2613649": {
+    "addr1": "경기도 고양시 덕양구 화중로104번길 13",
+    "addr2": "(화정동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030600",
+    "contentid": "2613649",
+    "contenttypeid": "12",
+    "createdtime": "20190731005232",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/83/2405483_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/83/2405483_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8324101188",
+    "mapy": "37.6375239313",
+    "mlevel": "6",
+    "modifiedtime": "20230901163250",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "화정 문화의거리",
+    "zipcode": "10497",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2661736": {
+    "addr1": "경기도 고양시 덕양구 행주외동 140-8",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2661736",
+    "contenttypeid": "12",
+    "createdtime": "20200702201157",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/20/2603220_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/20/2603220_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8197596027",
+    "mapy": "37.5982699389",
+    "mlevel": "6",
+    "modifiedtime": "20231024115122",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "행주산성 역사공원",
+    "zipcode": "10440",
+    "family": [
+      {
+        "영유아가족 기타 지원 항목": "화장실 내 유아용 보호의자 설치"
+      }
+    ],
+    "handi": [
+      {
+        "대중교통": "당산역 삼성 래미안 아파트 앞 1082번 버스 승차"
+      },
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음(완만함)_무장애 편의시설"
+      },
+      {
+        "출입통로": "주 출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(남녀공용, 도움벨, 등받이, 손잡이 설치)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2733846": {
+    "addr1": "경기도 고양시 일산동구 일산로 341",
+    "addr2": "(마두동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010500",
+    "contentid": "2733846",
+    "contenttypeid": "12",
+    "createdtime": "20210813192539",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/45/2789545_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/45/2789545_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7798892116",
+    "mapy": "37.6624812004",
+    "mlevel": "6",
+    "modifiedtime": "20221220155426",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "정발산공원",
+    "zipcode": "10408",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2733849": {
+    "addr1": "경기도 고양시 일산동구 하늘마을로 39-5",
+    "addr2": "(중산동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010500",
+    "contentid": "2733849",
+    "contenttypeid": "12",
+    "createdtime": "20210813192828",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/83/2735183_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/83/2735183_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7845076250",
+    "mapy": "37.6840759904",
+    "mlevel": "6",
+    "modifiedtime": "20230822154026",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "안곡습지공원",
+    "zipcode": "10330",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2733850": {
+    "addr1": "경기도 고양시 덕양구 어울림로 33",
+    "addr2": "(성사동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2733850",
+    "contenttypeid": "12",
+    "createdtime": "20210813193153",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/77/2735177_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/77/2735177_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8345456923",
+    "mapy": "37.6496475589",
+    "mlevel": "6",
+    "modifiedtime": "20230809152642",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "성라공원",
+    "zipcode": "10471",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2733855": {
+    "addr1": "경기도 고양시 덕양구 행신로 42",
+    "addr2": "(행주내동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2733855",
+    "contenttypeid": "12",
+    "createdtime": "20210813194429",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/92/2735092_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/92/2735092_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8249142260",
+    "mapy": "37.6146653464",
+    "mlevel": "6",
+    "modifiedtime": "20230206160819",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "충장체육공원",
+    "zipcode": "10439",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2735324": {
+    "addr1": "경기도 고양시 일산동구 백마로502번길 64-13",
+    "addr2": "(풍동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010800",
+    "contentid": "2735324",
+    "contenttypeid": "12",
+    "createdtime": "20210819232744",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/41/2735341_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/41/2735341_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8023094384",
+    "mapy": "37.6606179280",
+    "mlevel": "6",
+    "modifiedtime": "20231027151005",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "장안정사",
+    "zipcode": "10300",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2736410": {
+    "addr1": "경기도 고양시 일산서구 성저로 47",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2736410",
+    "contenttypeid": "12",
+    "createdtime": "20210825194534",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/26/2736526_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/26/2736526_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7553018869",
+    "mapy": "37.6867140512",
+    "mlevel": "6",
+    "modifiedtime": "20221104163023",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "고양 피크닉시민공원",
+    "zipcode": "10368",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2872502": {
+    "addr1": "경기도 고양시 일산서구 일산로 663",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2872502",
+    "contenttypeid": "12",
+    "createdtime": "20221021141840",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/95/2872495_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/95/2872495_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7554047896",
+    "mapy": "37.6819590517",
+    "mlevel": "6",
+    "modifiedtime": "20230202112935",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "성저공원",
+    "zipcode": "10370",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2874966": {
+    "addr1": "경기도 고양시 일산동구 일산로380번길 20-2 밤가시1어린이공원개방화장실",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2874966",
+    "contenttypeid": "12",
+    "createdtime": "20221025151759",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/57/2874957_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/57/2874957_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7826443170",
+    "mapy": "37.6695332060",
+    "mlevel": "6",
+    "modifiedtime": "20230105144925",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "밤가시공원",
+    "zipcode": "10406",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2891543": {
+    "addr1": "경기도 고양시 일산동구 중앙로 1087-2 얄미공원개방화장실",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2891543",
+    "contenttypeid": "12",
+    "createdtime": "20221031141325",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/33/2891533_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/33/2891533_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7839559846",
+    "mapy": "37.6455526879",
+    "mlevel": "6",
+    "modifiedtime": "20230208101742",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "알미공원",
+    "zipcode": "10421",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2891579": {
+    "addr1": "경기도 고양시 일산서구 대화로 166 송포치안센터",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2891579",
+    "contenttypeid": "12",
+    "createdtime": "20221031143553",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/77/2891577_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/77/2891577_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7378872352",
+    "mapy": "37.6717210428",
+    "mlevel": "6",
+    "modifiedtime": "20230209092501",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "대화동레포츠공원",
+    "zipcode": "10223",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2891598": {
+    "addr1": "경기도 고양시 일산서구 대화동 2316",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2891598",
+    "contenttypeid": "12",
+    "createdtime": "20221031144350",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/90/2891590_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/90/2891590_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7387454039",
+    "mapy": "37.6747845901",
+    "mlevel": "6",
+    "modifiedtime": "20231023151825",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "대화농업체험공원",
+    "zipcode": "10216",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

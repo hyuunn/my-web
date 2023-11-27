@@ -1,0 +1,86 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "0000",
+      "resultMsg": "OK"
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "addr1": "전라북도 임실군 오수면 오수로 159",
+            "addr2": "",
+            "areacode": "37",
+            "booktour": "",
+            "cat1": "A04",
+            "cat2": "A0401",
+            "cat3": "A04010100",
+            "contentid": "250546",
+            "contenttypeid": "38",
+            "createdtime": "20071030090000",
+            "firstimage": "http://tong.visitkorea.or.kr/cms/resource/46/1976646_image2_1.jpg",
+            "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/46/1976646_image3_1.jpg",
+            "cpyrhtDivCd": "Type3",
+            "mapx": "127.3266392289",
+            "mapy": "35.5384820362",
+            "mlevel": "6",
+            "modifiedtime": "20230321101818",
+            "sigungucode": "10",
+            "tel": "",
+            "title": "오수상설시장 / 오수5일장 (5, 10일)",
+            "zipcode": "55954"
+          },
+          {
+            "addr1": "전라북도 임실군 임실읍 운수로 26",
+            "addr2": "",
+            "areacode": "37",
+            "booktour": "",
+            "cat1": "A04",
+            "cat2": "A0401",
+            "cat3": "A04010100",
+            "contentid": "132620",
+            "contenttypeid": "38",
+            "createdtime": "20040628090000",
+            "firstimage": "http://tong.visitkorea.or.kr/cms/resource/40/1976640_image2_1.jpg",
+            "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/40/1976640_image3_1.jpg",
+            "cpyrhtDivCd": "Type3",
+            "mapx": "127.2828189141",
+            "mapy": "35.6144393316",
+            "mlevel": "6",
+            "modifiedtime": "20221216163200",
+            "sigungucode": "10",
+            "tel": "063-642-0303",
+            "title": "임실장 / 임실시장 (1, 6일)",
+            "zipcode": "55928"
+          },
+          {
+            "addr1": "전라북도 임실군 관촌면 사선1길 70-3",
+            "addr2": "",
+            "areacode": "37",
+            "booktour": "",
+            "cat1": "A04",
+            "cat2": "A0401",
+            "cat3": "A04010100",
+            "contentid": "132252",
+            "contenttypeid": "38",
+            "createdtime": "20020419090000",
+            "firstimage": "http://tong.visitkorea.or.kr/cms/resource/18/1976518_image2_1.jpg",
+            "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/18/1976518_image3_1.jpg",
+            "cpyrhtDivCd": "Type3",
+            "mapx": "127.2676963560",
+            "mapy": "35.6787678812",
+            "mlevel": "6",
+            "modifiedtime": "20221118161547",
+            "sigungucode": "10",
+            "tel": "063-643-5999",
+            "title": "관촌시장 (5, 10일)",
+            "zipcode": "55910"
+          }
+        ]
+      },
+      "numOfRows": 3,
+      "pageNo": 1,
+      "totalCount": 3
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "131150": {
+    "addr1": "경기도 의정부시 의정로 27",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03020200",
+    "contentid": "131150",
+    "contenttypeid": "28",
+    "createdtime": "20020809090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/66/1891666_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/66/1891666_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0341083685",
+    "mapy": "37.7352217368",
+    "mlevel": "6",
+    "modifiedtime": "20230802210442",
+    "sigungucode": "25",
+    "tel": "031-828-9501",
+    "title": "의정부시 청소년수련관",
+    "zipcode": "11622",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자유도로 있음_시각장애인 편의시설"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

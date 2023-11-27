@@ -1,0 +1,43 @@
+{
+  "762653": {
+    "addr1": "경기도 가평군 가평읍 자라섬로 60",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03021700",
+    "contentid": "762653",
+    "contenttypeid": "28",
+    "createdtime": "20090707012832",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.5207059793",
+    "mapy": "37.8200013097",
+    "mlevel": "6",
+    "modifiedtime": "20231010095319",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "자라섬오토캠핑장",
+    "zipcode": "12421",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함_무장애 편의시설"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(일반화장실에 전용 칸 설치)"
+      },
+      {
+        "기타 지원 항목": "샤워장은 장애시설이 없고 일반샤워장이지만 경사로가 설치되어 있음<br/>\n취사장의 경우 계단이 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

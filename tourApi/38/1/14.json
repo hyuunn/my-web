@@ -1,0 +1,321 @@
+{
+  "130135": {
+    "addr1": "전라남도 강진군 대구면 청자촌길 33",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "130135",
+    "contenttypeid": "14",
+    "createdtime": "20050106090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/06/2642406_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/06/2642406_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8009030607",
+    "mapy": "34.5087280332",
+    "mlevel": "6",
+    "modifiedtime": "20230331093925",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "강진 고려청자박물관",
+    "zipcode": "59263",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "오디오 가이드": "무선 음성안내기 대여가능"
+      },
+      {
+        "유도안내설비": "점자손잡이 있음(전시실손잡이)"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1623643": {
+    "addr1": "전라남도 강진군 강진읍 남문길 10",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060900",
+    "contentid": "1623643",
+    "contenttypeid": "14",
+    "createdtime": "20120507184128",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/20/1606620_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/20/1606620_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7697553845",
+    "mapy": "34.6404905180",
+    "mlevel": "6",
+    "modifiedtime": "20230911201008",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "강진군도서관",
+    "zipcode": "59229",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "주차장에서 출입구까지 경사로 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구에 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "장애인 전용 엘리베이터 있음(점자버튼,점자블록)"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(1,2,3층)"
+      },
+      {
+        "기타 지원 항목": "지체장애인을 위한 컨텐츠 있음"
+      }
+    ],
+    "hearing": [
+      {
+        "기타 지원 항목": "청각장애인을 위한 컨텐츠 있음"
+      }
+    ],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(입구,엘리베이터,계단,화장실,열람실)_시각장애인 편의시설"
+      },
+      {
+        "기타 지원 항목": "점자도서가 있으며 주요시설 앞 점자안내판이 있음\n시각 장애인을 위한 컨텐츠 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "1",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1778079": {
+    "addr1": "전라남도 강진군 강진읍 영랑로1길 9",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060600",
+    "contentid": "1778079",
+    "contenttypeid": "14",
+    "createdtime": "20130110232454",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.7705248168",
+    "mapy": "34.6382074538",
+    "mlevel": "6",
+    "modifiedtime": "20230920162937",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "강진아트홀",
+    "zipcode": "59233",
+    "family": [],
+    "handi": [
+      {
+        "출입통로": "출입구 경사로"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "관람석": "장애인좌석(대공연장 12석/소공연장 4석)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2371605": {
+    "addr1": "전라남도 강진군 도암면 다산로 766-20",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "2371605",
+    "contenttypeid": "14",
+    "createdtime": "20160303184816",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/03/2371603_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/03/2371603_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7499697869",
+    "mapy": "34.5764473762",
+    "mlevel": "6",
+    "modifiedtime": "20230228150554",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "다산박물관",
+    "zipcode": "59248",
+    "family": [
+      {
+        "유모차": "대여가능(2대,무료)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능(2대,무료)"
+      },
+      {
+        "출입통로": "주출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(계단,주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2371610": {
+    "addr1": "전라남도 강진군 대구면 청자촌길 61-5",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "2371610",
+    "contenttypeid": "14",
+    "createdtime": "20160303190735",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/04/2371604_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/04/2371604_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8041888856",
+    "mapy": "34.5086447638",
+    "mlevel": "6",
+    "modifiedtime": "20230911201146",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "한국민화뮤지엄",
+    "zipcode": "59263",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함(수동문,자동문)"
+      },
+      {
+        "휠체어": "대여가능(1대)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "장애인 엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(1층)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주 출입구 앞,엘리베이터 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "촉지안내도 있음(출입구 앞)"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2515789": {
+    "addr1": "전라남도 강진군 강진읍 오감길 2",
+    "addr2": "2동",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030100",
+    "contentid": "2515789",
+    "contenttypeid": "14",
+    "createdtime": "20171117192620",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.7735884140",
+    "mapy": "34.6391324006",
+    "mlevel": "6",
+    "modifiedtime": "20230704142759",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "강진 오감통",
+    "zipcode": "59231",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음(음악창작소, 먹거리장터)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(음악창작소, 먹거리장터)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음(음악창작소, 먹거리장터)"
+      },
+      {
+        "화장실": "장애인 화장실 있음(음악창작소, 먹거리장터)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음(먹거리장터)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(음악창작소, 먹거리장터)<br />점자유도로 있음(먹거리장터)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

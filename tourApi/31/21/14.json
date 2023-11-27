@@ -1,0 +1,184 @@
+{
+  "129879": {
+    "addr1": "경기도 연천군 연천읍 문화로 143",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060700",
+    "contentid": "129879",
+    "contenttypeid": "14",
+    "createdtime": "20041221090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/77/1858977_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/77/1858977_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0786241172",
+    "mapy": "38.1063986861",
+    "mlevel": "6",
+    "modifiedtime": "20220913142242",
+    "sigungucode": "21",
+    "tel": "",
+    "title": "연천문화원",
+    "zipcode": "11013",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "130714": {
+    "addr1": "경기도 연천군 백학면 백왕로225번길 240",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060500",
+    "contentid": "130714",
+    "contenttypeid": "14",
+    "createdtime": "20060103090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.9176070834",
+    "mapy": "38.0539491147",
+    "mlevel": "6",
+    "modifiedtime": "20221227144436",
+    "sigungucode": "21",
+    "tel": "",
+    "title": "조각가 박시동 미술관",
+    "zipcode": "11048",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1284966": {
+    "addr1": "경기도 연천군 전곡읍 평화로443번길 2",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "1284966",
+    "contenttypeid": "14",
+    "createdtime": "20110524201433",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/81/2642381_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/81/2642381_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0637282456",
+    "mapy": "38.0115706054",
+    "mlevel": "6",
+    "modifiedtime": "20230412144833",
+    "sigungucode": "21",
+    "tel": "",
+    "title": "전곡선사박물관",
+    "zipcode": "11027",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "주차장에서 출입구까지 단차 없이 평지로 연결 됨"
+      },
+      {
+        "휠체어": "휠체어 무료대여(3대)"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(1,2층)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "오디오 가이드": "오디오가이드 있음(안내데스크)"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1730495": {
+    "addr1": "경기도 연천군 연천읍 문화로 150",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060600",
+    "contentid": "1730495",
+    "contenttypeid": "14",
+    "createdtime": "20121009201838",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.0800683593",
+    "mapy": "38.1087984320",
+    "mlevel": "6",
+    "modifiedtime": "20230831113359",
+    "sigungucode": "21",
+    "tel": "",
+    "title": "연천수레울아트홀",
+    "zipcode": "11012",
+    "family": [
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      },
+      {
+        "관람석": "장애인 전용 관람석 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

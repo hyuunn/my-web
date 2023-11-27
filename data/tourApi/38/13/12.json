@@ -1,0 +1,1251 @@
+{
+  "126280": {
+    "addr1": "전라남도 여수시 남면 안도해수욕장길 105",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01011200",
+    "contentid": "126280",
+    "contenttypeid": "12",
+    "createdtime": "20031222090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.8125372529",
+    "mapy": "34.4905110672",
+    "mlevel": "6",
+    "modifiedtime": "20230630135425",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "안도해변",
+    "zipcode": "59786",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "126281": {
+    "addr1": "전라남도 여수시 화양면 장수리",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01011200",
+    "contentid": "126281",
+    "contenttypeid": "12",
+    "createdtime": "20031222090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.6095927377",
+    "mapy": "34.6452069505",
+    "mlevel": "6",
+    "modifiedtime": "20231010110437",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "장등해변",
+    "zipcode": "59780",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "126282": {
+    "addr1": "전라남도 여수시 돌산읍 향일암로 804-6",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01011200",
+    "contentid": "126282",
+    "contenttypeid": "12",
+    "createdtime": "20031222090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/52/678552_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/52/678552_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7927326622",
+    "mapy": "34.6306200749",
+    "mlevel": "6",
+    "modifiedtime": "20231010111658",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "방죽포해변",
+    "zipcode": "59775",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "해변입구에 경사로가 설치되어 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(방죽포 공중화장실)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "126316": {
+    "addr1": "전라남도 여수시 자산공원길 54",
+    "addr2": "(종화동)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010500",
+    "contentid": "126316",
+    "contenttypeid": "12",
+    "createdtime": "20031222090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.7510057252",
+    "mapy": "34.7410986575",
+    "mlevel": "6",
+    "modifiedtime": "20230221182744",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "자산공원",
+    "zipcode": "59746",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(여수해상교통관제센터,경사로)"
+      },
+      {
+        "기타 지원 항목": "출입구까지 턱이 없으나 경사가 있어 휠체어의 경우 도움이 필요함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(여수해상교통관제센터 출입구 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "126386": {
+    "addr1": "전라남도 여수시 동문로 11",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "1",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010100",
+    "contentid": "126386",
+    "contenttypeid": "12",
+    "createdtime": "20031222090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.7367486187",
+    "mapy": "34.7418705464",
+    "mlevel": "6",
+    "modifiedtime": "20230829165844",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "여수 진남관",
+    "zipcode": "59731",
+    "family": [],
+    "handi": [
+      {
+        "출입통로": "정문은 계단이 있어 뒷문으로 돌아가야함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(유물전시관 내)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "126782": {
+    "addr1": "전라남도 여수시 흥국사길 160",
+    "addr2": "(중흥동)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010800",
+    "contentid": "126782",
+    "contenttypeid": "12",
+    "createdtime": "20031222090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/84/3027284_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/84/3027284_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7005442129",
+    "mapy": "34.8211582573",
+    "mlevel": "6",
+    "modifiedtime": "20231027185904",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "흥국사(여수)",
+    "zipcode": "59615",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "장애인 화장실 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "127715": {
+    "addr1": "전라남도 여수시 돌산읍 향일암로 60",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010800",
+    "contentid": "127715",
+    "contenttypeid": "12",
+    "createdtime": "20031222090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.8040048886",
+    "mapy": "34.5916329613",
+    "mlevel": "6",
+    "modifiedtime": "20230926103724",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "향일암(여수)",
+    "zipcode": "59778",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "128025": {
+    "addr1": "전라남도 여수시 오동도로 222",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01011300",
+    "contentid": "128025",
+    "contenttypeid": "12",
+    "createdtime": "20041229090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.7641322721",
+    "mapy": "34.7443624086",
+    "mlevel": "6",
+    "modifiedtime": "20230926103818",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "한려해상국립공원 (오동도)",
+    "zipcode": "59723",
+    "family": [],
+    "handi": [
+      {
+        "출입통로": "오동도 숲길 일부 구간에 무장애 숲길 있음\n용굴, 해돋이전망대 등 일부 구간은 계단으로 되어 있어 휠체어 이동 불가"
+      },
+      {
+        "화장실": "장애인 화장실 있음(주차장쪽, 다리 건너 안내센터쪽, 산 진입구)_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(화장실 입구)"
+      },
+      {
+        "안내요원": "안내요원 있음(주출입구, 관광안내소)"
+      },
+      {
+        "오디오 가이드": "음성안내 가이드 있음(스피커)"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "128755": {
+    "addr1": "전라남도 여수시 돌산읍 우두리 산 1",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010500",
+    "contentid": "128755",
+    "contenttypeid": "12",
+    "createdtime": "20090924224951",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/19/2653419_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/19/2653419_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7415234884",
+    "mapy": "34.7305968920",
+    "mlevel": "6",
+    "modifiedtime": "20230619154751",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "돌산공원",
+    "zipcode": "59767",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자유도로 있음(쪽빛화장실)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "129152": {
+    "addr1": "전라남도 여수시 오동도로 238-32",
+    "addr2": "(수정동)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01011600",
+    "contentid": "129152",
+    "contenttypeid": "12",
+    "createdtime": "20090929011523",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.7678097276",
+    "mapy": "34.7444013572",
+    "mlevel": "6",
+    "modifiedtime": "20231016101651",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "오동도 등대",
+    "zipcode": "59723",
+    "family": [
+      {
+        "유모차": "대여 가능(3대/ 열차탑승장)"
+      },
+      {
+        "수유실": "수유실 있음(관리사무실 옆)"
+      }
+    ],
+    "handi": [
+      {
+        "대중교통": "버스 2번, 68번, 76번, 333번 탑승"
+      },
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음(가파름)_무장애 편의시설"
+      },
+      {
+        "매표소": "매표소 있음(점자안내판)"
+      },
+      {
+        "휠체어": "대여 가능(총 8대/오동도 등대 입구 및 안쪽 각 4대/열차탑승장에 문의)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음(전망대)"
+      },
+      {
+        "화장실": "장애인 화장실 있음(가족형)_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(화장실 입구)_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음(주 출입구, 관광안내소)"
+      },
+      {
+        "오디오 가이드": "음성안내기 있음(스피커)"
+      },
+      {
+        "큰활자 홍보물": "큰활자홍보물 있음"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "231921": {
+    "addr1": "전라남도 여수시 시전동",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010700",
+    "contentid": "231921",
+    "contenttypeid": "12",
+    "createdtime": "20071012090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.6795198759",
+    "mapy": "34.7582066150",
+    "mlevel": "6",
+    "modifiedtime": "20230404174002",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "여수 선소유적",
+    "zipcode": "59690",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 평지로 되어 있으나 흙구간 있음_무장애 편의시설"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "587699": {
+    "addr1": "전라남도 여수시 소호로 295 디오션리조트",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020300",
+    "contentid": "587699",
+    "contenttypeid": "12",
+    "createdtime": "20080717183731",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/46/2605246_image2_1.bmp",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/46/2605246_image2_1.bmp",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.6446680548",
+    "mapy": "34.7311840404",
+    "mlevel": "6",
+    "modifiedtime": "20230615100110",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "디오션리조트 워터파크",
+    "zipcode": "59670",
+    "family": [
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(로비)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(화장실입구)<br />\n점자유도로 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1997202": {
+    "addr1": "전라남도 여수시 돌산읍 돌산로 3600-1",
+    "addr2": "(돌산읍)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030400",
+    "contentid": "1997202",
+    "contenttypeid": "12",
+    "createdtime": "20150414182332",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.7393264527",
+    "mapy": "34.7307968308",
+    "mlevel": "6",
+    "modifiedtime": "20230629152755",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "여수 해상케이블카",
+    "zipcode": "59767",
+    "family": [
+      {
+        "수유실": "수유실 있음(1층 사무실)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능(매표소/2대)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(케이블카에 휠체어 탑승가능/전동 제외)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2037308": {
+    "addr1": "전라남도 여수시 박람회길 1",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020600",
+    "contentid": "2037308",
+    "contenttypeid": "12",
+    "createdtime": "20151030230911",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.7465197232",
+    "mapy": "34.7522251119",
+    "mlevel": "6",
+    "modifiedtime": "20230825140909",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "엑스포박람회장(엑스포해양공원)",
+    "zipcode": "59723",
+    "family": [
+      {
+        "수유실": "수유실 있음(국제관 A동 1층)"
+      },
+      {
+        "영유아가족 기타 지원 항목": "임산부 주차장 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(엑스포해양공원화장실,여수세계박람회화장실)"
+      },
+      {
+        "기타 지원 항목": "장애인쉼터 있음(종포밤빛누리 안)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음(매표소)"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "촉지안내도있음(음성종합안내판)"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2511362": {
+    "addr1": "전라남도 여수시 웅천동",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2511362",
+    "contenttypeid": "12",
+    "createdtime": "20171018024133",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.6796951848",
+    "mapy": "34.7454413811",
+    "mlevel": "6",
+    "modifiedtime": "20231010161448",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "이순신공원(여수)",
+    "zipcode": "59693",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능(관광안내소)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(화장실 입구 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2612858": {
+    "addr1": "전라남도 여수시 중앙동",
+    "addr2": "(중앙동)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2612858",
+    "contenttypeid": "12",
+    "createdtime": "20190725010539",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/40/2354640_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/40/2354640_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7400845568",
+    "mapy": "34.7372016827",
+    "mlevel": "6",
+    "modifiedtime": "20230613113950",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "여수구항 해양공원",
+    "zipcode": "59737",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2612863": {
+    "addr1": "전라남도 여수시 하멜로 96",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01011600",
+    "contentid": "2612863",
+    "contenttypeid": "12",
+    "createdtime": "20190725011328",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/36/2369136_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/36/2369136_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7484366144",
+    "mapy": "34.7368102045",
+    "mlevel": "6",
+    "modifiedtime": "20231106101203",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "하멜등대",
+    "zipcode": "59746",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2612869": {
+    "addr1": "전라남도 여수시 중앙로 74",
+    "addr2": "(중앙동)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2612869",
+    "contenttypeid": "12",
+    "createdtime": "20190725012153",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/31/2369131_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/31/2369131_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7357348686",
+    "mapy": "34.7399013049",
+    "mlevel": "6",
+    "modifiedtime": "20230222180806",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "이순신광장",
+    "zipcode": "59735",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2638438": {
+    "addr1": "전라남도 여수시 돌산읍 무술목길 142-1",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020600",
+    "contentid": "2638438",
+    "contenttypeid": "12",
+    "createdtime": "20191123012210",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.7772934839",
+    "mapy": "34.6951848084",
+    "mlevel": "6",
+    "modifiedtime": "20230628112038",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "여수예술랜드",
+    "zipcode": "59771",
+    "family": [
+      {
+        "수유실": "수유실 있음(1층)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "오디오 가이드": "음성안내기 있음"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2647847": {
+    "addr1": "전라남도 여수시 하멜로 102",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030600",
+    "contentid": "2647847",
+    "contenttypeid": "12",
+    "createdtime": "20200214191531",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.7495170813",
+    "mapy": "34.7365852485",
+    "mlevel": "6",
+    "modifiedtime": "20231026173931",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "낭만포차거리",
+    "zipcode": "59746",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(하멜전시관)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2647864": {
+    "addr1": "전라남도 여수시 소호로 392",
+    "addr2": "(소호동)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0205",
+    "cat3": "A02050100",
+    "contentid": "2647864",
+    "contenttypeid": "12",
+    "createdtime": "20200214192423",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/61/2647861_image2_1.bmp",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/61/2647861_image2_1.bmp",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.6508812064",
+    "mapy": "34.7388416231",
+    "mlevel": "6",
+    "modifiedtime": "20230926175014",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "소호동동다리",
+    "zipcode": "59670",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2650064": {
+    "addr1": "전라남도 여수시 웅천동",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020600",
+    "contentid": "2650064",
+    "contenttypeid": "12",
+    "createdtime": "20200317234153",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.6643660331",
+    "mapy": "34.7429802812",
+    "mlevel": "6",
+    "modifiedtime": "20231010103802",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "예술의 섬 장도",
+    "zipcode": "59691",
+    "family": [
+      {
+        "유모차": "대여가능(전시관, 2대)"
+      },
+      {
+        "수유실": "수유실 있음(전시관)"
+      },
+      {
+        "영유아가족 기타 지원 항목": "귀저귀 교환대 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능(전시관, 1대)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(안내센터/전시관)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자유도로 있음_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "안내요원": "안내요원 있음(안내센터)"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2662524": {
+    "addr1": "전라남도 여수시 소라면 안심산길 155",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03022700",
+    "contentid": "2662524",
+    "contenttypeid": "12",
+    "createdtime": "20200707223937",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.6416234554",
+    "mapy": "34.7478349006",
+    "mlevel": "6",
+    "modifiedtime": "20230921150627",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "여수 유월드 루지 테마파크",
+    "zipcode": "59660",
+    "family": [
+      {
+        "유모차": "대여가능(통합매표소)"
+      },
+      {
+        "수유실": "수유실 있음(5층)"
+      },
+      {
+        "유아용 보조 의자": "구비(푸드마켓)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능(통합매표소)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2752372": {
+    "addr1": "전라남도 여수시 거북선공원2길 10",
+    "addr2": "(학동)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2752372",
+    "contenttypeid": "12",
+    "createdtime": "20211001191314",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.6667403776",
+    "mapy": "34.7606283453",
+    "mlevel": "6",
+    "modifiedtime": "20230228130736",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "거북선공원",
+    "zipcode": "59676",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2778024": {
+    "addr1": "전라남도 여수시 화장동 945-1",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2778024",
+    "contenttypeid": "12",
+    "createdtime": "20211123192724",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/00/2796000_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/00/2796000_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.6462722638",
+    "mapy": "34.7788065099",
+    "mlevel": "6",
+    "modifiedtime": "20230131162824",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "여수선사유적공원",
+    "zipcode": "59638",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2790504": {
+    "addr1": "전라남도 여수시 만흥동 산258-9",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2790504",
+    "contenttypeid": "12",
+    "createdtime": "20211209201613",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/76/2792376_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/76/2792376_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7441416247",
+    "mapy": "34.7729755239",
+    "mlevel": "6",
+    "modifiedtime": "20230803105551",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "만흥공원",
+    "zipcode": "",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

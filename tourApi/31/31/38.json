@@ -1,0 +1,63 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "0000",
+      "resultMsg": "OK"
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "addr1": "경기도 화성시 서신면 궁평항로 1049-24",
+            "addr2": "",
+            "areacode": "31",
+            "booktour": "",
+            "cat1": "A04",
+            "cat2": "A0401",
+            "cat3": "A04010600",
+            "contentid": "1960233",
+            "contenttypeid": "38",
+            "createdtime": "20141027224247",
+            "firstimage": "http://tong.visitkorea.or.kr/cms/resource/13/1958513_image2_1.jpg",
+            "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/13/1958513_image3_1.jpg",
+            "cpyrhtDivCd": "Type3",
+            "mapx": "126.6812883655",
+            "mapy": "37.1160789957",
+            "mlevel": "6",
+            "modifiedtime": "20231106111515",
+            "sigungucode": "31",
+            "tel": "031-355-9692",
+            "title": "궁평항수산물직판장",
+            "zipcode": "18556"
+          },
+          {
+            "addr1": "경기도 화성시 송산면 사강로 189",
+            "addr2": "",
+            "areacode": "31",
+            "booktour": "",
+            "cat1": "A04",
+            "cat2": "A0401",
+            "cat3": "A04010100",
+            "contentid": "1807706",
+            "contenttypeid": "38",
+            "createdtime": "20130426221031",
+            "firstimage": "http://tong.visitkorea.or.kr/cms/resource/89/1806689_image2_1.jpg",
+            "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/89/1806689_image3_1.jpg",
+            "cpyrhtDivCd": "Type3",
+            "mapx": "126.7370250797",
+            "mapy": "37.2133242706",
+            "mlevel": "6",
+            "modifiedtime": "20230515101512",
+            "sigungucode": "31",
+            "tel": "031-357-6037",
+            "title": "사강장 / 사강시장 (2,7일)",
+            "zipcode": "18550"
+          }
+        ]
+      },
+      "numOfRows": 2,
+      "pageNo": 1,
+      "totalCount": 2
+    }
+  }
+}

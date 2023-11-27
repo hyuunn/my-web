@@ -1,0 +1,240 @@
+{
+  "130534": {
+    "addr1": "강원특별자치도 정선군 화암동굴길 12-1",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "130534",
+    "contenttypeid": "14",
+    "createdtime": "20041116090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/71/1583471_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/71/1583471_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.7890442094",
+    "mapy": "37.3506267767",
+    "mlevel": "6",
+    "modifiedtime": "20230701104029",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "정선향토박물관",
+    "zipcode": "26116",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "130757": {
+    "addr1": "강원특별자치도 정선군 여량면 아우라지길 69",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02061100",
+    "contentid": "130757",
+    "contenttypeid": "14",
+    "createdtime": "20060313090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/24/2731324_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/24/2731324_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.7242156942",
+    "mapy": "37.4756000133",
+    "mlevel": "6",
+    "modifiedtime": "20230721152924",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "정선아리랑 전수관",
+    "zipcode": "26106",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음_무장애 편의시설"
+      },
+      {
+        "관람석": "장애인 전용 관람석은 없으나 휠체어 접근 가능한 공간 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "130859": {
+    "addr1": "강원특별자치도 정선군 북평면 명주내길 43-1",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "130859",
+    "contenttypeid": "14",
+    "createdtime": "20060828090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/87/2536187_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/87/2536187_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.6470793086",
+    "mapy": "37.4382833925",
+    "mlevel": "6",
+    "modifiedtime": "20230701104118",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "아라리인형의집",
+    "zipcode": "26100",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2524190": {
+    "addr1": "강원특별자치도 정선군 정선읍 애산로 51",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060600",
+    "contentid": "2524190",
+    "contenttypeid": "14",
+    "createdtime": "20170801090004",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/89/2536189_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/89/2536189_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.6715234210",
+    "mapy": "37.3763965519",
+    "mlevel": "6",
+    "modifiedtime": "20230911134203",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "정선 아리랑센터 (정선아리랑문화재단)",
+    "zipcode": "26125",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "휠체어 무료 대여(1대,안내데스크,신분증보관,033-560-3031)"
+      },
+      {
+        "출입통로": "출입구까지 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "장애인용 엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음(정선아리랑센터 입구)"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2783023": {
+    "addr1": "강원특별자치도 정선군 정선읍 애산로 51",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "2783023",
+    "contenttypeid": "14",
+    "createdtime": "20211130002743",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.6715623056",
+    "mapy": "37.3764354374",
+    "mlevel": "6",
+    "modifiedtime": "20230701105024",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "아리랑박물관",
+    "zipcode": "26125",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능(1대/안내데스크)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

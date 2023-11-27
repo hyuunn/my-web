@@ -1,0 +1,40 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "0000",
+      "resultMsg": "OK"
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "addr1": "충청북도 옥천군 옥천읍 삼금로 45",
+            "addr2": "(옥천읍)",
+            "areacode": "33",
+            "booktour": "",
+            "cat1": "A04",
+            "cat2": "A0401",
+            "cat3": "A04010100",
+            "contentid": "132016",
+            "contenttypeid": "38",
+            "createdtime": "20030416090000",
+            "firstimage": "http://tong.visitkorea.or.kr/cms/resource/00/877600_image2_1.jpg",
+            "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/00/877600_image3_1.jpg",
+            "cpyrhtDivCd": "Type3",
+            "mapx": "127.5682085205",
+            "mapy": "36.3024271529",
+            "mlevel": "6",
+            "modifiedtime": "20230403171340",
+            "sigungucode": "5",
+            "tel": "043-730-3081",
+            "title": "옥천장 (5, 10일)",
+            "zipcode": "29038"
+          }
+        ]
+      },
+      "numOfRows": 1,
+      "pageNo": 1,
+      "totalCount": 1
+    }
+  }
+}

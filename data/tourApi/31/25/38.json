@@ -1,0 +1,54 @@
+{
+  "2589146": {
+    "addr1": "경기도 의정부시 시민로121번길 43-2",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "2589146",
+    "contenttypeid": "38",
+    "createdtime": "20190122003253",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/37/2589137_image2_1.png",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/37/2589137_image2_1.png",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0495845879",
+    "mapy": "37.7403019799",
+    "mlevel": "6",
+    "modifiedtime": "20230302105129",
+    "sigungucode": "25",
+    "tel": "",
+    "title": "의정부 제일시장",
+    "zipcode": "11695",
+    "family": [
+      {
+        "수유실": "수유실 있음(나열 102호)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(나동)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(엘리베이터 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

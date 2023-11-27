@@ -1,0 +1,7 @@
+.card-1{
+    display:inline-box;
+}
+
+.card-1:hover {
+  box-shadow: 0 9px 22px rgba(0,0,0,0.11), 0 5px 5px rgba(0,0,0,0.11);
+}

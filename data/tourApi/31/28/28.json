@@ -1,0 +1,63 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "0000",
+      "resultMsg": "OK"
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "addr1": "경기도 평택시 평남로 616",
+            "addr2": "(합정동)",
+            "areacode": "31",
+            "booktour": "",
+            "cat1": "A03",
+            "cat2": "A0303",
+            "cat3": "A03030700",
+            "contentid": "131421",
+            "contenttypeid": "28",
+            "createdtime": "20020711090000",
+            "firstimage": "http://tong.visitkorea.or.kr/cms/resource/51/1900051_image2_1.jpg",
+            "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/51/1900051_image3_1.jpg",
+            "cpyrhtDivCd": "Type3",
+            "mapx": "127.1065033863",
+            "mapy": "36.9876346848",
+            "mlevel": "6",
+            "modifiedtime": "20231026100052",
+            "sigungucode": "28",
+            "tel": "031-8024-3360",
+            "title": "평택시 실내수영장",
+            "zipcode": "17903"
+          },
+          {
+            "addr1": "경기도 평택시 진위면 진위로 181-94",
+            "addr2": "",
+            "areacode": "31",
+            "booktour": "",
+            "cat1": "A03",
+            "cat2": "A0302",
+            "cat3": "A03020200",
+            "contentid": "131640",
+            "contenttypeid": "28",
+            "createdtime": "20020716090000",
+            "firstimage": "http://tong.visitkorea.or.kr/cms/resource/92/1861992_image2_1.jpg",
+            "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/92/1861992_image3_1.jpg",
+            "cpyrhtDivCd": "Type3",
+            "mapx": "127.0972009139",
+            "mapy": "37.1070846152",
+            "mlevel": "6",
+            "modifiedtime": "20230410134422",
+            "sigungucode": "28",
+            "tel": "031-610-4416",
+            "title": "평택시 무봉산청소년수련원",
+            "zipcode": "17711"
+          }
+        ]
+      },
+      "numOfRows": 2,
+      "pageNo": 1,
+      "totalCount": 2
+    }
+  }
+}

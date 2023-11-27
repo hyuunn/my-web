@@ -1,0 +1,377 @@
+{
+  "126342": {
+    "addr1": "전라북도 익산시 익산대로 501",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010800",
+    "contentid": "126342",
+    "contenttypeid": "12",
+    "createdtime": "20031114090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/54/1605154_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/54/1605154_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9516167691",
+    "mapy": "35.9744537602",
+    "mlevel": "6",
+    "modifiedtime": "20221226175103",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "원불교중앙총부",
+    "zipcode": "54536",
+    "family": [
+      {
+        "유모차": "유모차 대여 가능함 (3대)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함(무단차로 연결되나 실내진입이 불가한 건물 있음)"
+      },
+      {
+        "휠체어": "대여가능(2대,안내실)"
+      },
+      {
+        "출입통로": "평지로 되어 있어 휠체어 이동시 편리함"
+      },
+      {
+        "화장실": "장애인용화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "127437": {
+    "addr1": "전라북도 익산시 망성면 나바위1길 146",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010900",
+    "contentid": "127437",
+    "contenttypeid": "12",
+    "createdtime": "20031114090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/37/2643537_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/37/2643537_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9994276370",
+    "mapy": "36.1382803303",
+    "mlevel": "6",
+    "modifiedtime": "20230829110216",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "나바위 성당(화산천주교회)",
+    "zipcode": "54514",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "127977": {
+    "addr1": "전라북도 익산시 금마면 미륵사지로 362",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "1",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010700",
+    "contentid": "127977",
+    "contenttypeid": "12",
+    "createdtime": "20031117090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/91/2514991_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/91/2514991_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0308309191",
+    "mapy": "36.0125952250",
+    "mlevel": "6",
+    "modifiedtime": "20231030145320",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "익산 미륵사지 [유네스코 세계유산]",
+    "zipcode": "54574",
+    "family": [
+      {
+        "유모차": "대여가능(2대,전시관 안내데스크)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능(2대,전시관 안내데스크)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(미륵사지 전시관 내 세미나실 앞)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(미륵사지전시관)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "250462": {
+    "addr1": "전라북도 익산시 왕궁면 궁성로 666",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010700",
+    "contentid": "250462",
+    "contenttypeid": "12",
+    "createdtime": "20071030090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/97/2514197_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/97/2514197_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0557381055",
+    "mapy": "35.9716308843",
+    "mlevel": "6",
+    "modifiedtime": "20230531104431",
+    "sigungucode": "9",
+    "tel": "063-859-5875",
+    "title": "익산 왕궁리유적 [유네스코 세계유산]",
+    "zipcode": "54576",
+    "family": [
+      {
+        "유모차": "대여가능(1대)"
+      },
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능(2대)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자유도로 있음_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "안내요원": "전시해설자 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1315472": {
+    "addr1": "전라북도 익산시 금마면 고도9길 41-14",
+    "addr2": "(금마면)",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "1315472",
+    "contenttypeid": "12",
+    "createdtime": "20110624022528",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/94/1306794_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/94/1306794_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0574399549",
+    "mapy": "36.0011775445",
+    "mlevel": "6",
+    "modifiedtime": "20221020155523",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "서동공원",
+    "zipcode": "54572",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2381465": {
+    "addr1": "전라북도 익산시 용안면 난포리 313-13",
+    "addr2": "(용안면)",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010500",
+    "contentid": "2381465",
+    "contenttypeid": "12",
+    "createdtime": "20160429201721",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.9259093329",
+    "mapy": "36.1337934564",
+    "mlevel": "6",
+    "modifiedtime": "20230610082201",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "용안생태습지",
+    "zipcode": "54506",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      },
+      {
+        "기타 지원 항목": "데크로드 구간 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2647939": {
+    "addr1": "전라북도 익산시 함열읍 익산대로 1424-14",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030400",
+    "contentid": "2647939",
+    "contenttypeid": "12",
+    "createdtime": "20200217192235",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/32/2647932_image2_1.bmp",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/32/2647932_image2_1.bmp",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9609196389",
+    "mapy": "36.0452625078",
+    "mlevel": "6",
+    "modifiedtime": "20231101093551",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "고스락",
+    "zipcode": "54526",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함(카페&판매장)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문, 카페&판매장)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음(카페)_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "안내요원": "안내요원 있음(카페&판매장)"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2778914": {
+    "addr1": "전라북도 익산시 왕궁면 호반로 8",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020600",
+    "contentid": "2778914",
+    "contenttypeid": "12",
+    "createdtime": "20211124234518",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/53/2781553_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/53/2781553_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1026056450",
+    "mapy": "35.9907045238",
+    "mlevel": "6",
+    "modifiedtime": "20230628130649",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "공룡테마공원",
+    "zipcode": "54575",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

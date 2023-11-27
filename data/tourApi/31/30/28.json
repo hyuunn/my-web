@@ -1,0 +1,40 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "0000",
+      "resultMsg": "OK"
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "addr1": "경기도 하남시 미사대로 505 미사경정공원",
+            "addr2": "(신장동)",
+            "areacode": "31",
+            "booktour": "",
+            "cat1": "A03",
+            "cat2": "A0301",
+            "cat3": "A03010200",
+            "contentid": "282240",
+            "contenttypeid": "28",
+            "createdtime": "20040402225911",
+            "firstimage": "http://tong.visitkorea.or.kr/cms/resource/55/2021455_image2_1.jpg",
+            "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/55/2021455_image2_1.jpg",
+            "cpyrhtDivCd": "Type3",
+            "mapx": "127.2132361251",
+            "mapy": "37.5536599743",
+            "mlevel": "6",
+            "modifiedtime": "20230321155614",
+            "sigungucode": "30",
+            "tel": "",
+            "title": "미사리 경정공원",
+            "zipcode": "12900"
+          }
+        ]
+      },
+      "numOfRows": 1,
+      "pageNo": 1,
+      "totalCount": 1
+    }
+  }
+}

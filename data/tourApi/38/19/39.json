@@ -1,0 +1,40 @@
+{
+  "1985801": {
+    "addr1": "전라남도 장성군 북하면 백양로 1102-1",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "1985801",
+    "contenttypeid": "39",
+    "createdtime": "20150124022734",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.8791262589",
+    "mapy": "35.4249205487",
+    "mlevel": "6",
+    "modifiedtime": "20230911113506",
+    "sigungucode": "19",
+    "tel": "061-392-7401",
+    "title": "가을빛묵은지",
+    "zipcode": "57205",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "무단차_무장애 편의정보\n원활한 이동 가능함"
+      },
+      {
+        "출입통로": "출입통로 폭은 넓지 않음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

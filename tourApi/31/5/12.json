@@ -1,0 +1,735 @@
+{
+  "125449": {
+    "addr1": "경기도 광주시 남한산성면 남한산성로 731",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "1",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010200",
+    "contentid": "125449",
+    "contenttypeid": "12",
+    "createdtime": "20040203090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/56/2612856_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/56/2612856_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1883850251",
+    "mapy": "37.4766684605",
+    "mlevel": "6",
+    "modifiedtime": "20230306141838",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "남한산성도립공원 [유네스코 세계문화유산]",
+    "zipcode": "12700",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "장애인전용화장실 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "125541": {
+    "addr1": "경기도 광주시 퇴촌면 천진암로 1203",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010900",
+    "contentid": "125541",
+    "contenttypeid": "12",
+    "createdtime": "20031017090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/35/2667335_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/35/2667335_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3827938641",
+    "mapy": "37.4244141550",
+    "mlevel": "6",
+    "modifiedtime": "20230320102106",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "천진암 성지",
+    "zipcode": "12716",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "630741": {
+    "addr1": "경기도 광주시 퇴촌면 정자동길 119",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010500",
+    "contentid": "630741",
+    "contenttypeid": "12",
+    "createdtime": "20081001222505",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/90/2648890_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/90/2648890_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3030028953",
+    "mapy": "37.4589670335",
+    "mlevel": "6",
+    "modifiedtime": "20230220145155",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "경안천 습지생태공원",
+    "zipcode": "12714",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "649970": {
+    "addr1": "경기도 광주시 도척면 도척윗로 278",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020200",
+    "contentid": "649970",
+    "contenttypeid": "12",
+    "createdtime": "20081111190103",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/28/2658428_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/28/2658428_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2922239974",
+    "mapy": "37.3374836915",
+    "mlevel": "6",
+    "modifiedtime": "20230307102104",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "곤지암리조트",
+    "zipcode": "12809",
+    "family": [
+      {
+        "유모차": "대여가능"
+      },
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "의무실(스키하우스 1층)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1178650": {
+    "addr1": "경기도 광주시 도척면 도척윗로 278",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020300",
+    "contentid": "1178650",
+    "contenttypeid": "12",
+    "createdtime": "20110120202829",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/34/1177034_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/34/1177034_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2963597330",
+    "mapy": "37.3374976536",
+    "mlevel": "6",
+    "modifiedtime": "20231109101129",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "스파라스파 (곤지암리조트)",
+    "zipcode": "12809",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(리조트건물 내)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1903260": {
+    "addr1": "경기도 광주시 곤지암읍 경충대로 727",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "1903260",
+    "contenttypeid": "12",
+    "createdtime": "20140306183709",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.3269787777",
+    "mapy": "37.3516632346",
+    "mlevel": "6",
+    "modifiedtime": "20231109095526",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "광주 곤지암도자공원",
+    "zipcode": "12805",
+    "family": [
+      {
+        "유모차": "유모차 무료대여가능 (안내데스크, 종합안내소, 신분증제출)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능(안내데스크, 종합안내소, 신분증제출)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(후문)"
+      },
+      {
+        "화장실": "장애인 화장실 있음(박물관, 야외시설 좌우측, 관리소, 전통공연장쪽)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2436233": {
+    "addr1": "경기도 광주시 도척면 도척윗로 278-1",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010700",
+    "contentid": "2436233",
+    "contenttypeid": "12",
+    "createdtime": "20161027001952",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.2894435995",
+    "mapy": "37.3408276984",
+    "mlevel": "6",
+    "modifiedtime": "20230824171506",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "화담숲",
+    "zipcode": "12809",
+    "family": [
+      {
+        "유모차": "유모차 대여 가능(7대/3,000원)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로 있어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여 가능(5대/3,000원)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "모노레일 이용가능(유료)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2584768": {
+    "addr1": "경기도 광주시 곤지암읍 경충대로 729",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03020200",
+    "contentid": "2584768",
+    "contenttypeid": "12",
+    "createdtime": "20190103190532",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/94/2584694_image2_1.bmp",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/94/2584694_image2_1.bmp",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3236790533",
+    "mapy": "37.3524797465",
+    "mlevel": "6",
+    "modifiedtime": "20230530091341",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "팀업캠퍼스",
+    "zipcode": "12805",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      },
+      {
+        "오디오 가이드": "음성안내기 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2584776": {
+    "addr1": "경기도 광주시 곤지암읍 경충대로 729",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0204",
+    "cat3": "A02040800",
+    "contentid": "2584776",
+    "contenttypeid": "12",
+    "createdtime": "20190103192800",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/07/2584707_image2_1.bmp",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/07/2584707_image2_1.bmp",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3236790533",
+    "mapy": "37.3524797465",
+    "mlevel": "6",
+    "modifiedtime": "20221206093050",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "악티바",
+    "zipcode": "12805",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      },
+      {
+        "오디오 가이드": "음성안내기 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2615479": {
+    "addr1": "경기도 광주시 순암로 307",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2615479",
+    "contenttypeid": "12",
+    "createdtime": "20190816231945",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.2180983141",
+    "mapy": "37.4027747878",
+    "mlevel": "6",
+    "modifiedtime": "20230915130018",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "중대물빛공원",
+    "zipcode": "12768",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "휠체어 사용 가능한 데크 산책로 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2615481": {
+    "addr1": "경기도 광주시 곤지암읍 경충대로 727",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "2615481",
+    "contenttypeid": "12",
+    "createdtime": "20190816232447",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.3269787777",
+    "mapy": "37.3516632346",
+    "mlevel": "6",
+    "modifiedtime": "20220425174937",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "도자기엑스포 조각공원",
+    "zipcode": "12805",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2737268": {
+    "addr1": "경기도 광주시 장지7길 63-2",
+    "addr2": "(태전동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2737268",
+    "contenttypeid": "12",
+    "createdtime": "20210830181848",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/16/2739316_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/16/2739316_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2360776129",
+    "mapy": "37.3895488679",
+    "mlevel": "6",
+    "modifiedtime": "20230404153954",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "광남생활체육공원",
+    "zipcode": "12777",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2742052": {
+    "addr1": "경기도 광주시 경안로98번길 30",
+    "addr2": "(경안동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2742052",
+    "contenttypeid": "12",
+    "createdtime": "20210909190515",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/66/2745366_image2_1.png",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/66/2745366_image2_1.png",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2512395600",
+    "mapy": "37.4094662780",
+    "mlevel": "6",
+    "modifiedtime": "20230302094444",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "경안근린공원",
+    "zipcode": "12762",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2742062": {
+    "addr1": "경기도 광주시 곤지암읍 평촌길 12-137",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2742062",
+    "contenttypeid": "12",
+    "createdtime": "20210909190741",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/72/2742472_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/72/2742472_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3211735204",
+    "mapy": "37.3596844225",
+    "mlevel": "6",
+    "modifiedtime": "20230531102204",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "곤지암생활체육공원",
+    "zipcode": "12800",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2751292": {
+    "addr1": "경기도 광주시 파발로 38",
+    "addr2": "(쌍령동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2751292",
+    "contenttypeid": "12",
+    "createdtime": "20210929225346",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/42/2764242_image2_1.png",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/42/2764242_image2_1.png",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2620830075",
+    "mapy": "37.4099247548",
+    "mlevel": "6",
+    "modifiedtime": "20230403112732",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "청석공원",
+    "zipcode": "12757",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2751295": {
+    "addr1": "경기도 광주시 초월읍 산수로 38-3",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2751295",
+    "contenttypeid": "12",
+    "createdtime": "20210929225542",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/95/2764295_image2_1.png",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/95/2764295_image2_1.png",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3166348757",
+    "mapy": "37.3655642149",
+    "mlevel": "6",
+    "modifiedtime": "20230302093243",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "초월생활체육공원",
+    "zipcode": "12737",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

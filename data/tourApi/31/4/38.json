@@ -1,0 +1,151 @@
+{
+  "1754696": {
+    "addr1": "경기도 광명시 광이로13번길 17-5",
+    "addr2": "(광명동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "1754696",
+    "contenttypeid": "38",
+    "createdtime": "20121120222921",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/19/1978519_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/19/1978519_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8561512766",
+    "mapy": "37.4799343436",
+    "mlevel": "6",
+    "modifiedtime": "20220825174043",
+    "sigungucode": "4",
+    "tel": "02-2614-0006",
+    "title": "광명전통시장",
+    "zipcode": "14220",
+    "family": [
+      {
+        "수유실": "수유실 있음(고객쉼터)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음(공영주차장)"
+      },
+      {
+        "화장실": "장애인 화장실 있음(공영주차장1층,고객쉼터)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(화장실 입구 앞,엘리베이터 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1754745": {
+    "addr1": "경기도 광명시 광명로831번길 34",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "1754745",
+    "contenttypeid": "38",
+    "createdtime": "20121120223653",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/07/1978507_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/07/1978507_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8479854999",
+    "mapy": "37.4747348018",
+    "mlevel": "6",
+    "modifiedtime": "20230912094718",
+    "sigungucode": "4",
+    "tel": "02-2614-5292",
+    "title": "광명새마을시장",
+    "zipcode": "14292",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2830878": {
+    "addr1": "경기도 광명시 양지로 16 광명역 써밋플레이스",
+    "addr2": "아브뉴프랑",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010600",
+    "contentid": "2830878",
+    "contenttypeid": "38",
+    "createdtime": "20220802095808",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/65/2830865_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/65/2830865_image3_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8813840674",
+    "mapy": "37.4172920659",
+    "mlevel": "6",
+    "modifiedtime": "20221025182529",
+    "sigungucode": "4",
+    "tel": "",
+    "title": "아브뉴프랑 광명점",
+    "zipcode": "14346",
+    "family": [
+      {
+        "수유실": "수유실 있음(1층)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

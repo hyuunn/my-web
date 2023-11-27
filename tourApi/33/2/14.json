@@ -1,0 +1,213 @@
+{
+  "129957": {
+    "addr1": "충청북도 단양군 단양읍 중앙1로 32",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060700",
+    "contentid": "129957",
+    "contenttypeid": "14",
+    "createdtime": "20071106103655",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/11/176511_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/11/176511_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.3682510740",
+    "mapy": "36.9854663364",
+    "mlevel": "6",
+    "modifiedtime": "20221229135006",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "단양문화원",
+    "zipcode": "27010",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1627305": {
+    "addr1": "충청북도 단양군 수양개유적로 390 수양개선사유물전시관",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "1627305",
+    "contenttypeid": "14",
+    "createdtime": "20120510224024",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/86/1598386_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/86/1598386_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.3324883350",
+    "mapy": "36.9605129758",
+    "mlevel": "6",
+    "modifiedtime": "20230413211232",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "수양개선사유물전시관",
+    "zipcode": "27014",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음(카페)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)<br />\n점자유도로 있음_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "안내요원": "전시해설자 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1842088": {
+    "addr1": "충청북도 단양군 단양읍 수변로 111",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020600",
+    "contentid": "1842088",
+    "contenttypeid": "14",
+    "createdtime": "20130904183829",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/40/2032240_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/40/2032240_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.3706841911",
+    "mapy": "36.9854052776",
+    "mlevel": "6",
+    "modifiedtime": "20230614110721",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "단양 다누리아쿠아리움",
+    "zipcode": "27011",
+    "family": [
+      {
+        "유모차": "대여가능(매표소)"
+      },
+      {
+        "수유실": "수유실 있음(매표소 옆)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "휠체어": "대여가능(매표소)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "장애인 엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주 출입구 앞, 엘리베이터 앞, 화장실 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2714143": {
+    "addr1": "충청북도 단양군 단양읍 수변로 111",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "2714143",
+    "contenttypeid": "14",
+    "createdtime": "20210420195139",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.3707758479",
+    "mapy": "36.9854608287",
+    "mlevel": "6",
+    "modifiedtime": "20230817163008",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "단양별별스토리관",
+    "zipcode": "27011",
+    "family": [
+      {
+        "유모차": "대여가능"
+      },
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

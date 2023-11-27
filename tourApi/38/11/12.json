@@ -1,0 +1,894 @@
+{
+  "126240": {
+    "addr1": "전라남도 순천시 승주읍 승주괴목1길",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010200",
+    "contentid": "126240",
+    "contenttypeid": "12",
+    "createdtime": "20040225090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/59/3018959_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/59/3018959_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2687691374",
+    "mapy": "35.0042802527",
+    "mlevel": "6",
+    "modifiedtime": "20231010153841",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "조계산도립공원",
+    "zipcode": "57909",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 무단차로 연결되나 자갈구간 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(공중화장실)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "126330": {
+    "addr1": "전라남도 순천시 죽도봉길 42",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "126330",
+    "contenttypeid": "12",
+    "createdtime": "20031111090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/06/1971006_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/06/1971006_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4954782557",
+    "mapy": "34.9540259087",
+    "mlevel": "6",
+    "modifiedtime": "20230623102302",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "죽도봉공원",
+    "zipcode": "57943",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "공원 입구에서 팔각정까지 차량 및 휠체어 진입 가능함"
+      },
+      {
+        "출입통로": "팔각정 1층 카페 진입 가능함, 카페까지 경사로 있음"
+      },
+      {
+        "기타 지원 항목": "전망데크 진입 약간의 단차 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "126369": {
+    "addr1": "전라남도 순천시 승주읍 선암사길 450",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010800",
+    "contentid": "126369",
+    "contenttypeid": "12",
+    "createdtime": "20031107090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/62/1954562_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/62/1954562_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3311360667",
+    "mapy": "34.9965794091",
+    "mlevel": "6",
+    "modifiedtime": "20230703111204",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "선암사[유네스코 세계문화유산]",
+    "zipcode": "57909",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "126371": {
+    "addr1": "전라남도 순천시 송광면 송광사안길 100",
+    "addr2": "(송광면)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010800",
+    "contentid": "126371",
+    "contenttypeid": "12",
+    "createdtime": "20031113090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/26/1607826_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/26/1607826_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2755630365",
+    "mapy": "35.0021972697",
+    "mlevel": "6",
+    "modifiedtime": "20230705104739",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "송광사(순천)",
+    "zipcode": "57913",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "법당 안으로 휠체어 진입 불가"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "126730": {
+    "addr1": "전라남도 순천시 순천만길 513-25",
+    "addr2": "(대대동)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010500",
+    "contentid": "126730",
+    "contenttypeid": "12",
+    "createdtime": "20031117090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.5096481959",
+    "mapy": "34.8855560675",
+    "mlevel": "6",
+    "modifiedtime": "20230824170406",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "순천만습지 (구, 순천만자연생태공원)",
+    "zipcode": "58027",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능(수동휠체어 2대)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "열린관광지 선정(2015년)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음(관광안내소와 출입구)"
+      },
+      {
+        "유도안내설비": "유도·안내 설비 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "127931": {
+    "addr1": "전라남도 순천시 낙안면 충민길 30",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010600",
+    "contentid": "127931",
+    "contenttypeid": "12",
+    "createdtime": "20031028090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/51/2649051_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/51/2649051_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3397958986",
+    "mapy": "34.9070951762",
+    "mlevel": "6",
+    "modifiedtime": "20230803134959",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "순천 낙안읍성",
+    "zipcode": "57918",
+    "family": [
+      {
+        "유모차": "대여 가능"
+      },
+      {
+        "영유아가족 기타 지원 항목": "임산부전용주차구역이 있음(2개)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "주출입구 접근로는 평탄하나 보차혼용으로 주의를 요함"
+      },
+      {
+        "휠체어": "휠체어 대여 가능함"
+      },
+      {
+        "출입통로": "주출입구 무단차<br />\n낙안읍성민속마을 관람로는 대체적으로 평탄하게 마감되어 있으나 비포장길이 많고 돌계단이나 경사가 가파른 구간이 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(낙안읍성 내 5개)<br />\n남문 앞 화장실만 남녀별도로 장애인용 화장실을 설치하였고 나머지 화장실은 남녀 공용임<br />"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "보조견 동반 가능함"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "228886": {
+    "addr1": "전라남도 순천시 순천만길 513-25",
+    "addr2": "(대대동)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0205",
+    "cat3": "A02050600",
+    "contentid": "228886",
+    "contenttypeid": "12",
+    "createdtime": "20070927090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.5090399037",
+    "mapy": "34.8860532226",
+    "mlevel": "6",
+    "modifiedtime": "20231004101410",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "순천만 용산전망대 (S자 물길)",
+    "zipcode": "58027",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "경사로 설치됨 (상품판매점, 휴게소 앞) \n전망대는 편의시설이 없어서 1층만 접근 가능함\n탐방로 등은 접근성이 좋으므로 이용가능성이 좋은 편임"
+      },
+      {
+        "휠체어": "수동휠체어 2대 무료 대여 가능함"
+      },
+      {
+        "화장실": "장애인전용 화장실 있음 (입구와 매점앞에 위치)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1919548": {
+    "addr1": "전라남도 순천시 국가정원1호길 47",
+    "addr2": "(오천동)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010700",
+    "contentid": "1919548",
+    "contenttypeid": "12",
+    "createdtime": "20140516235011",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.5082388575",
+    "mapy": "34.9300149384",
+    "mlevel": "6",
+    "modifiedtime": "20230727113619",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "순천만 국가정원",
+    "zipcode": "58026",
+    "family": [
+      {
+        "유모차": "대여가능"
+      },
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "출입구 경사로 있음"
+      },
+      {
+        "화장실": "장애인화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "안내요원": "안내요원 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2469437": {
+    "addr1": "전라남도 순천시 상사면 상사호길 555",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0204",
+    "cat3": "A02040800",
+    "contentid": "2469437",
+    "contenttypeid": "12",
+    "createdtime": "20161223235224",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.4143799419",
+    "mapy": "34.9493972551",
+    "mlevel": "6",
+    "modifiedtime": "20221006171813",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "주암댐 물 문화관",
+    "zipcode": "57919",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2469439": {
+    "addr1": "전라남도 순천시 비례골길 24",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0204",
+    "cat3": "A02040800",
+    "contentid": "2469439",
+    "contenttypeid": "12",
+    "createdtime": "20161223235820",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/10/2381210_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/10/2381210_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5378466518",
+    "mapy": "34.9581872833",
+    "mlevel": "6",
+    "modifiedtime": "20230512175712",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "순천 오픈세트장",
+    "zipcode": "57972",
+    "family": [
+      {
+        "유모차": "대여가능(신분증 필요)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(주차장/세트장)"
+      },
+      {
+        "객실": "장애인 객실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(화장실 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2612804": {
+    "addr1": "전라남도 순천시 강변로 435",
+    "addr2": "(오천동)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030400",
+    "contentid": "2612804",
+    "contenttypeid": "12",
+    "createdtime": "20190724224602",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/27/2368927_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/27/2368927_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5018339461",
+    "mapy": "34.9267901901",
+    "mlevel": "6",
+    "modifiedtime": "20230802210239",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "스카이큐브",
+    "zipcode": "58026",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 평지로 되어 있으나 흙(돌) 구간 있음(순천만 공원)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2717549": {
+    "addr1": "전라남도 순천시 이수1길 20",
+    "addr2": "(덕암동)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0204",
+    "cat3": "A02040800",
+    "contentid": "2717549",
+    "contenttypeid": "12",
+    "createdtime": "20210518201222",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/86/2819886_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/86/2819886_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5050081509",
+    "mapy": "34.9470990737",
+    "mlevel": "6",
+    "modifiedtime": "20220615172704",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "순솝 (더감동협동조합)",
+    "zipcode": "57965",
+    "family": [],
+    "handi": [],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "0"
+  },
+  "2717555": {
+    "addr1": "전라남도 순천시 영동길 48",
+    "addr2": "(매곡동)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0204",
+    "cat3": "A02040800",
+    "contentid": "2717555",
+    "contenttypeid": "12",
+    "createdtime": "20210518201642",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/93/2819893_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/93/2819893_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4816238410",
+    "mapy": "34.9570308878",
+    "mlevel": "",
+    "modifiedtime": "20220615172820",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "순천브루어리",
+    "zipcode": "57940",
+    "family": [],
+    "handi": [],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "0"
+  },
+  "2725051": {
+    "addr1": "전라남도 순천시 금곡길 60",
+    "addr2": "(금곡동)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030400",
+    "contentid": "2725051",
+    "contenttypeid": "12",
+    "createdtime": "20210709015319",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/80/2819880_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/80/2819880_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4804989851",
+    "mapy": "34.9552699552",
+    "mlevel": "6",
+    "modifiedtime": "20231024134303",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "다올재 협동조합",
+    "zipcode": "57941",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "시설 앞 턱이 없어 휠체어로 접근 가능"
+      },
+      {
+        "출입통로": "주 출입구에 턱이 없어 휠체어로 입장 가능"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반 가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2737298": {
+    "addr1": "전라남도 순천시 조례동 1867",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2737298",
+    "contenttypeid": "12",
+    "createdtime": "20210830191441",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/57/2737557_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/57/2737557_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5220339506",
+    "mapy": "34.9660833446",
+    "mlevel": "6",
+    "modifiedtime": "20230321145434",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "조례호수공원",
+    "zipcode": "",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "무장애나눔길 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2792555": {
+    "addr1": "전라남도 순천시 영동길 18",
+    "addr2": "(행동)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030600",
+    "contentid": "2792555",
+    "contenttypeid": "12",
+    "createdtime": "20211213182947",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/24/2795924_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/24/2795924_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4827571342",
+    "mapy": "34.9546922812",
+    "mlevel": "6",
+    "modifiedtime": "20230516152011",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "순천 문화의거리",
+    "zipcode": "57941",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2795458": {
+    "addr1": "전남 순천시 서면 선평리 818-23",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2795458",
+    "contenttypeid": "12",
+    "createdtime": "20211214194615",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/50/2798850_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/50/2798850_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5004019587",
+    "mapy": "34.9879999523",
+    "mlevel": "6",
+    "modifiedtime": "20230130150135",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "기적의놀이터 3호",
+    "zipcode": "",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2795593": {
+    "addr1": "전라남도 순천시 순천만길 513-25",
+    "addr2": "(대대동)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010500",
+    "contentid": "2795593",
+    "contenttypeid": "12",
+    "createdtime": "20211214201337",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/87/2798887_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/87/2798887_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5096481959",
+    "mapy": "34.8855560675",
+    "mlevel": "6",
+    "modifiedtime": "20230727100240",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "순천만천문대 / 순천시민천문대",
+    "zipcode": "58027",
+    "family": [
+      {
+        "수유실": "수유실 있음(주차장 앞)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(주차장 앞, 순천만자연생태관)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2819607": {
+    "addr1": "전라남도 순천시 서문로 2 (저전동)",
+    "addr2": "1층",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030400",
+    "contentid": "2819607",
+    "contenttypeid": "12",
+    "createdtime": "20220512172413",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/48/3014748_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/48/3014748_image3_1.jpg",
+    "cpyrhtDivCd": "Type1",
+    "mapx": "127.4834627151",
+    "mapy": "34.9512593457",
+    "mlevel": "6",
+    "modifiedtime": "20230925100125",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "드로잉라이프",
+    "zipcode": "57957",
+    "family": [],
+    "handi": [
+      {
+        "출입통로": "주출입구에 휠체어가 통과 가능함(수동문)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "안내요원": "직원 상시 상주(영업시간 내)"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2819644": {
+    "addr1": "전라남도 순천시 해룡로 579 참좋은시골집",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030400",
+    "contentid": "2819644",
+    "contenttypeid": "12",
+    "createdtime": "20220513102101",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/39/2819639_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/39/2819639_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5280635695",
+    "mapy": "34.8728328128",
+    "mlevel": "6",
+    "modifiedtime": "20230725101714",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "적정온도(순향가)",
+    "zipcode": "58025",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "문턱없이 평지로 연결되어 휠체어 통과 가능함"
+      },
+      {
+        "출입통로": "주 출입구에 휠체어가 통과 가능함"
+      },
+      {
+        "화장실": "화장실에 휠체어 접근 가능함"
+      },
+      {
+        "관람석": "휠체어가 접근 가능한 공간 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "안내요원": "있음(1층 로비 안내데스크)"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

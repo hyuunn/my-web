@@ -1,0 +1,43 @@
+{
+  "2871656": {
+    "addr1": "전라남도 신안군 탑목개길 163-1",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2871656",
+    "contenttypeid": "39",
+    "createdtime": "20221020134031",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/46/2871646_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/46/2871646_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.1428877939",
+    "mapy": "34.7838196784",
+    "mlevel": "6",
+    "modifiedtime": "20221103140504",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "뻘뚱",
+    "zipcode": "58838",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

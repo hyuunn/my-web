@@ -1,0 +1,13 @@
+[class^='name'] p {
+    font-weight: bold;
+}
+
+[class^='recommentDiv'] {
+    width: 90%;
+    margin-left: 10%;
+}
+#commentID {
+    min-height: 80px;
+    padding-top: 10px;
+    border-top: 0.2px solid rgb(179, 179, 179);
+  }

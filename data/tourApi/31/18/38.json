@@ -1,0 +1,44 @@
+{
+  "2748296": {
+    "addr1": "경기도 양주시 광적면 가납리 738-29",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "2748296",
+    "contenttypeid": "38",
+    "createdtime": "20210924015015",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/71/2748271_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/71/2748271_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9841492836",
+    "mapy": "37.8238327341",
+    "mlevel": "6",
+    "modifiedtime": "20230428101353",
+    "sigungucode": "18",
+    "tel": "",
+    "title": "가래비시장(가납시장)",
+    "zipcode": "",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

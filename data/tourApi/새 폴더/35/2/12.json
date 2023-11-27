@@ -1,0 +1,2044 @@
+{
+  "126095": {
+    "addr1": "경상북도 경주시 양북면 봉길해안길",
+    "addr2": "",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01011200",
+    "contentid": "126095",
+    "contenttypeid": "12",
+    "createdtime": "20040212090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "129.4834884531",
+    "mapy": "35.7396846721",
+    "mlevel": "6",
+    "modifiedtime": "20231102161610",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "봉길대왕암해변",
+    "zipcode": "38121",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "해변가까지 무단차구간 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(주차장화장실은 장애인 화장실이 아니며 1단 단차가 있고, 대피로 쪽 공중화장실은 경사로가 설치되어 있으며 장애인화장실임)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "126134": {
+    "addr1": "경상북도 경주시 보문로 424-33",
+    "addr2": "",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01011700",
+    "contentid": "126134",
+    "contenttypeid": "12",
+    "createdtime": "20040212090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "129.2766813295",
+    "mapy": "35.8443272826",
+    "mlevel": "6",
+    "modifiedtime": "20231102151136",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "보문호",
+    "zipcode": "38117",
+    "family": [],
+    "handi": [
+      {
+        "휠체어": "휠체어 대여 가능함"
+      },
+      {
+        "화장실": "장애인전용화장실(선착장 앞과 보문단지종합상가 내에 각각 1개씩 설치) \n상가 내의 화장실은 내부가 좁고 문이 안쪽으로 열려 실제 이용이 불가능함"
+      },
+      {
+        "기타 지원 항목": "열린관광지 선정(2015년)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "126166": {
+    "addr1": "경상북도 경주시 불국로 385",
+    "addr2": "(진현동)",
+    "areacode": "35",
+    "booktour": "1",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010800",
+    "contentid": "126166",
+    "contenttypeid": "12",
+    "createdtime": "20040212090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/37/2712637_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/37/2712637_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.3318475148",
+    "mapy": "35.7892734269",
+    "mlevel": "6",
+    "modifiedtime": "20230824161340",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "경주 불국사 [유네스코 세계문화유산]",
+    "zipcode": "38127",
+    "family": [
+      {
+        "유모차": "유모차 대여 가능함"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "주출입구에서 대웅전까지 경사로가 설치되어 있음\n장애인 탑승차량은 매표소 앞까지 차량접근 가능함"
+      },
+      {
+        "휠체어": "휠체어 무료 대여 가능함"
+      },
+      {
+        "출입통로": "원활한 이동 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(주차장과 불국사 내에 각 1곳씩(1.8mx1.8m))"
+      },
+      {
+        "기타 지원 항목": "장애인이 이용가능한 음식점이 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "안내요원": "사전 예약 시 한국어, 외국어 안내요원의 서비스 가능함"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "126167": {
+    "addr1": "경상북도 경주시 양북면 기림로 437-17",
+    "addr2": "",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010800",
+    "contentid": "126167",
+    "contenttypeid": "12",
+    "createdtime": "20031121090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/93/179593_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/93/179593_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.4031454455",
+    "mapy": "35.8377165388",
+    "mlevel": "6",
+    "modifiedtime": "20230510170734",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "기림사",
+    "zipcode": "38120",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "장애인은 매표소에서 확인 후 경내까지 차량으로 접근이 가능함(일주문을 지나 식당 쪽 길을 통해 진입)\n주차장은 비포장으로 구획선이 없음\n사찰 내부는 대부분 경사로로 연결되어 있으나 불교미술박물관으로 가는 길은 계단으로 되어 있어 식당쪽으로 우회로를 이용해야 함"
+      },
+      {
+        "화장실": "장애인용화장실 있음 (사찰내부 1개, 주차장 쪽 1개)_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "126207": {
+    "addr1": "경상북도 경주시 첨성로 140-25",
+    "addr2": "",
+    "areacode": "35",
+    "booktour": "1",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010700",
+    "contentid": "126207",
+    "contenttypeid": "12",
+    "createdtime": "20040212090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/00/2656600_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/00/2656600_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.2185644826",
+    "mapy": "35.8343745291",
+    "mlevel": "6",
+    "modifiedtime": "20230619130634",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "경주 첨성대",
+    "zipcode": "38170",
+    "family": [
+      {
+        "영유아가족 기타 지원 항목": "여자화장실 내 기저귀갈이대 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(월성입구)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "126210": {
+    "addr1": "경상북도 경주시 능남길 10-4",
+    "addr2": "",
+    "areacode": "35",
+    "booktour": "1",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010700",
+    "contentid": "126210",
+    "contenttypeid": "12",
+    "createdtime": "20040212090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/59/2641759_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/59/2641759_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.1878424395",
+    "mapy": "35.8250694447",
+    "mlevel": "6",
+    "modifiedtime": "20231107110034",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "경주 무열왕릉, 태종무열왕릉비",
+    "zipcode": "38064",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(주차장 공중화장실,경사로설치됨)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "126216": {
+    "addr1": "경상북도 경주시 석굴로 238 석굴암",
+    "addr2": "",
+    "areacode": "35",
+    "booktour": "1",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010800",
+    "contentid": "126216",
+    "contenttypeid": "12",
+    "createdtime": "20031204090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/21/2616821_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/21/2616821_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.3507819663",
+    "mapy": "35.7893821069",
+    "mlevel": "6",
+    "modifiedtime": "20230824171737",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "경주 석굴암 [유네스코 세계문화유산]",
+    "zipcode": "38127",
+    "family": [],
+    "handi": [
+      {
+        "휠체어": "휠체어대여 가능함"
+      },
+      {
+        "출입통로": "원활한 이동 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "126228": {
+    "addr1": "경상북도 경주시 보문로 544",
+    "addr2": "",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020600",
+    "contentid": "126228",
+    "contenttypeid": "12",
+    "createdtime": "20030411090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/24/2648924_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/24/2648924_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.2821727414",
+    "mapy": "35.8363866160",
+    "mlevel": "6",
+    "modifiedtime": "20230522172151",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "경주월드 어뮤즈먼트",
+    "zipcode": "38117",
+    "family": [
+      {
+        "유모차": "유모차 대여 가능함"
+      },
+      {
+        "수유실": "수유실 있음(의무실 내부)"
+      },
+      {
+        "영유아가족 기타 지원 항목": "유아 청결실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "휠체어": "휠체어 대여 가능함"
+      },
+      {
+        "출입통로": "주출입구 무단차\n원활한 이동 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(1.2m x 1.8m)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "126229": {
+    "addr1": "경상북도 경주시 보불로 230",
+    "addr2": "(하동)",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010600",
+    "contentid": "126229",
+    "contenttypeid": "12",
+    "createdtime": "20031204090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "129.3112683256",
+    "mapy": "35.8044963203",
+    "mlevel": "6",
+    "modifiedtime": "20231102165339",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "경주민속공예촌",
+    "zipcode": "38126",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "공예전시장 정문에는 계단이 있어 후문을 통한 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구에 계단이 있어 보조출입구로 접근 가능함행로는 대부분 포장된 경사로로 되어 있음)"
+      },
+      {
+        "화장실": "장애인 화장실 있음(공중화장실)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(공중화장실)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "126230": {
+    "addr1": "경상북도 경주시 신평동",
+    "addr2": "",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020200",
+    "contentid": "126230",
+    "contenttypeid": "12",
+    "createdtime": "20031112090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/07/2648907_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/07/2648907_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.2869804444",
+    "mapy": "35.8437108802",
+    "mlevel": "6",
+    "modifiedtime": "20230711170423",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "경주 보문관광단지",
+    "zipcode": "38117",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "원활한 이동 가능함"
+      },
+      {
+        "휠체어": "휠체어 대여 가능함"
+      },
+      {
+        "출입통로": "단지 내 건물 무단차 진출입 가능 (일부건물 제외)\n원활한 이동 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "보조견 동반 가능함"
+      },
+      {
+        "안내요원": "안내요원 있음(관광안내소)"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "127487": {
+    "addr1": "경상북도 경주시 경감로 614",
+    "addr2": "(천군동)",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020600",
+    "contentid": "127487",
+    "contenttypeid": "12",
+    "createdtime": "20031107090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "129.2888667178",
+    "mapy": "35.8322483204",
+    "mlevel": "6",
+    "modifiedtime": "20230830121344",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "경주엑스포대공원",
+    "zipcode": "38118",
+    "family": [
+      {
+        "유모차": "유모차 무료 대여 (종합안내센터)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "휠체어리프트 설치됨\n공원 보행로는 평지이거나 경사로로 되어 있음_무장애편의시설"
+      },
+      {
+        "휠체어": "휠체어 무료 대여 (종합안내센터)"
+      },
+      {
+        "출입통로": "단차가 없고 경사가 매우 완만함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(전시장 내, 공원에 각각 1개씩)"
+      },
+      {
+        "관람석": "장애인용 관람석 있음 (공연장)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(계단 앞, 엘리베이터 앞 )"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "127619": {
+    "addr1": "경상북도 경주시 용담로 79-41",
+    "addr2": "(황성동)",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "127619",
+    "contenttypeid": "12",
+    "createdtime": "20031107090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "129.2148168755",
+    "mapy": "35.8594132986",
+    "mlevel": "6",
+    "modifiedtime": "20231102163116",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "황성공원",
+    "zipcode": "38088",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "127855": {
+    "addr1": "경상북도 경주시 강동면 양동마을길 134",
+    "addr2": "",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010600",
+    "contentid": "127855",
+    "contenttypeid": "12",
+    "createdtime": "20030627090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/44/2654744_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/44/2654744_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.2536900913",
+    "mapy": "35.9967040757",
+    "mlevel": "6",
+    "modifiedtime": "20231005141331",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "경주 양동마을 [유네스코 세계문화유산]",
+    "zipcode": "38006",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "마을의 보행로는 흙 포장 또는 비포장이고 훼손된 곳이 많지만 차량으로 진입이 가능하여 차를 타고 돌아볼 수 있음(관광객이 많을 때는 통제)\n고택의 내부로 들어가기 위한 출입구에 문지방과 턱이 있는 곳이 많음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "128116": {
+    "addr1": "경상북도 경주시 교동",
+    "addr2": "",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010700",
+    "contentid": "128116",
+    "contenttypeid": "12",
+    "createdtime": "20040419090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/86/2493186_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/86/2493186_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.2189978270",
+    "mapy": "35.8326469552",
+    "mlevel": "6",
+    "modifiedtime": "20230919163713",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "경주 계림",
+    "zipcode": "38170",
+    "family": [],
+    "handi": [
+      {
+        "휠체어": "휠체어 무료대여 가능함"
+      },
+      {
+        "출입통로": "주출입구 무단차 \n원활한 이동 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "안내요원": "관광 해설사 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "128117": {
+    "addr1": "경상북도 경주시 인왕동",
+    "addr2": "",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010200",
+    "contentid": "128117",
+    "contenttypeid": "12",
+    "createdtime": "20040419090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/87/2601687_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/87/2601687_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.2250084253",
+    "mapy": "35.8321721215",
+    "mlevel": "6",
+    "modifiedtime": "20221018161330",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "경주 월성(반월성)",
+    "zipcode": "38172",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "보행로는 대부분 경사로로 되어있고 평탄한 흙포장길임\n(석빙고 내부는 계단으로 되어 있어 휠체어 사용자는 관람 불가능)"
+      },
+      {
+        "화장실": "월성 입구 오른쪽으로 첨성대 방향에 공중화장실이 있으며 남녀 별도로 장애인용 화장실이 있음_ 무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "128636": {
+    "addr1": "경상북도 경주시 칠불암길 6",
+    "addr2": "",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010700",
+    "contentid": "128636",
+    "contenttypeid": "12",
+    "createdtime": "20051107090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/23/2480123_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/23/2480123_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.2397858699",
+    "mapy": "35.7983817692",
+    "mlevel": "6",
+    "modifiedtime": "20230622142814",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "통일전(경주)",
+    "zipcode": "38174",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "장애인 전용 화장실 있음(주차장내 1개소)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "128638": {
+    "addr1": "경상북도 경주시 외동읍 신계입실길 139",
+    "addr2": "",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010700",
+    "contentid": "128638",
+    "contenttypeid": "12",
+    "createdtime": "20051108090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/04/219704_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/04/219704_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.3196077722",
+    "mapy": "35.7593515686",
+    "mlevel": "5",
+    "modifiedtime": "20220615165716",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "경주 원성왕릉",
+    "zipcode": "38210",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "왕릉 인근은 잔디로 이루어져 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(주차장 공중화장실)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(공중화장실 입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "128676": {
+    "addr1": "경상북도 경주시 교촌길 39-2",
+    "addr2": "",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010600",
+    "contentid": "128676",
+    "contenttypeid": "12",
+    "createdtime": "20051121090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "129.2147232863",
+    "mapy": "35.8296749875",
+    "mlevel": "6",
+    "modifiedtime": "20230621170950",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "경주 교촌마을",
+    "zipcode": "38170",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "128677": {
+    "addr1": "경북 경주시 감포읍 감포로",
+    "addr2": "감포리",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01011400",
+    "contentid": "128677",
+    "contenttypeid": "12",
+    "createdtime": "20051121090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "129.5040374805",
+    "mapy": "35.8078329413",
+    "mlevel": "6",
+    "modifiedtime": "20231108120406",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "감포항",
+    "zipcode": "780-830,1",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "방파제는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "장애인 엘리베이터 있음(활어직판장)"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자유도로 있음(활어직판장)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "128679": {
+    "addr1": "경상북도 경주시 감포읍 동해안로 1915",
+    "addr2": "",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01011200",
+    "contentid": "128679",
+    "contenttypeid": "12",
+    "createdtime": "20051122090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "129.4917864869",
+    "mapy": "35.7829855082",
+    "mlevel": "6",
+    "modifiedtime": "20231108122413",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "나정고운모래해변",
+    "zipcode": "38123",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "해변가까지 무단차로 연결 된 구간 있음(모래재질)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "128680": {
+    "addr1": "경상북도 경주시 감포읍 동해안로 2006-2",
+    "addr2": "",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01011200",
+    "contentid": "128680",
+    "contenttypeid": "12",
+    "createdtime": "20051122090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/44/182744_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/44/182744_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.4909086788",
+    "mapy": "35.7867184038",
+    "mlevel": "6",
+    "modifiedtime": "20220902154322",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "전촌솔밭해변",
+    "zipcode": "38122",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(공용화장실)_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "128704": {
+    "addr1": "경상북도 경주시 남산동",
+    "addr2": "",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010400",
+    "contentid": "128704",
+    "contenttypeid": "12",
+    "createdtime": "20051208090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/50/2037050_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/50/2037050_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.2305315346",
+    "mapy": "35.7839887738",
+    "mlevel": "6",
+    "modifiedtime": "20220316132856",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "경주 남산",
+    "zipcode": "38174",
+    "family": [],
+    "handi": [
+      {
+        "출입통로": "원활한 이동 가능함"
+      },
+      {
+        "화장실": "장애인용 화장실 있음(1.5m x 1.5m)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "128811": {
+    "addr1": "경상북도 경주시 엑스포로 45",
+    "addr2": "(신평동)",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020300",
+    "contentid": "128811",
+    "contenttypeid": "12",
+    "createdtime": "20060303090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "129.2917023695",
+    "mapy": "35.8396308748",
+    "mlevel": "6",
+    "modifiedtime": "20230110105849",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "더케이경주호텔 스파온천",
+    "zipcode": "38116",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(건물입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "129161": {
+    "addr1": "경상북도 경주시 감포읍 동해안로 2674",
+    "addr2": "",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01011200",
+    "contentid": "129161",
+    "contenttypeid": "12",
+    "createdtime": "20060720090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/46/3034246_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/46/3034246_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.5086061244",
+    "mapy": "35.8217897885",
+    "mlevel": "6",
+    "modifiedtime": "20231108141813",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "오류고아라해변",
+    "zipcode": "38124",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "모래구간까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(공중화장실,경사로)"
+      },
+      {
+        "기타 지원 항목": "해변을 둘러싼 무단차구간 있음(폭이 좁음)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "317503": {
+    "addr1": "경상북도 경주시 분황로 94-11",
+    "addr2": "",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010800",
+    "contentid": "317503",
+    "contenttypeid": "12",
+    "createdtime": "20071204195447",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/28/2371528_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/28/2371528_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.2336990840",
+    "mapy": "35.8408129777",
+    "mlevel": "6",
+    "modifiedtime": "20230510120208",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "분황사",
+    "zipcode": "38150",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 평지로 되어 있으나 흙(돌) 구간 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "590997": {
+    "addr1": "경상북도 경주시 보문로 544 경주월드",
+    "addr2": "서라벌청소년수련관",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020600",
+    "contentid": "590997",
+    "contenttypeid": "12",
+    "createdtime": "20080721194028",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "129.2821727414",
+    "mapy": "35.8363866160",
+    "mlevel": "6",
+    "modifiedtime": "20231108121352",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "경주월드 캘리포니아비치",
+    "zipcode": "38117",
+    "family": [
+      {
+        "수유실": "수유실 있음"
+      },
+      {
+        "영유아가족 기타 지원 항목": "미아보호실"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(각 화장실)"
+      },
+      {
+        "기타 지원 항목": "의무실"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "704151": {
+    "addr1": "경상북도 경주시 통일로 367",
+    "addr2": "(배반동)",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010700",
+    "contentid": "704151",
+    "contenttypeid": "12",
+    "createdtime": "20090309234913",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/79/1891379_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/79/1891379_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.2388605710",
+    "mapy": "35.8117358011",
+    "mlevel": "6",
+    "modifiedtime": "20230213151757",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "경상북도 산림환경연구원",
+    "zipcode": "38174",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "실내건물은 경사로가 설치되어 있으며 공원은 무단차구간임(흙길 있음)"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(주차장 공중화장실)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "971032": {
+    "addr1": "경상북도 경주시 태종로 757",
+    "addr2": "(노동동) 일대",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010700",
+    "contentid": "971032",
+    "contenttypeid": "12",
+    "createdtime": "20100311184623",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/03/2656603_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/03/2656603_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.2122926901",
+    "mapy": "35.8385656047",
+    "mlevel": "6",
+    "modifiedtime": "20230629102926",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "경주역사유적지구[유네스코 세계문화유산]",
+    "zipcode": "38158",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(주차장)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1621854": {
+    "addr1": "경상북도 경주시 양남면 양남로 68-24",
+    "addr2": "",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01011200",
+    "contentid": "1621854",
+    "contenttypeid": "12",
+    "createdtime": "20120504020924",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "129.4525044810",
+    "mapy": "35.6622372466",
+    "mlevel": "6",
+    "modifiedtime": "20231108111006",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "관성솔밭해변",
+    "zipcode": "38220",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "해변가까지 무단차구간 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(해변 공중화장실)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1957348": {
+    "addr1": "경상북도 경주시 경감로 614",
+    "addr2": "(천군동)",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020200",
+    "contentid": "1957348",
+    "contenttypeid": "12",
+    "createdtime": "20141017192516",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "129.2892916998",
+    "mapy": "35.8315650725",
+    "mlevel": "6",
+    "modifiedtime": "20231108134651",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "경주시 관광특구",
+    "zipcode": "38118",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1963773": {
+    "addr1": "경상북도 경주시 양남면 동남로 982",
+    "addr2": "",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020200",
+    "contentid": "1963773",
+    "contenttypeid": "12",
+    "createdtime": "20141107202916",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/75/1963775_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/75/1963775_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.3754937212",
+    "mapy": "35.6909714418",
+    "mlevel": "6",
+    "modifiedtime": "20230610081637",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "경주 마우나오션 관광단지",
+    "zipcode": "38221",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(마우나오션리조트)"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2002492": {
+    "addr1": "경상북도 경주시 보문로 74-14",
+    "addr2": "",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020600",
+    "contentid": "2002492",
+    "contenttypeid": "12",
+    "createdtime": "20150511235204",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/90/2625390_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/90/2625390_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.2627490602",
+    "mapy": "35.8498125109",
+    "mlevel": "6",
+    "modifiedtime": "20230321090052",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "경주 버드파크",
+    "zipcode": "38117",
+    "family": [
+      {
+        "유모차": "대여가능"
+      },
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "대여가능(주차장입구 팔각정, 신분증지참필수)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(층별, 남여별도, 야외에도 있음)"
+      },
+      {
+        "기타 지원 항목": "의무실, 의자식테이블 있음(식음업장)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2044527": {
+    "addr1": "경상북도 경주시 보불로 391",
+    "addr2": "(천군동)",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020300",
+    "contentid": "2044527",
+    "contenttypeid": "12",
+    "createdtime": "20151202005240",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/19/2044519_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/19/2044519_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.2892529253",
+    "mapy": "35.8276793992",
+    "mlevel": "6",
+    "modifiedtime": "20221227170956",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "블루원 워터파크",
+    "zipcode": "38118",
+    "family": [
+      {
+        "수유실": "수유실 있음(본관)"
+      },
+      {
+        "영유아가족 기타 지원 항목": "미아보호소 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "기타 지원 항목": "의무실, 의자식테이블(시음업장) 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2456795": {
+    "addr1": "경상북도 경주시 엑스포로 80",
+    "addr2": "",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010500",
+    "contentid": "2456795",
+    "contenttypeid": "12",
+    "createdtime": "20161215010337",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "129.2897693500",
+    "mapy": "35.8345786310",
+    "mlevel": "6",
+    "modifiedtime": "20221019142652",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "주렁주렁 (경주 보문점)",
+    "zipcode": "38118",
+    "family": [
+      {
+        "수유실": "있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자유도로 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2554511": {
+    "addr1": "경상북도 경주시 양북면 불국로 1655",
+    "addr2": "",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0204",
+    "cat3": "A02040400",
+    "contentid": "2554511",
+    "contenttypeid": "12",
+    "createdtime": "20180719195540",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/39/2773139_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/39/2773139_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.3891839985",
+    "mapy": "35.7951210772",
+    "mlevel": "",
+    "modifiedtime": "20230918094326",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "한국수력원자력 본사 홍보관",
+    "zipcode": "38120",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2603463": {
+    "addr1": "경상북도 경주시 보문로 74-14",
+    "addr2": "(북군동)",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020600",
+    "contentid": "2603463",
+    "contenttypeid": "12",
+    "createdtime": "20190527235745",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/86/2625386_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/86/2625386_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.2604463989",
+    "mapy": "35.8527926864",
+    "mlevel": "6",
+    "modifiedtime": "20230503124606",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "경주 동궁원",
+    "zipcode": "38117",
+    "family": [
+      {
+        "유모차": "대여가능(매표소)"
+      },
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "대여가능(매표소)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음(버드파크)"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "의무실, 의자식테이블 있음(식음업장)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "전시해설자 있음(예약)"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2603500": {
+    "addr1": "경상북도 경주시 양남면 동해안로 498-13",
+    "addr2": "",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0205",
+    "cat3": "A02050600",
+    "contentid": "2603500",
+    "contenttypeid": "12",
+    "createdtime": "20190528023832",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/99/2603499_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/99/2603499_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.4719020226",
+    "mapy": "35.6890734835",
+    "mlevel": "6",
+    "modifiedtime": "20230712132757",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "경주 양남 주상절리 전망대",
+    "zipcode": "38219",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2603509": {
+    "addr1": "경상북도 경주시 교동 274",
+    "addr2": "",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010700",
+    "contentid": "2603509",
+    "contenttypeid": "12",
+    "createdtime": "20190528195403",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "129.2173508492",
+    "mapy": "35.8291362094",
+    "mlevel": "6",
+    "modifiedtime": "20231026213527",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "월정교",
+    "zipcode": "38170",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2609826": {
+    "addr1": "경상북도 경주시 계림로 9",
+    "addr2": "(황남동)",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030600",
+    "contentid": "2609826",
+    "contenttypeid": "12",
+    "createdtime": "20190705221637",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/18/3034118_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/18/3034118_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.2107400311",
+    "mapy": "35.8392099471",
+    "mlevel": "6",
+    "modifiedtime": "20231108115236",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "경주 쌈밥거리",
+    "zipcode": "38165",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2633891": {
+    "addr1": "경상북도 경주시 석현로 123",
+    "addr2": "",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030100",
+    "contentid": "2633891",
+    "contenttypeid": "12",
+    "createdtime": "20191107221620",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/47/2638147_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/47/2638147_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.1784977982",
+    "mapy": "35.8607957901",
+    "mlevel": "6",
+    "modifiedtime": "20230811102129",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "화랑마을",
+    "zipcode": "38067",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "객실": "장애인 객실 있음(2실/신라관)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2650221": {
+    "addr1": "경상북도 경주시 서악2길 23",
+    "addr2": "(서악동)",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030400",
+    "contentid": "2650221",
+    "contenttypeid": "12",
+    "createdtime": "20200323202214",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/20/2650220_image2_1.bmp",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/20/2650220_image2_1.bmp",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.1887533974",
+    "mapy": "35.8276580585",
+    "mlevel": "6",
+    "modifiedtime": "20230725163559",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "야호(夜好) 경주! 신라달빛기행(경주일원)",
+    "zipcode": "38064",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 평지로 되어 있으나 흙(돌) 구간 있음"
+      },
+      {
+        "출입통로": "주 출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반 가능"
+      },
+      {
+        "안내요원": "안내요원 있음(보조안내원 상주)"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2658227": {
+    "addr1": "경상북도 경주시 포석로 1080",
+    "addr2": "(황남동)",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030600",
+    "contentid": "2658227",
+    "contenttypeid": "12",
+    "createdtime": "20200602224143",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "129.2099818133",
+    "mapy": "35.8374517979",
+    "mlevel": "6",
+    "modifiedtime": "20230705111337",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "경주 황리단길",
+    "zipcode": "38166",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2732162": {
+    "addr1": "경상북도 경주시 북군동 114-11",
+    "addr2": "",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2732162",
+    "contenttypeid": "12",
+    "createdtime": "20210809200426",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "129.2704038669",
+    "mapy": "35.8525290155",
+    "mlevel": "6",
+    "modifiedtime": "20230405091118",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "선덕여왕공원",
+    "zipcode": "",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2756706": {
+    "addr1": "경상북도 경주시 충효동 9-2",
+    "addr2": "",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2756706",
+    "contenttypeid": "12",
+    "createdtime": "20211014000843",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/00/2756700_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/00/2756700_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.1951217672",
+    "mapy": "35.8457950203",
+    "mlevel": "6",
+    "modifiedtime": "20230206164624",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "흥무공원",
+    "zipcode": "",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2756836": {
+    "addr1": "경상북도 경주시 문무대왕면 동해안로 1249",
+    "addr2": "",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2756836",
+    "contenttypeid": "12",
+    "createdtime": "20211014010008",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/93/2756793_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/93/2756793_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.4819860043",
+    "mapy": "35.7327743104",
+    "mlevel": "6",
+    "modifiedtime": "20221222103432",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "코라드 청정누리공원(코라디움)",
+    "zipcode": "38121",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2781625": {
+    "addr1": "경상북도 경주시 석장동 산38-8",
+    "addr2": "",
+    "areacode": "35",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2781625",
+    "contenttypeid": "12",
+    "createdtime": "20211126200442",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/24/2793124_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/24/2793124_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.2006319626",
+    "mapy": "35.8609989625",
+    "mlevel": "6",
+    "modifiedtime": "20221209171140",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "금장대 수변공원",
+    "zipcode": "",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "1057716": {
+    "addr1": "전라남도 목포시 해안로 265-4",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "1057716",
+    "contenttypeid": "38",
+    "createdtime": "20100709235937",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/86/2043486_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/86/2043486_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.3901047299",
+    "mapy": "34.7878593595",
+    "mlevel": "6",
+    "modifiedtime": "20230321105221",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "목포 종합수산시장",
+    "zipcode": "58752",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(공중화장실)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자유도로 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1143723": {
+    "addr1": "전라남도 목포시 산정로 174",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "1143723",
+    "contenttypeid": "38",
+    "createdtime": "20101209022249",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.3921097173",
+    "mapy": "34.8041242271",
+    "mlevel": "6",
+    "modifiedtime": "20231004134731",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "목포 동부시장",
+    "zipcode": "58652",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1177225": {
+    "addr1": "전라남도 목포시 자유로 122",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "1177225",
+    "contenttypeid": "38",
+    "createdtime": "20110119031043",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/95/2050595_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/95/2050595_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.4029506924",
+    "mapy": "34.7930534295",
+    "mlevel": "6",
+    "modifiedtime": "20230314111210",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "목포 자유시장 (남진야시장)",
+    "zipcode": "58737",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1227095": {
+    "addr1": "전라남도 목포시 원산중앙로 51",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "1227095",
+    "contenttypeid": "38",
+    "createdtime": "20110314194047",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/50/1163350_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/50/1163350_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.3775525232",
+    "mapy": "34.8102316343",
+    "mlevel": "6",
+    "modifiedtime": "20230423003049",
+    "sigungucode": "8",
+    "tel": "목포신중앙시장 061-273-1733<br>\n목포시청 관광경제 061-270-8087<br>",
+    "title": "목포 신중앙시장",
+    "zipcode": "58637",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1730879": {
+    "addr1": "전라남도 목포시 석현로 28",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "1730879",
+    "contenttypeid": "38",
+    "createdtime": "20121010010256",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/90/1972090_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/90/1972090_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.4246260181",
+    "mapy": "34.8153651607",
+    "mlevel": "6",
+    "modifiedtime": "20231004133754",
+    "sigungucode": "8",
+    "tel": "061-284-4389",
+    "title": "목포 청호시장",
+    "zipcode": "58656",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2765255": {
+    "addr1": "전라남도 목포시 영산로 648-23",
+    "addr2": "(석현동)",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "2765255",
+    "contenttypeid": "38",
+    "createdtime": "20211101191900",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.4252035854",
+    "mapy": "34.8219505394",
+    "mlevel": "6",
+    "modifiedtime": "20230524162148",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "목포농산물도매시장(목포원예농협농산물공판장)",
+    "zipcode": "58655",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

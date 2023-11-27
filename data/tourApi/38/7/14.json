@@ -1,0 +1,225 @@
+{
+  "129777": {
+    "addr1": "전라남도 담양군 담양읍 죽향문화로 35",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "129777",
+    "contenttypeid": "14",
+    "createdtime": "20071106102938",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.9772427091",
+    "mapy": "35.3095130610",
+    "mlevel": "6",
+    "modifiedtime": "20230914163647",
+    "sigungucode": "7",
+    "tel": "",
+    "title": "한국대나무박물관",
+    "zipcode": "57365",
+    "family": [
+      {
+        "유모차": "대여가능"
+      },
+      {
+        "영유아가족 기타 지원 항목": "야외놀이터 있음, 만들기 체험 프로그램 운영, 어린이 대나무자전거 체험장, 카페 및 음식점 있음, 당일 관내 군립 유료 관광지 입장권 소지 시 입장료 할인, 미취학 아동 무료 입장, 유모차 이동 가능"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함(수동문,자동문)"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(박물관 외부)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(엘리베이터 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "129988": {
+    "addr1": "전라남도 담양군 담양읍 죽향문화로 35",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060700",
+    "contentid": "129988",
+    "contenttypeid": "14",
+    "createdtime": "20071106103754",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/89/1971089_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/89/1971089_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9772427091",
+    "mapy": "35.3095130610",
+    "mlevel": "6",
+    "modifiedtime": "20231004150318",
+    "sigungucode": "7",
+    "tel": "",
+    "title": "담양문화원",
+    "zipcode": "57365",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "130323": {
+    "addr1": "전라남도 담양군 가사문학면 가사문학로 877",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "130323",
+    "contenttypeid": "14",
+    "createdtime": "20071106105221",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.0055016120",
+    "mapy": "35.1880022746",
+    "mlevel": "6",
+    "modifiedtime": "20230914164737",
+    "sigungucode": "7",
+    "tel": "",
+    "title": "한국가사문학관",
+    "zipcode": "57392",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2607010": {
+    "addr1": "전라남도 담양군 담양읍 지침1길 6",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060500",
+    "contentid": "2607010",
+    "contenttypeid": "14",
+    "createdtime": "20190618200209",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/03/2609003_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/03/2609003_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9839085797",
+    "mapy": "35.3176400330",
+    "mlevel": "6",
+    "modifiedtime": "20230610084607",
+    "sigungucode": "7",
+    "tel": "",
+    "title": "해동문화예술촌",
+    "zipcode": "57344",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함(주차장쪽 후문)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2782990": {
+    "addr1": "전라남도 담양군 담양읍 죽향문화로 380",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060200",
+    "contentid": "2782990",
+    "contenttypeid": "14",
+    "createdtime": "20211130001803",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/66/2796566_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/66/2796566_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9873079311",
+    "mapy": "35.3313524282",
+    "mlevel": "6",
+    "modifiedtime": "20230330092608",
+    "sigungucode": "7",
+    "tel": "",
+    "title": "추성창의기념관",
+    "zipcode": "57311",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

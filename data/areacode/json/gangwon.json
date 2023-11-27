@@ -1,0 +1,128 @@
+[
+          {
+            "rnum": 1,
+            "code": "1",
+            "name": "강릉",
+            "latitude": 37.752175,
+            "longitude": 128.875836
+          },
+          {
+            "rnum": 2,
+            "code": "2",
+            "name": "고성",
+            "latitude": 38.3806154,
+            "longitude": 128.4678625
+          },
+          {
+            "rnum": 3,
+            "code": "3",
+            "name": "동해",
+            "latitude": 37.5247583,
+            "longitude": 129.1142625
+          },
+          {
+            "rnum": 4,
+            "code": "4",
+            "name": "삼척",
+            "latitude": 37.4499354,
+            "longitude": 129.1651479
+          },
+          {
+            "rnum": 5,
+            "code": "5",
+            "name": "속초",
+            "latitude": 38.207169,
+            "longitude": 128.59184
+          },
+          {
+            "rnum": 6,
+            "code": "6",
+            "name": "양구",
+            "latitude": 38.109992,
+            "longitude": 127.99
+          },
+          {
+            "rnum": 7,
+            "code": "7",
+            "name": "양양",
+            "latitude": 38.075493,
+            "longitude": 128.619145
+          },
+          {
+            "rnum": 8,
+            "code": "8",
+            "name": "영월",
+            "latitude": 37.183774,
+            "longitude": 128.46185
+          },
+          {
+            "rnum": 9,
+            "code": "9",
+            "name": "원주",
+            "latitude": 37.3423179,
+            "longitude": 127.9199688
+          },
+          {
+            "rnum": 10,
+            "code": "10",
+            "name": "인제",
+            "latitude": 38.069732,
+            "longitude": 128.170352
+          },
+          {
+            "rnum": 11,
+            "code": "11",
+            "name": "정선",
+            "latitude": 37.380609,
+            "longitude": 128.660871
+          },
+          {
+            "rnum": 12,
+            "code": "12",
+            "name": "철원",
+            "latitude": 38.146861,
+            "longitude": 127.313472
+          },
+          {
+            "rnum": 13,
+            "code": "13",
+            "name": "춘천",
+            "latitude": 37.8813739,
+            "longitude":127.7300034
+          },
+          {
+            "rnum": 14,
+            "code": "14",
+            "name": "태백",
+            "latitude": 37.164132,
+            "longitude": 128.985735
+          },
+          {
+            "rnum": 15,
+            "code": "15",
+            "name": "평창",
+            "latitude": 37.37077,
+            "longitude": 128.390193
+          },
+          {
+            "rnum": 16,
+            "code": "16",
+            "name": "홍천",
+            "latitude": 37.697207,
+            "longitude": 127.888518
+          },
+          {
+            "rnum": 17,
+            "code": "17",
+            "name": "화천",
+            "latitude": 38.106181,
+            "longitude": 127.708216
+          },
+          {
+            "rnum": 18,
+            "code": "18",
+            "name": "횡성",
+            "latitude": 37.491803,
+            "longitude": 127.985022
+          }
+        ]

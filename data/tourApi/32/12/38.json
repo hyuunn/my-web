@@ -1,0 +1,128 @@
+{
+  "132004": {
+    "addr1": "강원특별자치도 철원군 서면 와수로184번길 12",
+    "addr2": "(서면)",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010100",
+    "contentid": "132004",
+    "contenttypeid": "38",
+    "createdtime": "20040227090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/56/1948056_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/56/1948056_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4174413251",
+    "mapy": "38.1653119181",
+    "mlevel": "6",
+    "modifiedtime": "20230926144334",
+    "sigungucode": "12",
+    "tel": "033-458-9688",
+    "title": "와수시장 (1,6일)",
+    "zipcode": "24058",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "132006": {
+    "addr1": "강원특별자치도 철원군 갈말읍 삼부연로18번길 12-3",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010100",
+    "contentid": "132006",
+    "contenttypeid": "38",
+    "createdtime": "20040227090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/06/1948006_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/06/1948006_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3099684460",
+    "mapy": "38.1447789974",
+    "mlevel": "6",
+    "modifiedtime": "20230701103423",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "신 철원시장 (3, 8일)",
+    "zipcode": "24049",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "132270": {
+    "addr1": "강원특별자치도 철원군 동송읍 이평로47번길 21",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010100",
+    "contentid": "132270",
+    "contenttypeid": "38",
+    "createdtime": "20040227090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/95/1947795_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/95/1947795_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2192082115",
+    "mapy": "38.2087753996",
+    "mlevel": "6",
+    "modifiedtime": "20231103133509",
+    "sigungucode": "12",
+    "tel": "전통시장상인회 : 033-455-6262",
+    "title": "동송장 / 동송시장 (5,10일)",
+    "zipcode": "24015",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

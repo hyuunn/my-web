@@ -1,0 +1,160 @@
+{
+  "135838": {
+    "addr1": "전라남도 완도군 신지면 명사십리길 85-29",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "135838",
+    "contenttypeid": "39",
+    "createdtime": "20070716090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/14/218414_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/14/218414_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8051487258",
+    "mapy": "34.3269678899",
+    "mlevel": "6",
+    "modifiedtime": "20230829150435",
+    "sigungucode": "18",
+    "tel": "061-552-7874",
+    "title": "소라횟집",
+    "zipcode": "59146",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2605268": {
+    "addr1": "전라남도 완도군 군외면 초평길 43-1",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020700",
+    "contentid": "2605268",
+    "contenttypeid": "39",
+    "createdtime": "20190605014646",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/39/2520639_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/39/2520639_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6579161374",
+    "mapy": "34.3709716595",
+    "mlevel": "6",
+    "modifiedtime": "20230915111138",
+    "sigungucode": "18",
+    "tel": "061-555-9988",
+    "title": "바다를담은면",
+    "zipcode": "59100",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2824402": {
+    "addr1": "전라남도 완도군 개포로 19",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2824402",
+    "contenttypeid": "39",
+    "createdtime": "20220617162705",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.7502315674",
+    "mapy": "34.3164042784",
+    "mlevel": "6",
+    "modifiedtime": "20220623100359",
+    "sigungucode": "18",
+    "tel": "",
+    "title": "개성순두부전문점",
+    "zipcode": "59120",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2844034": {
+    "addr1": "전라남도 완도군 군내길 3 국립수산물품질검사원",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2844034",
+    "contenttypeid": "39",
+    "createdtime": "20220825103223",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/30/2844030_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/30/2844030_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7563450098",
+    "mapy": "34.3126742402",
+    "mlevel": "6",
+    "modifiedtime": "20220916160110",
+    "sigungucode": "18",
+    "tel": "",
+    "title": "달스윗",
+    "zipcode": "59123",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

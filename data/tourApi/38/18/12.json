@@ -1,0 +1,393 @@
+{
+  "127498": {
+    "addr1": "전라남도 완도군 군외면 초평1길 156",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010700",
+    "contentid": "127498",
+    "contenttypeid": "12",
+    "createdtime": "20040224090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.6635492222",
+    "mapy": "34.3606534621",
+    "mlevel": "6",
+    "modifiedtime": "20230210101105",
+    "sigungucode": "18",
+    "tel": "",
+    "title": "완도수목원",
+    "zipcode": "59105",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "데크로드 구간 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(전시관 건물 내)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "128705": {
+    "addr1": "전라남도 완도군 완도읍 청해진로 1380-138",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "128705",
+    "contenttypeid": "12",
+    "createdtime": "20051215090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/45/573045_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/45/573045_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7302018967",
+    "mapy": "34.3528720932",
+    "mlevel": "6",
+    "modifiedtime": "20231031143521",
+    "sigungucode": "18",
+    "tel": "",
+    "title": "장보고공원",
+    "zipcode": "59104",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함(잔디구간 있음)"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(해안산책로 끝 쪽)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "129107": {
+    "addr1": "전라남도 완도군 소안면 소안로549번길",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "B02",
+    "cat2": "B0201",
+    "cat3": "B02011000",
+    "contentid": "129107",
+    "contenttypeid": "12",
+    "createdtime": "20060630090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.6682983124",
+    "mapy": "34.1471773926",
+    "mlevel": "6",
+    "modifiedtime": "20230925151211",
+    "sigungucode": "18",
+    "tel": "",
+    "title": "미라마을",
+    "zipcode": "59166",
+    "family": [],
+    "handi": [],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "0"
+  },
+  "147317": {
+    "addr1": "전라남도 완도군 신지면",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01011200",
+    "contentid": "147317",
+    "contenttypeid": "12",
+    "createdtime": "20030704090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.8059708719",
+    "mapy": "34.3271484387",
+    "mlevel": "6",
+    "modifiedtime": "20230925174751",
+    "sigungucode": "18",
+    "tel": "",
+    "title": "신지명사십리해수욕장",
+    "zipcode": "59146",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "해변 접근로는 평탄하고 블록이 잘 정비되어 있음\n보행로 폭도 넓음"
+      },
+      {
+        "화장실": "장애인 화장실 있음( 8개)_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "보조견 동반 가능함"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "147777": {
+    "addr1": "전라남도 완도군 완도읍 중도리",
+    "addr2": "976",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01011100",
+    "contentid": "147777",
+    "contenttypeid": "12",
+    "createdtime": "20031107090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.7105132543",
+    "mapy": "34.2984334128",
+    "mlevel": "6",
+    "modifiedtime": "20230925181132",
+    "sigungucode": "18",
+    "tel": "",
+    "title": "완도 정도리 구계등",
+    "zipcode": "59110",
+    "family": [],
+    "handi": [
+      {
+        "매표소": "안내소 있음(장애인 주차구역 20m 거리에 위치/키오스크)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음(탐방안내소 내부)"
+      },
+      {
+        "화장실": "장애인 화장실 있음(주 출입구 인근, 탐방안내소 외부)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자 홍보물 및 점자 표지판": "촉지 안내도 있음(주 출입구 인근)"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "632089": {
+    "addr1": "전라남도 완도군 완도읍 장보고대로 330",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0205",
+    "cat3": "A02050600",
+    "contentid": "632089",
+    "contenttypeid": "12",
+    "createdtime": "20081007002439",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.7662914168",
+    "mapy": "34.3103218886",
+    "mlevel": "6",
+    "modifiedtime": "20230727145342",
+    "sigungucode": "18",
+    "tel": "",
+    "title": "완도타워",
+    "zipcode": "59126",
+    "family": [],
+    "handi": [
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "출입구 경사로 있음_무장애 편의정보"
+      },
+      {
+        "엘리베이터": "있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1295911": {
+    "addr1": "전라남도 완도군 완도읍 청해진로 1565-2",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0205",
+    "cat3": "A02050400",
+    "contentid": "1295911",
+    "contenttypeid": "12",
+    "createdtime": "20110601203223",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.7323547099",
+    "mapy": "34.3434731798",
+    "mlevel": "6",
+    "modifiedtime": "20231031144203",
+    "sigungucode": "18",
+    "tel": "",
+    "title": "장보고 동상",
+    "zipcode": "59108",
+    "family": [],
+    "handi": [
+      {
+        "출입통로": "출입구 경사로 있음_무장애 편의정보"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1916945": {
+    "addr1": "전라남도 완도군 노화읍 북고길 82",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030100",
+    "contentid": "1916945",
+    "contenttypeid": "12",
+    "createdtime": "20140430011412",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/86/2516386_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/86/2516386_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.5662275864",
+    "mapy": "34.2271529117",
+    "mlevel": "6",
+    "modifiedtime": "20230613105055",
+    "sigungucode": "18",
+    "tel": "",
+    "title": "노화 북고어촌체험마을",
+    "zipcode": "59154",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "해변을 둘러싼 데크로드 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2703403": {
+    "addr1": "전라남도 완도군 완도읍 장보고대로 339",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020800",
+    "contentid": "2703403",
+    "contenttypeid": "12",
+    "createdtime": "20210111191129",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.7611639389",
+    "mapy": "34.3165544416",
+    "mlevel": "6",
+    "modifiedtime": "20230309140611",
+    "sigungucode": "18",
+    "tel": "",
+    "title": "완도항 여객선터미널",
+    "zipcode": "59126",
+    "family": [
+      {
+        "수유실": "수유실 있음"
+      },
+      {
+        "영유아가족 기타 지원 항목": "유아놀이방 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자유도로 있음"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      },
+      {
+        "오디오 가이드": "음성안내 버튼 있음(점자안내판)"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "129877": {
+    "addr1": "경기도 가평군 가평읍 문화로 131",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060700",
+    "contentid": "129877",
+    "contenttypeid": "14",
+    "createdtime": "20071106103359",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/64/1785864_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/64/1785864_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5085264086",
+    "mapy": "37.8242478130",
+    "mlevel": "6",
+    "modifiedtime": "20231024151941",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "가평문화원",
+    "zipcode": "12416",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터는 없으나 장애인리프트 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(접근로,계단)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "130220": {
+    "addr1": "경기도 가평군 가평읍 문화로 131",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060600",
+    "contentid": "130220",
+    "contenttypeid": "14",
+    "createdtime": "20060608090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/34/1589034_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/34/1589034_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5085264086",
+    "mapy": "37.8242478130",
+    "mlevel": "6",
+    "modifiedtime": "20231024110714",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "가평문화예술회관",
+    "zipcode": "12416",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "엘리베이터": "장애인리프트 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      },
+      {
+        "관람석": "장애인 전용 관람석 있음(7개)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(계단 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "130611": {
+    "addr1": "경기도 가평군 청평면 북한강로 1549",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060500",
+    "contentid": "130611",
+    "contenttypeid": "14",
+    "createdtime": "20050628090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/89/1358589_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/89/1358589_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3794096039",
+    "mapy": "37.6604061569",
+    "mlevel": "6",
+    "modifiedtime": "20231024113504",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "가일미술관",
+    "zipcode": "12458",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "130915": {
+    "addr1": "경기도 가평군 북면 석장모루길 13",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "130915",
+    "contenttypeid": "14",
+    "createdtime": "20070710090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/50/1090950_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/50/1090950_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5480323037",
+    "mapy": "37.8792143684",
+    "mlevel": "6",
+    "modifiedtime": "20231023145744",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "가평현암농경유물박물관",
+    "zipcode": "12407",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1060264": {
+    "addr1": "경기도 가평군 북면 백둔로 322",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060500",
+    "contentid": "1060264",
+    "contenttypeid": "14",
+    "createdtime": "20100715224914",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/83/1591283_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/83/1591283_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4722273608",
+    "mapy": "37.9044989120",
+    "mlevel": "6",
+    "modifiedtime": "20231023153746",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "남송미술관",
+    "zipcode": "12406",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(1층 로비)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1200255": {
+    "addr1": "경기도 가평군 북면 가화로 2089-42",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "1200255",
+    "contenttypeid": "14",
+    "createdtime": "20110210021158",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.4877027984",
+    "mapy": "37.9360260805",
+    "mlevel": "6",
+    "modifiedtime": "20231023154800",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "명지산생태전시관",
+    "zipcode": "12401",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

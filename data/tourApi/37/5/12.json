@@ -1,0 +1,384 @@
+{
+  "126238": {
+    "addr1": "전라북도 무주군 설천면 구천동1로 159",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "1",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010100",
+    "contentid": "126238",
+    "contenttypeid": "12",
+    "createdtime": "20040213090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/13/2029513_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/13/2029513_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7751204501",
+    "mapy": "35.9007210596",
+    "mlevel": "6",
+    "modifiedtime": "20230515104330",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "덕유산국립공원(본소,적상분소)",
+    "zipcode": "55557",
+    "family": [],
+    "handi": [
+      {
+        "출입통로": "주출입구 무단차(폭이 좁아 휠체어 접근 어려움)"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "126718": {
+    "addr1": "전라북도 무주군 설천면 만선로 185",
+    "addr2": "(설천면)",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020200",
+    "contentid": "126718",
+    "contenttypeid": "12",
+    "createdtime": "20031209090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/66/2003266_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/66/2003266_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7313940660",
+    "mapy": "35.8897992986",
+    "mlevel": "6",
+    "modifiedtime": "20221223143435",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "무주덕유산리조트",
+    "zipcode": "55556",
+    "family": [],
+    "handi": [
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "돌길로 휠체어 이용에 어려움이 있음,케이블카 이용시 단차없이 접근가능"
+      },
+      {
+        "엘리베이터": "있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "127627": {
+    "addr1": "전라북도 무주군 무주읍 한풍루로 326-5",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010700",
+    "contentid": "127627",
+    "contenttypeid": "12",
+    "createdtime": "20030819090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/25/712025_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/25/712025_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.6623665624",
+    "mapy": "36.0039823080",
+    "mlevel": "6",
+    "modifiedtime": "20230810111407",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "무주한풍루",
+    "zipcode": "55514",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "공원의 주출입구에서 한풍루로 올라가는 길은 경사로인데 경사가 급함"
+      },
+      {
+        "화장실": "장애인용 화장실은 공원의 공중화장실을 이용해야함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "127741": {
+    "addr1": "전라북도 무주군 적상면 괴목리",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010400",
+    "contentid": "127741",
+    "contenttypeid": "12",
+    "createdtime": "20030929090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/78/2719978_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/78/2719978_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.6919628124",
+    "mapy": "35.9425120499",
+    "mlevel": "6",
+    "modifiedtime": "20220419150059",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "적상산",
+    "zipcode": "55528",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "적상전망대에는 일반화장실과 매점에는 턱이 있음\n안국사와 적상산사고는 입구 앞까지 차량으로 접근이 가능하지만 안국사는 내부 이동 동선에 계단이 많음"
+      },
+      {
+        "화장실": "장애인전용 화장실 있음 (적상산 수력발전소의 상부저수지 전망대)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "129561": {
+    "addr1": "전라북도 무주군 설천면 무설로 1324",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "129561",
+    "contenttypeid": "12",
+    "createdtime": "20070605090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/15/1929715_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/15/1929715_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7587605263",
+    "mapy": "36.0132357529",
+    "mlevel": "6",
+    "modifiedtime": "20230821140845",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "무주 반디랜드",
+    "zipcode": "55546",
+    "family": [
+      {
+        "유모차": "대여가능(곤충박물관)"
+      },
+      {
+        "수유실": "수유실 있음(곤충박물관)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능(곤충박물관)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(곤충박물관 지하 1층(남녀공용), 지상 1층)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음(곤충박물관 안내데스크)"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "촉지안내도 있음(매표소 앞)"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "129565": {
+    "addr1": "전라북도 무주군 설천면 만선로 185",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020200",
+    "contentid": "129565",
+    "contenttypeid": "12",
+    "createdtime": "20070607090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/98/1196798_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/98/1196798_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7429818717",
+    "mapy": "35.8918492719",
+    "mlevel": "6",
+    "modifiedtime": "20221109151127",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "무주리조트 관광곤도라",
+    "zipcode": "55556",
+    "family": [],
+    "handi": [
+      {
+        "휠체어": "수동휠체어 무료 대여 가능함_무장애 편의정보"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "129566": {
+    "addr1": "전라북도 무주군 무주읍 무주로 1788-9",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030400",
+    "contentid": "129566",
+    "contenttypeid": "12",
+    "createdtime": "20070608090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.6511460250",
+    "mapy": "35.9784738998",
+    "mlevel": "6",
+    "modifiedtime": "20230330113154",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "무주 트리스쿨",
+    "zipcode": "55512",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "장애인 전용 화장실 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "790325": {
+    "addr1": "전라북도 무주군 무주읍 한풍루로 326-36",
+    "addr2": "(무주읍)",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0204",
+    "cat3": "A02040800",
+    "contentid": "790325",
+    "contenttypeid": "12",
+    "createdtime": "20090901183616",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/63/1247163_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/63/1247163_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.6634609634",
+    "mapy": "36.0020131073",
+    "mlevel": "6",
+    "modifiedtime": "20220520092427",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "무주국제화교육센터",
+    "zipcode": "55514",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1624914": {
+    "addr1": "전북 무주군",
+    "addr2": "설천면(삼공리, 심곡리)",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020200",
+    "contentid": "1624914",
+    "contenttypeid": "12",
+    "createdtime": "20120508234858",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/42/1929742_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/42/1929742_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7761537319",
+    "mapy": "35.8992073610",
+    "mlevel": "6",
+    "modifiedtime": "20230610080254",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "무주 구천동 관광특구",
+    "zipcode": "568-814,11",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(관리사무소 공중화장실,경사로설치됨)"
+      },
+      {
+        "기타 지원 항목": "데크로드 산책로구간 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(우주곤충박물관)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "645076": {
+    "addr1": "전라남도 해남군 송지면 땅끝마을길 38-7",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "645076",
+    "contenttypeid": "39",
+    "createdtime": "20081101022544",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/92/1973292_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/92/1973292_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.5252071767",
+    "mapy": "34.3027521256",
+    "mlevel": "6",
+    "modifiedtime": "20230823152940",
+    "sigungucode": "23",
+    "tel": "061-534-6422",
+    "title": "땅끝바다횟집",
+    "zipcode": "59065",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "주차장에서 가게 주출입구로 이동 시 접근로가 평탄함_무장애 편의정보"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "840407": {
+    "addr1": "전라남도 해남군 삼산면 대흥사길 88-33",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "840407",
+    "contenttypeid": "39",
+    "createdtime": "20091028200510",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/48/1973448_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/48/1973448_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6240938643",
+    "mapy": "34.4973541712",
+    "mlevel": "6",
+    "modifiedtime": "20221221181313",
+    "sigungucode": "23",
+    "tel": "061-532-2233",
+    "title": "산마루터",
+    "zipcode": "59047",
+    "family": [],
+    "handi": [
+      {
+        "출입통로": "주출입구 무단차_무장애 편의정보"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "안내요원": "안내직원 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2923377": {
+    "addr1": "전라남도 해남군 남부순환로 5 용진정육점",
+    "addr2": "102호",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2923377",
+    "contenttypeid": "39",
+    "createdtime": "20221128131509",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/66/2923366_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/66/2923366_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6071908222",
+    "mapy": "34.5703429290",
+    "mlevel": "6",
+    "modifiedtime": "20230105100018",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "몽소베이커리 고구마빵",
+    "zipcode": "59038",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "129770": {
+    "addr1": "경기도 남양주시 화도읍 경춘로2110번길 8",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060500",
+    "contentid": "129770",
+    "contenttypeid": "14",
+    "createdtime": "20071106102918",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/21/1589421_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/21/1589421_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3237482921",
+    "mapy": "37.6504063015",
+    "mlevel": "6",
+    "modifiedtime": "20230222104909",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "모란미술관",
+    "zipcode": "12190",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(외부 건물 옆 1층)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "129868": {
+    "addr1": "경기도 남양주시 경춘로 883-36",
+    "addr2": "(금곡동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060700",
+    "contentid": "129868",
+    "contenttypeid": "14",
+    "createdtime": "20071106103342",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/38/1785838_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/38/1785838_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1983713186",
+    "mapy": "37.6329838240",
+    "mlevel": "6",
+    "modifiedtime": "20230317133532",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "남양주문화원",
+    "zipcode": "12235",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "130710": {
+    "addr1": "경기도 남양주시 진접읍 금강로 1095",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "130710",
+    "contenttypeid": "14",
+    "createdtime": "20060103090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/81/700781_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/81/700781_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1610061937",
+    "mapy": "37.6978978201",
+    "mlevel": "6",
+    "modifiedtime": "20230811111734",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "우석헌자연사박물관",
+    "zipcode": "12074",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "경사로 출입구와 외부와 연결된 승강기 있음"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구 앞)_시각장애인 편의시설"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "촉지안내도 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1910439": {
+    "addr1": "경기도 남양주시 와부읍 경강로 756",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "1910439",
+    "contenttypeid": "14",
+    "createdtime": "20140402185303",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/40/1906640_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/40/1906640_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2270261130",
+    "mapy": "37.5685085007",
+    "mlevel": "6",
+    "modifiedtime": "20220513173359",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "프라움악기박물관",
+    "zipcode": "12270",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(1층)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "안내요원": "해설도움가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1936797": {
+    "addr1": "경기도 남양주시 와부읍 팔당로 121",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "1936797",
+    "contenttypeid": "14",
+    "createdtime": "20140725020354",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/09/1591309_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/09/1591309_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2443696130",
+    "mapy": "37.5463724962",
+    "mlevel": "6",
+    "modifiedtime": "20220830100337",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "남양주시립박물관",
+    "zipcode": "12277",
+    "family": [
+      {
+        "유모차": "유모차무료대여 가능함(1층 안내데스크, 2대구비)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "경사로를 이용하여 휠체어로 건물진입가능"
+      },
+      {
+        "휠체어": "휠체어무료대여 가능함(1층 안내데스크, 1대구비)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인전용 화장실 있음(공용)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "오디오 가이드": "일부구간은 오디오센서가 작동됨"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2507011": {
+    "addr1": "경기도 남양주시 진접읍 해밀예당1로 96",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "2507011",
+    "contenttypeid": "14",
+    "createdtime": "20170911191759",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/00/2507000_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/00/2507000_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1934137914",
+    "mapy": "37.7173239270",
+    "mlevel": "6",
+    "modifiedtime": "20230613103727",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "남양주 어린이비전센터",
+    "zipcode": "12057",
+    "family": [
+      {
+        "수유실": "수유실 있음(1층)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(1층,비상전화 및 알림벨)"
+      },
+      {
+        "관람석": "장애인 전용 관람석 있음(2개)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(엘리베이터 앞,화장실 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "안내요원": "체험전시실마다 안내요원 있음"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "촉지안내도 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2734893": {
+    "addr1": "경기도 남양주시 조안면 다산로747번길 11",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060200",
+    "contentid": "2734893",
+    "contenttypeid": "14",
+    "createdtime": "20210818223050",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/98/2734998_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/98/2734998_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2992793643",
+    "mapy": "37.5165547311",
+    "mlevel": "6",
+    "modifiedtime": "20221227144053",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "다산기념관",
+    "zipcode": "12283",
+    "family": [
+      {
+        "유모차": "대여가능(2대)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능(2대)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "안내요원": "안내요원 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2788928": {
+    "addr1": "경기도 남양주시 다산중앙로82번안길 138",
+    "addr2": "(다산동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060900",
+    "contentid": "2788928",
+    "contenttypeid": "14",
+    "createdtime": "20211208185700",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/66/2792366_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/66/2792366_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1673719588",
+    "mapy": "37.6122106760",
+    "mlevel": "6",
+    "modifiedtime": "20230322101723",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "정약용도서관",
+    "zipcode": "12249",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문/자동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(1층, 2층)"
+      },
+      {
+        "관람석": "장애인 전용 관람석 있음(공연장/4석)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      },
+      {
+        "오디오 가이드": "음성안내 버튼 있음(점자안내판)"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

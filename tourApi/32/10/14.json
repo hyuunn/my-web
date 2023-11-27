@@ -1,0 +1,356 @@
+{
+  "130513": {
+    "addr1": "강원특별자치도 인제군 인제읍 인제로156번길 50",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "130513",
+    "contenttypeid": "14",
+    "createdtime": "20040604090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/24/1583424_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/24/1583424_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.1717866693",
+    "mapy": "38.0629408140",
+    "mlevel": "6",
+    "modifiedtime": "20230701104851",
+    "sigungucode": "10",
+    "tel": "",
+    "title": "인제산촌민속박물관",
+    "zipcode": "24633",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(접근로,주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "130679": {
+    "addr1": "강원특별자치도 인제군 북면 만해로 91",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "130679",
+    "contenttypeid": "14",
+    "createdtime": "20051108090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/92/630192_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/92/630192_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.3166085986",
+    "mapy": "38.1862375638",
+    "mlevel": "6",
+    "modifiedtime": "20230701104455",
+    "sigungucode": "10",
+    "tel": "",
+    "title": "만해문학박물관",
+    "zipcode": "24606",
+    "family": [
+      {
+        "영유아가족 기타 지원 항목": "유아놀이실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1722458": {
+    "addr1": "강원특별자치도 인제군 인제읍 비봉로44번길 100",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060600",
+    "contentid": "1722458",
+    "contenttypeid": "14",
+    "createdtime": "20120920221852",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.1649151412",
+    "mapy": "38.0606742802",
+    "mlevel": "6",
+    "modifiedtime": "20230701104437",
+    "sigungucode": "10",
+    "tel": "",
+    "title": "인제 하늘내린센터",
+    "zipcode": "24624",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      },
+      {
+        "관람석": "장애인 전용 관람석 있음(7석)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1835658": {
+    "addr1": "강원특별자치도 인제군 북면 황태길 245",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060500",
+    "contentid": "1835658",
+    "contenttypeid": "14",
+    "createdtime": "20130808193023",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.3621480618",
+    "mapy": "38.2133102871",
+    "mlevel": "6",
+    "modifiedtime": "20230701103852",
+    "sigungucode": "10",
+    "tel": "",
+    "title": "내설악 백공미술관",
+    "zipcode": "24605",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있으나 주차장에서 경사로까지 잔디구간이 있어 주의요망"
+      },
+      {
+        "화장실": "장애인전용 화장실 있음 (공용)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1932440": {
+    "addr1": "강원특별자치도 인제군 인제읍 인제로156번길 50",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "1932440",
+    "contenttypeid": "14",
+    "createdtime": "20140707223055",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/46/1932446_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/46/1932446_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.1717366755",
+    "mapy": "38.0628824868",
+    "mlevel": "6",
+    "modifiedtime": "20230905151055",
+    "sigungucode": "10",
+    "tel": "",
+    "title": "박인환문학관",
+    "zipcode": "24633",
+    "family": [
+      {
+        "영유아가족 기타 지원 항목": "야외놀이터 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "휠체어무료대여가능 (안내데스크)"
+      },
+      {
+        "출입통로": "경사면을 이용하여 휠체어로건물진입 가능함 , 단차없어 내부관람 편리함"
+      },
+      {
+        "엘리베이터": "장애인용 엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인전용화장실 있음 (1층)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구,전시관 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2692510": {
+    "addr1": "강원특별자치도 인제군 북면 만해로 154",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "2692510",
+    "contenttypeid": "14",
+    "createdtime": "20201207195531",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.3198110007",
+    "mapy": "38.1889706404",
+    "mlevel": "6",
+    "modifiedtime": "20230701105205",
+    "sigungucode": "10",
+    "tel": "",
+    "title": "여초서예관",
+    "zipcode": "24606",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2714546": {
+    "addr1": "강원특별자치도 인제군 북면 만해로 154",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060200",
+    "contentid": "2714546",
+    "contenttypeid": "14",
+    "createdtime": "20210427002512",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.3198110007",
+    "mapy": "38.1889706404",
+    "mlevel": "6",
+    "modifiedtime": "20230713145047",
+    "sigungucode": "10",
+    "tel": "",
+    "title": "여초김응현서예관",
+    "zipcode": "24606",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2714793": {
+    "addr1": "강원특별자치도 인제군 북면 용대리 1119-4",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "2714793",
+    "contenttypeid": "14",
+    "createdtime": "20210429010337",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.3178167531",
+    "mapy": "38.1884706602",
+    "mlevel": "6",
+    "modifiedtime": "20230701105140",
+    "sigungucode": "10",
+    "tel": "",
+    "title": "한국시집박물관",
+    "zipcode": "",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "경사로 있음(내부시설 관람로)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

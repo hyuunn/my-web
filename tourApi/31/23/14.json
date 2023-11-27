@@ -1,0 +1,1172 @@
+{
+  "129765": {
+    "addr1": "경기도 용인시 처인구 포곡읍 에버랜드로562번길 38",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060500",
+    "contentid": "129765",
+    "contenttypeid": "14",
+    "createdtime": "20071106102904",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/52/2364452_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/52/2364452_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1923148632",
+    "mapy": "37.2932064593",
+    "mlevel": "6",
+    "modifiedtime": "20230802205906",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "호암미술관",
+    "zipcode": "17021",
+    "family": [
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "안내요원": "전시해설자 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "129834": {
+    "addr1": "경기도 용인시 수지구 죽전로 152",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "129834",
+    "contenttypeid": "14",
+    "createdtime": "20071106103228",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/29/1785829_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/29/1785829_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1325083884",
+    "mapy": "37.3211827004",
+    "mlevel": "6",
+    "modifiedtime": "20230414110354",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "단국대학교 석주선기념박물관",
+    "zipcode": "16890",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "대여가능 (1대)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함 (자동문,수동문)"
+      },
+      {
+        "엘리베이터": "장애인용 엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음 (1층,남2개 여2개)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음 (주요시설 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "129869": {
+    "addr1": "경기도 용인시 처인구 중부대로 1199",
+    "addr2": "(삼가동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060700",
+    "contentid": "129869",
+    "contenttypeid": "14",
+    "createdtime": "20071106103343",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/46/1785846_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/46/1785846_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1774732269",
+    "mapy": "37.2412455395",
+    "mlevel": "6",
+    "modifiedtime": "20230224111723",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "용인문화원",
+    "zipcode": "17019",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(접근로,주출입구,주요시설 입구)_시각장애인 편의시설"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "130079": {
+    "addr1": "경기도 용인시 기흥구 마북로 244-2",
+    "addr2": "(마북동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060500",
+    "contentid": "130079",
+    "contenttypeid": "14",
+    "createdtime": "20071106104115",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.1319310071",
+    "mapy": "37.3089618833",
+    "mlevel": "6",
+    "modifiedtime": "20220926180039",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "한국미술관",
+    "zipcode": "16891",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터는 없으나 장애인리프트 이용가능(2층건물)"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "130136": {
+    "addr1": "경기도 용인시 기흥구 상갈로 6",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "1",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "130136",
+    "contenttypeid": "14",
+    "createdtime": "20071106104345",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/97/576297_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/97/576297_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1086564838",
+    "mapy": "37.2682634008",
+    "mlevel": "6",
+    "modifiedtime": "20230125095941",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "경기도박물관",
+    "zipcode": "17072",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로,보조출입구는 무단차접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "130147": {
+    "addr1": "경기도 용인시 처인구 모현읍 능곡로56번길 8",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "130147",
+    "contenttypeid": "14",
+    "createdtime": "20071106104420",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.1778371753",
+    "mapy": "37.3365733994",
+    "mlevel": "6",
+    "modifiedtime": "20220831131346",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "한국등잔박물관",
+    "zipcode": "16886",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "휠체어 리프트있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "130546": {
+    "addr1": "경기도 용인시 기흥구 민속촌로 89",
+    "addr2": "(보라동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060600",
+    "contentid": "130546",
+    "contenttypeid": "14",
+    "createdtime": "20050309090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.1135118480",
+    "mapy": "37.2593867373",
+    "mlevel": "6",
+    "modifiedtime": "20220520104908",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "경기도국악당",
+    "zipcode": "17075",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "관람석": "장애인 전용 관람석 있음(관람석 중앙 6석)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "130555": {
+    "addr1": "경기도 용인시 기흥구 민속촌로 90",
+    "addr2": "(보라동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "130555",
+    "contenttypeid": "14",
+    "createdtime": "20050401090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/97/1785897_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/97/1785897_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1205445440",
+    "mapy": "37.2593868634",
+    "mlevel": "6",
+    "modifiedtime": "20220520170029",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "한국민속촌 옹기전시관",
+    "zipcode": "17075",
+    "family": [
+      {
+        "유모차": "유모차 유료대여 가능함(대여료 2,000원 , 보증금 1,000원)"
+      },
+      {
+        "수유실": "민속촌 내에 수유실 있음"
+      },
+      {
+        "영유아가족 기타 지원 항목": "상가마을에 있는 식당은 턱이 없어서 휠체어나 유모차로 출입이 용이함"
+      }
+    ],
+    "handi": [
+      {
+        "휠체어": "대여 가능(신분증 지참)"
+      },
+      {
+        "출입통로": "주 출입구 무단차"
+      },
+      {
+        "화장실": "민속촌 내에 장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "130704": {
+    "addr1": "경기도 용인시 처인구 모현면 문형동림로101번길 37",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060500",
+    "contentid": "130704",
+    "contenttypeid": "14",
+    "createdtime": "20060103090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/13/1785913_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/13/1785913_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1926804070",
+    "mapy": "37.3318214392",
+    "mlevel": "6",
+    "modifiedtime": "20220714143814",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "마가미술관",
+    "zipcode": "16888",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "무료대여(2대)"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "130928": {
+    "addr1": "경기도 용인시 처인구 명지로 116",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "130928",
+    "contenttypeid": "14",
+    "createdtime": "20070716090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/99/728999_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/99/728999_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1856397023",
+    "mapy": "37.2217035027",
+    "mlevel": "6",
+    "modifiedtime": "20221025104754",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "명지대학교 박물관",
+    "zipcode": "",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차 없이 연결 됨"
+      },
+      {
+        "출입통로": "주출입구는 무단차로 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음(박물관은 건물 6층)"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(박물관 층내에 있음)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블럭 있음(주요시설 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "631003": {
+    "addr1": "경기도 용인시 기흥구 백남준로 10",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060500",
+    "contentid": "631003",
+    "contenttypeid": "14",
+    "createdtime": "20081002005957",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/58/2364458_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/58/2364458_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1103451939",
+    "mapy": "37.2691966555",
+    "mlevel": "6",
+    "modifiedtime": "20231018092002",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "백남준아트센터",
+    "zipcode": "17068",
+    "family": [
+      {
+        "유모차": "대여 가능(매표소 사전 연락)"
+      },
+      {
+        "수유실": "수유실 있음(1층 카페 옆/쇼파, 아기침대, 정수기 있음)"
+      },
+      {
+        "영유아가족 기타 지원 항목": "장애인 화장실 내 영유아 거치대, 기저귀 교환대 있음\n유아용 화장실 있음(지하 1층)\n노인/임산부 주차장 있음(3면)"
+      }
+    ],
+    "handi": [
+      {
+        "대중교통": "분당선 상갈역 2번 출구에서 38-1, 51번 탑승 후 백남준아트센터에서 116m\n 분당선 기흥 4번 출구에서 51번 탑승 후 백남준아트센터에서 173m"
+      },
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여 가능(매표소 사전 연락)"
+      },
+      {
+        "출입통로": "주 출입구는 경사로가 있어 휠체어 접근 가능함(회전문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(지하 1층 일반화장실 내/미닫이문)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주 출입구)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반 가능"
+      },
+      {
+        "오디오 가이드": "음성안내기 있음(QR코드, 전시 별 상이)"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자표지판 있음(주 출입구/음성 안내 기능 탑재)"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "790195": {
+    "addr1": "경기도 용인시 기흥구 백남준로 7",
+    "addr2": "(상갈동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060500",
+    "contentid": "790195",
+    "contenttypeid": "14",
+    "createdtime": "20090901014146",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/69/2364469_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/69/2364469_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1101229723",
+    "mapy": "37.2698993483",
+    "mlevel": "6",
+    "modifiedtime": "20230410134810",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "지앤아트스페이스",
+    "zipcode": "17068",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음(카페&레스토랑)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1605877": {
+    "addr1": "경기도 용인시 기흥구 상갈로 6",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "1605877",
+    "contenttypeid": "14",
+    "createdtime": "20120418190227",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.1086564838",
+    "mapy": "37.2682634008",
+    "mlevel": "6",
+    "modifiedtime": "20230919100342",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "경기도어린이박물관",
+    "zipcode": "17072",
+    "family": [
+      {
+        "유모차": "대여가능(24개월 이하, 25대 구비)"
+      },
+      {
+        "수유실": "수유실 있음(1층 자연놀이터 내)"
+      },
+      {
+        "영유아가족 기타 지원 항목": "화장실 내 기저귀갈이대, 유아변기, 유아세면대 있음"
+      }
+    ],
+    "handi": [
+      {
+        "휠체어": "대여가능(5대/안내데스크)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(예약, 직원전용 지하 엘리베이터 개방)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(1층, 아기둥지쪽)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "안내요원": "안내요원 있음(비상벨 직원호출)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1753401": {
+    "addr1": "경기도 용인시 수지구 포은대로 499",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060600",
+    "contentid": "1753401",
+    "contenttypeid": "14",
+    "createdtime": "20121116233213",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.1063884058",
+    "mapy": "37.3258261380",
+    "mlevel": "6",
+    "modifiedtime": "20221019134652",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "용인 포은아트홀",
+    "zipcode": "16870",
+    "family": [
+      {
+        "영유아가족 기타 지원 항목": "어린이 놀이방 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "주차장에서 출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "장애인 엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "관람석": "장애인 관람석 있음(14석)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(엘리베이터 앞,화장실 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1753474": {
+    "addr1": "경기도 용인시 처인구 중부대로1392번길 15",
+    "addr2": "(김량장동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060600",
+    "contentid": "1753474",
+    "contenttypeid": "14",
+    "createdtime": "20121117003126",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.1988493347",
+    "mapy": "37.2317414683",
+    "mlevel": "6",
+    "modifiedtime": "20230223140202",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "용인시문예회관",
+    "zipcode": "17062",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "엘리베이터": "장애인리프트 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      },
+      {
+        "관람석": "장애인 전용 관람석 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1753495": {
+    "addr1": "경기도 용인시 수지구 문정로7번길 15 용인시 평생학습관",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060600",
+    "contentid": "1753495",
+    "contenttypeid": "14",
+    "createdtime": "20121117004849",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.0955145410",
+    "mapy": "37.3205765511",
+    "mlevel": "6",
+    "modifiedtime": "20220613133028",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "용인시평생학습관",
+    "zipcode": "16841",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "장애인용 엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "관람석": "장애인 관람석 있음"
+      },
+      {
+        "기타 지원 항목": "실내경사로 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음(공연동 입구앞)"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1753541": {
+    "addr1": "경기도 용인시 처인구 중부대로 1199",
+    "addr2": "(삼가동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060600",
+    "contentid": "1753541",
+    "contenttypeid": "14",
+    "createdtime": "20121117011455",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.1774732269",
+    "mapy": "37.2412455395",
+    "mlevel": "6",
+    "modifiedtime": "20230330104958",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "문화예술원 마루홀",
+    "zipcode": "17019",
+    "family": [],
+    "handi": [
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "관람석": "장애인 좌석 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1753572": {
+    "addr1": "경기도 용인시 수지구 죽전로168번길 9",
+    "addr2": "(죽전동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060600",
+    "contentid": "1753572",
+    "contenttypeid": "14",
+    "createdtime": "20121117013705",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.1264643720",
+    "mapy": "37.3254432096",
+    "mlevel": "6",
+    "modifiedtime": "20220712110222",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "죽전야외음악당",
+    "zipcode": "16889",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 계단 없이 평지로 연결 됨(야의음악당)"
+      },
+      {
+        "출입통로": "주출입구에 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      },
+      {
+        "관람석": "장애인 전용 관람석 있음(총 6석)<br/>\n부족할 경우 야외음악당 특성상 휠체어를 놓는 여유공간이 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1824455": {
+    "addr1": "경기도 용인시 처인구 원설로270번길 25 예아리 박물관",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "1824455",
+    "contenttypeid": "14",
+    "createdtime": "20130628231135",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.3629731159",
+    "mapy": "37.1422047745",
+    "mlevel": "6",
+    "modifiedtime": "20230810091431",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "예아리박물관",
+    "zipcode": "17181",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2623847": {
+    "addr1": "경기도 용인시 수지구 샘말로 122",
+    "addr2": "(고기동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060500",
+    "contentid": "2623847",
+    "contenttypeid": "14",
+    "createdtime": "20191010225210",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/41/2623841_image2_1.bmp",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/41/2623841_image2_1.bmp",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0441126426",
+    "mapy": "37.3565020225",
+    "mlevel": "6",
+    "modifiedtime": "20230613112319",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "뮤지엄그라운드",
+    "zipcode": "16800",
+    "family": [
+      {
+        "수유실": "수유실 있음"
+      },
+      {
+        "유아용 보조 의자": "구비(3층 카페)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "의자식테이블(3층 카페)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "전시해설자 있음(도슨트)"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2629751": {
+    "addr1": "경기도 용인시 처인구 원삼면 농촌파크로 80-1",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "2629751",
+    "contenttypeid": "14",
+    "createdtime": "20191024012822",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.2971504758",
+    "mapy": "37.1710946935",
+    "mlevel": "6",
+    "modifiedtime": "20220915103047",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "용인 농경문화전시관",
+    "zipcode": "17167",
+    "family": [
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "전시해설자 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2666913": {
+    "addr1": "경기도 용인시 처인구 양지면 학촌로53번길 4",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060500",
+    "contentid": "2666913",
+    "contenttypeid": "14",
+    "createdtime": "20200812015227",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.3022008122",
+    "mapy": "37.2414644274",
+    "mlevel": "6",
+    "modifiedtime": "20230308173023",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "벗이미술관",
+    "zipcode": "17162",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2734982": {
+    "addr1": "경기도 용인시 기흥구 동백3로 79",
+    "addr2": "(중동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "2734982",
+    "contenttypeid": "14",
+    "createdtime": "20210819000240",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/81/2738981_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/81/2738981_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1571741460",
+    "mapy": "37.2739830531",
+    "mlevel": "6",
+    "modifiedtime": "20230728141856",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "용인시박물관",
+    "zipcode": "17005",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문/수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "기타 지원 항목": "내부 관람 동선에 경사로 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

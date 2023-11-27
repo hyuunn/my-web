@@ -1,0 +1,44 @@
+{
+  "2714103": {
+    "addr1": "전남 구례군 구례읍 원방리 1",
+    "addr2": "구례군, 하동군",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03022700",
+    "contentid": "2714103",
+    "contenttypeid": "28",
+    "createdtime": "20210420022328",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.4653083040",
+    "mapy": "35.1863492369",
+    "mlevel": "6",
+    "modifiedtime": "20230323135439",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "섬진강 대나무숲길",
+    "zipcode": "",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

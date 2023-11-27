@@ -1,0 +1,211 @@
+{
+  "625555": {
+    "addr1": "강원특별자치도 동해시 일출로 93",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "625555",
+    "contenttypeid": "39",
+    "createdtime": "20080918193847",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/65/590665_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/65/590665_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.1179335673",
+    "mapy": "37.5521043868",
+    "mlevel": "6",
+    "modifiedtime": "20230906174811",
+    "sigungucode": "3",
+    "tel": "033-531-5209",
+    "title": "부흥횟집",
+    "zipcode": "25717",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "625790": {
+    "addr1": "강원특별자치도 동해시 한섬로 135-3",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "625790",
+    "contenttypeid": "39",
+    "createdtime": "20080918230520",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "129.1180455634",
+    "mapy": "37.5230966219",
+    "mlevel": "6",
+    "modifiedtime": "20231110161041",
+    "sigungucode": "3",
+    "tel": "033-533-8585",
+    "title": "영빈관횟집",
+    "zipcode": "25769",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2481416": {
+    "addr1": "강원특별자치도 동해시 평원1길 120",
+    "addr2": "(평릉동)",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2481416",
+    "contenttypeid": "39",
+    "createdtime": "20170217182119",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "129.1152038262",
+    "mapy": "37.5336453506",
+    "mlevel": "6",
+    "modifiedtime": "20230912101432",
+    "sigungucode": "3",
+    "tel": "033-531-7553",
+    "title": "임계한우타운",
+    "zipcode": "25737",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "입식(의자식)테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2925236": {
+    "addr1": "강원특별자치도 동해시 일출로 83",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020400",
+    "contentid": "2925236",
+    "contenttypeid": "39",
+    "createdtime": "20221130104657",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/01/2925201_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/01/2925201_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.1167947716",
+    "mapy": "37.5523904423",
+    "mlevel": "6",
+    "modifiedtime": "20230702043831",
+    "sigungucode": "3",
+    "tel": "",
+    "title": "거동탕수육",
+    "zipcode": "25717",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2928940": {
+    "addr1": "강원특별자치도 동해시 동해대로 6270-31 망상해변상가",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2928940",
+    "contenttypeid": "39",
+    "createdtime": "20221202150213",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/00/2928700_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/00/2928700_image3_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.0890848680",
+    "mapy": "37.5937767940",
+    "mlevel": "6",
+    "modifiedtime": "20230702095111",
+    "sigungucode": "3",
+    "tel": "",
+    "title": "베이커리카페 클램",
+    "zipcode": "25700",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

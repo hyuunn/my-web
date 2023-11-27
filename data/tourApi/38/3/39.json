@@ -1,0 +1,125 @@
+{
+  "1373338": {
+    "addr1": "전라남도 곡성군 곡성읍 중앙로 54",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "1373338",
+    "contenttypeid": "39",
+    "createdtime": "20110830025122",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/56/2032556_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/56/2032556_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2895047838",
+    "mapy": "35.2782747162",
+    "mlevel": "6",
+    "modifiedtime": "20230814132353",
+    "sigungucode": "3",
+    "tel": "061-362-1539",
+    "title": "궁전회관",
+    "zipcode": "57541",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2823143": {
+    "addr1": "전라남도 곡성군 곡성로 832",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2823143",
+    "contenttypeid": "39",
+    "createdtime": "20220608142205",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.2951848309",
+    "mapy": "35.2785303403",
+    "mlevel": "6",
+    "modifiedtime": "20220613105440",
+    "sigungucode": "3",
+    "tel": "",
+    "title": "제주세호해장국 곡성점",
+    "zipcode": "57542",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2915862": {
+    "addr1": "전라남도 곡성군 침곡길 26-30",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2915862",
+    "contenttypeid": "39",
+    "createdtime": "20221123105715",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/54/2915854_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/54/2915854_image3_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3428921558",
+    "mapy": "35.2619746990",
+    "mlevel": "6",
+    "modifiedtime": "20230308132505",
+    "sigungucode": "3",
+    "tel": "",
+    "title": "동굴커피",
+    "zipcode": "57530",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

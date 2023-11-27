@@ -1,0 +1,44 @@
+{
+  "129865": {
+    "addr1": "경기도 구리시 동구릉로 217-14",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060700",
+    "contentid": "129865",
+    "contenttypeid": "14",
+    "createdtime": "20071106103337",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/84/1858484_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/84/1858484_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1384438616",
+    "mapy": "37.6183872119",
+    "mlevel": "6",
+    "modifiedtime": "20220726110446",
+    "sigungucode": "6",
+    "tel": "",
+    "title": "구리문화원",
+    "zipcode": "11910",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "주차장에서 출입구까지 단차 없이 연결 됨"
+      },
+      {
+        "출입통로": "주출입구 휠체어 통과 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

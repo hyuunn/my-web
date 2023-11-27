@@ -1,0 +1,98 @@
+{
+  "127513": {
+    "addr1": "경기도 동두천시 평화로2910번길 148-20",
+    "addr2": "(상봉암동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010400",
+    "contentid": "127513",
+    "contenttypeid": "12",
+    "createdtime": "20040224090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/22/1195422_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/22/1195422_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0705933933",
+    "mapy": "37.9465144358",
+    "mlevel": "6",
+    "modifiedtime": "20231110175209",
+    "sigungucode": "10",
+    "tel": "",
+    "title": "소요산국민관광지",
+    "zipcode": "11307",
+    "family": [
+      {
+        "유모차": "유모차 무료대여 가능함 ( 1대)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "휠체어 사용자는 주차장에서 일주문까지 산책이 가능함(일주문 이후부터는 비포장, 급경사, 돌계단이 계속되어 접근이 어려움)"
+      },
+      {
+        "휠체어": "휠체어 대여 가능함(1대 보유)"
+      },
+      {
+        "화장실": "장애인전용화장실 있음(주차장 공중화장실에 위치)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2661425": {
+    "addr1": "경기도 동두천시 탑동가산로 1",
+    "addr2": "(탑동동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010600",
+    "contentid": "2661425",
+    "contenttypeid": "12",
+    "createdtime": "20200629225746",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/19/2661419_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/19/2661419_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1371750523",
+    "mapy": "37.8899416896",
+    "mlevel": "6",
+    "modifiedtime": "20231110174813",
+    "sigungucode": "10",
+    "tel": "",
+    "title": "동두천자연휴양림",
+    "zipcode": "11322",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "객실": "장애인 객실 있음"
+      },
+      {
+        "기타 지원 항목": "무장애 산책로, 장애인 샤워실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능(보조견 표지 부착)"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

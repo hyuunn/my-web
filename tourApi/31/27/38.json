@@ -1,0 +1,262 @@
+{
+  "131995": {
+    "addr1": "경기도 파주시 금정22길 15-15",
+    "addr2": "(금촌동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010100",
+    "contentid": "131995",
+    "contenttypeid": "38",
+    "createdtime": "20020419090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/55/1788455_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/55/1788455_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7735647472",
+    "mapy": "37.7622583521",
+    "mlevel": "6",
+    "modifiedtime": "20221202164416",
+    "sigungucode": "27",
+    "tel": "031-940-4521",
+    "title": "금촌장 (1, 6일)",
+    "zipcode": "10929",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1238580": {
+    "addr1": "경기도 파주시 탄현면 필승로 200",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010600",
+    "contentid": "1238580",
+    "contenttypeid": "38",
+    "createdtime": "20110322233803",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/21/2532821_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/21/2532821_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6964910575",
+    "mapy": "37.7689256453",
+    "mlevel": "6",
+    "modifiedtime": "20230410100606",
+    "sigungucode": "27",
+    "tel": "",
+    "title": "신세계사이먼 파주 프리미엄 아울렛",
+    "zipcode": "10862",
+    "family": [
+      {
+        "유모차": "대여가능"
+      },
+      {
+        "수유실": "수유실 있음"
+      },
+      {
+        "영유아가족 기타 지원 항목": "기저귀교환대 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음(식음업장)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음(안내데스크)"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1562538": {
+    "addr1": "경기도 파주시 회동길 390",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010600",
+    "contentid": "1562538",
+    "contenttypeid": "38",
+    "createdtime": "20120306222420",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/89/2487489_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/89/2487489_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6937594139",
+    "mapy": "37.7179370956",
+    "mlevel": "6",
+    "modifiedtime": "20230610075638",
+    "sigungucode": "27",
+    "tel": "031-960-2500",
+    "title": "롯데 파주 프리미엄아울렛",
+    "zipcode": "10881",
+    "family": [
+      {
+        "유모차": "유모차 대여 가능함(A,B블럭 각 1층,유모차대여소)"
+      },
+      {
+        "수유실": "수유실 있음"
+      },
+      {
+        "영유아가족 기타 지원 항목": "유아휴게실(A블럭 3층,B블록 2층),유아놀이터 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음(식음업장)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "가능"
+      },
+      {
+        "안내요원": "안내요원 있음(안내데스크)"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2765102": {
+    "addr1": "경기도 파주시 문산읍 문향로 57",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "2765102",
+    "contenttypeid": "38",
+    "createdtime": "20211029213736",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/00/2765100_image2_1.jpeg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/00/2765100_image2_1.jpeg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7839555546",
+    "mapy": "37.8567836254",
+    "mlevel": "6",
+    "modifiedtime": "20230410102715",
+    "sigungucode": "27",
+    "tel": "",
+    "title": "문산자유시장",
+    "zipcode": "10823",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2765103": {
+    "addr1": "경기도 파주시 조리읍 고봉로 1035",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "2765103",
+    "contenttypeid": "38",
+    "createdtime": "20211029214004",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/87/2765087_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/87/2765087_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8079899058",
+    "mapy": "37.7435389274",
+    "mlevel": "6",
+    "modifiedtime": "20230724140556",
+    "sigungucode": "27",
+    "tel": "",
+    "title": "봉일천종합시장",
+    "zipcode": "10937",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

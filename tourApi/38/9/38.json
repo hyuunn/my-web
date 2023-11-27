@@ -1,0 +1,128 @@
+{
+  "132410": {
+    "addr1": "전라남도 무안군 일로읍 시장길 11-22",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010100",
+    "contentid": "132410",
+    "contenttypeid": "38",
+    "createdtime": "20021119090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/65/1972065_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/65/1972065_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.4945385102",
+    "mapy": "34.8474654717",
+    "mlevel": "6",
+    "modifiedtime": "20231004144649",
+    "sigungucode": "9",
+    "tel": "061-450-5602",
+    "title": "일로장 (1, 6일)",
+    "zipcode": "58575",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2748736": {
+    "addr1": "전라남도 무안군 무안읍 성내리 21-13",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "2748736",
+    "contenttypeid": "38",
+    "createdtime": "20210924175932",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.4726341196",
+    "mapy": "34.9934958653",
+    "mlevel": "6",
+    "modifiedtime": "20230802194616",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "무안전통시장",
+    "zipcode": "58522",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2758168": {
+    "addr1": "전라남도 무안군 삼향읍 남악5로52번길 13-7",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "2758168",
+    "contenttypeid": "38",
+    "createdtime": "20211018225759",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.4728107716",
+    "mapy": "34.8103692926",
+    "mlevel": "6",
+    "modifiedtime": "20230727101346",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "남악시장",
+    "zipcode": "58568",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

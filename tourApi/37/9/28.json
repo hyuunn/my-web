@@ -1,0 +1,46 @@
+{
+  "131621": {
+    "addr1": "전라북도 익산시 선화로 255",
+    "addr2": "(남중동)",
+    "areacode": "37",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03020200",
+    "contentid": "131621",
+    "contenttypeid": "28",
+    "createdtime": "20021021090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.9583308152",
+    "mapy": "35.9455016216",
+    "mlevel": "6",
+    "modifiedtime": "20221108174209",
+    "sigungucode": "9",
+    "tel": "063-859-4621",
+    "title": "익산시 국민생활관",
+    "zipcode": "54621",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(본관)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

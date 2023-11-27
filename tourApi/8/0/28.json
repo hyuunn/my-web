@@ -1,0 +1,128 @@
+{
+  "1433722": {
+    "addr1": "세종특별자치시 조치원읍 조치원8길 42",
+    "addr2": "",
+    "areacode": "8",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010100",
+    "contentid": "1433722",
+    "contenttypeid": "38",
+    "createdtime": "20111111022308",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.3005910218",
+    "mapy": "36.5997716645",
+    "mlevel": "6",
+    "modifiedtime": "20221005102931",
+    "sigungucode": "1",
+    "tel": "044-868-4209",
+    "title": "세종전통시장 (4, 9일)",
+    "zipcode": "30027",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2758047": {
+    "addr1": "세종특별자치시 금남면 대평시장1길 17-2",
+    "addr2": "",
+    "areacode": "8",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "2758047",
+    "contenttypeid": "38",
+    "createdtime": "20211018200825",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.2820824042",
+    "mapy": "36.4673254147",
+    "mlevel": "6",
+    "modifiedtime": "20230423005316",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "대평시장",
+    "zipcode": "30083",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2761642": {
+    "addr1": "세종특별자치시 조치원읍 조치원8길 42",
+    "addr2": "",
+    "areacode": "8",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "2761642",
+    "contenttypeid": "38",
+    "createdtime": "20211025203926",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.3006049078",
+    "mapy": "36.5998327682",
+    "mlevel": "6",
+    "modifiedtime": "20230410103515",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "세종전통시장(조치원중앙시장)",
+    "zipcode": "30027",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

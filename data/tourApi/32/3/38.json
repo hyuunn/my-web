@@ -1,0 +1,223 @@
+{
+  "132776": {
+    "addr1": "강원특별자치도 동해시 중앙시장길 10 발한상가",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "132776",
+    "contenttypeid": "38",
+    "createdtime": "20070502090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/99/1163199_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/99/1163199_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.1089844076",
+    "mapy": "37.5508793529",
+    "mlevel": "6",
+    "modifiedtime": "20230728142501",
+    "sigungucode": "3",
+    "tel": "",
+    "title": "동쪽바다중앙시장",
+    "zipcode": "25715",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "보행의 연속성이 높음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "132780": {
+    "addr1": "강원특별자치도 동해시 구미동",
+    "addr2": "486-2 일원",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010100",
+    "contentid": "132780",
+    "contenttypeid": "38",
+    "createdtime": "20070502090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/66/2741966_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/66/2741966_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.1268127177",
+    "mapy": "37.4817709997",
+    "mlevel": "6",
+    "modifiedtime": "20230701103412",
+    "sigungucode": "3",
+    "tel": "033-530-2162",
+    "title": "북평민속오일장 (3, 8일)",
+    "zipcode": "25813",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음/휠체어리프트 있음(1층~2층)"
+      },
+      {
+        "화장실": "장애인 화장실 있음(공용)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내문 있음(고객지원센터 내)"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2776854": {
+    "addr1": "강원특별자치도 동해시 일출로 58",
+    "addr2": "(묵호진동)",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010600",
+    "contentid": "2776854",
+    "contenttypeid": "38",
+    "createdtime": "20211122183207",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "129.1134034256",
+    "mapy": "37.5518543276",
+    "mlevel": "6",
+    "modifiedtime": "20230701101238",
+    "sigungucode": "3",
+    "tel": "",
+    "title": "묵호항활어판매센터",
+    "zipcode": "25718",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2790687": {
+    "addr1": "강원특별자치도 동해시 중앙시장길 10",
+    "addr2": "(발한동)",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "2790687",
+    "contenttypeid": "38",
+    "createdtime": "20211209233128",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/81/2790781_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/81/2790781_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.1089760754",
+    "mapy": "37.5508793528",
+    "mlevel": "6",
+    "modifiedtime": "20230701102314",
+    "sigungucode": "3",
+    "tel": "",
+    "title": "동해어시장",
+    "zipcode": "25715",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2855455": {
+    "addr1": "강원특별자치도 동해시 일출로 67",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "2855455",
+    "contenttypeid": "38",
+    "createdtime": "20220919164120",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/44/2855444_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/44/2855444_image3_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.1149060519",
+    "mapy": "37.5523987384",
+    "mlevel": "6",
+    "modifiedtime": "20230701101450",
+    "sigungucode": "3",
+    "tel": "",
+    "title": "묵호시장",
+    "zipcode": "25711",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

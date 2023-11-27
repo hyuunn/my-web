@@ -1,0 +1,176 @@
+{
+  "2501905": {
+    "addr1": "강원특별자치도 양양군 현북면 하조대해안길 119",
+    "addr2": "(현북면)",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0303",
+    "cat3": "A03030100",
+    "contentid": "2501905",
+    "contenttypeid": "28",
+    "createdtime": "20170731192929",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/90/2745190_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/90/2745190_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.7175465614",
+    "mapy": "38.0278081942",
+    "mlevel": "6",
+    "modifiedtime": "20230701131359",
+    "sigungucode": "7",
+    "tel": "033-672-0695",
+    "title": "서피비치, 서핑(양양)",
+    "zipcode": "25046",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2710789": {
+    "addr1": "강원특별자치도 양양군 현북면 잔교리",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03022700",
+    "contentid": "2710789",
+    "contenttypeid": "28",
+    "createdtime": "20210324180820",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/51/2739251_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/51/2739251_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.7202252520",
+    "mapy": "37.9906542259",
+    "mlevel": "6",
+    "modifiedtime": "20230701132920",
+    "sigungucode": "7",
+    "tel": "",
+    "title": "해파랑길 42코스",
+    "zipcode": "",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2710791": {
+    "addr1": "강원특별자치도 양양군 손양면 상운리",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03022700",
+    "contentid": "2710791",
+    "contenttypeid": "28",
+    "createdtime": "20210324180947",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/61/2739261_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/61/2739261_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.6868266962",
+    "mapy": "38.0414560116",
+    "mlevel": "6",
+    "modifiedtime": "20230701131721",
+    "sigungucode": "7",
+    "tel": "051-607-6395(해파랑길 종합 안내소)<br /> \n033-670-2207(양양군 관광과)",
+    "title": "해파랑길 43코스",
+    "zipcode": "",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2710813": {
+    "addr1": "강원특별자치도 양양군 손양면 수산1길 20-16",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0303",
+    "cat3": "A03030300",
+    "contentid": "2710813",
+    "contenttypeid": "28",
+    "createdtime": "20210324192027",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/55/2745155_image2_1.jpeg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/55/2745155_image3_1.jpeg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.6744905920",
+    "mapy": "38.0771544019",
+    "mlevel": "6",
+    "modifiedtime": "20230701130803",
+    "sigungucode": "7",
+    "tel": "033-673-3677",
+    "title": "요트&수산어촌체험(양양)",
+    "zipcode": "25042",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "126291": {
+    "addr1": "전라남도 함평군 함평읍 주포로 614",
+    "addr2": "(함평읍)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01011200",
+    "contentid": "126291",
+    "contenttypeid": "12",
+    "createdtime": "20031209090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/35/1809835_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/35/1809835_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.4419067904",
+    "mapy": "35.0865542912",
+    "mlevel": "6",
+    "modifiedtime": "20230703103124",
+    "sigungucode": "22",
+    "tel": "",
+    "title": "돌머리해변",
+    "zipcode": "57137",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "모래구간까지 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "데크로드 구간 있음(갯벌 탐방로)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "129233": {
+    "addr1": "전라남도 함평군 해보면 용천사길 209",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010500",
+    "contentid": "129233",
+    "contenttypeid": "12",
+    "createdtime": "20060920090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/42/190942_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/42/190942_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.5452924633",
+    "mapy": "35.1835672591",
+    "mlevel": "5",
+    "modifiedtime": "20221202103519",
+    "sigungucode": "22",
+    "tel": "061-322-1822",
+    "title": "용천사 꽃무릇공원",
+    "zipcode": "57115",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(주차장 꽃무릇마트 옆)"
+      },
+      {
+        "기타 지원 항목": "산책로 데크로드 구간 있음<br />\n노면이 고르지 못한 구간 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "129235": {
+    "addr1": "전라남도 함평군 대동면 학동로 1398-77",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010500",
+    "contentid": "129235",
+    "contenttypeid": "12",
+    "createdtime": "20060921090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/17/1810117_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/17/1810117_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.5057138340",
+    "mapy": "35.1350415336",
+    "mlevel": "6",
+    "modifiedtime": "20230404095356",
+    "sigungucode": "22",
+    "tel": "",
+    "title": "함평 자연생태공원",
+    "zipcode": "57113",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차 없이 연결 됨(잔디,흙 구간 있음)"
+      },
+      {
+        "출입통로": "주출입구는 무단차로 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "129246": {
+    "addr1": "전라남도 함평군 해보면 용천사길 209",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010800",
+    "contentid": "129246",
+    "contenttypeid": "12",
+    "createdtime": "20060925090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/42/1809842_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/42/1809842_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.5453369056",
+    "mapy": "35.1834950462",
+    "mlevel": "6",
+    "modifiedtime": "20221019111319",
+    "sigungucode": "22",
+    "tel": "",
+    "title": "용천사(함평)",
+    "zipcode": "57115",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없으나 흙구간 있음_무장애 편의시설"
+      },
+      {
+        "화장실": "장애인 화장실 있음(꽃무릇 매점 옆)"
+      },
+      {
+        "기타 지원 항목": "노면 원만하지 않고 경사 심한 구간 있어 보조인 필요함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

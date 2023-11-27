@@ -1,0 +1,336 @@
+{
+  "129721": {
+    "addr1": "전라북도 남원시 양림길 54",
+    "addr2": "(어현동)",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02061100",
+    "contentid": "129721",
+    "contenttypeid": "14",
+    "createdtime": "20050113090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/70/1606370_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/70/1606370_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3915259291",
+    "mapy": "35.4015986550",
+    "mlevel": "6",
+    "modifiedtime": "20230223133610",
+    "sigungucode": "4",
+    "tel": "",
+    "title": "국립민속국악원",
+    "zipcode": "55795",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음 (실내 시설 연결됨)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "130041": {
+    "addr1": "전라북도 남원시 양림길 43",
+    "addr2": "(어현동)",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060600",
+    "contentid": "130041",
+    "contenttypeid": "14",
+    "createdtime": "20050113090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/95/1606595_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/95/1606595_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3901038165",
+    "mapy": "35.4022068955",
+    "mlevel": "6",
+    "modifiedtime": "20220519110246",
+    "sigungucode": "4",
+    "tel": "",
+    "title": "춘향문화예술회관",
+    "zipcode": "55795",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 계단이 많으나 보조출입구를 통해 무단차 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(남원관광단지)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "130506": {
+    "addr1": "전라북도 남원시 양림길 14-9",
+    "addr2": "(어현동)",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "130506",
+    "contenttypeid": "14",
+    "createdtime": "20050121090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/20/919620_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/20/919620_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3871040927",
+    "mapy": "35.4017874459",
+    "mlevel": "6",
+    "modifiedtime": "20221216165903",
+    "sigungucode": "4",
+    "tel": "",
+    "title": "남원향토박물관",
+    "zipcode": "55795",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음(수동문)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(기획전시실 앞)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "기타 지원 항목": "전시품 시각안내장비,판소리부스 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2559504": {
+    "addr1": "전라북도 남원시 함파우길 65-14",
+    "addr2": "(어현동)",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060500",
+    "contentid": "2559504",
+    "contenttypeid": "14",
+    "createdtime": "20180903193017",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/99/2559499_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/99/2559499_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3895706212",
+    "mapy": "35.3986961712",
+    "mlevel": "6",
+    "modifiedtime": "20230512100539",
+    "sigungucode": "4",
+    "tel": "",
+    "title": "남원시립김병종미술관",
+    "zipcode": "55796",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능(1대)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구,계단 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2658207": {
+    "addr1": "전라북도 남원시 운봉읍 주촌리",
+    "addr2": "594",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "2658207",
+    "contenttypeid": "14",
+    "createdtime": "20200602182326",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/44/2545544_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/44/2545544_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5076185514",
+    "mapy": "35.3977400005",
+    "mlevel": "6",
+    "modifiedtime": "20230614162031",
+    "sigungucode": "4",
+    "tel": "",
+    "title": "남원 백두대간전시관",
+    "zipcode": "55720",
+    "family": [
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자유도로 있음_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      },
+      {
+        "오디오 가이드": "음성안내 버튼 있음(점자안내판)"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2660398": {
+    "addr1": "전라북도 남원시 검멀1길 14",
+    "addr2": "(금동)",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "2660398",
+    "contenttypeid": "14",
+    "createdtime": "20200618222208",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/93/2660393_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/93/2660393_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3770243774",
+    "mapy": "35.4037537154",
+    "mlevel": "6",
+    "modifiedtime": "20230307105159",
+    "sigungucode": "4",
+    "tel": "",
+    "title": "남원다움관",
+    "zipcode": "55769",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자유도로 있음_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2714794": {
+    "addr1": "전라북도 남원시 요천로 1234-5",
+    "addr2": "(조산동)",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0204",
+    "cat3": "A02040800",
+    "contentid": "2714794",
+    "contenttypeid": "14",
+    "createdtime": "20210429010922",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/64/2404764_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/64/2404764_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3589900746",
+    "mapy": "35.3954598963",
+    "mlevel": "6",
+    "modifiedtime": "20221014160707",
+    "sigungucode": "4",
+    "tel": "",
+    "title": "남원시 옻칠공예관",
+    "zipcode": "55778",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

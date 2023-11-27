@@ -1,0 +1,37 @@
+{
+  "2032322": {
+    "addr1": "전라남도 곡성군 오곡면 섬진강로 1877",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03022700",
+    "contentid": "2032322",
+    "contenttypeid": "28",
+    "createdtime": "20151005230650",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/84/2032584_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/84/2032584_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3491555651",
+    "mapy": "35.2591223517",
+    "mlevel": "6",
+    "modifiedtime": "20231005162833",
+    "sigungucode": "3",
+    "tel": "",
+    "title": "섬진강레일바이크",
+    "zipcode": "57530",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

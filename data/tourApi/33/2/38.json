@@ -1,0 +1,82 @@
+{
+  "132258": {
+    "addr1": "충청북도 단양군 단양읍 도전5길 31",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010100",
+    "contentid": "132258",
+    "contenttypeid": "38",
+    "createdtime": "20020419090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/72/2366272_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/72/2366272_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.3698399078",
+    "mapy": "36.9824805980",
+    "mlevel": "6",
+    "modifiedtime": "20230206102523",
+    "sigungucode": "2",
+    "tel": "043-422-1706",
+    "title": "단양장 / 단양구경시장 (1, 6일)",
+    "zipcode": "27011",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "250510": {
+    "addr1": "충청북도 단양군 매포읍 평동3로 6",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010100",
+    "contentid": "250510",
+    "contenttypeid": "38",
+    "createdtime": "20071022090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/00/1959800_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/00/1959800_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.2989891795",
+    "mapy": "37.0345955041",
+    "mlevel": "6",
+    "modifiedtime": "20220525142113",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "평동장 (4, 9일)",
+    "zipcode": "27005",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

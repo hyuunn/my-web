@@ -1,0 +1,321 @@
+{
+  "129889": {
+    "addr1": "강원특별자치도 고성군 간성읍 간성로 71-7",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060700",
+    "contentid": "129889",
+    "contenttypeid": "14",
+    "createdtime": "20050527090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/66/1812966_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/66/1812966_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.4669111436",
+    "mapy": "38.3786985861",
+    "mlevel": "6",
+    "modifiedtime": "20230906173358",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "고성문화원",
+    "zipcode": "24729",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차 없이 평지로 연결 됨"
+      },
+      {
+        "출입통로": "주출입구 휠체어 접근 가능 함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "장애인 전용 관람석 및 열람석 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "130734": {
+    "addr1": "강원특별자치도 고성군 거진읍 거탄진로29번길 7",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060900",
+    "contentid": "130734",
+    "contenttypeid": "14",
+    "createdtime": "20060221090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/93/1812993_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/93/1812993_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.4500107853",
+    "mapy": "38.4391967511",
+    "mlevel": "6",
+    "modifiedtime": "20230701104922",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "고성교육도서관",
+    "zipcode": "24720",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "736620": {
+    "addr1": "강원특별자치도 고성군 현내면 통일전망대로 453",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "736620",
+    "contenttypeid": "14",
+    "createdtime": "20090520195119",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/66/2659866_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/66/2659866_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.3737020797",
+    "mapy": "38.5841394369",
+    "mlevel": "6",
+    "modifiedtime": "20230701104149",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "6.25 전쟁체험전시관",
+    "zipcode": "24701",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "대여가능(1대, 통일전망대 출입신고소)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "화장실": "장애인 화장실 있음(주차장 옆 매장)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "778140": {
+    "addr1": "강원특별자치도 고성군 현내면 통일전망대로 369",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "778140",
+    "contenttypeid": "14",
+    "createdtime": "20090813223208",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.3826570629",
+    "mapy": "38.5763238583",
+    "mlevel": "6",
+    "modifiedtime": "20230701105558",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "고성 DMZ박물관",
+    "zipcode": "24701",
+    "family": [
+      {
+        "유모차": "대여가능(2대)"
+      },
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "대여가능(2대)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(미닫이문)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1922074": {
+    "addr1": "강원특별자치도 고성군 현내면 이승만별장길 33",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "1922074",
+    "contenttypeid": "14",
+    "createdtime": "20140529232003",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.4367915460",
+    "mapy": "38.4710316647",
+    "mlevel": "6",
+    "modifiedtime": "20230706145155",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "화진포역사안보전시관",
+    "zipcode": "24707",
+    "family": [
+      {
+        "유모차": "대여가능(관광안내소)"
+      }
+    ],
+    "handi": [
+      {
+        "휠체어": "대여가능(관광안내소)"
+      },
+      {
+        "엘리베이터": "생태박물관(엘리베이터있음) / 이승만,이기붕별장(엘리베이터없음)"
+      },
+      {
+        "화장실": "장애인 화장실 있음 (김일성별장, 생태박물관)"
+      },
+      {
+        "기타 지원 항목": "화진포의 성 입구까지 경사로 있으나 건물 내 통로가 좁고 계단으로 연결돼 휠체어 접근 어려움"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2514804": {
+    "addr1": "강원특별자치도 고성군 간성읍 흘리길 15-10",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060500",
+    "contentid": "2514804",
+    "contenttypeid": "14",
+    "createdtime": "20171110232958",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/24/2567724_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/24/2567724_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.3596133419",
+    "mapy": "38.2654402733",
+    "mlevel": "6",
+    "modifiedtime": "20230701105444",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "진부령미술관",
+    "zipcode": "24742",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2791407": {
+    "addr1": "강원특별자치도 고성군 현내면 화진포길 412",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "2791407",
+    "contenttypeid": "14",
+    "createdtime": "20211210023848",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/79/2792779_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/79/2792779_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.4357413142",
+    "mapy": "38.4814526489",
+    "mlevel": "6",
+    "modifiedtime": "20230701103939",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "화진포해양박물관",
+    "zipcode": "24706",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

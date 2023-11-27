@@ -1,0 +1,150 @@
+{
+  "131718":{
+     "addr1":"울산광역시 남구 문수로 44",
+     "addr2":"(옥동)",
+     "areacode":"7",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03020300",
+     "contentid":"131718",
+     "contenttypeid":"28",
+     "createdtime":"20070920090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/49/1588049_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/49/1588049_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.2595610237",
+     "mapy":"35.5352867733",
+     "mlevel":"6",
+     "modifiedtime":"20221216170117",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"문수축구경기장",
+     "zipcode":"44659",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "화장실":"장애인 전용 화장실 있음(주경기장 지하2층 2개소,주경기장 지하1층 2개소,주경기장 1층 14개소,옥외매표소 2개소)"
+        },
+        {
+           "관람석":"장애인 전용 관람석 있음(지상1층 276석)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(1LP포장지역,화장석 포장지역)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1624467":{
+     "addr1":"울산광역시 중구 염포로 55",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03020300",
+     "contentid":"1624467",
+     "contenttypeid":"28",
+     "createdtime":"20120508032904",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/85/1588285_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/85/1588285_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.3479914251",
+     "mapy":"35.5626603600",
+     "mlevel":"6",
+     "modifiedtime":"20220923165345",
+     "sigungucode":"1",
+     "tel":"052-290-7200",
+     "title":"울산종합운동장",
+     "zipcode":"44497",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "휠체어":"대여가능"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2605817":{
+     "addr1":"울산광역시 중구 태화동",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03022700",
+     "contentid":"2605817",
+     "contenttypeid":"28",
+     "createdtime":"20190611020654",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/87/2613687_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/87/2613687_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.2934327441",
+     "mapy":"35.5468000044",
+     "mlevel":"6",
+     "modifiedtime":"20230630110803",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"태화강 국가정원 십리대숲 (은하수길)",
+     "zipcode":"44456",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자 홍보물 및 점자 표지판":"촉지안내판 있음(음성지원)"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  }
+}

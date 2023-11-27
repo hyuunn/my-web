@@ -1,0 +1,109 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "0000",
+      "resultMsg": "OK"
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "addr1": "강원특별자치도 홍천군 두촌면 가리산길23번길 7",
+            "addr2": "",
+            "areacode": "32",
+            "booktour": "",
+            "cat1": "A05",
+            "cat2": "A0502",
+            "cat3": "A05020100",
+            "contentid": "608471",
+            "contenttypeid": "39",
+            "createdtime": "20080813003515",
+            "firstimage": "http://tong.visitkorea.or.kr/cms/resource/30/610830_image2_1.jpg",
+            "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/30/610830_image3_1.jpg",
+            "cpyrhtDivCd": "Type3",
+            "mapx": "128.0138244871",
+            "mapy": "37.8381278478",
+            "mlevel": "6",
+            "modifiedtime": "20230911200942",
+            "sigungucode": "16",
+            "tel": "033-435-2704",
+            "title": "가리산막국수",
+            "zipcode": "25164"
+          },
+          {
+            "addr1": "강원특별자치도 홍천군 홍천읍 양지말길 12",
+            "addr2": "",
+            "areacode": "32",
+            "booktour": "",
+            "cat1": "A05",
+            "cat2": "A0502",
+            "cat3": "A05020100",
+            "contentid": "2514555",
+            "contenttypeid": "39",
+            "createdtime": "20171108192655",
+            "firstimage": "http://tong.visitkorea.or.kr/cms/resource/35/2514535_image2_1.JPG",
+            "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/35/2514535_image2_1.JPG",
+            "cpyrhtDivCd": "Type3",
+            "mapx": "127.8301798234",
+            "mapy": "37.6585258085",
+            "mlevel": "6",
+            "modifiedtime": "20230726142231",
+            "sigungucode": "16",
+            "tel": "070-8871-6082",
+            "title": "홍천한우애",
+            "zipcode": "25117"
+          },
+          {
+            "addr1": "강원특별자치도 홍천군 남면 한서로 2840",
+            "addr2": "",
+            "areacode": "32",
+            "booktour": "",
+            "cat1": "A05",
+            "cat2": "A0502",
+            "cat3": "A05020100",
+            "contentid": "2504611",
+            "contenttypeid": "39",
+            "createdtime": "20170829023509",
+            "firstimage": "http://tong.visitkorea.or.kr/cms/resource/19/2504419_image2_1.jpg",
+            "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/19/2504419_image2_1.jpg",
+            "cpyrhtDivCd": "Type3",
+            "mapx": "127.7176918587",
+            "mapy": "37.5960670736",
+            "mlevel": "6",
+            "modifiedtime": "20230712094806",
+            "sigungucode": "16",
+            "tel": "033-439-3333",
+            "title": "힐드로사이cc 워커힐 레스토랑",
+            "zipcode": "25107"
+          },
+          {
+            "addr1": "강원특별자치도 홍천군 홍천로 13-5",
+            "addr2": "",
+            "areacode": "32",
+            "booktour": "",
+            "cat1": "A05",
+            "cat2": "A0502",
+            "cat3": "A05020100",
+            "contentid": "2807694",
+            "contenttypeid": "39",
+            "createdtime": "20220218165533",
+            "firstimage": "",
+            "firstimage2": "",
+            "cpyrhtDivCd": "",
+            "mapx": "127.8527376253",
+            "mapy": "37.7012934895",
+            "mlevel": "6",
+            "modifiedtime": "20230702104204",
+            "sigungucode": "16",
+            "tel": "",
+            "title": "홍천사랑말한우식당",
+            "zipcode": "25115"
+          }
+        ]
+      },
+      "numOfRows": 4,
+      "pageNo": 1,
+      "totalCount": 4
+    }
+  }
+}

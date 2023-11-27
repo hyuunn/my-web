@@ -1,0 +1,236 @@
+{
+  "127603": {
+    "addr1": "전라남도 무안군 일로읍 백련로 333",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010500",
+    "contentid": "127603",
+    "contenttypeid": "12",
+    "createdtime": "20060619090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/56/2399156_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/56/2399156_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.5299100793",
+    "mapy": "34.8601257396",
+    "mlevel": "6",
+    "modifiedtime": "20230925095158",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "무안회산백련지",
+    "zipcode": "58571",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "보도블록으로 되어 있어 약간 울퉁불퉁거림은 있으나 단차는 거의 없음_무장애 편의정보"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "안내요원": "안내요원 있음(안내센터)"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "127706": {
+    "addr1": "전라남도 무안군 현경면 오류리",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01011200",
+    "contentid": "127706",
+    "contenttypeid": "12",
+    "createdtime": "20030625090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/05/194905_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/05/194905_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.3363612045",
+    "mapy": "35.0613665088",
+    "mlevel": "6",
+    "modifiedtime": "20220826112637",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "홀통유원지·홀통해변",
+    "zipcode": "58509",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "무단차구간 있으나 협소함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(해양스포츠센터 근처 화장실)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "128618": {
+    "addr1": "전라남도 무안군 해제면 만송로 916",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030100",
+    "contentid": "128618",
+    "contenttypeid": "12",
+    "createdtime": "20050927090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/56/2516256_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/56/2516256_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.3397475622",
+    "mapy": "35.1528812155",
+    "mlevel": "6",
+    "modifiedtime": "20230712131618",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "송계 어촌체험마을",
+    "zipcode": "58503",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "해변가까지 이어진 데크로드 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1330332": {
+    "addr1": "전라남도 무안군 해제면 만송로 36",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010500",
+    "contentid": "1330332",
+    "contenttypeid": "12",
+    "createdtime": "20110713193207",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.3297276195",
+    "mapy": "35.0958847192",
+    "mlevel": "6",
+    "modifiedtime": "20230623102515",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "무안황토갯벌랜드(구 무안생태갯벌센터)",
+    "zipcode": "58504",
+    "family": [
+      {
+        "유모차": "대여가능"
+      }
+    ],
+    "handi": [
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "무단차, 경사 없음, 공원 편의시설에는 장애인을 배려한 무장애 보행길이 이어져 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2748362": {
+    "addr1": "전라남도 무안군 망운면 송현리 451-48",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2748362",
+    "contenttypeid": "12",
+    "createdtime": "20210924020739",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.3526278081",
+    "mapy": "35.0046176325",
+    "mlevel": "6",
+    "modifiedtime": "20230228111139",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "무안낙지공원",
+    "zipcode": "58535",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2932435": {
+    "addr1": "전라남도 무안군 해안로 313-56",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030400",
+    "contentid": "2932435",
+    "contenttypeid": "12",
+    "createdtime": "20221212155617",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.3963787890",
+    "mapy": "34.9189919045",
+    "mlevel": "6",
+    "modifiedtime": "20230808101227",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "3S",
+    "zipcode": "58541",
+    "family": [],
+    "handi": [],
+    "hearing": [],
+    "blind": [
+      {
+        "안내요원": "- 24시 무인카페를 안내데스크로 이용하여      체크인, 체크아웃을 하고 있음."
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "0"
+  }
+}

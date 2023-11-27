@@ -1,0 +1,344 @@
+{
+  "129707": {
+    "addr1": "전라남도 장흥군 장흥읍 읍성로 96",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060700",
+    "contentid": "129707",
+    "contenttypeid": "14",
+    "createdtime": "20071106102626",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/31/1971131_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/31/1971131_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8981321066",
+    "mapy": "34.6765774920",
+    "mlevel": "6",
+    "modifiedtime": "20220707164304",
+    "sigungucode": "20",
+    "tel": "",
+    "title": "장흥문화원",
+    "zipcode": "59333",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "장애인용 엘리베이터 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "705052": {
+    "addr1": "전라남도 장흥군 장흥읍 남부관광로 56-90",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "705052",
+    "contenttypeid": "14",
+    "createdtime": "20090311233542",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/74/693174_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/74/693174_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9190969690",
+    "mapy": "34.6750057964",
+    "mlevel": "6",
+    "modifiedtime": "20230223110409",
+    "sigungucode": "20",
+    "tel": "",
+    "title": "귀족호도박물관",
+    "zipcode": "59326",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(화장실 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "705088": {
+    "addr1": "전라남도 장흥군 관산읍 장흥대로 1645",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "705088",
+    "contenttypeid": "14",
+    "createdtime": "20090312000709",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/09/1374109_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/09/1374109_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9432867618",
+    "mapy": "34.5509784424",
+    "mlevel": "6",
+    "modifiedtime": "20231108163348",
+    "sigungucode": "20",
+    "tel": "",
+    "title": "방촌유물전시관",
+    "zipcode": "59354",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(야외)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1391518": {
+    "addr1": "전라남도 장흥군 대덕읍 천관산문학길 160",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "1391518",
+    "contenttypeid": "14",
+    "createdtime": "20110923232706",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/69/2757369_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/69/2757369_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9034800024",
+    "mapy": "34.5156400721",
+    "mlevel": "6",
+    "modifiedtime": "20230224131532",
+    "sigungucode": "20",
+    "tel": "",
+    "title": "천관문학관",
+    "zipcode": "59352",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(1층)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(관내 주요시설 연결됨)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2033461": {
+    "addr1": "전라남도 장흥군 장흥읍 읍성로 2",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060200",
+    "contentid": "2033461",
+    "contenttypeid": "14",
+    "createdtime": "20151014183949",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/05/3029105_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/05/3029105_image3_1.jpg",
+    "cpyrhtDivCd": "Type1",
+    "mapx": "126.8953658641",
+    "mapy": "34.6691699445",
+    "mlevel": "6",
+    "modifiedtime": "20231101110420",
+    "sigungucode": "20",
+    "tel": "",
+    "title": "장흥동학농민혁명기념관",
+    "zipcode": "59333",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음 (1층)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2514062": {
+    "addr1": "전라남도 장흥군 장흥읍 평화우산길 180-608",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "2514062",
+    "contenttypeid": "14",
+    "createdtime": "20171104013231",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/58/2514058_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/58/2514058_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9262411877",
+    "mapy": "34.6585660943",
+    "mlevel": "6",
+    "modifiedtime": "20230911200716",
+    "sigungucode": "20",
+    "tel": "",
+    "title": "정남진천문과학관",
+    "zipcode": "59337",
+    "family": [
+      {
+        "유모차": "대여가능(2대)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음(수동문)_무장애 편의시설"
+      },
+      {
+        "휠체어": "대여가능(2대)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "장애인 엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "주차장에서 접근로까지 경사가 있어 도움 필요"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주 출입구 앞,엘리베이터 앞,장애인 화장실 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2514714": {
+    "addr1": "전라남도 장흥군 장흥읍 행원강변길 20",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "2514714",
+    "contenttypeid": "14",
+    "createdtime": "20171110020738",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.9001316997",
+    "mapy": "34.6860264648",
+    "mlevel": "6",
+    "modifiedtime": "20230605102911",
+    "sigungucode": "20",
+    "tel": "",
+    "title": "정남진물과학관",
+    "zipcode": "59313",
+    "family": [
+      {
+        "유모차": "대여가능"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음(수동문)"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "장애인 엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(2층)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주 출입구 앞,엘리베이터 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

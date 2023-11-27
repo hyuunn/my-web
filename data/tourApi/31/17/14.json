@@ -1,0 +1,148 @@
+{
+  "129858": {
+    "addr1": "경기도 안양시 만안구 현충로 53",
+    "addr2": "(안양동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060700",
+    "contentid": "129858",
+    "contenttypeid": "14",
+    "createdtime": "20071106103324",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/88/1852788_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/88/1852788_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9258030004",
+    "mapy": "37.3904209753",
+    "mlevel": "6",
+    "modifiedtime": "20230209100127",
+    "sigungucode": "17",
+    "tel": "",
+    "title": "안양문화원",
+    "zipcode": "14089",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함(무단차)"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(계단,화장실 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "130092": {
+    "addr1": "경기도 안양시 만안구 문예로36번길 16",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060600",
+    "contentid": "130092",
+    "contenttypeid": "14",
+    "createdtime": "20071106104153",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.9312693317",
+    "mapy": "37.3846467424",
+    "mlevel": "6",
+    "modifiedtime": "20220714095211",
+    "sigungucode": "17",
+    "tel": "",
+    "title": "안양아트센터",
+    "zipcode": "14093",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음(정문쪽이 아닌 왼쪽)"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(1층만)"
+      },
+      {
+        "관람석": "장애인 전용 관람석 있음(관악홀 13석,수리홀 4석)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "631881": {
+    "addr1": "경기도 안양시 동안구 평촌대로 76",
+    "addr2": "(호계동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060600",
+    "contentid": "631881",
+    "contenttypeid": "14",
+    "createdtime": "20081006203509",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.9639331567",
+    "mapy": "37.3800450812",
+    "mlevel": "6",
+    "modifiedtime": "20220624151914",
+    "sigungucode": "17",
+    "tel": "",
+    "title": "평촌아트홀",
+    "zipcode": "14105",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "관람석": "장애인 전용 관람석 있음(가열5석,다열2석)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(건물외부)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

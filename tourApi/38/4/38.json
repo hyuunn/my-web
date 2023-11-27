@@ -1,0 +1,86 @@
+{
+  "1976858": {
+    "addr1": "전라남도 광양시 광양읍 백운로 3",
+    "addr2": "(광양읍)",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010100",
+    "contentid": "1976858",
+    "contenttypeid": "38",
+    "createdtime": "20141217221220",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/11/1972111_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/11/1972111_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5904722556",
+    "mapy": "34.9711978426",
+    "mlevel": "6",
+    "modifiedtime": "20220826140356",
+    "sigungucode": "4",
+    "tel": "",
+    "title": "광양5일장 (1, 6일)",
+    "zipcode": "57751",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2784208": {
+    "addr1": "전라남도 광양시 중마중앙로 88",
+    "addr2": "(중동)",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "2784208",
+    "contenttypeid": "38",
+    "createdtime": "20211201020620",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/53/2798453_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/53/2798453_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.6988774774",
+    "mapy": "34.9382506465",
+    "mlevel": "6",
+    "modifiedtime": "20230424155505",
+    "sigungucode": "4",
+    "tel": "",
+    "title": "중마시장",
+    "zipcode": "57787",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

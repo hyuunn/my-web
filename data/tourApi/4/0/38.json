@@ -1,0 +1,1830 @@
+{
+  "132532":{
+     "addr1":"대구광역시 중구 큰장로26길 45",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"132532",
+     "contenttypeid":"38",
+     "createdtime":"20031117090000",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"128.5807862176",
+     "mapy":"35.8689226144",
+     "mlevel":"6",
+     "modifiedtime":"20230313111115",
+     "sigungucode":"8",
+     "tel":"",
+     "title":"대구 서문시장 & 서문시장 야시장",
+     "zipcode":"41926",
+     "family":[
+        {
+           "수유실":"수유실 있음(2지구 5층, 만남의 광장)"
+        },
+        {
+           "영유아가족 기타 지원 항목":"주차빌딩 내 고객지원센터 놀이방 있음"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함(노점으로 폭이 좁은 구간 있음)"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음(2지구 내)"
+        },
+        {
+           "화장실":"장애인 화장실 있음(서문시장 2지구,고객시원센터 내)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능"
+        },
+        {
+           "안내요원":"안내요원 있음(관광안내센터)"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "998885":{
+     "addr1":"대구광역시 북구 칠성시장로 28",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"998885",
+     "contenttypeid":"38",
+     "createdtime":"20100414231355",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"128.6048061121",
+     "mapy":"35.8765360847",
+     "mlevel":"6",
+     "modifiedtime":"20230210094001",
+     "sigungucode":"5",
+     "tel":"053-423-3480",
+     "title":"대구 칠성시장&별별상상 칠성야시장",
+     "zipcode":"41583",
+     "family":[
+        {
+           "수유실":"수유실 있음(만남의 장소)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자유도로 있음_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "998946":{
+     "addr1":"대구광역시 동구 아양로9길 10",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"998946",
+     "contenttypeid":"38",
+     "createdtime":"20100414233731",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/10/1970210_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/10/1970210_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.6192713239",
+     "mapy":"35.8830133956",
+     "mlevel":"6",
+     "modifiedtime":"20221018160313",
+     "sigungucode":"4",
+     "tel":"053-956-8413",
+     "title":"대구 평화시장",
+     "zipcode":"41198",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "999012":{
+     "addr1":"대구광역시 남구 대명로36길 19",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"999012",
+     "contenttypeid":"38",
+     "createdtime":"20100415000337",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/90/1970190_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/90/1970190_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.5769235188",
+     "mapy":"35.8383454491",
+     "mlevel":"6",
+     "modifiedtime":"20221229174930",
+     "sigungucode":"1",
+     "tel":"053-652-6569",
+     "title":"대구 안지랑시장",
+     "zipcode":"42487",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1433773":{
+     "addr1":"대구광역시 동구 팔공로26길 9-1",
+     "addr2":"(불로동)",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010100",
+     "contentid":"1433773",
+     "contenttypeid":"38",
+     "createdtime":"20111111023343",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"128.6423906901",
+     "mapy":"35.9123382806",
+     "mlevel":"6",
+     "modifiedtime":"20221228155855",
+     "sigungucode":"4",
+     "tel":"053-982-8588",
+     "title":"불로장 / 불로전통시장 (5, 10일)",
+     "zipcode":"41036",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1435275":{
+     "addr1":"대구광역시 달성군 현풍읍 비슬로130길 53-1",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010100",
+     "contentid":"1435275",
+     "contenttypeid":"38",
+     "createdtime":"20111112022644",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"128.4421643471",
+     "mapy":"35.6947231113",
+     "mlevel":"6",
+     "modifiedtime":"20220704170402",
+     "sigungucode":"3",
+     "tel":"053-668-2645",
+     "title":"현풍장 (5, 10일)",
+     "zipcode":"43003",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "엘리베이터":"엘리베이터 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1608882":{
+     "addr1":"대구광역시 남구 대명서7길 24-3",
+     "addr2":"(대명동)",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"1608882",
+     "contenttypeid":"38",
+     "createdtime":"20120421021632",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/39/1573739_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/39/1573739_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.5580002605",
+     "mapy":"35.8356342966",
+     "mlevel":"6",
+     "modifiedtime":"20230202111204",
+     "sigungucode":"1",
+     "tel":"053-627-2610",
+     "title":"관문시장",
+     "zipcode":"42498",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음(고객지원센터)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1610055":{
+     "addr1":"대구광역시 남구 봉덕로 115",
+     "addr2":"(봉덕동)",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"1610055",
+     "contenttypeid":"38",
+     "createdtime":"20120423190731",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/09/1573809_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/09/1573809_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.6034071086",
+     "mapy":"35.8451479450",
+     "mlevel":"6",
+     "modifiedtime":"20230802194105",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"대구 봉덕시장",
+     "zipcode":"42439",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1916021":{
+     "addr1":"대구광역시 중구 국채보상로 586",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"1916021",
+     "contenttypeid":"38",
+     "createdtime":"20140425011324",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"128.5948293793",
+     "mapy":"35.8705726868",
+     "mlevel":"6",
+     "modifiedtime":"20230526102801",
+     "sigungucode":"8",
+     "tel":"053-425-9961",
+     "title":"핫트랙스 (대구점)",
+     "zipcode":"41937",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함(회전문,수동문)"
+        },
+        {
+           "엘리베이터":"장애인용 엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        },
+        {
+           "기타 지원 항목":"비상벨 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실,출입구 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2366244":{
+     "addr1":"대구광역시 동구 공항로 221",
+     "addr2":"(지저동)",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010400",
+     "contentid":"2366244",
+     "contenttypeid":"38",
+     "createdtime":"20160204023218",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/46/2366246_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/46/2366246_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.6376608952",
+     "mapy":"35.9000395862",
+     "mlevel":"6",
+     "modifiedtime":"20220906143802",
+     "sigungucode":"4",
+     "tel":"1800-1160",
+     "title":"대구국제공항 면세점",
+     "zipcode":"41052",
+     "family":[
+        {
+           "수유실":"수유실 있음(2층 일반 대합실 커피 전문점 옆)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(4개, 1~2층 일반대합실)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음_시각장애인 편의시설"
+        },
+        {
+           "기타 지원 항목":"시각 화재 경보기 있음"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2366424":{
+     "addr1":"대구광역시 수성구 동대구로 305",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010400",
+     "contentid":"2366424",
+     "contenttypeid":"38",
+     "createdtime":"20160204025138",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/25/2366425_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/25/2366425_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.6251881746",
+     "mapy":"35.8576997042",
+     "mlevel":"6",
+     "modifiedtime":"20221025101755",
+     "sigungucode":"7",
+     "tel":"053-251-2000",
+     "title":"그랜드면세점(대구시내점)",
+     "zipcode":"42117",
+     "family":[
+        {
+           "유모차":"대여가능(그랜드 면세점 1층 안내데스크,무료)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로 있어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2366429":{
+     "addr1":"대구광역시 서구 평리로35길 18-17",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A02",
+     "cat2":"A0203",
+     "cat3":"A02030400",
+     "contentid":"2366429",
+     "contenttypeid":"38",
+     "createdtime":"20160204030926",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/33/2366433_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/33/2366433_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.5450562330",
+     "mapy":"35.8617144394",
+     "mlevel":"6",
+     "modifiedtime":"20221128171026",
+     "sigungucode":"6",
+     "tel":"",
+     "title":"퀸스로드",
+     "zipcode":"41843",
+     "family":[
+        {
+           "유모차":"대여가능"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능하나 매장마다 접근로 상이"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2366761":{
+     "addr1":"대구광역시 서구 원대동3가",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A02",
+     "cat2":"A0203",
+     "cat3":"A02030400",
+     "contentid":"2366761",
+     "contenttypeid":"38",
+     "createdtime":"20160205182524",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/71/2366771_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/71/2366771_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.5741641444",
+     "mapy":"35.8845346143",
+     "mlevel":"6",
+     "modifiedtime":"20220818113203",
+     "sigungucode":"6",
+     "tel":"",
+     "title":"원대가구 명물거리",
+     "zipcode":"41730",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2650890":{
+     "addr1":"대구광역시 중구 달구벌대로446길",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2650890",
+     "contenttypeid":"38",
+     "createdtime":"20200331225908",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/03/2668203_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/03/2668203_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.6060480689",
+     "mapy":"35.8621793994",
+     "mlevel":"6",
+     "modifiedtime":"20230106171131",
+     "sigungucode":"8",
+     "tel":"",
+     "title":"방천시장",
+     "zipcode":"41951",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2679564":{
+     "addr1":"대구광역시 중구 태평로 177-2",
+     "addr2":"(태평로1가)",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2679564",
+     "contenttypeid":"38",
+     "createdtime":"20201029024930",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"128.5974956800",
+     "mapy":"35.8752638717",
+     "mlevel":"6",
+     "modifiedtime":"20230208095500",
+     "sigungucode":"8",
+     "tel":"",
+     "title":"번개시장",
+     "zipcode":"41903",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2732574":{
+     "addr1":"대구광역시 남구 성당로 196",
+     "addr2":"(대명동)",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2732574",
+     "contenttypeid":"38",
+     "createdtime":"20210811000256",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/27/2732627_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/27/2732627_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.5731762914",
+     "mapy":"35.8504190135",
+     "mlevel":"6",
+     "modifiedtime":"20230802210827",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"성당시장",
+     "zipcode":"42454",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2732598":{
+     "addr1":"대구광역시 수성구 만촌로 66",
+     "addr2":"(만촌동)",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2732598",
+     "contenttypeid":"38",
+     "createdtime":"20210811002320",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/82/2732582_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/82/2732582_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.6441057542",
+     "mapy":"35.8648464663",
+     "mlevel":"6",
+     "modifiedtime":"20230113172209",
+     "sigungucode":"7",
+     "tel":"",
+     "title":"청구시장",
+     "zipcode":"42049",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2742245":{
+     "addr1":"대구광역시 동구 화랑로25길 1",
+     "addr2":"(효목동)",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2742245",
+     "contenttypeid":"38",
+     "createdtime":"20210909223932",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/37/2742237_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/37/2742237_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.6401113968",
+     "mapy":"35.8743258754",
+     "mlevel":"6",
+     "modifiedtime":"20221216152236",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"동구시장",
+     "zipcode":"41239",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2742328":{
+     "addr1":"대구광역시 동구 율하동로 144",
+     "addr2":"(신기동)",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2742328",
+     "contenttypeid":"38",
+     "createdtime":"20210909233803",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/12/2742312_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/12/2742312_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.7030531299",
+     "mapy":"35.8724411419",
+     "mlevel":"6",
+     "modifiedtime":"20221228105719",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"반야월종합시장",
+     "zipcode":"41110",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2742354":{
+     "addr1":"대구광역시 남구 명덕로14길 16",
+     "addr2":"(대명동)",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2742354",
+     "contenttypeid":"38",
+     "createdtime":"20210909234554",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/37/2742337_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/37/2742337_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.5769118609",
+     "mapy":"35.8580543291",
+     "mlevel":"6",
+     "modifiedtime":"20220622103643",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"대명시장(대명신시장)",
+     "zipcode":"42400",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2742376":{
+     "addr1":"대구광역시 북구 동북로 164",
+     "addr2":"(산격동)",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2742376",
+     "contenttypeid":"38",
+     "createdtime":"20210909235345",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/59/2742359_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/59/2742359_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.6104799795",
+     "mapy":"35.8992197322",
+     "mlevel":"6",
+     "modifiedtime":"20230426161102",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"산격종합시장",
+     "zipcode":"41535",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2744399":{
+     "addr1":"대구광역시 북구 팔달로37길 11",
+     "addr2":"(노원동2가)",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2744399",
+     "contenttypeid":"38",
+     "createdtime":"20210914200421",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/36/2744736_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/36/2744736_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.5707532076",
+     "mapy":"35.8890868133",
+     "mlevel":"6",
+     "modifiedtime":"20220622181113",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"팔달시장",
+     "zipcode":"41558",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2744507":{
+     "addr1":"대구 달서구 신당동 1750",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2744507",
+     "contenttypeid":"38",
+     "createdtime":"20210914231700",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/18/2744818_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/18/2744818_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.4993492702",
+     "mapy":"35.8573890890",
+     "mlevel":"6",
+     "modifiedtime":"20230802201854",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"와룡시장",
+     "zipcode":"",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2744573":{
+     "addr1":"대구광역시 동구 아양로50길 22-2",
+     "addr2":"(효목동)",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2744573",
+     "contenttypeid":"38",
+     "createdtime":"20210915003145",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/59/2744859_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/59/2744859_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.6394166928",
+     "mapy":"35.8858245613",
+     "mlevel":"",
+     "modifiedtime":"20221109171047",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"효목시장",
+     "zipcode":"41168",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2745598":{
+     "addr1":"대구광역시 수성구 신매로16길 56-3",
+     "addr2":"(신매동)",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2745598",
+     "contenttypeid":"38",
+     "createdtime":"20210915234056",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/43/2746343_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/43/2746343_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.7101229109",
+     "mapy":"35.8381312658",
+     "mlevel":"6",
+     "modifiedtime":"20230802202100",
+     "sigungucode":"7",
+     "tel":"",
+     "title":"신매시장",
+     "zipcode":"42275",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2745604":{
+     "addr1":"대구광역시 중구 큰장로26길 6",
+     "addr2":"(대신동)",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2745604",
+     "contenttypeid":"38",
+     "createdtime":"20210915234911",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/09/2746309_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/09/2746309_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.5784975532",
+     "mapy":"35.8681226635",
+     "mlevel":"6",
+     "modifiedtime":"20230503142901",
+     "sigungucode":"8",
+     "tel":"",
+     "title":"서문시장 5지구",
+     "zipcode":"41928",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2745608":{
+     "addr1":"대구광역시 달서구 달구벌대로329길 17",
+     "addr2":"(감삼동)",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2745608",
+     "contenttypeid":"38",
+     "createdtime":"20210915235205",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/87/2746287_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/87/2746287_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.5451592047",
+     "mapy":"35.8543930480",
+     "mlevel":"6",
+     "modifiedtime":"20230802202253",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"서남시장",
+     "zipcode":"42641",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2745614":{
+     "addr1":"대구광역시 동구 동촌로46길 2",
+     "addr2":"(방촌동)",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2745614",
+     "contenttypeid":"38",
+     "createdtime":"20210915235703",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/81/2746281_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/81/2746281_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.6644285030",
+     "mapy":"35.8813671952",
+     "mlevel":"6",
+     "modifiedtime":"20230423010230",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"방촌종합시장",
+     "zipcode":"41160",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2745686":{
+     "addr1":"대구광역시 달서구 당산로 35",
+     "addr2":"(본리동)",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2745686",
+     "contenttypeid":"38",
+     "createdtime":"20210916005620",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/10/2746210_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/10/2746210_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.5442652325",
+     "mapy":"35.8402363008",
+     "mlevel":"6",
+     "modifiedtime":"20230802202837",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"달서시장",
+     "zipcode":"42676",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2746376":{
+     "addr1":"대구광역시 중구 동성로 70-17",
+     "addr2":"(교동)",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2746376",
+     "contenttypeid":"38",
+     "createdtime":"20210916233405",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/39/2746439_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/39/2746439_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.5966874810",
+     "mapy":"35.8729974465",
+     "mlevel":"6",
+     "modifiedtime":"20230503142528",
+     "sigungucode":"8",
+     "tel":"",
+     "title":"교동시장",
+     "zipcode":"41912",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2751555":{
+     "addr1":"대구광역시 서구 달서로54길 6",
+     "addr2":"(원대동3가)",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2751555",
+     "contenttypeid":"38",
+     "createdtime":"20210930012135",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/53/2751553_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/53/2751553_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.5748251685",
+     "mapy":"35.8855789522",
+     "mlevel":"6",
+     "modifiedtime":"20230802191818",
+     "sigungucode":"6",
+     "tel":"",
+     "title":"원대신시장",
+     "zipcode":"41730",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2751577":{
+     "addr1":"대구광역시 서구 문화로49길 25",
+     "addr2":"(평리동)",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2751577",
+     "contenttypeid":"38",
+     "createdtime":"20210930013442",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/76/2751576_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/76/2751576_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.5589573296",
+     "mapy":"35.8781239484",
+     "mlevel":"6",
+     "modifiedtime":"20230502093222",
+     "sigungucode":"6",
+     "tel":"",
+     "title":"대평리시장",
+     "zipcode":"41770",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2766820":{
+     "addr1":"대구광역시 북구 노원동1가 19-17",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2766820",
+     "contenttypeid":"38",
+     "createdtime":"20211102234202",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"128.5795023986",
+     "mapy":"35.8904479315",
+     "mlevel":"6",
+     "modifiedtime":"20230724140204",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"침산골목시장",
+     "zipcode":"41552",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2766903":{
+     "addr1":"대구광역시 중구 명륜로 70",
+     "addr2":"(남산동,남문아파트1지구)",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2766903",
+     "contenttypeid":"38",
+     "createdtime":"20211103001004",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"128.5919937818",
+     "mapy":"35.8610987071",
+     "mlevel":"6",
+     "modifiedtime":"20230321094406",
+     "sigungucode":"8",
+     "tel":"",
+     "title":"남문시장",
+     "zipcode":"41968",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2766914":{
+     "addr1":"대구광역시 수성구 상화로 38",
+     "addr2":"(상동)",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2766914",
+     "contenttypeid":"38",
+     "createdtime":"20211103001210",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"128.6110761697",
+     "mapy":"35.8346353876",
+     "mlevel":"6",
+     "modifiedtime":"20230407130640",
+     "sigungucode":"7",
+     "tel":"",
+     "title":"상동시장",
+     "zipcode":"42165",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2766932":{
+     "addr1":"대구광역시 달서구 도원로 24",
+     "addr2":"(도원동)",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2766932",
+     "contenttypeid":"38",
+     "createdtime":"20211103001345",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"128.5354919088",
+     "mapy":"35.8076203860",
+     "mlevel":"6",
+     "modifiedtime":"20230303105659",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"대곡시장",
+     "zipcode":"42832",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2766943":{
+     "addr1":"대구광역시 달서구 상원로 22-24",
+     "addr2":"(상인동)",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2766943",
+     "contenttypeid":"38",
+     "createdtime":"20211103001613",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"128.5378249235",
+     "mapy":"35.8117144100",
+     "mlevel":"6",
+     "modifiedtime":"20230407130548",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"대동종합시장",
+     "zipcode":"42791",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2767416":{
+     "addr1":"대구광역시 달서구 송현동3길 2",
+     "addr2":"(송현동)",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2767416",
+     "contenttypeid":"38",
+     "createdtime":"20211103175724",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"128.5498899962",
+     "mapy":"35.8308763522",
+     "mlevel":"6",
+     "modifiedtime":"20230105154834",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"송현시장",
+     "zipcode":"42739",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2767417":{
+     "addr1":"대구광역시 달서구 명덕로2길 30",
+     "addr2":"(두류동)",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2767417",
+     "contenttypeid":"38",
+     "createdtime":"20211103180149",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"128.5707123358",
+     "mapy":"35.8606400332",
+     "mlevel":"6",
+     "modifiedtime":"20230321094419",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"서대구시장",
+     "zipcode":"42662",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  }
+}

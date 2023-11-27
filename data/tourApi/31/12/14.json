@@ -1,0 +1,669 @@
+{
+  "129859": {
+    "addr1": "경기도 성남시 수정구 산성대로215번길 7",
+    "addr2": "(신흥동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060700",
+    "contentid": "129859",
+    "contenttypeid": "14",
+    "createdtime": "20040218090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/35/1785835_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/35/1785835_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1409154044",
+    "mapy": "37.4391330692",
+    "mlevel": "6",
+    "modifiedtime": "20230323133932",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "성남문화원",
+    "zipcode": "13343",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "130478": {
+    "addr1": "경기도 성남시 분당구 성남대로 550",
+    "addr2": "(수내동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060600",
+    "contentid": "130478",
+    "contenttypeid": "14",
+    "createdtime": "20071106110001",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/77/1785877_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/77/1785877_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1248186638",
+    "mapy": "37.3755901471",
+    "mlevel": "6",
+    "modifiedtime": "20221228180528",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "성남시 야외공연장",
+    "zipcode": "13598",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(입구 공중화장실,경사로 설치됨)"
+      },
+      {
+        "관람석": "휠체어로 이용 가능한 좌석있음(가용좌석)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(공중화장실 앞 경사로)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "130813": {
+    "addr1": "경기도 성남시 수정구 수정로332번길 32",
+    "addr2": "(산성동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060900",
+    "contentid": "130813",
+    "contenttypeid": "14",
+    "createdtime": "20060421090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.1528250621",
+    "mapy": "37.4522317642",
+    "mlevel": "6",
+    "modifiedtime": "20230717151540",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "성남시 수정도서관",
+    "zipcode": "13129",
+    "family": [
+      {
+        "영유아가족 기타 지원 항목": "어린이가족열람실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 무단차,경사로 입구가 있음"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "장애인열람실 있음"
+      }
+    ],
+    "hearing": [
+      {
+        "기타 지원 항목": "음성안내기 있음(안내데스크)"
+      }
+    ],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(실내시설 입구 연결 됨)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "1",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "130814": {
+    "addr1": "경기도 성남시 분당구 불정로 110",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060900",
+    "contentid": "130814",
+    "contenttypeid": "14",
+    "createdtime": "20060421090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/31/1785931_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/31/1785931_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1165754615",
+    "mapy": "37.3580920269",
+    "mlevel": "6",
+    "modifiedtime": "20230222110202",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "성남시 분당도서관",
+    "zipcode": "13606",
+    "family": [
+      {
+        "영유아가족 기타 지원 항목": "어린이가족열람실 있음(1층)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음(수동문)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 설치되어 있음"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(1층,2층,4층,5층에 위치)"
+      },
+      {
+        "기타 지원 항목": "장애인열람실(1층)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 연결됨)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "130815": {
+    "addr1": "경기도 성남시 중원구 원터로17번길 46",
+    "addr2": "(성남동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060900",
+    "contentid": "130815",
+    "contenttypeid": "14",
+    "createdtime": "20060502090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.1401490600",
+    "mapy": "37.4302313100",
+    "mlevel": "6",
+    "modifiedtime": "20230828130620",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "성남시 중원도서관",
+    "zipcode": "13371",
+    "family": [
+      {
+        "수유실": "수유실 있음"
+      },
+      {
+        "영유아가족 기타 지원 항목": "어린이 가족 열람실 있음, 기저귀교환대 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음(자동문)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "장애인 열람실 있음(좌석23석, 검색용PC, 문자확대기1대, 장애인 도서 컨텐츠)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 연결됨)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "130817": {
+    "addr1": "경기도 성남시 분당구 판교로 546",
+    "addr2": "(야탑동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060900",
+    "contentid": "130817",
+    "contenttypeid": "14",
+    "createdtime": "20060502090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/49/1785949_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/49/1785949_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1346169315",
+    "mapy": "37.4054035340",
+    "mlevel": "6",
+    "modifiedtime": "20221117153832",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "성남시 중앙도서관",
+    "zipcode": "13514",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "장애인열람실(1층),관내계단 단차제거"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(관내시설 이어짐)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "130830": {
+    "addr1": "경기도 성남시 수정구 공원로370번길 26",
+    "addr2": "(신흥동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060900",
+    "contentid": "130830",
+    "contenttypeid": "14",
+    "createdtime": "20060509090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/64/2555764_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/64/2555764_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1500699157",
+    "mapy": "37.4466323641",
+    "mlevel": "6",
+    "modifiedtime": "20230713150228",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "경기성남교육도서관",
+    "zipcode": "13268",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "두루두루 서비스(장애인택배)있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(계단 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "130845": {
+    "addr1": "경기도 성남시 분당구 성남대로 808",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060600",
+    "contentid": "130845",
+    "contenttypeid": "14",
+    "createdtime": "20060619090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/02/1786002_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/02/1786002_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1320283368",
+    "mapy": "37.4033203955",
+    "mlevel": "6",
+    "modifiedtime": "20230221104018",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "성남아트센터",
+    "zipcode": "13514",
+    "family": [
+      {
+        "수유실": "수유실 있음(유아휴게실)"
+      },
+      {
+        "영유아가족 기타 지원 항목": "아이사랑방 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능(4대,오페라하우스 1층 물품보관소 사전문의 031-783-8000)"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "관람석": "장애인 전용 관람석 있음(미디어홀 1석,컨퍼런스홀 유동적 좌석)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "761929": {
+    "addr1": "경기도 성남시 분당구 하오개로 323",
+    "addr2": "(운중동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060900",
+    "contentid": "761929",
+    "contenttypeid": "14",
+    "createdtime": "20090702223532",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/30/1786030_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/30/1786030_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0538246158",
+    "mapy": "37.3932257169",
+    "mlevel": "6",
+    "modifiedtime": "20221229175218",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "한국학중앙연구원 한국학학술정보관.장서각",
+    "zipcode": "13455",
+    "family": [],
+    "handi": [],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음 (주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "0"
+  },
+  "1907759": {
+    "addr1": "경기도 성남시 분당구 분당수서로 501",
+    "addr2": "(정자동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "1907759",
+    "contenttypeid": "14",
+    "createdtime": "20140325192951",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/88/2998588_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/88/2998588_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1061647200",
+    "mapy": "37.3785116955",
+    "mlevel": "6",
+    "modifiedtime": "20230824151914",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "한국잡월드",
+    "zipcode": "13553",
+    "family": [
+      {
+        "유모차": "대여가능"
+      },
+      {
+        "수유실": "수유실 있음"
+      },
+      {
+        "영유아가족 기타 지원 항목": "유아놀이실(2층)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음(식음가능한 휴게공간)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2371001": {
+    "addr1": "경기도 성남시 분당구 판교역로146번길 20",
+    "addr2": "(백현동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060500",
+    "contentid": "2371001",
+    "contenttypeid": "14",
+    "createdtime": "20160227013054",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/30/2370930_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/30/2370930_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1120637818",
+    "mapy": "37.3927851467",
+    "mlevel": "6",
+    "modifiedtime": "20220713163806",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "현대어린이책미술관",
+    "zipcode": "13529",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(미술관 앞)"
+      },
+      {
+        "기타 지원 항목": "실내 경사로 설치 됨"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2371204": {
+    "addr1": "경기도 성남시 분당구 판교로 191",
+    "addr2": "(판교동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "2371204",
+    "contenttypeid": "14",
+    "createdtime": "20160227025700",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/65/2371065_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/65/2371065_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0955761577",
+    "mapy": "37.4010366713",
+    "mlevel": "6",
+    "modifiedtime": "20220527132854",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "판교박물관",
+    "zipcode": "13473",
+    "family": [
+      {
+        "유모차": "대여가능(1층 안내데스크)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함(수동문,자동문)"
+      },
+      {
+        "휠체어": "대여가능(1층 안내데스크)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(1층)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(전시장 입구 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2492782": {
+    "addr1": "경기도 성남시 분당구 대왕판교로645번길 36",
+    "addr2": "(삼평동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060500",
+    "contentid": "2492782",
+    "contenttypeid": "14",
+    "createdtime": "20170518182414",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/77/2492777_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/77/2492777_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1021144700",
+    "mapy": "37.4004090842",
+    "mlevel": "6",
+    "modifiedtime": "20230613130206",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "나폴레옹갤러리",
+    "zipcode": "13487",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "132002": {
+    "addr1": "강원특별자치도 정선군 임계면 송계2길 6",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010100",
+    "contentid": "132002",
+    "contenttypeid": "38",
+    "createdtime": "20031209090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/68/2365268_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/68/2365268_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.8509592751",
+    "mapy": "37.4950141085",
+    "mlevel": "6",
+    "modifiedtime": "20230701102415",
+    "sigungucode": "11",
+    "tel": "1544-9053",
+    "title": "임계사통팔달시장 / 임계장 (5, 10일)",
+    "zipcode": "26110",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "132003": {
+    "addr1": "강원특별자치도 정선군 정선읍 5일장길 36",
+    "addr2": "(정선읍)",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010100",
+    "contentid": "132003",
+    "contenttypeid": "38",
+    "createdtime": "20030723090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/54/2733754_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/54/2733754_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.6645350351",
+    "mapy": "37.3805403854",
+    "mlevel": "6",
+    "modifiedtime": "20230701101432",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "정선5일장 / 정선 아리랑시장 (2, 7일)",
+    "zipcode": "26130",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "관람석": "장애인 전용 관람석은 없으나 휠체어 접근 가능한 공간 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음(남문 옆 종합관광안내센터)"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2777889": {
+    "addr1": "강원특별자치도 정선군 사북읍 사북중앙로 17-8",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "2777889",
+    "contenttypeid": "38",
+    "createdtime": "20211123184019",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/51/2785651_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/51/2785651_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.8168370999",
+    "mapy": "37.2272803946",
+    "mlevel": "6",
+    "modifiedtime": "20230701103430",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "사북시장",
+    "zipcode": "26153",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2777909": {
+    "addr1": "강원특별자치도 정선군 고한읍 고한4길 46",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "2777909",
+    "contenttypeid": "38",
+    "createdtime": "20211123184729",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/41/2785641_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/41/2785641_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.8544678470",
+    "mapy": "37.2012924386",
+    "mlevel": "6",
+    "modifiedtime": "20230724135128",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "고한 구공탄시장",
+    "zipcode": "26155",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "1605003": {
+    "addr1": "전라북도 부안군 변산면 변산해변로 794",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "1605003",
+    "contenttypeid": "39",
+    "createdtime": "20120418014925",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.5134082893",
+    "mapy": "35.6644621640",
+    "mlevel": "6",
+    "modifiedtime": "20230802191440",
+    "sigungucode": "6",
+    "tel": "063-584-7171",
+    "title": "변산명인바지락죽",
+    "zipcode": "56339",
+    "family": [],
+    "handi": [
+      {
+        "출입통로": "단차와 경사 없이 진입 가능, 여닫이문_무장애 편의시설"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1985789": {
+    "addr1": "전라북도 부안군 변산면 채석강길 27",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "1985789",
+    "contenttypeid": "39",
+    "createdtime": "20150124014335",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.4703797182",
+    "mapy": "35.6277906139",
+    "mlevel": "6",
+    "modifiedtime": "20230906113516",
+    "sigungucode": "6",
+    "tel": "063-584-8811",
+    "title": "서해바다횟집",
+    "zipcode": "56337",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "단차는 없으나 경사로 있음"
+      },
+      {
+        "출입통로": "원활한 이동 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1986919": {
+    "addr1": "전라북도 부안군 변산면 변산로 1743",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "1986919",
+    "contenttypeid": "39",
+    "createdtime": "20150130010127",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.5528040147",
+    "mapy": "35.6944788554",
+    "mlevel": "6",
+    "modifiedtime": "20230808105736",
+    "sigungucode": "6",
+    "tel": "063-581-3507",
+    "title": "조개미집",
+    "zipcode": "56343",
+    "family": [],
+    "handi": [
+      {
+        "출입통로": "이동통로 보폭 넓음_무장애 편의정보"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2870355": {
+    "addr1": "전라북도 부안군 곰소항길 77-1 제일식당",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2870355",
+    "contenttypeid": "39",
+    "createdtime": "20221019135109",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/40/2870340_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/40/2870340_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6084767680",
+    "mapy": "35.5871392253",
+    "mlevel": "6",
+    "modifiedtime": "20221103111705",
+    "sigungucode": "6",
+    "tel": "",
+    "title": "곰소 아리랑 식당",
+    "zipcode": "56346",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

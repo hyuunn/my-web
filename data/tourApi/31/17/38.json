@@ -1,0 +1,211 @@
+{
+  "132346": {
+    "addr1": "경기도 안양시 만안구 냉천로 196",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "132346",
+    "contenttypeid": "38",
+    "createdtime": "20030115090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/45/1941745_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/45/1941745_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9196255846",
+    "mapy": "37.3975617032",
+    "mlevel": "6",
+    "modifiedtime": "20230323134932",
+    "sigungucode": "17",
+    "tel": "안양중앙시장 : 031-449-6047<br>\n안양중앙시장상인회 : 031-447-9963<br><br>",
+    "title": "안양 중앙시장",
+    "zipcode": "14001",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "132800": {
+    "addr1": "경기도 안양시 만안구 박달우회로124번길 41",
+    "addr2": "(박달동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "132800",
+    "contenttypeid": "38",
+    "createdtime": "20070705090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/17/1941717_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/17/1941717_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9097929158",
+    "mapy": "37.4057772416",
+    "mlevel": "6",
+    "modifiedtime": "20230712105322",
+    "sigungucode": "17",
+    "tel": "",
+    "title": "박달시장",
+    "zipcode": "13986",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "132801": {
+    "addr1": "경기도 안양시 만안구 안양로248번길 19-11",
+    "addr2": "(안양동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "132801",
+    "contenttypeid": "38",
+    "createdtime": "20070705090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/43/1941743_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/43/1941743_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9250584675",
+    "mapy": "37.3959925383",
+    "mlevel": "6",
+    "modifiedtime": "20230802194419",
+    "sigungucode": "17",
+    "tel": "031-449-7400",
+    "title": "안양 남부시장",
+    "zipcode": "13996",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1756335": {
+    "addr1": "경기도 안양시 동안구 흥안대로 313",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "1756335",
+    "contenttypeid": "38",
+    "createdtime": "20121123020429",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.9691548302",
+    "mapy": "37.3826948674",
+    "mlevel": "6",
+    "modifiedtime": "20230306173013",
+    "sigungucode": "17",
+    "tel": "031-8045-2631",
+    "title": "안양 농수산물도매시장",
+    "zipcode": "14104",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2773385": {
+    "addr1": "경기도 안양시 동안구 흥안대로133번길 59-2",
+    "addr2": "(호계동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "2773385",
+    "contenttypeid": "38",
+    "createdtime": "20211111193450",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/92/2773492_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/92/2773492_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9582727461",
+    "mapy": "37.3734374134",
+    "mlevel": "6",
+    "modifiedtime": "20230610091523",
+    "sigungucode": "17",
+    "tel": "",
+    "title": "호계종합시장",
+    "zipcode": "14112",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

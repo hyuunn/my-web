@@ -1,0 +1,431 @@
+{
+  "132787": {
+    "addr1": "경기도 부천시 조종로49번길 21-3",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "132787",
+    "contenttypeid": "38",
+    "createdtime": "20070508090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/68/1941768_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/68/1941768_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7901457969",
+    "mapy": "37.4936732397",
+    "mlevel": "6",
+    "modifiedtime": "20221104163842",
+    "sigungucode": "11",
+    "tel": "032-655-6682",
+    "title": "부천 원미종합시장",
+    "zipcode": "14568",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "132789": {
+    "addr1": "경기도 부천시 부일로749번길 31",
+    "addr2": "(역곡동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "132789",
+    "contenttypeid": "38",
+    "createdtime": "20070509090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/56/1941756_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/56/1941756_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8118884296",
+    "mapy": "37.4875798897",
+    "mlevel": "6",
+    "modifiedtime": "20230610063347",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "부천 역곡상상시장",
+    "zipcode": "14670",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(고객지원센터)"
+      },
+      {
+        "기타 지원 항목": "카페,장난감도서관 있음(고객지원센터,경사로)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(화장실 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1257204": {
+    "addr1": "경기도 부천시 부광로16번길 33",
+    "addr2": "(괴안동,유영연립)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "1257204",
+    "contenttypeid": "38",
+    "createdtime": "20110415010954",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/52/1941752_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/52/1941752_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8115497112",
+    "mapy": "37.4825804644",
+    "mlevel": "6",
+    "modifiedtime": "20230823171526",
+    "sigungucode": "11",
+    "tel": "032-343-9655",
+    "title": "부천 역곡남부시장",
+    "zipcode": "14681",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1339134": {
+    "addr1": "경기도 부천시 삼작로 400",
+    "addr2": "(원종동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "1339134",
+    "contenttypeid": "38",
+    "createdtime": "20110723005852",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/71/1941771_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/71/1941771_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8060575048",
+    "mapy": "37.5197316054",
+    "mlevel": "6",
+    "modifiedtime": "20230206173541",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "부천 원종종합시장",
+    "zipcode": "14473",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2741607": {
+    "addr1": "경기도 부천시 은성로76번길 10",
+    "addr2": "(소사본동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "2741607",
+    "contenttypeid": "38",
+    "createdtime": "20210908224506",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.7990482885",
+    "mapy": "37.4748811368",
+    "mlevel": "6",
+    "modifiedtime": "20221226175818",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "한신시장",
+    "zipcode": "14763",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2742173": {
+    "addr1": "경기도 부천시 원종로85번길 84",
+    "addr2": "(원종동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "2742173",
+    "contenttypeid": "38",
+    "createdtime": "20210909201701",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.8097374923",
+    "mapy": "37.5280001543",
+    "mlevel": "6",
+    "modifiedtime": "20230418095019",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "부천제일시장",
+    "zipcode": "14414",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2781623": {
+    "addr1": "경기도 부천시 호현로474번길 13-2",
+    "addr2": "(소사본동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "2781623",
+    "contenttypeid": "38",
+    "createdtime": "20211126200347",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/68/2781868_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/68/2781868_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7939652837",
+    "mapy": "37.4797138183",
+    "mlevel": "6",
+    "modifiedtime": "20230610091749",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "소사종합시장",
+    "zipcode": "14705",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2781667": {
+    "addr1": "경기도 부천시 자유로 33",
+    "addr2": "(심곡본동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "2781667",
+    "contenttypeid": "38",
+    "createdtime": "20211126203940",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/80/2781880_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/80/2781880_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7799747659",
+    "mapy": "37.4842102693",
+    "mlevel": "6",
+    "modifiedtime": "20230302133725",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "부천자유시장",
+    "zipcode": "14709",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2781668": {
+    "addr1": "경기도 부천시 평천로721번길 14-2",
+    "addr2": "(삼정동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "2781668",
+    "contenttypeid": "38",
+    "createdtime": "20211126204214",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/50/2781850_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/50/2781850_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7710330366",
+    "mapy": "37.5156092401",
+    "mlevel": "6",
+    "modifiedtime": "20230405140445",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "신흥시장",
+    "zipcode": "14495",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2781673": {
+    "addr1": "경기도 부천시 옥산로154번길 21",
+    "addr2": "(도당동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "2781673",
+    "contenttypeid": "38",
+    "createdtime": "20211126204741",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/98/2781998_image2_1.png",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/98/2781998_image2_1.png",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7814628668",
+    "mapy": "37.5075353634",
+    "mlevel": "6",
+    "modifiedtime": "20230321103207",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "강남시장",
+    "zipcode": "14526",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

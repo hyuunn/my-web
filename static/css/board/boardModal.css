@@ -1,0 +1,94 @@
+.nav_logo {
+  font-size: 24px;
+  margin-left: 0;
+}
+ 
+#header li{
+  font-size: 2rem;
+}
+
+form{
+  font-size: 16px;
+}
+input[type='text']{
+  height: 20px;
+}
+.modal {
+    position: absolute;
+    top: 0;
+    left: 0;
+  
+    width: 100%;
+    height: 100%;
+  
+    display: none;
+  
+    background-color: rgba(0, 0, 0, 0.4);
+  }
+  
+  .modal.show {
+    display: block;
+  }
+  
+  .modal_body {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    display:flex;
+    justify-content: center;
+    width: 600px;
+    height: 500px;
+    flex-direction:column;
+    align-items:center;
+  
+    /* padding: 40px; */
+  
+    /* text-align: center; */
+  
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    box-shadow: 0 2px 3px 0 rgba(34, 36, 38, 0.15);
+  
+    transform: translateX(-50%) translateY(-50%);
+  }
+  .modal_left{
+    position: absolute;
+    
+    width: 300px;
+    height: 500px;
+    left:0px;
+    display:flex;
+    justify-content: center;
+    flex-direction:column;
+    align-items:center;
+  }
+  .modal_right{
+    position: absolute;
+    
+    width: 300px;
+    height: 500px;
+    right:0px;
+    justify-content: center;
+    flex-direction:column;
+    align-items:center;
+  }
+  .searchDiv{
+    background-color: white;
+    height:300px;
+    width:300px;
+    position: absolute;
+    top:100px;
+    left:-10px;
+    background-color: rgb(246, 246, 246);
+    overflow-y: auto;    
+    box-shadow: 0 2px 3px 0 rgba(34, 36, 38, 0.15);
+    
+  }
+.placeBt{
+  position: absolute;
+  top:450px;
+    left:-25px;
+}
+.none{
+  display: none;
+}

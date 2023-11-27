@@ -1,0 +1,194 @@
+{
+  "704505": {
+    "addr1": "충청북도 괴산군 괴산읍 동부리",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030400",
+    "contentid": "704505",
+    "contenttypeid": "12",
+    "createdtime": "20090310213157",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/54/712554_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/54/712554_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7946186394",
+    "mapy": "36.8093842777",
+    "mlevel": "6",
+    "modifiedtime": "20221025104635",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "괴산 올갱이국 거리",
+    "zipcode": "28033",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2379537": {
+    "addr1": "충청북도 괴산군 괴산읍 충민로기곡길 78",
+    "addr2": "(괴산읍)",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010600",
+    "contentid": "2379537",
+    "contenttypeid": "12",
+    "createdtime": "20160422203458",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/95/2382795_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/95/2382795_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.8618068803",
+    "mapy": "36.8156986699",
+    "mlevel": "6",
+    "modifiedtime": "20230323100749",
+    "sigungucode": "1",
+    "tel": "043-830-2679",
+    "title": "성불산자연휴양림",
+    "zipcode": "28039",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2717561": {
+    "addr1": "충청북도 괴산군 괴산읍 능촌로 328",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0204",
+    "cat3": "A02040800",
+    "contentid": "2717561",
+    "contenttypeid": "12",
+    "createdtime": "20210518223228",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.8505182559",
+    "mapy": "36.8420954311",
+    "mlevel": "",
+    "modifiedtime": "20220615173229",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "괴산 그곳에 가면 협동조합",
+    "zipcode": "28023",
+    "family": [],
+    "handi": [],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "보조견 동반 가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "0"
+  },
+  "2725011": {
+    "addr1": "충청북도 괴산군 감물면 충민로 694-5",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2725011",
+    "contenttypeid": "12",
+    "createdtime": "20210709002057",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.8708138495",
+    "mapy": "36.8353410238",
+    "mlevel": "6",
+    "modifiedtime": "20230206111812",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "뭐하농 하우스(농업회사법인 ㈜뭐하농)",
+    "zipcode": "28006",
+    "family": [],
+    "handi": [],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "0"
+  },
+  "2912659": {
+    "addr1": "충청북도 괴산군 청천면 후평리",
+    "addr2": "550",
+    "areacode": "33",
+    "booktour": "",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2912659",
+    "contenttypeid": "12",
+    "createdtime": "20221118170648",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/48/2912648_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/48/2912648_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7475522364",
+    "mapy": "36.6535346399",
+    "mlevel": "6",
+    "modifiedtime": "20230105105813",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "청천수변공원",
+    "zipcode": "28061",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

@@ -1,0 +1,40 @@
+button{
+    border: none;
+    padding: 5px;
+}
+#scheBox{
+    display: none;
+}
+
+#popular{
+    padding-left: 10%;
+    margin-top: 20px;
+}
+body{
+    font-size: 18px;
+}
+
+.topImg{
+    width:400px;
+}
+
+[class^='top']{
+    margin: 20px;
+}
+.text_hidden{
+    display:none;
+}
+.top10Num{
+    font-size:30px;
+}
+.top10Li{
+    border-bottom:1px solid black;
+    width:600px;
+}
+.top10Bt{
+    width:200px;
+    border:none;
+}
+.text_hidden{
+    display: none;
+}

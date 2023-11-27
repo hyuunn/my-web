@@ -1,0 +1,4469 @@
+{
+  "125519":{
+     "addr1":"인천광역시 중구 제물량로232번길 46",
+     "addr2":"(송학동1가)",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"125519",
+     "contenttypeid":"12",
+     "createdtime":"20031223090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/92/1193592_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/92/1193592_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.6222755091",
+     "mapy":"37.4752946269",
+     "mlevel":"6",
+     "modifiedtime":"20230503123145",
+     "sigungucode":"10",
+     "tel":"",
+     "title":"자유공원(인천)",
+     "zipcode":"22315",
+     "family":[
+        {
+           "영유아가족 기타 지원 항목":"기저귀교환대 있음"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"접근로 무단차 \n8도정도의 기울기가 있고, 수평접근이 어려움(평평한 길로 접근이 가능함)"
+        },
+        {
+           "출입통로":"주출입구 무단차\n초입에 80cm이상의 폭을 확보하고, 중간 부터는1m이상의 폭을 확보 하고 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"보조견 동반 가능함"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "125534":{
+     "addr1":"인천광역시 강화군 길상면 전등사로 37-41",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0201",
+     "cat3":"A02010800",
+     "contentid":"125534",
+     "contenttypeid":"12",
+     "createdtime":"20040224090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/38/2675538_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/38/2675538_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.4829144565",
+     "mapy":"37.6316934164",
+     "mlevel":"6",
+     "modifiedtime":"20230509101605",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"강화 전등사",
+     "zipcode":"23050",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "화장실":"장애인 화장실 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "125564":{
+     "addr1":"인천 강화군 강화읍 국화리 산3번지",
+     "addr2":"국화리, 신문리, 관청리, 남산리",
+     "areacode":"2",
+     "booktour":"1",
+     "cat1":"A02",
+     "cat2":"A0201",
+     "cat3":"A02010200",
+     "contentid":"125564",
+     "contenttypeid":"12",
+     "createdtime":"20060302090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/34/1579234_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/34/1579234_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.4838970101",
+     "mapy":"37.7560400476",
+     "mlevel":"6",
+     "modifiedtime":"20220426170319",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"강화산성",
+     "zipcode":"417-800,1",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "화장실":"장애인용화장실 있음(서문)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "125565":{
+     "addr1":"인천광역시 강화군 하점면 부근리",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"1",
+     "cat1":"A02",
+     "cat2":"A0201",
+     "cat3":"A02010700",
+     "contentid":"125565",
+     "contenttypeid":"12",
+     "createdtime":"20060302090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/77/1876577_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/77/1876577_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.4374730037",
+     "mapy":"37.7734344221",
+     "mlevel":"6",
+     "modifiedtime":"20220519190554",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"강화 고인돌 유적 [유네스코 세계문화유산]",
+     "zipcode":"23014",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"대부분 무단차로 관람 가능하나 돌,흙구간이 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음(공중화장실,박물관)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "125567":{
+     "addr1":"인천광역시 강화군 강화읍 해안동로1366번길 18",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0201",
+     "cat3":"A02010200",
+     "contentid":"125567",
+     "contenttypeid":"12",
+     "createdtime":"20060302090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/19/688619_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/19/688619_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.5160196946",
+     "mapy":"37.7335599037",
+     "mlevel":"6",
+     "modifiedtime":"20220516154403",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"강화전적지",
+     "zipcode":"23027",
+     "family":[
+        {
+           "유모차":"대여가능"
+        }
+     ],
+     "handi":[
+        {
+           "휠체어":"대여가능"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음 _ 무장애 편의시설"
+        },
+        {
+           "기타 지원 항목":"장애인 이용가능 시설정보를 제공한 안내표지가 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "126568":{
+     "addr1":"인천광역시 부평구 신트리로 21",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"126568",
+     "contenttypeid":"12",
+     "createdtime":"20031120090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/84/760484_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/84/760484_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.7266067880",
+     "mapy":"37.5064928445",
+     "mlevel":"6",
+     "modifiedtime":"20220628164006",
+     "sigungucode":"6",
+     "tel":"",
+     "title":"신트리공원",
+     "zipcode":"21354",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함(숲 구간있음)"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(공중화장실,인천북구도서관,부평구청)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "126796":{
+     "addr1":"인천광역시 중구 연안부두로 70",
+     "addr2":"(항동7가)",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01011400",
+     "contentid":"126796",
+     "contenttypeid":"12",
+     "createdtime":"20031223090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/59/624759_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/59/624759_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.6009780171",
+     "mapy":"37.4549243971",
+     "mlevel":"6",
+     "modifiedtime":"20230209133458",
+     "sigungucode":"10",
+     "tel":"",
+     "title":"연안부두",
+     "zipcode":"22349",
+     "family":[
+        {
+           "수유실":"수유실 있음"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주출입구,주요시설 연결됨)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "126837":{
+     "addr1":"인천광역시 부평구 부평공원로",
+     "addr2":"(부평동)",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"126837",
+     "contenttypeid":"12",
+     "createdtime":"20031105090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/56/760456_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/56/760456_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.7146083543",
+     "mapy":"37.4895890413",
+     "mlevel":"6",
+     "modifiedtime":"20230403162113",
+     "sigungucode":"6",
+     "tel":"",
+     "title":"부평공원",
+     "zipcode":"21405",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 무단차로 구성되어 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(공원 내 공중화장실)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "127184":{
+     "addr1":"인천광역시 강화군 강화읍 북문길 42",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"1",
+     "cat1":"A02",
+     "cat2":"A0201",
+     "cat3":"A02010700",
+     "contentid":"127184",
+     "contenttypeid":"12",
+     "createdtime":"20040224090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/52/1575652_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/52/1575652_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.4854359021",
+     "mapy":"37.7508851202",
+     "mlevel":"6",
+     "modifiedtime":"20230228140459",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"고려궁지",
+     "zipcode":"23030",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "화장실":"장애인용화장실 있음(화장실 입구에 계단이 있어 휠체어로 이동은 힘듦)_무장애 편의정보"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "127185":{
+     "addr1":"인천광역시 강화군 불은면 덕진로 34",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0201",
+     "cat3":"A02010200",
+     "contentid":"127185",
+     "contenttypeid":"12",
+     "createdtime":"20040224090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/67/1579067_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/67/1579067_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.5237018914",
+     "mapy":"37.6496170469",
+     "mlevel":"6",
+     "modifiedtime":"20220411094931",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"강화 덕진진",
+     "zipcode":"23047",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "화장실":"장애인 전용화장실 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "127213":{
+     "addr1":"인천광역시 강화군 불은면 해안동로466번길 27",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"1",
+     "cat1":"A02",
+     "cat2":"A0201",
+     "cat3":"A02010200",
+     "contentid":"127213",
+     "contenttypeid":"12",
+     "createdtime":"20060302090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/82/2363682_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/82/2363682_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.5302453301",
+     "mapy":"37.6641793544",
+     "mlevel":"6",
+     "modifiedtime":"20220617111711",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"광성보",
+     "zipcode":"23047",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "화장실":"장애인용화장실 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "127291":{
+     "addr1":"인천광역시 강화군 화도면 해안남로 1481",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01011200",
+     "contentid":"127291",
+     "contenttypeid":"12",
+     "createdtime":"20060302090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/15/2003415_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/15/2003415_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.4570623331",
+     "mapy":"37.5932918804",
+     "mlevel":"6",
+     "modifiedtime":"20230313094034",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"강화 동막해변",
+     "zipcode":"23062",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"해변가까지 접근할 수 있는 경사로 구간 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실(공용화장실)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "127544":{
+     "addr1":"인천광역시 미추홀구 수봉안길 84",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"127544",
+     "contenttypeid":"12",
+     "createdtime":"20031223090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/92/1579192_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/92/1579192_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.6633194142",
+     "mapy":"37.4598915854",
+     "mlevel":"6",
+     "modifiedtime":"20230627103211",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"수봉공원",
+     "zipcode":"22166",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함(숲길 있음)"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(수봉도서관,수봉공원 공중화장실)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(수봉공원 공중화장실 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "127585":{
+     "addr1":"인천광역시 중구 월미문화로 36",
+     "addr2":"(북성동1가)",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01011300",
+     "contentid":"127585",
+     "contenttypeid":"12",
+     "createdtime":"20030909090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/71/1577671_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/71/1577671_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.5975833151",
+     "mapy":"37.4754052899",
+     "mlevel":"6",
+     "modifiedtime":"20230629155209",
+     "sigungucode":"10",
+     "tel":"",
+     "title":"월미도",
+     "zipcode":"22303",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "화장실":"장애인 전용 화장실 있음(월미도 서문 공중화장실,월미파크 공영주차장 앞)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(월미파크 공중화장실 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "128027":{
+     "addr1":"인천광역시 남동구 무네미로 236",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"128027",
+     "contenttypeid":"12",
+     "createdtime":"20041230090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/32/2654832_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/32/2654832_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.7492727502",
+     "mapy":"37.4576739190",
+     "mlevel":"6",
+     "modifiedtime":"20230209113928",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"인천대공원",
+     "zipcode":"21533",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "휠체어":"대여가능(50여 대)"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "128030":{
+     "addr1":"인천광역시 강화군 길상면 해안동로 58",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"1",
+     "cat1":"A02",
+     "cat2":"A0201",
+     "cat3":"A02010200",
+     "contentid":"128030",
+     "contenttypeid":"12",
+     "createdtime":"20040224090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/34/1577834_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/34/1577834_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.5322543599",
+     "mapy":"37.6326163996",
+     "mlevel":"6",
+     "modifiedtime":"20220525163118",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"강화 초지진",
+     "zipcode":"23049",
+     "family":[
+        
+     ],
+     "handi":[
+        
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"0"
+  },
+  "128767":{
+     "addr1":"인천광역시 중구 용유서로302번길 16-15",
+     "addr2":"(을왕동)",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01011200",
+     "contentid":"128767",
+     "contenttypeid":"12",
+     "createdtime":"20060126090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/66/2512766_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/66/2512766_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.3729296657",
+     "mapy":"37.4450909900",
+     "mlevel":"6",
+     "modifiedtime":"20230627133125",
+     "sigungucode":"10",
+     "tel":"",
+     "title":"을왕리해수욕장",
+     "zipcode":"22383",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음(공영화장실 내부)_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "128813":{
+     "addr1":"인천광역시 강화군 강화읍 국화리",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0201",
+     "cat3":"A02010300",
+     "contentid":"128813",
+     "contenttypeid":"12",
+     "createdtime":"20060306090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/52/2512552_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/52/2512552_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.4756785763",
+     "mapy":"37.7468243111",
+     "mlevel":"6",
+     "modifiedtime":"20221007145528",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"강화 석수문",
+     "zipcode":"23033",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "화장실":"장애인용화장실 있음(강화산성 서문)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "128814":{
+     "addr1":"인천광역시 강화군 길상면 온수리",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"1",
+     "cat1":"A02",
+     "cat2":"A0201",
+     "cat3":"A02010200",
+     "contentid":"128814",
+     "contenttypeid":"12",
+     "createdtime":"20060306090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/32/1577832_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/32/1577832_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.4892027578",
+     "mapy":"37.6321323653",
+     "mlevel":"6",
+     "modifiedtime":"20220524135658",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"삼랑성(정족산성)",
+     "zipcode":"23050",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "화장실":"장애인용화장실 있음(전등사)_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "128818":{
+     "addr1":"인천광역시 강화군 삼산면 어류정길212번길",
+     "addr2":"(삼산면) 일대",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01011200",
+     "contentid":"128818",
+     "contenttypeid":"12",
+     "createdtime":"20060308090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/93/2363693_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/93/2363693_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.3328054311",
+     "mapy":"37.6515995762",
+     "mlevel":"6",
+     "modifiedtime":"20230502101159",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"민머루해변",
+     "zipcode":"23007",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"민머루해변에는 해변가로 접근 가능한 접근로 있음_무장애 편의시설"
+        },
+        {
+           "출입통로":"갯벌 가운데까지 차로 이동가능한 선착장 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(공중화장실)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "128997":{
+     "addr1":"인천광역시 옹진군 영흥면 영흥로757번길 6",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01011200",
+     "contentid":"128997",
+     "contenttypeid":"12",
+     "createdtime":"20060613090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/50/1581950_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/50/1581950_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.4499273546",
+     "mapy":"37.2726568075",
+     "mlevel":"6",
+     "modifiedtime":"20230502191047",
+     "sigungucode":"9",
+     "tel":"",
+     "title":"장경리해수욕장",
+     "zipcode":"23117",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"해변가까지 접근 가능한 무단차구간 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(주차장 내 공중화장실)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(공중화장실 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "129254":{
+     "addr1":"인천광역시 중구 무의동 산189번지",
+     "addr2":"(무의동)",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01011200",
+     "contentid":"129254",
+     "contenttypeid":"12",
+     "createdtime":"20060926090000",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.4118499815",
+     "mapy":"37.3849569928",
+     "mlevel":"6",
+     "modifiedtime":"20230315155416",
+     "sigungucode":"10",
+     "tel":"",
+     "title":"하나개해수욕장",
+     "zipcode":"22387",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"해변가 진입 가능한 경사로 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "129341":{
+     "addr1":"인천광역시 미추홀구 매소홀로 553",
+     "addr2":"(문학동)",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0201",
+     "cat3":"A02010100",
+     "contentid":"129341",
+     "contenttypeid":"12",
+     "createdtime":"20061108090000",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.6823626896",
+     "mapy":"37.4394720720",
+     "mlevel":"6",
+     "modifiedtime":"20230413140210",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"인천도호부관아",
+     "zipcode":"22233",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "출입통로":"출입구 경사로를 이용하여 휠체어로 출입가능"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "129606":{
+     "addr1":"인천광역시 중구 우현로50번길 2",
+     "addr2":"(답동)",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0201",
+     "cat3":"A02010900",
+     "contentid":"129606",
+     "contenttypeid":"12",
+     "createdtime":"20070713090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/03/217503_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/03/217503_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.6299554804",
+     "mapy":"37.4710924729",
+     "mlevel":"6",
+     "modifiedtime":"20230714134927",
+     "sigungucode":"10",
+     "tel":"",
+     "title":"인천 답동성당",
+     "zipcode":"22321",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로 있어 휠체어 접근 가능함_무장애 편의시설"
+        },
+        {
+           "출입통로":"주출입구는 경사로 있어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        },
+        {
+           "기타 지원 항목":"카페 입식(의자식)테이블 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "231899":{
+     "addr1":"인천광역시 강화군 강화읍 동문안길21번길 16-1",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0201",
+     "cat3":"A02010400",
+     "contentid":"231899",
+     "contenttypeid":"12",
+     "createdtime":"20071004090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/40/1575640_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/40/1575640_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.4859998213",
+     "mapy":"37.7479493616",
+     "mlevel":"6",
+     "modifiedtime":"20230802205913",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"용흥궁",
+     "zipcode":"23031",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "출입통로":"높낮이차가 없어 휠체어로 출입가능"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "264512":{
+     "addr1":"인천광역시 중구 차이나타운로59번길 20",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0203",
+     "cat3":"A02030600",
+     "contentid":"264512",
+     "contenttypeid":"12",
+     "createdtime":"20040915192157",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/40/2606040_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/40/2606040_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.6191619441",
+     "mapy":"37.4738502955",
+     "mlevel":"6",
+     "modifiedtime":"20230825105546",
+     "sigungucode":"10",
+     "tel":"",
+     "title":"인천 차이나타운",
+     "zipcode":"22314",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "휠체어":"휠체어 대여가능(1대/계항동 행정복지센터 평일 09:00 ~ 18:00)"
+        },
+        {
+           "화장실":"장애인 화장실 있음\n주민센터에 공용화장실 있음(평일09:00~21:00 / 주말 공휴일 09:00~19:00)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"보조견 동반 가능함"
+        },
+        {
+           "안내요원":"안내요원 있음(차이나타운 종합안내소)"
+        },
+        {
+           "유도안내설비":"이동동선에 따라 안내설비가 설치되어 있음"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "583015":{
+     "addr1":"인천광역시 옹진군 영흥면 영흥북로 420-26",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01011200",
+     "contentid":"583015",
+     "contenttypeid":"12",
+     "createdtime":"20080704012720",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.4826797024",
+     "mapy":"37.2808536498",
+     "mlevel":"6",
+     "modifiedtime":"20220517154518",
+     "sigungucode":"9",
+     "tel":"",
+     "title":"영흥도 십리포해변",
+     "zipcode":"23118",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"주차장에서 연결되는 데크로드 경사로가 있음(모래구간 있음)"
+        },
+        {
+           "화장실":"장애인 화장실 있음(매표소주차장 화장실,경사로설치)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "631066":{
+     "addr1":"인천광역시 강화군 양사면 전망대로 797",
+     "addr2":"(양사면)",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0205",
+     "cat3":"A02050600",
+     "contentid":"631066",
+     "contenttypeid":"12",
+     "createdtime":"20081002023451",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/31/2657531_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/31/2657531_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.4329663820",
+     "mapy":"37.8263253898",
+     "mlevel":"6",
+     "modifiedtime":"20230331105556",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"강화도제적봉 평화전망대",
+     "zipcode":"23012",
+     "family":[
+        {
+           "유모차":"대여가능(2대)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "휠체어":"대여가능(1대)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "699269":{
+     "addr1":"인천광역시 동구 화평로",
+     "addr2":"(화평동)",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0203",
+     "cat3":"A02030400",
+     "contentid":"699269",
+     "contenttypeid":"12",
+     "createdtime":"20090225205259",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.6295164248",
+     "mapy":"37.4785193793",
+     "mlevel":"6",
+     "modifiedtime":"20221025104918",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"인천 화평동 세숫대야 냉면 거리",
+     "zipcode":"22519",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "701642":{
+     "addr1":"인천광역시 서구 봉수대로 257",
+     "addr2":"(가좌동)",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020400",
+     "contentid":"701642",
+     "contenttypeid":"12",
+     "createdtime":"20090227222028",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.6606685752",
+     "mapy":"37.4987481337",
+     "mlevel":"6",
+     "modifiedtime":"20230224110120",
+     "sigungucode":"7",
+     "tel":"",
+     "title":"해수워터피아",
+     "zipcode":"22844",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "744952":{
+     "addr1":"인천광역시 중구 연안부두로 36",
+     "addr2":"(항동7가)",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020800",
+     "contentid":"744952",
+     "contenttypeid":"12",
+     "createdtime":"20090601190427",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/45/706645_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/45/706645_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.6018723634",
+     "mapy":"37.4555160108",
+     "mlevel":"6",
+     "modifiedtime":"20230413070823",
+     "sigungucode":"10",
+     "tel":"",
+     "title":"팔미도 유람선",
+     "zipcode":"22349",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 엘리베이터 이용 휠체어 접근 가능함(유람선 휠체어 승선 가능, 경사로 주의)"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(유람선 내 없음)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "749211":{
+     "addr1":"인천광역시 부평구 부평문화로 113",
+     "addr2":"(부평동)",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0203",
+     "cat3":"A02030400",
+     "contentid":"749211",
+     "contenttypeid":"12",
+     "createdtime":"20090608185903",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/53/740253_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/53/740253_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.7290124625",
+     "mapy":"37.4943692964",
+     "mlevel":"6",
+     "modifiedtime":"20220818153747",
+     "sigungucode":"6",
+     "tel":"",
+     "title":"부평 해물탕거리",
+     "zipcode":"21392",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "780347":{
+     "addr1":"인천광역시 옹진군 덕적면 덕적남로587번길 15",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01011200",
+     "contentid":"780347",
+     "contenttypeid":"12",
+     "createdtime":"20090818221520",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.1141259980",
+     "mapy":"37.2225373788",
+     "mlevel":"6",
+     "modifiedtime":"20220623181712",
+     "sigungucode":"9",
+     "tel":"",
+     "title":"서포리해변",
+     "zipcode":"23131",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"해변가까지 경사로가 있음(데크로드)"
+        },
+        {
+           "화장실":"장애인 화장실 있음(입구 양 옆으로 2곳)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "821412":{
+     "addr1":"인천광역시 중구 인천대교고속도로 3",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0205",
+     "cat3":"A02050100",
+     "contentid":"821412",
+     "contenttypeid":"12",
+     "createdtime":"20091016024718",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.5476448037",
+     "mapy":"37.4256657486",
+     "mlevel":"6",
+     "modifiedtime":"20220222133910",
+     "sigungucode":"10",
+     "tel":"",
+     "title":"인천대교",
+     "zipcode":"22378",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 경사로 있어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(인천대교 기념관,달빛축제공원 야외화장실)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "879086":{
+     "addr1":"인천광역시 중구 월미로 131-22",
+     "addr2":"(북성동1가)",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"879086",
+     "contenttypeid":"12",
+     "createdtime":"20091127181236",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/85/1577685_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/85/1577685_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.6038632662",
+     "mapy":"37.4765191600",
+     "mlevel":"6",
+     "modifiedtime":"20230221092805",
+     "sigungucode":"10",
+     "tel":"",
+     "title":"월미공원",
+     "zipcode":"22301",
+     "family":[
+        {
+           "유모차":"유모차 무료대여 가능함(3대)"
+        },
+        {
+           "영유아가족 기타 지원 항목":"기저귀교환대 있음(화장실 내부)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"접근로 무단차"
+        },
+        {
+           "휠체어":"휠체어 무료대여 가능함(8대)"
+        },
+        {
+           "출입통로":"주출입구 무단차\n2m이상의 폭을 확보하고 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(월미공원 3개)"
+        },
+        {
+           "기타 지원 항목":"무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"보조견 동반 가능함"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "945513":{
+     "addr1":"인천광역시 중구 신포로27번길 80",
+     "addr2":"(관동1가)",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0201",
+     "cat3":"A02010700",
+     "contentid":"945513",
+     "contenttypeid":"12",
+     "createdtime":"20100205023743",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/99/2363099_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/99/2363099_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.6214950690",
+     "mapy":"37.4736836892",
+     "mlevel":"6",
+     "modifiedtime":"20230817142700",
+     "sigungucode":"10",
+     "tel":"",
+     "title":"인천중구청(구 인천부 청사)",
+     "zipcode":"22315",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        },
+        {
+           "기타 지원 항목":"장애인 도움벨 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실, 종합안내도)"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "947611":{
+     "addr1":"인천광역시 중구 제물량로232번안길 27",
+     "addr2":"(중앙동2가)",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0201",
+     "cat3":"A02010700",
+     "contentid":"947611",
+     "contenttypeid":"12",
+     "createdtime":"20100210030556",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/24/1933024_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/24/1933024_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.6210062460",
+     "mapy":"37.4729365453",
+     "mlevel":"6",
+     "modifiedtime":"20221025104123",
+     "sigungucode":"10",
+     "tel":"",
+     "title":"개항장 거리",
+     "zipcode":"22314",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "949266":{
+     "addr1":"인천광역시 중구 월미문화로 81",
+     "addr2":"(북성동1가)",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020600",
+     "contentid":"949266",
+     "contenttypeid":"12",
+     "createdtime":"20100211183321",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.5960474521",
+     "mapy":"37.4714834966",
+     "mlevel":"6",
+     "modifiedtime":"20230515112721",
+     "sigungucode":"10",
+     "tel":"",
+     "title":"월미테마파크",
+     "zipcode":"22303",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"무단차 구역이 많으나 1단 정도의 단차가 있는구역 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "971122":{
+     "addr1":"인천광역시 강화군 불은면 중앙로 742-2",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0204",
+     "cat3":"A02040800",
+     "contentid":"971122",
+     "contenttypeid":"12",
+     "createdtime":"20100311195104",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/58/2490358_image2_1.JPG",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/58/2490358_image2_1.JPG",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.4347557746",
+     "mapy":"37.7029259337",
+     "mlevel":"6",
+     "modifiedtime":"20221109150145",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"강화 아르미애월드",
+     "zipcode":"23038",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"장애인 도로 있음 _무장애 편의시설\n온새로미는 휠체어로도 이용 가능하지만, 온실은 한옥이라 문턱이 있어 내부 관람이 어려움"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인전용 화장실 있음(약쑥웰가건물 각층마다 위치)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1039170":{
+     "addr1":"인천광역시 강화군 불은면 강화동로 403",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0203",
+     "cat3":"A02030400",
+     "contentid":"1039170",
+     "contenttypeid":"12",
+     "createdtime":"20100608202836",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.4871684382",
+     "mapy":"37.6742551985",
+     "mlevel":"6",
+     "modifiedtime":"20230824105517",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"옥토끼우주센터",
+     "zipcode":"23046",
+     "family":[
+        {
+           "유모차":"유모차 유료 대여(3,000원,12대,안내데스크,36개월 미만,인적사항 작성)"
+        },
+        {
+           "수유실":"수유실 있음(1층)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"전시관내 동선이 모두 경사로로 이루어져 휠체어의 이동에 불편함이 없음\n그러나 야외공간으로 이동시에는 나무로 깔린 길이 평탄하지 않아 동행자의 도움이 필요함\n공룡공원은 흙길이라 언덕 위쪽의 공룡까지 접근하기는 어렵지만, 입구 쪽의 공룡들은 가까이 다가가서 작동시켜 볼 수 있음"
+        },
+        {
+           "휠체어":"휠체어 무료 대여(2대,안내데스크,인적사항 작성,032-937-6918)"
+        },
+        {
+           "출입통로":"주출입구는 휠체어 통과 가능함(수동문)"
+        },
+        {
+           "엘리베이터":"장애인용 엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인용 화장실 있음(1층 화장실, 남녀분리)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(1층 : 엘리베이터 앞, 화장실 앞, 2-7층 : 엘리베이터 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1113230":{
+     "addr1":"인천광역시 계양구 계양산로75번길 26",
+     "addr2":"(계산동)",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01010400",
+     "contentid":"1113230",
+     "contenttypeid":"12",
+     "createdtime":"20101019013512",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/19/1923719_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/19/1923719_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.7233947488",
+     "mapy":"37.5501849295",
+     "mlevel":"6",
+     "modifiedtime":"20220328164442",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"계양산",
+     "zipcode":"21041",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "출입통로":"주출입구 무단차\n2m이상의 폭을 확보하고 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1114598":{
+     "addr1":"인천광역시 동구 솔빛로 51",
+     "addr2":"(송현동)",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"1114598",
+     "contenttypeid":"12",
+     "createdtime":"20101021021113",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/44/1578844_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/44/1578844_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.6398849040",
+     "mapy":"37.4792278130",
+     "mlevel":"6",
+     "modifiedtime":"20220722101134",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"송현근린공원",
+     "zipcode":"22541",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음(계단접근구역 있음)"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(수도국산 달동네박물관 외부 화장실)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1114618":{
+     "addr1":"인천광역시 동구 화도진로 114",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"1114618",
+     "contenttypeid":"12",
+     "createdtime":"20101021025108",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/49/980449_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/49/980449_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.6288885947",
+     "mapy":"37.4824855746",
+     "mlevel":"6",
+     "modifiedtime":"20230811165045",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"화도진공원",
+     "zipcode":"22511",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함(휠체어 화도진지 진입 불가, 공원 산책 이동 가능)"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음 (화장실 입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1114780":{
+     "addr1":"인천광역시 계양구 계양산로75번길 26 계양공원관리소",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"1114780",
+     "contenttypeid":"12",
+     "createdtime":"20101021201614",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/96/2462196_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/96/2462196_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.7234003040",
+     "mapy":"37.5501849296",
+     "mlevel":"6",
+     "modifiedtime":"20230615095442",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"계양공원",
+     "zipcode":"21041",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(비상벨 있음)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1114802":{
+     "addr1":"인천광역시 계양구 임학동",
+     "addr2":"산10번지 일원",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01010600",
+     "contentid":"1114802",
+     "contenttypeid":"12",
+     "createdtime":"20101021203223",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.7305135554",
+     "mapy":"37.5497517735",
+     "mlevel":"6",
+     "modifiedtime":"20230517094154",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"계양산 산림욕장",
+     "zipcode":"21031",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 무단차로 연결되나 공원 산책로 중 산길 있음"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능 함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(계양산 산림욕장 공중화장실)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1254680":{
+     "addr1":"인천광역시 강화군 강화읍 해안동로1366번길 18",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0201",
+     "cat3":"A02010200",
+     "contentid":"1254680",
+     "contenttypeid":"12",
+     "createdtime":"20110412020054",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/72/1579072_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/72/1579072_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.5171140395",
+     "mapy":"37.7335377029",
+     "mlevel":"6",
+     "modifiedtime":"20230703142628",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"갑곶돈대",
+     "zipcode":"23027",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "화장실":"장애인화장실 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1325945":{
+     "addr1":"인천광역시 서구 거월로 61",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0204",
+     "cat3":"A02040800",
+     "contentid":"1325945",
+     "contenttypeid":"12",
+     "createdtime":"20110706235051",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/38/2676038_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/38/2676038_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.6481593065",
+     "mapy":"37.5732892425",
+     "mlevel":"6",
+     "modifiedtime":"20230206094353",
+     "sigungucode":"7",
+     "tel":"",
+     "title":"수도권매립지 야생화단지 드림파크",
+     "zipcode":"22688",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"야생화단지 무단차,CC클럽 무단차 접근 가능"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(공중화장실,CC클럽)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1618031":{
+     "addr1":"인천광역시 남동구 소래로154번길 77",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01010500",
+     "contentid":"1618031",
+     "contenttypeid":"12",
+     "createdtime":"20120428013034",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/44/2675544_image2_1.jpeg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/44/2675544_image2_1.jpeg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.7463494160",
+     "mapy":"37.4074158153",
+     "mlevel":"6",
+     "modifiedtime":"20230724180345",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"소래습지생태공원",
+     "zipcode":"21619",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음(주차장 입구, 생태공원 내부)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1619170":{
+     "addr1":"인천광역시 연수구 능허대로 109",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0201",
+     "cat3":"A02010700",
+     "contentid":"1619170",
+     "contenttypeid":"12",
+     "createdtime":"20120430201654",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/72/2512672_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/72/2512672_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.6425501081",
+     "mapy":"37.4230649423",
+     "mlevel":"6",
+     "modifiedtime":"20230718101912",
+     "sigungucode":"8",
+     "tel":"",
+     "title":"능허대지",
+     "zipcode":"21958",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        },
+        {
+           "기타 지원 항목":"공원 산책로 휠체어 이용 가능"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1619527":{
+     "addr1":"인천광역시 중구 월미로 376",
+     "addr2":"(북성동1가)",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01011400",
+     "contentid":"1619527",
+     "contenttypeid":"12",
+     "createdtime":"20120430224718",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/61/1577661_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/61/1577661_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.6036330015",
+     "mapy":"37.4667897312",
+     "mlevel":"6",
+     "modifiedtime":"20230223113013",
+     "sigungucode":"10",
+     "tel":"",
+     "title":"인천항 갑문",
+     "zipcode":"22305",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        },
+        {
+           "기타 지원 항목":"홍보관 내 휠체어 이용 가능<br/>\n무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실, 엘리베이터)"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1619608":{
+     "addr1":"인천광역시 중구 제물량로 183",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0201",
+     "cat3":"A02010700",
+     "contentid":"1619608",
+     "contenttypeid":"12",
+     "createdtime":"20120430231424",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/09/1577809_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/09/1577809_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.6233172260",
+     "mapy":"37.4700591426",
+     "mlevel":"6",
+     "modifiedtime":"20230727143019",
+     "sigungucode":"10",
+     "tel":"",
+     "title":"인천우체국",
+     "zipcode":"22313",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(건물 내 점자유도로)"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1619630":{
+     "addr1":"인천광역시 중구 잠진도길 11",
+     "addr2":"(운서동)",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01011200",
+     "contentid":"1619630",
+     "contenttypeid":"12",
+     "createdtime":"20120430234024",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/29/2661929_image2_1.JPG",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/29/2661929_image2_1.JPG",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.4254532761",
+     "mapy":"37.4221334646",
+     "mlevel":"6",
+     "modifiedtime":"20220629095526",
+     "sigungucode":"10",
+     "tel":"032-760-7497, 7520",
+     "title":"거잠포해변",
+     "zipcode":"22382",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"해변가 산책가능구간 있음(일부)"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(해변가 공중화장실,경사로 설치 됨)<br/>\n주차장 공중화장실은 일반"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1619731":{
+     "addr1":"인천광역시 연수구 아암대로 612",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"1619731",
+     "contenttypeid":"12",
+     "createdtime":"20120501011004",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/73/1578773_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/73/1578773_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.6393923145",
+     "mapy":"37.4139631657",
+     "mlevel":"6",
+     "modifiedtime":"20230414170937",
+     "sigungucode":"8",
+     "tel":"",
+     "title":"아암도해안공원",
+     "zipcode":"22005",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        },
+        {
+           "기타 지원 항목":"공원 산책로 휠체어 이용 가능"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1619744":{
+     "addr1":"인천광역시 서구 새오개로68번길 15-47",
+     "addr2":"(신현동) 부근",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0102",
+     "cat3":"A01020100",
+     "contentid":"1619744",
+     "contenttypeid":"12",
+     "createdtime":"20120501012035",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/25/1578825_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/25/1578825_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.6674119100",
+     "mapy":"37.5165100769",
+     "mlevel":"6",
+     "modifiedtime":"20230610080050",
+     "sigungucode":"7",
+     "tel":"",
+     "title":"인천 신현동 회화나무",
+     "zipcode":"22781",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함_무장애 편의시설"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        },
+        {
+           "기타 지원 항목":"원신근린공원 내 장애인 시설 이용 가능"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(원신근린공원 공중화장실)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1938168":{
+     "addr1":"인천광역시 중구 동화마을길 38",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0203",
+     "cat3":"A02030100",
+     "contentid":"1938168",
+     "contenttypeid":"12",
+     "createdtime":"20140730230630",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.6197312122",
+     "mapy":"37.4783442274",
+     "mlevel":"6",
+     "modifiedtime":"20230825152656",
+     "sigungucode":"10",
+     "tel":"",
+     "title":"송월동 동화마을",
+     "zipcode":"22311",
+     "family":[
+        {
+           "영유아가족 기타 지원 항목":"여자화장실 기저귀교환대 있음"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"단차가 제거되어 있는 시설이 많으나 거리가 언덕으로 되어 있음"
+        },
+        {
+           "휠체어":"대여가능(동화마을 안내소)"
+        },
+        {
+           "출입통로":"휠체어가 접근 가능한 크기의 문이거나 혹은 거리로 이루어짐"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1957680":{
+     "addr1":"인천광역시 중구 월미문화로 81",
+     "addr2":"(북성동1가)",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020200",
+     "contentid":"1957680",
+     "contenttypeid":"12",
+     "createdtime":"20141021020614",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/94/1924494_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/94/1924494_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.5964029776",
+     "mapy":"37.4714251763",
+     "mlevel":"6",
+     "modifiedtime":"20230610081534",
+     "sigungucode":"10",
+     "tel":"",
+     "title":"월미 관광특구",
+     "zipcode":"22303",
+     "family":[
+        {
+           "유모차":"유모차 대여 가능함(3대)"
+        },
+        {
+           "영유아가족 기타 지원 항목":"기저귀 교환대 있음(화장실 내부)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"접근로 무단차"
+        },
+        {
+           "휠체어":"휠체어 무료대여 가능함(2대)"
+        },
+        {
+           "출입통로":"주출입구 무단차\n2m이상의 폭을 확보하고 있음"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음(4층전망대 이용시 엘리베이터사용가능)"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2009089":{
+     "addr1":"인천광역시 서구 정서진1로 41",
+     "addr2":"(오류동)",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01010500",
+     "contentid":"2009089",
+     "contenttypeid":"12",
+     "createdtime":"20150610023225",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/44/2661944_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/44/2661944_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.6074801023",
+     "mapy":"37.5584930230",
+     "mlevel":"6",
+     "modifiedtime":"20221007155848",
+     "sigungucode":"7",
+     "tel":"",
+     "title":"경인 아라뱃길",
+     "zipcode":"22850",
+     "family":[
+        {
+           "수유실":"수유실 있음(아라타워 1층)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어있음(수동문)"
+        },
+        {
+           "휠체어":"대여 가능(3대,아라타워 1층)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음(아라타워 1층)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주 출입구 앞)_시각장애인 편의시설"
+        },
+        {
+           "보조견 동반":"동반가능"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2020690":{
+     "addr1":"인천광역시 남동구 포구로 2-6",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01011400",
+     "contentid":"2020690",
+     "contenttypeid":"12",
+     "createdtime":"20150724002548",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/92/1779192_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/92/1779192_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.7400613366",
+     "mapy":"37.3989083581",
+     "mlevel":"6",
+     "modifiedtime":"20230320190324",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"소래포구",
+     "zipcode":"21672",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        },
+        {
+           "기타 지원 항목":"소래포구어시장, 회센터, 공중화장실, 공영주차장 이용 가능"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실, 엘리베이터)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2458348":{
+     "addr1":"인천광역시 중구 공항동로 136",
+     "addr2":"(운서동)",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0204",
+     "cat3":"A02040800",
+     "contentid":"2458348",
+     "contenttypeid":"12",
+     "createdtime":"20161215230956",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/00/2713700_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/00/2713700_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.4854189107",
+     "mapy":"37.4625353722",
+     "mlevel":"6",
+     "modifiedtime":"20220915155736",
+     "sigungucode":"10",
+     "tel":"",
+     "title":"BMW 드라이빙센터",
+     "zipcode":"22379",
+     "family":[
+        {
+           "유모차":"대여가능"
+        },
+        {
+           "수유실":"수유실 있음"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(회전문/수동문)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음 (주출입구)_시각장애인 편의시설"
+        },
+        {
+           "안내요원":"안내요원 있음"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2462889":{
+     "addr1":"인천광역시 부평구 평천로 26-47",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"2462889",
+     "contenttypeid":"12",
+     "createdtime":"20161219190320",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.6926983872",
+     "mapy":"37.5202545329",
+     "mlevel":"6",
+     "modifiedtime":"20221221104421",
+     "sigungucode":"6",
+     "tel":"",
+     "title":"인천나비공원",
+     "zipcode":"21300",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실, 엘리베이터)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2465107":{
+     "addr1":"인천광역시 연수구 컨벤시아대로 160",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"2465107",
+     "contenttypeid":"12",
+     "createdtime":"20161220193818",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/34/2661934_image2_1.JPG",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/34/2661934_image2_1.JPG",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.6435981392",
+     "mapy":"37.3903993102",
+     "mlevel":"6",
+     "modifiedtime":"20230327114035",
+     "sigungucode":"8",
+     "tel":"",
+     "title":"송도 센트럴파크",
+     "zipcode":"22004",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음(주차장에서 외부로 나가는 엘리베이터)"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실, 엘리베이터)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2465152":{
+     "addr1":"인천광역시 서구 크리스탈로 59",
+     "addr2":"(경서동)",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"2465152",
+     "contenttypeid":"12",
+     "createdtime":"20161220222820",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/89/2464789_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/89/2464789_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.6362810266",
+     "mapy":"37.5305967767",
+     "mlevel":"6",
+     "modifiedtime":"20230405092702",
+     "sigungucode":"7",
+     "tel":"",
+     "title":"청라호수공원",
+     "zipcode":"22759",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실, 엘리베이터)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2490906":{
+     "addr1":"인천광역시 강화군 삼산면 삼산서로 39-75",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01010600",
+     "contentid":"2490906",
+     "contenttypeid":"12",
+     "createdtime":"20170425191200",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/23/2490923_image2_1.JPG",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/23/2490923_image2_1.JPG",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.3153612612",
+     "mapy":"37.6994881312",
+     "mlevel":"6",
+     "modifiedtime":"20221109101248",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"석모도 자연휴양림",
+     "zipcode":"23005",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(관리사무소)"
+        },
+        {
+           "객실":"장애인 전용 객실은 없으나 101~108호 접근 가능"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2490928":{
+     "addr1":"인천광역시 강화군 삼산면 삼산북로449번길 161",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01010700",
+     "contentid":"2490928",
+     "contenttypeid":"12",
+     "createdtime":"20170425230202",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/31/2490931_image2_1.JPG",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/31/2490931_image2_1.JPG",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.3264049255",
+     "mapy":"37.6910781940",
+     "mlevel":"6",
+     "modifiedtime":"20230209145051",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"석모도 수목원",
+     "zipcode":"23005",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2535506":{
+     "addr1":"인천광역시 중구 제2터미널대로 446",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0204",
+     "cat3":"A02040800",
+     "contentid":"2535506",
+     "contenttypeid":"12",
+     "createdtime":"20180202194246",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.4250156573",
+     "mapy":"37.4784546859",
+     "mlevel":"6",
+     "modifiedtime":"20221121130629",
+     "sigungucode":"10",
+     "tel":"",
+     "title":"인천국제공항 제2여객터미널",
+     "zipcode":"22382",
+     "family":[
+        {
+           "유모차":"대여가능"
+        },
+        {
+           "수유실":"수유실 있음"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설(푸드코트)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음_시각장애인 편의시설   (주요시설 앞)"
+        },
+        {
+           "안내요원":"안내요원 있음"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2554143":{
+     "addr1":"인천광역시 중구 월미로 376",
+     "addr2":"(북성동1가)",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0204",
+     "cat3":"A02040800",
+     "contentid":"2554143",
+     "contenttypeid":"12",
+     "createdtime":"20180718185228",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/34/2555134_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/34/2555134_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.6041412796",
+     "mapy":"37.4671063698",
+     "mlevel":"6",
+     "modifiedtime":"20220826134729",
+     "sigungucode":"10",
+     "tel":"",
+     "title":"인천항 갑문홍보관",
+     "zipcode":"22305",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음(1층)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2599177":{
+     "addr1":"인천광역시 강화군 송해면 강화대로 891-10",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0204",
+     "cat3":"A02040800",
+     "contentid":"2599177",
+     "contenttypeid":"12",
+     "createdtime":"20190425193433",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/31/2672631_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/31/2672631_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.4455529675",
+     "mapy":"37.7680713013",
+     "mlevel":"6",
+     "modifiedtime":"20221124132346",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"강화도령 화문석 체험장",
+     "zipcode":"23019",
+     "family":[
+        
+     ],
+     "handi":[
+        
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"가능"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"0"
+  },
+  "2606231":{
+     "addr1":"인천광역시 강화군 강화읍 남문안길20번길 8",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0203",
+     "cat3":"A02030400",
+     "contentid":"2606231",
+     "contenttypeid":"12",
+     "createdtime":"20190613012558",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/04/2609104_image2_1.bmp",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/04/2609104_image2_1.bmp",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.4848666530",
+     "mapy":"37.7457634858",
+     "mlevel":"6",
+     "modifiedtime":"20230802203451",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"소창체험관",
+     "zipcode":"23035",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함(전시관 및 한옥 이용불가)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2612802":{
+     "addr1":"인천광역시 강화군 길상면 장흥로 217",
+     "addr2":"(길상면)",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03022700",
+     "contentid":"2612802",
+     "contenttypeid":"12",
+     "createdtime":"20190724222817",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.4981273568",
+     "mapy":"37.6171759306",
+     "mlevel":"6",
+     "modifiedtime":"20230328095052",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"강화루지(강화씨사이드리조트)",
+     "zipcode":"23052",
+     "family":[
+        {
+           "수유실":"수유실 있음(1층 의무실 내)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음(매표소 왼쪽)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2657249":{
+     "addr1":"인천광역시 강화군 교동면 교동남로 20-1",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0204",
+     "cat3":"A02040800",
+     "contentid":"2657249",
+     "contenttypeid":"12",
+     "createdtime":"20200526005551",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.2792873012",
+     "mapy":"37.7813918290",
+     "mlevel":"6",
+     "modifiedtime":"20221111154907",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"교동제비집",
+     "zipcode":"23002",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주출입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2662684":{
+     "addr1":"인천광역시 서구 오류동 아라인천여객터미널",
+     "addr2":"(오류동)",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0204",
+     "cat3":"A02040800",
+     "contentid":"2662684",
+     "contenttypeid":"12",
+     "createdtime":"20200708201114",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/67/1903267_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/67/1903267_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.6289659795",
+     "mapy":"37.5960890268",
+     "mlevel":"6",
+     "modifiedtime":"20221007160009",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"정서진",
+     "zipcode":"22654",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2675002":{
+     "addr1":"인천광역시 계양구 서운동 106-1번",
+     "addr2":"일원 (계양경기장 양궁장 뒤) (서운동)",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"2675002",
+     "contenttypeid":"12",
+     "createdtime":"20201007050648",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/03/2675003_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/03/2675003_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.7438989280",
+     "mapy":"37.5325151261",
+     "mlevel":"6",
+     "modifiedtime":"20230330103919",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"계양꽃마루",
+     "zipcode":"21072",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2675429":{
+     "addr1":"인천광역시 계양구 아라로 228",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0205",
+     "cat3":"A02050600",
+     "contentid":"2675429",
+     "contenttypeid":"12",
+     "createdtime":"20201008184256",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/32/2674932_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/32/2674932_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.7014100172",
+     "mapy":"37.5726097091",
+     "mlevel":"6",
+     "modifiedtime":"20221128154911",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"아라마루 전망대(아라폭포)",
+     "zipcode":"21000",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음(전망대휴게소)"
+        },
+        {
+           "화장실":"장애인 화장실 있음(전망대휴게소)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2706206":{
+     "addr1":"인천광역시 남동구 아암대로 1550",
+     "addr2":"(논현동)",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0205",
+     "cat3":"A02050600",
+     "contentid":"2706206",
+     "contenttypeid":"12",
+     "createdtime":"20210217024554",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/01/2706201_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/01/2706201_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.7337148283",
+     "mapy":"37.3940143699",
+     "mlevel":"6",
+     "modifiedtime":"20230630092621",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"새우타워 전망대",
+     "zipcode":"21676",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주출입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2706344":{
+     "addr1":"인천광역시 중구 제물량로 269",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0203",
+     "cat3":"A02030400",
+     "contentid":"2706344",
+     "contenttypeid":"12",
+     "createdtime":"20210218010559",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.6171037210",
+     "mapy":"37.4766471560",
+     "mlevel":"6",
+     "modifiedtime":"20230628174848",
+     "sigungucode":"10",
+     "tel":"",
+     "title":"월미바다열차",
+     "zipcode":"22307",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        },
+        {
+           "기타 지원 항목":"열차 내 휠체어석(1석)이 있으나 좁은편임"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주출입구)_시각장애인 편의시설"
+        },
+        {
+           "안내요원":"안내요원 있음"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2709532":{
+     "addr1":"인천광역시 옹진군 영흥면 영흥남로293번길 52",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020600",
+     "contentid":"2709532",
+     "contenttypeid":"12",
+     "createdtime":"20210311184920",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.4481560634",
+     "mapy":"37.2444128314",
+     "mlevel":"6",
+     "modifiedtime":"20230615150258",
+     "sigungucode":"9",
+     "tel":"",
+     "title":"영흥면에너지파크",
+     "zipcode":"23120",
+     "family":[
+        {
+           "유모차":"대여가능"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "휠체어":"대여가능"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주출입구)_시각장애인 편의시설"
+        },
+        {
+           "안내요원":"안내요원 있음"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2715100":{
+     "addr1":"인천광역시 중구 영종해안남로321번길 186",
+     "addr2":"(운서동)",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020300",
+     "contentid":"2715100",
+     "contenttypeid":"12",
+     "createdtime":"20210430202652",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.4557445366",
+     "mapy":"37.4373461143",
+     "mlevel":"6",
+     "modifiedtime":"20230309141823",
+     "sigungucode":"10",
+     "tel":"",
+     "title":"더 스파 앳 파라다이스",
+     "zipcode":"22382",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "안내요원":"안내요원 있음_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2718720":{
+     "addr1":"인천광역시 남동구 앵고개로 771",
+     "addr2":"(논현동)",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"2718720",
+     "contenttypeid":"12",
+     "createdtime":"20210528001652",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.7217548678",
+     "mapy":"37.3918116363",
+     "mlevel":"6",
+     "modifiedtime":"20220519103424",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"늘솔길공원",
+     "zipcode":"21678",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "기타 지원 항목":"편백나무숲 무장애 나눔길"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2718884":{
+     "addr1":"인천광역시 서구 청라에메랄드로 99",
+     "addr2":"(청라동) 3층",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03021300",
+     "contentid":"2718884",
+     "contenttypeid":"12",
+     "createdtime":"20210531195502",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.6557430530",
+     "mapy":"37.5336606539",
+     "mlevel":"",
+     "modifiedtime":"20230802205659",
+     "sigungucode":"7",
+     "tel":"032-623-4567",
+     "title":"국제 롤러스케이트장",
+     "zipcode":"22738",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "안내요원":"안내요원 있음_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2753119":{
+     "addr1":"인천광역시 중구 북성동1가 120",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0203",
+     "cat3":"A02030600",
+     "contentid":"2753119",
+     "contenttypeid":"12",
+     "createdtime":"20211006004655",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/62/2781462_image2_1.png",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/62/2781462_image2_1.png",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.5951337062",
+     "mapy":"37.4693615054",
+     "mlevel":"6",
+     "modifiedtime":"20221214105232",
+     "sigungucode":"10",
+     "tel":"",
+     "title":"월미도등대길",
+     "zipcode":"22303",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2765284":{
+     "addr1":"인천광역시 강화군 송해면 당산리 388-7",
+     "addr2":"",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"2765284",
+     "contenttypeid":"12",
+     "createdtime":"20211101194359",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/86/2780186_image2_1.png",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/86/2780186_image2_1.png",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.4631003574",
+     "mapy":"37.8038257706",
+     "mlevel":"6",
+     "modifiedtime":"20221226142359",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"고려천도공원",
+     "zipcode":"",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2765400":{
+     "addr1":"인천광역시 연수구 해송로 59",
+     "addr2":"(송도동)",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"2765400",
+     "contenttypeid":"12",
+     "createdtime":"20211101234357",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/92/2781092_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/92/2781092_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.6495089325",
+     "mapy":"37.3824086759",
+     "mlevel":"6",
+     "modifiedtime":"20230622095201",
+     "sigungucode":"8",
+     "tel":"",
+     "title":"미추홀공원",
+     "zipcode":"22000",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2765428":{
+     "addr1":"인천광역시 연수구 청능대로 205",
+     "addr2":"(연수동)",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"2765428",
+     "contenttypeid":"12",
+     "createdtime":"20211102000057",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/32/2781132_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/32/2781132_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.6855993818",
+     "mapy":"37.4079119059",
+     "mlevel":"6",
+     "modifiedtime":"20230503113351",
+     "sigungucode":"8",
+     "tel":"",
+     "title":"연수체육공원",
+     "zipcode":"21931",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2765497":{
+     "addr1":"인천광역시 계양구 살라리로2번길 33",
+     "addr2":"(서운동)",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"2765497",
+     "contenttypeid":"12",
+     "createdtime":"20211102003039",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/17/2779017_image2_1.png",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/17/2779017_image2_1.png",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.7454182055",
+     "mapy":"37.5335011493",
+     "mlevel":"6",
+     "modifiedtime":"20230621150629",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"서운체육공원",
+     "zipcode":"21072",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2767503":{
+     "addr1":"인천광역시 계양구 경명대로955번길 18",
+     "addr2":"(계산동)",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01010500",
+     "contentid":"2767503",
+     "contenttypeid":"12",
+     "createdtime":"20211103183845",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/62/2784362_image2_1.png",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/62/2784362_image2_1.png",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.7127513617",
+     "mapy":"37.5471017664",
+     "mlevel":"6",
+     "modifiedtime":"20230502193218",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"계양산장미원",
+     "zipcode":"21042",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음_무장애 편의시설"
+        },
+        {
+           "기타 지원 항목":"무장애나눔길 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2767573":{
+     "addr1":"인천광역시 서구 가정로98번길 18",
+     "addr2":"(가좌동)",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"2767573",
+     "contenttypeid":"12",
+     "createdtime":"20211103190015",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/58/2781358_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/58/2781358_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.6736203249",
+     "mapy":"37.4932378921",
+     "mlevel":"6",
+     "modifiedtime":"20221205114300",
+     "sigungucode":"7",
+     "tel":"",
+     "title":"감중공원",
+     "zipcode":"22838",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2767886":{
+     "addr1":"인천광역시 연수구 센트럴로 350",
+     "addr2":"(송도동)",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020600",
+     "contentid":"2767886",
+     "contenttypeid":"12",
+     "createdtime":"20211104000349",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/95/2781395_image2_1.png",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/95/2781395_image2_1.png",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.6324764450",
+     "mapy":"37.4079442991",
+     "mlevel":"6",
+     "modifiedtime":"20230130150832",
+     "sigungucode":"8",
+     "tel":"",
+     "title":"송도 도그파크",
+     "zipcode":"22005",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2767888":{
+     "addr1":"인천광역시 연수구 송도동 1",
+     "addr2":"(송도동)",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"2767888",
+     "contenttypeid":"12",
+     "createdtime":"20211104001015",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/78/2781378_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/78/2781378_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.6597659732",
+     "mapy":"37.3953434658",
+     "mlevel":"6",
+     "modifiedtime":"20230403104930",
+     "sigungucode":"8",
+     "tel":"",
+     "title":"달빛축제공원",
+     "zipcode":"21994",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2781335":{
+     "addr1":"인천광역시 중구 월미로 252",
+     "addr2":"(북성동1가)",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0203",
+     "cat3":"A02030400",
+     "contentid":"2781335",
+     "contenttypeid":"12",
+     "createdtime":"20211126044541",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/69/2786469_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/69/2786469_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.5983832839",
+     "mapy":"37.4738860361",
+     "mlevel":"6",
+     "modifiedtime":"20221025132023",
+     "sigungucode":"10",
+     "tel":"",
+     "title":"월미문화의거리 & 달빛음악분수",
+     "zipcode":"22303",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2781336":{
+     "addr1":"인천광역시 중구 제물량로 262-15",
+     "addr2":"(선린동)",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0203",
+     "cat3":"A02030400",
+     "contentid":"2781336",
+     "contenttypeid":"12",
+     "createdtime":"20211126045106",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/26/2786526_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/26/2786526_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.6182286760",
+     "mapy":"37.4745724172",
+     "mlevel":"6",
+     "modifiedtime":"20221101103738",
+     "sigungucode":"10",
+     "tel":"",
+     "title":"삼국지벽화거리",
+     "zipcode":"22314",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2783003":{
+     "addr1":"인천광역시 중구 월미로 252",
+     "addr2":"(북성동1가)",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020600",
+     "contentid":"2783003",
+     "contenttypeid":"12",
+     "createdtime":"20211130002328",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.5983832839",
+     "mapy":"37.4738860361",
+     "mlevel":"6",
+     "modifiedtime":"20230622094945",
+     "sigungucode":"10",
+     "tel":"",
+     "title":"마이랜드",
+     "zipcode":"22303",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2785747":{
+     "addr1":"인천광역시 중구 영종해안남로321번길 186",
+     "addr2":"(운서동)",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020600",
+     "contentid":"2785747",
+     "contenttypeid":"12",
+     "createdtime":"20211203222330",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.4557445366",
+     "mapy":"37.4373461143",
+     "mlevel":"6",
+     "modifiedtime":"20230127113424",
+     "sigungucode":"10",
+     "tel":"",
+     "title":"파라다이스시티 원더박스",
+     "zipcode":"22382",
+     "family":[
+        {
+           "수유실":"수유실 있음"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2790502":{
+     "addr1":"인천 남동구 간석1동 420-3",
+     "addr2":"(간석동)",
+     "areacode":"2",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"2790502",
+     "contenttypeid":"12",
+     "createdtime":"20211209201148",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/67/2791067_image2_1.JPG",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/67/2791067_image2_1.JPG",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.7018547420",
+     "mapy":"37.4615809589",
+     "mlevel":"6",
+     "modifiedtime":"20230503132941",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"인천중앙공원",
+     "zipcode":"21549",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+        },
+        {
+           "보조견 동반":"동반가능"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  }
+}

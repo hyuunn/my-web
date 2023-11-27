@@ -1,0 +1,67 @@
+*{
+    font-family: 'Noto Sans KR', sans-serif;
+}
+h4{
+    margin-top: 15px;
+}
+ul, li{
+    list-style-type: none;
+}
+.nav_logo {
+    font-size: 24px;
+    margin-left: 0;
+}
+body{
+    font-size: 18px;
+}
+#header li{
+    font-size: 2rem;
+}
+
+.container{
+    font-size: 16px;
+}
+#wirte_header{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+input[type='text']{
+    width: 50%;
+}
+select{
+    width: fit-content;
+}
+input[name="title"]{
+    flex-grow: 1;
+}
+
+#write_wrap{
+    width: 100%;
+    display: flex;
+    margin-top: 15px;
+    
+}
+#single_plans{
+    flex-shrink: 0;
+    width: fit-content;
+    padding: 10px;
+}
+#summernote{
+    flex-grow: 1;
+}
+.sList{
+    text-align: center;
+    border: 1px solid #ddd;
+    margin: 5px;
+}
+.day{
+    border-bottom: 1px solid black;
+}
+.place_title{
+    background: transparent;
+    border: none;
+}
+/* .note-editor, .note-editing-area, .note-editable{
+    height: 100vh;
+} */

@@ -1,0 +1,261 @@
+{
+  "131516":{
+     "addr1":"광주광역시 서구 금화로 278",
+     "addr2":"",
+     "areacode":"5",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03021300",
+     "contentid":"131516",
+     "contenttypeid":"28",
+     "createdtime":"20031112090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/21/1587821_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/21/1587821_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.8791890676",
+     "mapy":"35.1366003852",
+     "mlevel":"6",
+     "modifiedtime":"20230126133509",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"광주실내빙상장",
+     "zipcode":"62048",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "131721":{
+     "addr1":"광주광역시 서구 금화로 240",
+     "addr2":"(풍암동)",
+     "areacode":"5",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03020300",
+     "contentid":"131721",
+     "contenttypeid":"28",
+     "createdtime":"20030527090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/05/1587805_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/05/1587805_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.8749061843",
+     "mapy":"35.1337617441",
+     "mlevel":"6",
+     "modifiedtime":"20230622144508",
+     "sigungucode":"5",
+     "tel":"062-604-2002",
+     "title":"광주월드컵경기장",
+     "zipcode":"62048",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        },
+        {
+           "관람석":"장애인 전용 관람석 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실,엘리베이터)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1622322":{
+     "addr1":"광주광역시 서구 학생독립로 37",
+     "addr2":"",
+     "areacode":"5",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03020200",
+     "contentid":"1622322",
+     "contenttypeid":"28",
+     "createdtime":"20120504194040",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/31/1587831_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/31/1587831_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.8674455457",
+     "mapy":"35.1412413299",
+     "mlevel":"6",
+     "modifiedtime":"20230213150255",
+     "sigungucode":"5",
+     "tel":"062-373-0942~4",
+     "title":"광주광역시청소년수련원",
+     "zipcode":"62024",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함(자동문)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2033064":{
+     "addr1":"광주광역시 북구 서림로 10",
+     "addr2":"(임동)",
+     "areacode":"5",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03020300",
+     "contentid":"2033064",
+     "contenttypeid":"28",
+     "createdtime":"20151009010846",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/36/2015036_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/36/2015036_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.8890596255",
+     "mapy":"35.1682414234",
+     "mlevel":"6",
+     "modifiedtime":"20230602112341",
+     "sigungucode":"4",
+     "tel":"070-7686-8000",
+     "title":"광주-기아 챔피언스 필드",
+     "zipcode":"61255",
+     "family":[
+        {
+           "수유실":"있음 (3층 2개, 5층 2개)"
+        },
+        {
+           "영유아가족 기타 지원 항목":"어린이 놀이방 및 놀이터 있음 (실내놀이방 2개, 실외 샌드파크 2개)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        },
+        {
+           "관람석":"장애인 전용 관람석 있음(262석)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "안내요원":"안내요원 있음(종합안내소)"
+        },
+        {
+           "오디오 가이드":"음성버튼(점자안내판)"
+        },
+        {
+           "점자 홍보물 및 점자 표지판":"점자안내판 있음_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2650509":{
+     "addr1":"광주광역시 서구 내방로 111",
+     "addr2":"(치평동)",
+     "areacode":"5",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03021300",
+     "contentid":"2650509",
+     "contenttypeid":"28",
+     "createdtime":"20200327230409",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.8513520539",
+     "mapy":"35.1600722649",
+     "mlevel":"6",
+     "modifiedtime":"20230109134433",
+     "sigungucode":"5",
+     "tel":"062-604-2811",
+     "title":"광주광역시 야외스케이트(썰매)장",
+     "zipcode":"61945",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  }
+}

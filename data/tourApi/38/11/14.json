@@ -1,0 +1,267 @@
+{
+  "129728": {
+    "addr1": "전라남도 순천시 삼산로 16",
+    "addr2": "(석현동)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060600",
+    "contentid": "129728",
+    "contenttypeid": "14",
+    "createdtime": "20071106102716",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.4853065078",
+    "mapy": "34.9705238789",
+    "mlevel": "6",
+    "modifiedtime": "20230915134026",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "순천문화예술회관",
+    "zipcode": "57938",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로 설치되어 있음"
+      },
+      {
+        "휠체어": "휠체어 대여 가능, 목발 대여 가능"
+      },
+      {
+        "출입통로": "주출입구 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음(점자버튼,점자블록)"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      },
+      {
+        "관람석": "장애인 전용 관람석 있음(1층 맨뒷줄)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구 및 극장입구,계단,엘리베이터)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "231975": {
+    "addr1": "전라남도 순천시 해룡면 기적의도서관길 60",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060900",
+    "contentid": "231975",
+    "contenttypeid": "14",
+    "createdtime": "20071002090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/01/1971101_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/01/1971101_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5276811578",
+    "mapy": "34.9472022308",
+    "mlevel": "6",
+    "modifiedtime": "20230215161047",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "순천 기적의도서관",
+    "zipcode": "57986",
+    "family": [
+      {
+        "영유아가족 기타 지원 항목": "아빠랑아기랑(유아시설) 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(1층, 대강당 복도)"
+      },
+      {
+        "관람석": "장애인 전용 관람석 있음"
+      },
+      {
+        "기타 지원 항목": "대강당 입구부터 무대까지 경사로 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구,강당진입로)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1799099": {
+    "addr1": "전라남도 순천시 낙안면 평촌3길 45",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "1799099",
+    "contenttypeid": "14",
+    "createdtime": "20130308221606",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/10/2367410_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/10/2367410_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3400431856",
+    "mapy": "34.9036539004",
+    "mlevel": "6",
+    "modifiedtime": "20230323104413",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "순천시립 뿌리깊은나무 박물관",
+    "zipcode": "57918",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2032152": {
+    "addr1": "전라남도 순천시 도서관길 33",
+    "addr2": "(동외동)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060900",
+    "contentid": "2032152",
+    "contenttypeid": "14",
+    "createdtime": "20151002230441",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/97/2021797_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/97/2021797_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4860512057",
+    "mapy": "34.9579780798",
+    "mlevel": "6",
+    "modifiedtime": "20220419155810",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "순천시립 그림책 도서관",
+    "zipcode": "57939",
+    "family": [],
+    "handi": [
+      {
+        "휠체어": "휠체어 무료대여 가능 (입구)"
+      },
+      {
+        "출입통로": "무단차로 휠체어로 출입가능"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음 (본관, 별관)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2719566": {
+    "addr1": "전라남도 순천시 원연향길 17 호남호국기념관",
+    "addr2": "(연향동)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060200",
+    "contentid": "2719566",
+    "contenttypeid": "14",
+    "createdtime": "20210603233213",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.5213097789",
+    "mapy": "34.9360394866",
+    "mlevel": "6",
+    "modifiedtime": "20230522171037",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "호남호국기념관",
+    "zipcode": "57992",
+    "family": [
+      {
+        "수유실": "수유실 있음(1층)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      },
+      {
+        "오디오 가이드": "음성안내버튼 있음(점자안내판)"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

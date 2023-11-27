@@ -1,0 +1,37 @@
+{
+  "2481694": {
+    "addr1": "전라남도 광양시 다압면 토끼재길 119-32",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03021700",
+    "contentid": "2481694",
+    "contenttypeid": "28",
+    "createdtime": "20170221013641",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/22/2844622_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/22/2844622_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7114232446",
+    "mapy": "35.0600705098",
+    "mlevel": "6",
+    "modifiedtime": "20230530103128",
+    "sigungucode": "4",
+    "tel": "",
+    "title": "느랭이골 글램핑",
+    "zipcode": "57709",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "장애인 전용 화장실 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

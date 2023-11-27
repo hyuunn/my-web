@@ -1,0 +1,195 @@
+{
+  "132313": {
+    "addr1": "전라북도 군산시 신금길 18",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "132313",
+    "contenttypeid": "38",
+    "createdtime": "20031117090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/26/1976526_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/26/1976526_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7203038781",
+    "mapy": "35.9832487811",
+    "mlevel": "6",
+    "modifiedtime": "20230203104949",
+    "sigungucode": "2",
+    "tel": "063-445-4929",
+    "title": "군산 공설시장",
+    "zipcode": "54027",
+    "family": [
+      {
+        "영유아가족 기타 지원 항목": "어린이놀이방 있음(3층)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "휠체어": "대여가능(1대,1층)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(입구 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "920406": {
+    "addr1": "전라북도 군산시 내항2길 216",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010600",
+    "contentid": "920406",
+    "contenttypeid": "38",
+    "createdtime": "20100113011016",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.7047549900",
+    "mapy": "35.9940306175",
+    "mlevel": "6",
+    "modifiedtime": "20230610073853",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "군산수산물종합센터",
+    "zipcode": "54018",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음(수동문)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "장애인 엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자 블록 있음(주요 시설 앞)"
+      },
+      {
+        "오디오 가이드": "음성 버튼(점자 안내판 있음)"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자 안내판 있음(주출입구 앞)"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1979613": {
+    "addr1": "전라북도 군산시 동신영길 36",
+    "addr2": "(신영동)",
+    "areacode": "37",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "1979613",
+    "contenttypeid": "38",
+    "createdtime": "20141225015038",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/20/1976620_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/20/1976620_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7203010576",
+    "mapy": "35.9849041474",
+    "mlevel": "6",
+    "modifiedtime": "20221111135623",
+    "sigungucode": "2",
+    "tel": "063-446-2524",
+    "title": "신영시장",
+    "zipcode": "54027",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(화장실 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2783792": {
+    "addr1": "전라북도 군산시 월명로 461-3",
+    "addr2": "(명산동)",
+    "areacode": "37",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "2783792",
+    "contenttypeid": "38",
+    "createdtime": "20211130230650",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/43/2798243_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/43/2798243_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7100770209",
+    "mapy": "35.9830264096",
+    "mlevel": "6",
+    "modifiedtime": "20230516111041",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "명산시장(군산명산시장)",
+    "zipcode": "54024",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

@@ -1,0 +1,530 @@
+{
+  "125724": {
+    "addr1": "강원특별자치도 영월군 김삿갓면 영월동로 1117",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01011900",
+    "contentid": "125724",
+    "contenttypeid": "12",
+    "createdtime": "20060509090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/85/483785_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/85/483785_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.5353790658",
+    "mapy": "37.1307444591",
+    "mlevel": "6",
+    "modifiedtime": "20230703084646",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "고씨굴 (강원고생대 국가지질공원)",
+    "zipcode": "26245",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "장애인 전용 화장실 있음 _무장애  편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "125758": {
+    "addr1": "강원특별자치도 영월군 수주면 무릉법흥로 1352",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0205",
+    "cat3": "A02050200",
+    "contentid": "125758",
+    "contenttypeid": "12",
+    "createdtime": "20030514090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.2610687984",
+    "mapy": "37.3717392902",
+    "mlevel": "6",
+    "modifiedtime": "20230703185406",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "법흥사(영월)",
+    "zipcode": "26201",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "장애인용화장실 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "125785": {
+    "addr1": "강원특별자치도 영월군 영월읍 청령포로 133",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "1",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010500",
+    "contentid": "125785",
+    "contenttypeid": "12",
+    "createdtime": "20040203090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.4477938689",
+    "mapy": "37.1774957570",
+    "mlevel": "6",
+    "modifiedtime": "20230927145838",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "청령포 (강원고생대 국가지질공원)",
+    "zipcode": "26226",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "주출입구까지 보행로와 도로가 구분되어 있음"
+      },
+      {
+        "화장실": "장애인 화장실있음(남녀공용, 1개)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "125794": {
+    "addr1": "강원특별자치도 영월군 영월읍 단종로 190",
+    "addr2": "(영월읍)",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010700",
+    "contentid": "125794",
+    "contenttypeid": "12",
+    "createdtime": "20040108090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.4519679070",
+    "mapy": "37.1973824361",
+    "mlevel": "6",
+    "modifiedtime": "20230702185710",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "영월 장릉(단종) [유네스코 세계문화유산]",
+    "zipcode": "26225",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "127740": {
+    "addr1": "강원특별자치도 영월군 영월읍 천문대길 397",
+    "addr2": "(영월읍)",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010500",
+    "contentid": "127740",
+    "contenttypeid": "12",
+    "createdtime": "20031114090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.4865953418",
+    "mapy": "37.1978774787",
+    "mlevel": "6",
+    "modifiedtime": "20231026212655",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "별마로천문대",
+    "zipcode": "26224",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "779594": {
+    "addr1": "강원특별자치도 영월군 한반도면 한반도로 555",
+    "addr2": "(한반도면)",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01011100",
+    "contentid": "779594",
+    "contenttypeid": "12",
+    "createdtime": "20090818010421",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.3471683262",
+    "mapy": "37.2195667918",
+    "mlevel": "6",
+    "modifiedtime": "20230703082752",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "한반도지형 (강원고생대 국가지질공원)",
+    "zipcode": "26213",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "장애인 화장실있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "895963": {
+    "addr1": "강원특별자치도 영월군 북면 밤재로 351",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0204",
+    "cat3": "A02040800",
+    "contentid": "895963",
+    "contenttypeid": "12",
+    "createdtime": "20091212015151",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/22/1583322_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/22/1583322_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.4669118411",
+    "mapy": "37.2631362582",
+    "mlevel": "6",
+    "modifiedtime": "20230703095955",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "강원도 탄광문화촌",
+    "zipcode": "26209",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함(우회도 이용)"
+      },
+      {
+        "휠체어": "대여가능(1대/무료)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1857095": {
+    "addr1": "강원특별자치도 영월군 김삿갓면 옥동장터길 36",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010600",
+    "contentid": "1857095",
+    "contenttypeid": "12",
+    "createdtime": "20131112001016",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/85/2026085_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/85/2026085_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.5701372137",
+    "mapy": "37.1256818109",
+    "mlevel": "6",
+    "modifiedtime": "20230901135042",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "강원 영월 김삿갓면 [슬로시티]",
+    "zipcode": "26245",
+    "family": [],
+    "handi": [],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "0"
+  },
+  "2465127": {
+    "addr1": "강원특별자치도 영월군 영월읍 팔괴1농공단지길",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0204",
+    "cat3": "A02040800",
+    "contentid": "2465127",
+    "contenttypeid": "12",
+    "createdtime": "20161220195435",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.4679371297",
+    "mapy": "37.1564041201",
+    "mlevel": "6",
+    "modifiedtime": "20230703083731",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "영월산업진흥원",
+    "zipcode": "26240",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 있어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2657838": {
+    "addr1": "강원특별자치도 영월군 북면 마차중앙2길 30-4",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030400",
+    "contentid": "2657838",
+    "contenttypeid": "12",
+    "createdtime": "20200601224232",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/69/2655669_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/69/2655669_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.4560019450",
+    "mapy": "37.2551952998",
+    "mlevel": "6",
+    "modifiedtime": "20230703181223",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "마차리폐광촌",
+    "zipcode": "26209",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "명아주길은 좁고 노면이 고르지 않아 주의 필요"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2669251": {
+    "addr1": "강원특별자치도 영월군 동강로 716 동강생태공원",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010500",
+    "contentid": "2669251",
+    "contenttypeid": "12",
+    "createdtime": "20200827020638",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.5047900451",
+    "mapy": "37.2278104893",
+    "mlevel": "6",
+    "modifiedtime": "20230804163453",
+    "sigungucode": "8",
+    "tel": "033-370-2429",
+    "title": "영월동강생태공원",
+    "zipcode": "26223",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2774020": {
+    "addr1": "강원특별자치도 영월군 영월읍 영흥리 80",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2774020",
+    "contenttypeid": "12",
+    "createdtime": "20211112201603",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/38/2774038_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/38/2774038_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.4772659729",
+    "mapy": "37.1860481078",
+    "mlevel": "6",
+    "modifiedtime": "20231018093044",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "금강공원에코스튜디오",
+    "zipcode": "26228",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2812256": {
+    "addr1": "강원특별자치도 영월군 청령포로 126-3",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020200",
+    "contentid": "2812256",
+    "contenttypeid": "12",
+    "createdtime": "20220323165647",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.4463217149",
+    "mapy": "37.1796565918",
+    "mlevel": "6",
+    "modifiedtime": "20230703201828",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "영월관광센터",
+    "zipcode": "26226",
+    "family": [
+      {
+        "수유실": "수유실 있음(1층)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

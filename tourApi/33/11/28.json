@@ -1,0 +1,78 @@
+{
+  "1938450": {
+    "addr1": "충청북도 충주시 중앙탑길 150 탄금호조정경기장",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0301",
+    "cat3": "A03010200",
+    "contentid": "1938450",
+    "contenttypeid": "28",
+    "createdtime": "20140731232917",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.8627259391",
+    "mapy": "37.0215361310",
+    "mlevel": "6",
+    "modifiedtime": "20230616104115",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "충주조정체험아카데미",
+    "zipcode": "27447",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "조정체험학교 턱이 없어 휠체어로 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2028558": {
+    "addr1": "충청북도 충주시 중앙탑면 중앙탑길 150",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0301",
+    "cat3": "A03010200",
+    "contentid": "2028558",
+    "contenttypeid": "28",
+    "createdtime": "20150910203543",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.8619454087",
+    "mapy": "37.0231331551",
+    "mlevel": "6",
+    "modifiedtime": "20220923100445",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "탄금호 국제조정경기장",
+    "zipcode": "27447",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "보행의 연속성 양호함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

@@ -1,0 +1,350 @@
+{
+  "404077": {
+    "addr1": "전라남도 나주시 금성관길 1-1",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "404077",
+    "contenttypeid": "39",
+    "createdtime": "20080120073001",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/21/401321_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/21/401321_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7167171535",
+    "mapy": "35.0314900764",
+    "mlevel": "6",
+    "modifiedtime": "20231110095304",
+    "sigungucode": "6",
+    "tel": "061-334-4682",
+    "title": "남평할매집",
+    "zipcode": "58257",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "643038": {
+    "addr1": "전라남도 나주시 징고샅길 5-1",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "643038",
+    "contenttypeid": "39",
+    "createdtime": "20081029011433",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/31/1974231_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/31/1974231_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7164727393",
+    "mapy": "35.0311373342",
+    "mlevel": "6",
+    "modifiedtime": "20230118134622",
+    "sigungucode": "6",
+    "tel": "061-332-3377",
+    "title": "탯자리나주곰탕",
+    "zipcode": "58257",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "643049": {
+    "addr1": "전라남도 나주시 금성관길 1-3",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "643049",
+    "contenttypeid": "39",
+    "createdtime": "20081029012809",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/68/1973168_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/68/1973168_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7165505040",
+    "mapy": "35.0313928628",
+    "mlevel": "6",
+    "modifiedtime": "20231004105545",
+    "sigungucode": "6",
+    "tel": "061-333-2053",
+    "title": "나주곰탕노안집",
+    "zipcode": "58257",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2609601": {
+    "addr1": "전라남도 나주시 다시면 구진포로 58",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2609601",
+    "contenttypeid": "39",
+    "createdtime": "20190705004642",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/90/2609790_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/90/2609790_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6725605545",
+    "mapy": "35.0067949037",
+    "mlevel": "6",
+    "modifiedtime": "20230614164953",
+    "sigungucode": "6",
+    "tel": "061-335-9109",
+    "title": "[백년가게]신흥장어",
+    "zipcode": "58279",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2703529": {
+    "addr1": "전라남도 나주시 배멧3길 19-13",
+    "addr2": "(빛가람동)",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2703529",
+    "contenttypeid": "39",
+    "createdtime": "20210112194111",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.7861501846",
+    "mapy": "35.0202425071",
+    "mlevel": "6",
+    "modifiedtime": "20230309132544",
+    "sigungucode": "6",
+    "tel": "",
+    "title": "전주양반돌솥밥",
+    "zipcode": "58325",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(화장실 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2703643": {
+    "addr1": "전라남도 나주시 우정로 169",
+    "addr2": "(빛가람동)",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2703643",
+    "contenttypeid": "39",
+    "createdtime": "20210113014932",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.7975073575",
+    "mapy": "35.0265808718",
+    "mlevel": "6",
+    "modifiedtime": "20230504155151",
+    "sigungucode": "6",
+    "tel": "",
+    "title": "장군복어촌",
+    "zipcode": "58323",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2892972": {
+    "addr1": "전라남도 나주시 강변1길 76",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2892972",
+    "contenttypeid": "39",
+    "createdtime": "20221101155933",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/65/2892965_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/65/2892965_image3_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8489245554",
+    "mapy": "35.0460378730",
+    "mlevel": "6",
+    "modifiedtime": "20230202174122",
+    "sigungucode": "6",
+    "tel": "",
+    "title": "리비에르",
+    "zipcode": "58227",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2924927": {
+    "addr1": "전라남도 나주시 남평1로 82-10",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2924927",
+    "contenttypeid": "39",
+    "createdtime": "20221129172553",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/15/2924915_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/15/2924915_image3_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8470135803",
+    "mapy": "35.0473599145",
+    "mlevel": "6",
+    "modifiedtime": "20230308110330",
+    "sigungucode": "6",
+    "tel": "",
+    "title": "남평한우촌",
+    "zipcode": "58227",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

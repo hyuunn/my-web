@@ -1,0 +1,256 @@
+{
+  "2525533": {
+    "addr1": "경기도 양주시 장흥면 북한산로 1028",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2525533",
+    "contenttypeid": "39",
+    "createdtime": "20171226190132",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/27/2525527_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/27/2525527_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9712897230",
+    "mapy": "37.7135870113",
+    "mlevel": "6",
+    "modifiedtime": "20230221101142",
+    "sigungucode": "18",
+    "tel": "031-861-4800",
+    "title": "가마골백숙",
+    "zipcode": "11523",
+    "family": [
+      {
+        "영유아가족 기타 지원 항목": "유아용 식기 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2751383": {
+    "addr1": "경기도 양주시 송랑로 81",
+    "addr2": "(만송동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2751383",
+    "contenttypeid": "39",
+    "createdtime": "20210929235642",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/72/2751372_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/72/2751372_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0884823096",
+    "mapy": "37.7926771402",
+    "mlevel": "6",
+    "modifiedtime": "20231030165414",
+    "sigungucode": "18",
+    "tel": "",
+    "title": "전라도여수식당",
+    "zipcode": "11494",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문/자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2760151": {
+    "addr1": "경기도 양주시 화합로1597번길 3",
+    "addr2": "(회암동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2760151",
+    "contenttypeid": "39",
+    "createdtime": "20211021003852",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/35/2760135_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/35/2760135_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0835480925",
+    "mapy": "37.8390244285",
+    "mlevel": "6",
+    "modifiedtime": "20231017163130",
+    "sigungucode": "18",
+    "tel": "",
+    "title": "제로니모커피하우스",
+    "zipcode": "11463",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2871466": {
+    "addr1": "경기도 양주시 부흥로 2067-8 아이림유치원",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2871466",
+    "contenttypeid": "39",
+    "createdtime": "20221020111136",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/58/2871458_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/58/2871458_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0842990005",
+    "mapy": "37.8051228367",
+    "mlevel": "6",
+    "modifiedtime": "20221103135126",
+    "sigungucode": "18",
+    "tel": "",
+    "title": "백년간장게장",
+    "zipcode": "11477",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2871479": {
+    "addr1": "경기도 양주시 율정로 319",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2871479",
+    "contenttypeid": "39",
+    "createdtime": "20221020111701",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/75/2871475_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/75/2871475_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1044163763",
+    "mapy": "37.8131361563",
+    "mlevel": "6",
+    "modifiedtime": "20221103135702",
+    "sigungucode": "18",
+    "tel": "",
+    "title": "별내옥",
+    "zipcode": "11482",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2873260": {
+    "addr1": "경기도 양주시 율정로 337-1",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2873260",
+    "contenttypeid": "39",
+    "createdtime": "20221024144004",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/55/2873255_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/55/2873255_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1045913982",
+    "mapy": "37.8118140918",
+    "mlevel": "6",
+    "modifiedtime": "20221103155854",
+    "sigungucode": "18",
+    "tel": "",
+    "title": "힘낙지쭈꾸미",
+    "zipcode": "11482",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

@@ -1,0 +1,585 @@
+{
+  "125425": {
+    "addr1": "전라남도 보성군 웅치면 대산길 330",
+    "addr2": "(웅치면)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010600",
+    "contentid": "125425",
+    "contenttypeid": "12",
+    "createdtime": "20031028090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.9838990308",
+    "mapy": "34.6985209081",
+    "mlevel": "6",
+    "modifiedtime": "20230719091404",
+    "sigungucode": "10",
+    "tel": "",
+    "title": "제암산자연휴양림",
+    "zipcode": "59450",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "대여가능(2대, 관리사무소)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "무장애 데크길 있음(더능길)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(숲속교육관 주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "126612": {
+    "addr1": "전라남도 보성군 문덕면 죽산길 506-8",
+    "addr2": "(문덕면)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010800",
+    "contentid": "126612",
+    "contenttypeid": "12",
+    "createdtime": "20031107090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/46/1609446_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/46/1609446_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1328210732",
+    "mapy": "34.9614272040",
+    "mlevel": "6",
+    "modifiedtime": "20230802211458",
+    "sigungucode": "10",
+    "tel": "",
+    "title": "대원사(보성)",
+    "zipcode": "59401",
+    "family": [],
+    "handi": [],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "0"
+  },
+  "127869": {
+    "addr1": "전라남도 보성군 보성읍 녹차로 763-65",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0204",
+    "cat3": "A02040600",
+    "contentid": "127869",
+    "contenttypeid": "12",
+    "createdtime": "20040112090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/33/2652133_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/33/2652133_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0788124916",
+    "mapy": "34.7156927977",
+    "mlevel": "6",
+    "modifiedtime": "20230925095529",
+    "sigungucode": "10",
+    "tel": "",
+    "title": "대한다원",
+    "zipcode": "59448",
+    "family": [
+      {
+        "수유실": "수유실 있음"
+      },
+      {
+        "영유아가족 기타 지원 항목": "기저귀 갈이대 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(공원내부에 3개)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "129607": {
+    "addr1": "전남 보성군 득량면 비봉리",
+    "addr2": "545-1 외",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0102",
+    "cat3": "A01020200",
+    "contentid": "129607",
+    "contenttypeid": "12",
+    "createdtime": "20070713090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/26/217526_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/26/217526_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1865535248",
+    "mapy": "34.6958162902",
+    "mlevel": "6",
+    "modifiedtime": "20231108141152",
+    "sigungucode": "10",
+    "tel": "",
+    "title": "보성 비봉리 공룡알화석 산지",
+    "zipcode": "546-922,1",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "데크로드 산책로 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "129668": {
+    "addr1": "전라남도 보성군 회천면 영천길 9",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010700",
+    "contentid": "129668",
+    "contenttypeid": "12",
+    "createdtime": "20070813090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/56/219656_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/56/219656_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0694392173",
+    "mapy": "34.6791050787",
+    "mlevel": "6",
+    "modifiedtime": "20230530112640",
+    "sigungucode": "10",
+    "tel": "",
+    "title": "정응민예적지(판소리공원)",
+    "zipcode": "59472",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함(생활관은 단차있음, 전수관은 낮은 단차 있음)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "895495": {
+    "addr1": "전라남도 보성군 득량면 역전길 15-9",
+    "addr2": "(득량면)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010600",
+    "contentid": "895495",
+    "contenttypeid": "12",
+    "createdtime": "20091211234358",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/76/894076_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/76/894076_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1899377013",
+    "mapy": "34.7617783914",
+    "mlevel": "6",
+    "modifiedtime": "20221109145211",
+    "sigungucode": "10",
+    "tel": "",
+    "title": "보성 강골마을",
+    "zipcode": "59437",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 평지로 되어 있으나 흙(돌) 구간 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(득량역)_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1282839": {
+    "addr1": "전라남도 보성군 보성읍 녹차로 775",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "1282839",
+    "contenttypeid": "12",
+    "createdtime": "20110519184954",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/30/2516330_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/30/2516330_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0817510209",
+    "mapy": "34.7197923874",
+    "mlevel": "6",
+    "modifiedtime": "20230322110033",
+    "sigungucode": "10",
+    "tel": "",
+    "title": "한국차문화공원",
+    "zipcode": "59448",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(주차장 공중화장실,경사로 설치됨)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2022601": {
+    "addr1": "전라남도 보성군 회천면 우암길 24",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01011200",
+    "contentid": "2022601",
+    "contenttypeid": "12",
+    "createdtime": "20150805192206",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.0881211428",
+    "mapy": "34.6696814499",
+    "mlevel": "6",
+    "modifiedtime": "20230630160712",
+    "sigungucode": "10",
+    "tel": "",
+    "title": "율포해수욕장(솔밭해변)",
+    "zipcode": "59471",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(율포해수녹차센터 내)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2470539": {
+    "addr1": "전라남도 보성군 보성읍 녹차로 775",
+    "addr2": "(보성읍)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0204",
+    "cat3": "A02040800",
+    "contentid": "2470539",
+    "contenttypeid": "12",
+    "createdtime": "20161231001005",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/80/2003380_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/80/2003380_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0817371314",
+    "mapy": "34.7198646013",
+    "mlevel": "6",
+    "modifiedtime": "20220518152921",
+    "sigungucode": "10",
+    "tel": "",
+    "title": "한국차박물관",
+    "zipcode": "59448",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2604923": {
+    "addr1": "전라남도 보성군 회천면 우암길 21",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020300",
+    "contentid": "2604923",
+    "contenttypeid": "12",
+    "createdtime": "20190603233215",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.0866350548",
+    "mapy": "34.6740309373",
+    "mlevel": "6",
+    "modifiedtime": "20230817153942",
+    "sigungucode": "10",
+    "tel": "",
+    "title": "율포해수녹차센터",
+    "zipcode": "59471",
+    "family": [
+      {
+        "영유아가족 기타 지원 항목": "놀이방 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문/자동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설(주요시설 앞)"
+      },
+      {
+        "안내요원": "안내요원 있음(안내데스크)"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2607660": {
+    "addr1": "전라남도 보성군 득량면 역전길 28",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030400",
+    "contentid": "2607660",
+    "contenttypeid": "12",
+    "createdtime": "20190622000903",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/20/1933620_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/20/1933620_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1701644441",
+    "mapy": "34.7615141972",
+    "mlevel": "6",
+    "modifiedtime": "20220906152620",
+    "sigungucode": "10",
+    "tel": "",
+    "title": "득량역 추억의 거리",
+    "zipcode": "59437",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2660917": {
+    "addr1": "전라남도 보성군 웅치면 대산길 329-126",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030400",
+    "contentid": "2660917",
+    "contenttypeid": "12",
+    "createdtime": "20200624225122",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.9912152193",
+    "mapy": "34.6918106729",
+    "mlevel": "6",
+    "modifiedtime": "20230110110051",
+    "sigungucode": "10",
+    "tel": "",
+    "title": "전남권 환경성질환 예방관리센터",
+    "zipcode": "59450",
+    "family": [
+      {
+        "수유실": "안내요원 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "객실": "장애인 객실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2782625": {
+    "addr1": "전라남도 보성군 득량면 공룡로 822-51",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020600",
+    "contentid": "2782625",
+    "contenttypeid": "12",
+    "createdtime": "20211129193645",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/64/2788364_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/64/2788364_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1963718175",
+    "mapy": "34.7075206994",
+    "mlevel": "6",
+    "modifiedtime": "20230224131958",
+    "sigungucode": "10",
+    "tel": "",
+    "title": "비봉공룡공원",
+    "zipcode": "59467",
+    "family": [
+      {
+        "유모차": "대여가능"
+      },
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "안내요원": "안내요원 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

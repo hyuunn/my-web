@@ -1,0 +1,40 @@
+{
+  "1855755": {
+    "addr1": "충청북도 영동군 양산면 송호로 105",
+    "addr2": "(양산면)",
+    "areacode": "33",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03021700",
+    "contentid": "1855755",
+    "contenttypeid": "28",
+    "createdtime": "20131105030828",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/04/2949504_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/04/2949504_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.6756342032",
+    "mapy": "36.1296765635",
+    "mlevel": "6",
+    "modifiedtime": "20230216102731",
+    "sigungucode": "4",
+    "tel": "",
+    "title": "송호국민관광지 야영장",
+    "zipcode": "29163",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함(잔디구간)"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

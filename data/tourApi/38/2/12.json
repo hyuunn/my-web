@@ -1,0 +1,327 @@
+{
+  "127546": {
+    "addr1": "전라남도 고흥군 영남면 남열리",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01011200",
+    "contentid": "127546",
+    "contenttypeid": "12",
+    "createdtime": "20030729090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/82/2727782_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/82/2727782_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4869161920",
+    "mapy": "34.5806370729",
+    "mlevel": "6",
+    "modifiedtime": "20230630145647",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "남열해돋이해수욕장",
+    "zipcode": "59521",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "해변가까지 무단차구간 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "128073": {
+    "addr1": "전라남도 고흥군 포두면 금탑로 842",
+    "addr2": "(포두면)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010800",
+    "contentid": "128073",
+    "contenttypeid": "12",
+    "createdtime": "20040318090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/39/2380839_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/39/2380839_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2875984590",
+    "mapy": "34.5427018184",
+    "mlevel": "6",
+    "modifiedtime": "20230221133013",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "금탑사(고흥)",
+    "zipcode": "59524",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "장애인용화장실 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2380835": {
+    "addr1": "전라남도 고흥군 영남면 해맞이로 840",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0205",
+    "cat3": "A02050600",
+    "contentid": "2380835",
+    "contenttypeid": "12",
+    "createdtime": "20160427034204",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/90/2662690_image2_1.bmp",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/90/2662690_image2_1.bmp",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4923045005",
+    "mapy": "34.5850116756",
+    "mlevel": "6",
+    "modifiedtime": "20230512181627",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "고흥우주발사전망대",
+    "zipcode": "59521",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(지하1층,1층)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2380837": {
+    "addr1": "전라남도 고흥군 포두면 팔영로 405",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2380837",
+    "contenttypeid": "12",
+    "createdtime": "20160427041211",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/47/2380847_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/47/2380847_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3933410039",
+    "mapy": "34.5822186348",
+    "mlevel": "6",
+    "modifiedtime": "20230217172521",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "고흥 해창만 간척지 공원",
+    "zipcode": "59523",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      },
+      {
+        "화장실": "장애인 화장실 있음(공중화장실)"
+      },
+      {
+        "기타 지원 항목": "산책로 데크로드 설치되어 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2470533": {
+    "addr1": "전라남도 고흥군 봉래면 하반로 490",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0204",
+    "cat3": "A02040800",
+    "contentid": "2470533",
+    "contenttypeid": "12",
+    "createdtime": "20161230233000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.5178610962",
+    "mapy": "34.4536017986",
+    "mlevel": "6",
+    "modifiedtime": "20230615105250",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "나로우주센터 우주과학관",
+    "zipcode": "59571",
+    "family": [
+      {
+        "유모차": "대여가능"
+      },
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "대여가능(5대)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "관람석": "장애인 전용 관람석 있음(3D 영상관, 4D 영상관)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2657481": {
+    "addr1": "전라남도 고흥군 도양읍",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010700",
+    "contentid": "2657481",
+    "contenttypeid": "12",
+    "createdtime": "20200526193442",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.1340012190",
+    "mapy": "34.5255344834",
+    "mlevel": "6",
+    "modifiedtime": "20230329163347",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "녹동항 바다정원",
+    "zipcode": "59558",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2673827": {
+    "addr1": "전라남도 고흥군 동일면 덕흥양쪽길 200",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0204",
+    "cat3": "A02040800",
+    "contentid": "2673827",
+    "contenttypeid": "12",
+    "createdtime": "20200923002820",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/80/2672680_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/80/2672680_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4682745639",
+    "mapy": "34.5330143031",
+    "mlevel": "",
+    "modifiedtime": "20220830103026",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "국립청소년우주센터",
+    "zipcode": "59567",
+    "family": [
+      {
+        "수유실": "수유실 있음(보건실)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "문턱없이 평지로 연결되어 휠체어 통과 가능함"
+      },
+      {
+        "휠체어": "휠체어 2대 대여 가능(무료)"
+      },
+      {
+        "출입통로": "주출입구에 휠체어 통과 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음(장애인용, 휄치어 2대크기)"
+      },
+      {
+        "화장실": "장애인용 화장실 있음(각 층 화장실, 남여분리)"
+      },
+      {
+        "관람석": "장애인용 관람석 있으며 휠체어석 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자유도로 설치 됨"
+      },
+      {
+        "안내요원": "안내데스크 있음"
+      },
+      {
+        "오디오 가이드": "QR 코드로 어플 다운로드 후 음성 안내 제공"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자도서 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

@@ -1,0 +1,678 @@
+{
+  "125580": {
+    "addr1": "경기도 이천시 경충대로 2995",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "1",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010600",
+    "contentid": "125580",
+    "contenttypeid": "12",
+    "createdtime": "20020502090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/33/882433_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/33/882433_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4036619640",
+    "mapy": "37.3079113563",
+    "mlevel": "6",
+    "modifiedtime": "20230410134447",
+    "sigungucode": "26",
+    "tel": "",
+    "title": "이천도예마을",
+    "zipcode": "17308",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음(3층)"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(도자미술관)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "127936": {
+    "addr1": "경기도 이천시 중리천로115번길 45",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020300",
+    "contentid": "127936",
+    "contenttypeid": "12",
+    "createdtime": "20031204090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/85/2042185_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/85/2042185_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4511669061",
+    "mapy": "37.2759992443",
+    "mlevel": "6",
+    "modifiedtime": "20230306165129",
+    "sigungucode": "26",
+    "tel": "",
+    "title": "스파플러스",
+    "zipcode": "17372",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 이용가능(호텔 1층로비)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "128125": {
+    "addr1": "경기도 이천시 신둔면 도자예술로5번길 95",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030100",
+    "contentid": "128125",
+    "contenttypeid": "12",
+    "createdtime": "20040423090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/74/2655274_image2_1.bmp",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/74/2655274_image2_1.bmp",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3861778437",
+    "mapy": "37.2935710315",
+    "mlevel": "6",
+    "modifiedtime": "20230502194851",
+    "sigungucode": "26",
+    "tel": "",
+    "title": "도예공방 들꽃마을",
+    "zipcode": "17306",
+    "family": [],
+    "handi": [
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "관람석": "장애인 전용 관람석은 없으나 휠체어 접근 가능한 공간 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1624755": {
+    "addr1": "경기도 이천시 경충대로2709번길 128",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "1624755",
+    "contenttypeid": "12",
+    "createdtime": "20120508202335",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/07/1591107_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/07/1591107_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4263051848",
+    "mapy": "37.2788706826",
+    "mlevel": "6",
+    "modifiedtime": "20230302141909",
+    "sigungucode": "26",
+    "tel": "",
+    "title": "설봉공원",
+    "zipcode": "17379",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능(공원 내 관광안내소)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2463869": {
+    "addr1": "경기도 이천시 마장면 청강가창로 389-94",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0204",
+    "cat3": "A02040800",
+    "contentid": "2463869",
+    "contenttypeid": "12",
+    "createdtime": "20161220001535",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.3556247827",
+    "mapy": "37.2051029300",
+    "mlevel": "6",
+    "modifiedtime": "20230610082456",
+    "sigungucode": "26",
+    "tel": "",
+    "title": "청강 만화역사박물관",
+    "zipcode": "17390",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음(수동문)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(1층)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2470361": {
+    "addr1": "경기도 이천시 경충대로2697번길 263",
+    "addr2": "(관고동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0204",
+    "cat3": "A02040800",
+    "contentid": "2470361",
+    "contenttypeid": "12",
+    "createdtime": "20161229222721",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.4237193622",
+    "mapy": "37.2769791878",
+    "mlevel": "6",
+    "modifiedtime": "20230821100514",
+    "sigungucode": "26",
+    "tel": "",
+    "title": "이천 세라피아(경기도자미술관)",
+    "zipcode": "17379",
+    "family": [
+      {
+        "유모차": "대여가능(단, 실내에서만 사용가능)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "대여가능(1층)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2514731": {
+    "addr1": "경기도 이천시 마장면 작촌로 282",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010700",
+    "contentid": "2514731",
+    "contenttypeid": "12",
+    "createdtime": "20171110185629",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/19/2554019_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/19/2554019_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3372034579",
+    "mapy": "37.2323161176",
+    "mlevel": "6",
+    "modifiedtime": "20230802191924",
+    "sigungucode": "26",
+    "tel": "",
+    "title": "덕평공룡수목원",
+    "zipcode": "17388",
+    "family": [
+      {
+        "유모차": "대여가능(24개월 미만 유아 사용가능)"
+      },
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(전시관 출입구 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능(표지 부착 후 입장가능)"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2545877": {
+    "addr1": "경기도 이천시 마장면 덕이로154번길 287-76",
+    "addr2": "(마장면)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020600",
+    "contentid": "2545877",
+    "contenttypeid": "12",
+    "createdtime": "20180508183538",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/79/2545879_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/79/2545879_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3897873324",
+    "mapy": "37.2413604686",
+    "mlevel": "6",
+    "modifiedtime": "20230621171843",
+    "sigungucode": "26",
+    "tel": "",
+    "title": "별빛정원우주",
+    "zipcode": "17384",
+    "family": [
+      {
+        "유모차": "대여가능(무료,5대)"
+      },
+      {
+        "수유실": "있음(우주스테이션 내)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능(무료,2대)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "화장실": "장애인 화장실 있음(우주스테이션 내)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2763775": {
+    "addr1": "경기도 이천시 경충대로2993번길 56",
+    "addr2": "(사음동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030100",
+    "contentid": "2763775",
+    "contenttypeid": "12",
+    "createdtime": "20211027231536",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/20/2764120_image2_1.png",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/20/2764120_image2_1.png",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4117533020",
+    "mapy": "37.2937131461",
+    "mlevel": "6",
+    "modifiedtime": "20221227144430",
+    "sigungucode": "26",
+    "tel": "",
+    "title": "이천도자기마을",
+    "zipcode": "17308",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2763788": {
+    "addr1": "경기도 이천시 모가면 공원로 48",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020600",
+    "contentid": "2763788",
+    "contenttypeid": "12",
+    "createdtime": "20211027232106",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/99/2764099_image2_1.png",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/99/2764099_image2_1.png",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4453229494",
+    "mapy": "37.1796574951",
+    "mlevel": "6",
+    "modifiedtime": "20230228105828",
+    "sigungucode": "26",
+    "tel": "",
+    "title": "이천농업테마공원",
+    "zipcode": "17406",
+    "family": [
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2763838": {
+    "addr1": "경기도 이천시 부발읍 무촌로18번길 130",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020600",
+    "contentid": "2763838",
+    "contenttypeid": "12",
+    "createdtime": "20211027235153",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/88/2763888_image2_1.png",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/88/2763888_image2_1.png",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4820002003",
+    "mapy": "37.2769663601",
+    "mlevel": "6",
+    "modifiedtime": "20230403110828",
+    "sigungucode": "26",
+    "tel": "",
+    "title": "서희테마파크",
+    "zipcode": "17325",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2763848": {
+    "addr1": "경기도 이천시 모가면 공원로 30",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2763848",
+    "contenttypeid": "12",
+    "createdtime": "20211027235133",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/47/2764147_image2_1.png",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/47/2764147_image2_1.png",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4426205423",
+    "mapy": "37.1751607431",
+    "mlevel": "6",
+    "modifiedtime": "20230228110321",
+    "sigungucode": "26",
+    "tel": "",
+    "title": "민주화운동기념공원",
+    "zipcode": "17406",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(안내소 옆)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자유도로 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2763852": {
+    "addr1": "경기도 이천시 경충대로2422번길 17",
+    "addr2": "(진리동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2763852",
+    "contenttypeid": "12",
+    "createdtime": "20211027235550",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/54/2764154_image2_1.png",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/54/2764154_image2_1.png",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4601135382",
+    "mapy": "37.2683002969",
+    "mlevel": "6",
+    "modifiedtime": "20230228105126",
+    "sigungucode": "26",
+    "tel": "",
+    "title": "복하천수변공원",
+    "zipcode": "17378",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2764307": {
+    "addr1": "경기도 이천시 애련정로136번길 84",
+    "addr2": "(창전동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2764307",
+    "contenttypeid": "12",
+    "createdtime": "20211028181640",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/98/2764398_image2_1.png",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/98/2764398_image2_1.png",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4523805072",
+    "mapy": "37.2822485437",
+    "mlevel": "6",
+    "modifiedtime": "20230302093035",
+    "sigungucode": "26",
+    "tel": "",
+    "title": "이천온천공원",
+    "zipcode": "17362",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2767711": {
+    "addr1": "경기도 이천시 신둔면 도자예술로 57",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030100",
+    "contentid": "2767711",
+    "contenttypeid": "12",
+    "createdtime": "20211103223813",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.3852168140",
+    "mapy": "37.2937737683",
+    "mlevel": "6",
+    "modifiedtime": "20230901112000",
+    "sigungucode": "26",
+    "tel": "",
+    "title": "예스파크",
+    "zipcode": "17306",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

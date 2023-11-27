@@ -1,0 +1,195 @@
+{
+  "130486": {
+    "addr1": "전라남도 함평군 함평읍 기산길 163-16",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060700",
+    "contentid": "130486",
+    "contenttypeid": "14",
+    "createdtime": "20040303090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/29/1608129_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/29/1608129_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.5190225418",
+    "mapy": "35.0718016793",
+    "mlevel": "6",
+    "modifiedtime": "20230807144622",
+    "sigungucode": "22",
+    "tel": "",
+    "title": "함평문화원",
+    "zipcode": "57147",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "130864": {
+    "addr1": "전라남도 함평군 함평읍 곤재로 27",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "130864",
+    "contenttypeid": "14",
+    "createdtime": "20060921090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.5222114574",
+    "mapy": "35.0592031554",
+    "mlevel": "6",
+    "modifiedtime": "20231101121821",
+    "sigungucode": "22",
+    "tel": "",
+    "title": "함평엑스포공원",
+    "zipcode": "57143",
+    "family": [
+      {
+        "유모차": "대여가능(유료 운영기간 중)"
+      },
+      {
+        "수유실": "수유실 있음(자연생태관 앞 주제관 1층)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능(유료 운영기간 중)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(전시관 출입구 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2485108": {
+    "addr1": "전라남도 함평군 함평읍 곤재로 27",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060500",
+    "contentid": "2485108",
+    "contenttypeid": "14",
+    "createdtime": "20170313221802",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/95/2485095_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/95/2485095_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.5222114574",
+    "mapy": "35.0592031554",
+    "mlevel": "6",
+    "modifiedtime": "20230530172215",
+    "sigungucode": "22",
+    "tel": "",
+    "title": "함평군립미술관",
+    "zipcode": "57143",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음(수동문)"
+      },
+      {
+        "휠체어": "대여가능(1대,1층 안내데스크)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(1,2층)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(전시관 입구 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2784726": {
+    "addr1": "전라남도 함평군 신광면 학동로 1398-9",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "2784726",
+    "contenttypeid": "14",
+    "createdtime": "20211201224958",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/30/2784830_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/30/2784830_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.4937120378",
+    "mapy": "35.1383798460",
+    "mlevel": "6",
+    "modifiedtime": "20230804161405",
+    "sigungucode": "22",
+    "tel": "",
+    "title": "함평양서파충류생태공원",
+    "zipcode": "57113",
+    "family": [
+      {
+        "수유실": "수유실 있음(전시관)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음(전시관)"
+      },
+      {
+        "화장실": "장애인 화장실 있음(전시관)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "130297": {
+    "addr1": "경기도 양주시 광적면 부흥로618번길 303",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060600",
+    "contentid": "130297",
+    "contenttypeid": "14",
+    "createdtime": "20071106105055",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.9722978941",
+    "mapy": "37.8132087583",
+    "mlevel": "6",
+    "modifiedtime": "20230427095828",
+    "sigungucode": "18",
+    "tel": "",
+    "title": "양주시문화예술회관",
+    "zipcode": "11502",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음(수동문)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(1,2층)"
+      },
+      {
+        "관람석": "장애인 관람석 있음(대공연장 10석,소공연장 5석)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "130650": {
+    "addr1": "경기도 양주시 장흥면 권율로 83-5",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "130650",
+    "contenttypeid": "14",
+    "createdtime": "20060619090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/24/1592024_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/24/1592024_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9468028173",
+    "mapy": "37.7224522056",
+    "mlevel": "6",
+    "modifiedtime": "20230331113304",
+    "sigungucode": "18",
+    "tel": "",
+    "title": "청암민속박물관",
+    "zipcode": "11520",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "장애인 전용 화장실 있음(무단차 접근)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "130742": {
+    "addr1": "경기도 양주시 광적면 광적로 235-48",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "130742",
+    "contenttypeid": "14",
+    "createdtime": "20060227090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.9674976777",
+    "mapy": "37.8360726730",
+    "mlevel": "6",
+    "modifiedtime": "20230822181707",
+    "sigungucode": "18",
+    "tel": "",
+    "title": "조명박물관",
+    "zipcode": "11414",
+    "family": [
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘레베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2546181": {
+    "addr1": "경기도 양주시 회암사길 11",
+    "addr2": "(율정동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "2546181",
+    "contenttypeid": "14",
+    "createdtime": "20180509192930",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/47/2546147_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/47/2546147_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1028740399",
+    "mapy": "37.8412550747",
+    "mlevel": "6",
+    "modifiedtime": "20230727171213",
+    "sigungucode": "18",
+    "tel": "",
+    "title": "양주시립 회암사지박물관",
+    "zipcode": "11464",
+    "family": [
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "전시해설자 있음"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자촉지도 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2704738": {
+    "addr1": "경기도 양주시 장흥면 권율로 193",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060500",
+    "contentid": "2704738",
+    "contenttypeid": "14",
+    "createdtime": "20210128015612",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.9492661845",
+    "mapy": "37.7328704810",
+    "mlevel": "6",
+    "modifiedtime": "20231031141852",
+    "sigungucode": "18",
+    "tel": "",
+    "title": "장욱진미술관",
+    "zipcode": "11519",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자유도로 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2790984": {
+    "addr1": "경기도 양주시 장흥면 권율로 193",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "2790984",
+    "contenttypeid": "14",
+    "createdtime": "20211210003831",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/12/2797812_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/12/2797812_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9492661845",
+    "mapy": "37.7328704810",
+    "mlevel": "6",
+    "modifiedtime": "20230321001357",
+    "sigungucode": "18",
+    "tel": "",
+    "title": "장흥조각공원(양주시립장욱진미술관)",
+    "zipcode": "11519",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

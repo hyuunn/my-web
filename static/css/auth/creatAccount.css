@@ -1,0 +1,102 @@
+html, body{
+    margin: 0%;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+.main{
+    background-color: #F6F6F6;
+    width:100%;
+    height:90vh;
+    display:flex;
+    justify-content:  center; /* 내부 컨텐츠를 양쪽 끝으로 정렬합니다 */
+    align-items: center;
+}
+.div{
+    border-radius: 17px;
+    border:0.5px solid gray;
+    background-color:white;
+    width:400px;
+    height:fit-content;
+    display:flex;
+    justify-content:  center; /* 내부 컨텐츠를 양쪽 끝으로 정렬합니다 */
+    flex-wrap: wrap;
+    padding: 20px;
+} 
+.creatIcon{
+    width:25px;
+    margin-top:30px;
+    margin-right:10px;
+}
+div .input{
+    height:35px;
+    width:250px;
+    margin-top:30px;
+    border:0.5px solid gray;
+    border-radius: 10px;
+}
+.idInput, #emailInput{
+    height:35px;
+    width:200px;
+    margin-top:30px;
+    border:0.5px solid gray;
+    border-radius: 10px;
+}
+.div h5{
+    width:100%;
+    text-align: center;
+    margin-top:10px;
+}
+
+.submit{
+    width:80%;
+    border-radius:12px;
+    background-color: rgb(197, 78, 78);
+    /* border: 1px solid rgb(215, 215, 215); */
+    color: white;
+    margin-bottom: 10px;
+}
+input[type="radio"]{
+    display:none;
+}
+
+
+input[type="radio"]+ label img{
+    width:70px;
+    height:70px;
+    border-radius: 70%;
+    overflow:hidden;
+    filter: brightness(0.7);
+   
+    opacity:1;
+}
+
+input[type="radio"]:checked+label img{
+    border:1px solid #d1eefa;
+    filter: brightness(1);
+    opacity:1;
+}
+
+/* input::placeholder {
+    font-size:14px;
+  } */
+
+form button{
+    /* font-size:12px; */
+    border-radius:5px;
+    border:0.5px solid gray;
+    height:25px; width:40px; margin-top:20px;
+}
+.name{
+    position:absolute;
+    margin-top:23px;
+}
+.rule{
+   position:absolute;
+   /* font-size: 13px; */
+}
+#idCheckBt, #emailCheckBt{
+    height:35px;
+}
+.handitypeDiv{
+    padding: 10px;
+    margin-bottom: 10px;
+}

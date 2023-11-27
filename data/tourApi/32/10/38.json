@@ -1,0 +1,50 @@
+{
+  "132425": {
+    "addr1": "강원특별자치도 인제군 북면 원통리 647-6",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010100",
+    "contentid": "132425",
+    "contenttypeid": "38",
+    "createdtime": "20020425090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/03/1948103_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/03/1948103_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.2044596498",
+    "mapy": "38.1226233783",
+    "mlevel": "6",
+    "modifiedtime": "20230701101035",
+    "sigungucode": "10",
+    "tel": "인제군관광정보센터 : 033-460-2170<br />\n상인회 : 033-461-6200",
+    "title": "원통장 (2, 7일)",
+    "zipcode": "24617",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(공중화장실)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(화장실 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

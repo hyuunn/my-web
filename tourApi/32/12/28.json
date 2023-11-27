@@ -1,0 +1,46 @@
+{
+  "2357470": {
+    "addr1": "강원특별자치도 철원군 갈말읍 텃골4길 3-26",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03020200",
+    "contentid": "2357470",
+    "contenttypeid": "28",
+    "createdtime": "20161229233446",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/63/2357463_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/63/2357463_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3770913263",
+    "mapy": "38.1961881175",
+    "mlevel": "6",
+    "modifiedtime": "20230817155849",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "철원군 병영체험수련원",
+    "zipcode": "24030",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      },
+      {
+        "객실": "장애인 전용 객실 있음(2층,3층)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

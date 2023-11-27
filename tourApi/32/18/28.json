@@ -1,0 +1,63 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "0000",
+      "resultMsg": "OK"
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "addr1": "​강원도 횡성군 갑천면 구방리 산 164",
+            "addr2": "",
+            "areacode": "32",
+            "booktour": "",
+            "cat1": "A03",
+            "cat2": "A0302",
+            "cat3": "A03022700",
+            "contentid": "2774026",
+            "contenttypeid": "28",
+            "createdtime": "20211112201825",
+            "firstimage": "http://tong.visitkorea.or.kr/cms/resource/79/2774079_image2_1.jpg",
+            "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/79/2774079_image2_1.jpg",
+            "cpyrhtDivCd": "Type3",
+            "mapx": "128.0656979666",
+            "mapy": "37.5449267095",
+            "mlevel": "6",
+            "modifiedtime": "20230921091806",
+            "sigungucode": "18",
+            "tel": "",
+            "title": "횡성군호수길5구간",
+            "zipcode": "25259"
+          },
+          {
+            "addr1": "강원특별자치도 횡성군 서원면 경강로유현6길 28",
+            "addr2": "",
+            "areacode": "32",
+            "booktour": "",
+            "cat1": "A03",
+            "cat2": "A0302",
+            "cat3": "A03020700",
+            "contentid": "1030627",
+            "contenttypeid": "28",
+            "createdtime": "20100525233623",
+            "firstimage": "http://tong.visitkorea.or.kr/cms/resource/32/1813532_image2_1.jpg",
+            "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/32/1813532_image3_1.jpg",
+            "cpyrhtDivCd": "Type3",
+            "mapx": "127.8422965878",
+            "mapy": "37.5233139274",
+            "mlevel": "6",
+            "modifiedtime": "20230817155942",
+            "sigungucode": "18",
+            "tel": "033-340-7700",
+            "title": "옥스필드컨트리클럽",
+            "zipcode": "25200"
+          }
+        ]
+      },
+      "numOfRows": 2,
+      "pageNo": 1,
+      "totalCount": 2
+    }
+  }
+}

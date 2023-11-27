@@ -1,0 +1,109 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "0000",
+      "resultMsg": "OK"
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "addr1": "충청북도 음성군 삼성면 대성로 615",
+            "addr2": "",
+            "areacode": "33",
+            "booktour": "",
+            "cat1": "A04",
+            "cat2": "A0401",
+            "cat3": "A04010100",
+            "contentid": "132019",
+            "contenttypeid": "38",
+            "createdtime": "20040223090000",
+            "firstimage": "http://tong.visitkorea.or.kr/cms/resource/74/1164074_image2_1.jpg",
+            "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/74/1164074_image3_1.jpg",
+            "cpyrhtDivCd": "Type3",
+            "mapx": "127.4982171724",
+            "mapy": "37.0185103814",
+            "mlevel": "6",
+            "modifiedtime": "20230707102219",
+            "sigungucode": "6",
+            "tel": "043-878-5158",
+            "title": "삼성시장 / 모란장 (1, 6일)",
+            "zipcode": "27652"
+          },
+          {
+            "addr1": "충청북도 음성군 금왕읍 무극로308번길 12-2",
+            "addr2": "",
+            "areacode": "33",
+            "booktour": "",
+            "cat1": "A04",
+            "cat2": "A0401",
+            "cat3": "A04010100",
+            "contentid": "132018",
+            "contenttypeid": "38",
+            "createdtime": "20040223090000",
+            "firstimage": "http://tong.visitkorea.or.kr/cms/resource/54/1164054_image2_1.jpg",
+            "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/54/1164054_image3_1.jpg",
+            "cpyrhtDivCd": "Type3",
+            "mapx": "127.5959424312",
+            "mapy": "36.9926401359",
+            "mlevel": "6",
+            "modifiedtime": "20230322111605",
+            "sigungucode": "6",
+            "tel": "043-877-0129",
+            "title": "무극장 / 무극시장 (5, 10일)",
+            "zipcode": "27636"
+          },
+          {
+            "addr1": "충청북도 음성군 음성읍 시장로117번길 6",
+            "addr2": "",
+            "areacode": "33",
+            "booktour": "",
+            "cat1": "A04",
+            "cat2": "A0401",
+            "cat3": "A04010100",
+            "contentid": "132020",
+            "contenttypeid": "38",
+            "createdtime": "20040223090000",
+            "firstimage": "http://tong.visitkorea.or.kr/cms/resource/19/1164019_image2_1.jpg",
+            "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/19/1164019_image3_1.jpg",
+            "cpyrhtDivCd": "Type3",
+            "mapx": "127.6907576748",
+            "mapy": "36.9377092971",
+            "mlevel": "6",
+            "modifiedtime": "20221221105845",
+            "sigungucode": "6",
+            "tel": "043-871-3601",
+            "title": "음성장 (2, 7일)",
+            "zipcode": "27696"
+          },
+          {
+            "addr1": "충청북도 음성군 감곡면 장감로132번길 22",
+            "addr2": "",
+            "areacode": "33",
+            "booktour": "",
+            "cat1": "A04",
+            "cat2": "A0401",
+            "cat3": "A04010100",
+            "contentid": "132406",
+            "contenttypeid": "38",
+            "createdtime": "20040223090000",
+            "firstimage": "",
+            "firstimage2": "",
+            "cpyrhtDivCd": "",
+            "mapx": "127.6391460878",
+            "mapy": "37.1182042275",
+            "mlevel": "6",
+            "modifiedtime": "20230704140126",
+            "sigungucode": "6",
+            "tel": "",
+            "title": "감곡장 / 감곡시장 (3, 8일)",
+            "zipcode": "27604"
+          }
+        ]
+      },
+      "numOfRows": 4,
+      "pageNo": 1,
+      "totalCount": 4
+    }
+  }
+}

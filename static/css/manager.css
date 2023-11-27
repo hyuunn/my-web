@@ -1,0 +1,105 @@
+*{
+    font-family: 'Noto Sans KR', sans-serif;
+}
+a{ text-decoration: none; color: black;}
+
+button{
+    border: none;
+    background-color: transparent;
+}
+ul, li{
+    list-style: none;
+}
+
+.content{
+    margin-top: 20px;
+}
+
+.board_header{
+    width: 100%;
+    position: relative;
+    text-align: center;
+    margin: 50px 0;
+}
+
+/* #search{
+    display: inline-block;
+    position: absolute;
+    top: 120px;
+    width: 60%;
+    margin-top: 80px;
+}
+
+input[type=text]{
+    width: 70%;
+} */
+
+.tabnav li{
+    float: left;
+    margin: 10px;
+}
+.tabnav li button:hover,
+.tabnav li button.active{
+    background-color: #ddd;
+}
+
+table{
+    width: 100%;
+    /* font-size: 13px; */
+}
+table .narrow{
+    width: 8%;
+    text-align: center;
+}
+.middle {
+    width: 10%;
+    text-align: center;
+}
+
+table th button{
+    margin: 0; padding:0;
+}
+table th, td{
+    padding: 10px 5px;
+    border-bottom: 1px solid #ddd;
+}
+table th{
+    border-top: 1px solid #ddd;
+}
+table tr{
+    font-weight: bold;
+}
+table .checked{
+    font-weight: lighter;
+}
+.page_buttons{
+    padding: 1rem 0;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    width: 100%;
+}
+.button{
+    margin: 0 0.5rem;
+    cursor: pointer;
+}
+.button.active,
+.button:hover {
+    background-color: #ddd;
+}
+
+.delete_reported{
+    display: none;
+    font-weight: normal;
+    padding: 10px;
+    border: 1px solid #ddd;
+    width: fit-content;
+}
+/* .prev{
+    position: absolute;
+    left: -2.5rem;
+}
+.next{
+    position: absolute;
+    right: -2.5rem;
+} */

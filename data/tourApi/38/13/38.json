@@ -1,0 +1,248 @@
+{
+  "132069": {
+    "addr1": "전라남도 여수시 좌수영로 16-6",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010100",
+    "contentid": "132069",
+    "contenttypeid": "38",
+    "createdtime": "20021204090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/67/1971667_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/67/1971667_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7286493289",
+    "mapy": "34.7417926369",
+    "mlevel": "6",
+    "modifiedtime": "20230921111632",
+    "sigungucode": "13",
+    "tel": "061-642-6720",
+    "title": "서시장 (4, 9일)",
+    "zipcode": "59752",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "132070": {
+    "addr1": "전라남도 여수시 소라면 하세동길 9-1",
+    "addr2": "(소라면)",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010100",
+    "contentid": "132070",
+    "contenttypeid": "38",
+    "createdtime": "20021204090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/32/1971632_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/32/1971632_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.6319535832",
+    "mapy": "34.7980874352",
+    "mlevel": "6",
+    "modifiedtime": "20231026103204",
+    "sigungucode": "13",
+    "tel": "061-659-1060",
+    "title": "덕양장 (3, 8일)",
+    "zipcode": "59649",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(화장실 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "132413": {
+    "addr1": "전라남도 여수시 남산로 60-31 (주)여수수산물특화시장",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "132413",
+    "contenttypeid": "38",
+    "createdtime": "20021204090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/06/1784506_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/06/1784506_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7329074152",
+    "mapy": "34.7368682624",
+    "mlevel": "6",
+    "modifiedtime": "20230224095336",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "여수수산물특화시장",
+    "zipcode": "59753",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함(수동휠체어 보조필요)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동휠체어 보조필요)"
+      },
+      {
+        "화장실": "장애인 화장실 있음(여수연안여객선터미널)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1343398": {
+    "addr1": "전라남도 여수시 어항단지로 205",
+    "addr2": "(봉산동)",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010900",
+    "contentid": "1343398",
+    "contenttypeid": "38",
+    "createdtime": "20110728011423",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.7280246657",
+    "mapy": "34.7306883141",
+    "mlevel": "6",
+    "modifiedtime": "20231027190722",
+    "sigungucode": "13",
+    "tel": "061-643-8899",
+    "title": "여수 특산품전시판매장",
+    "zipcode": "59764",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1976904": {
+    "addr1": "전라남도 여수시 이순신광장로 103",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "1976904",
+    "contenttypeid": "38",
+    "createdtime": "20141217225231",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.7370542161",
+    "mapy": "34.7391736315",
+    "mlevel": "6",
+    "modifiedtime": "20230926174642",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "여수중앙선어시장",
+    "zipcode": "59737",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2612849": {
+    "addr1": "전라남도 여수시 교동시장1길 17",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "2612849",
+    "contenttypeid": "38",
+    "createdtime": "20190725005504",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/13/2369113_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/13/2369113_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7299492834",
+    "mapy": "34.7391151816",
+    "mlevel": "6",
+    "modifiedtime": "20221227131015",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "여수 교동시장",
+    "zipcode": "59734",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

@@ -1,0 +1,94 @@
+:root {
+    --blue : rgb(41, 108, 255);
+  }
+body{
+    background-color: black;
+    font-size: 18px;
+    color: white;
+}
+.navbar{
+    background-color: black;
+}
+*{
+    font-family: 'Noto Sans KR', sans-serif;
+}
+a{
+    text-decoration: none;
+    color: var(--blue);
+}
+#header button{
+    color: var(--blue);
+    font-weight: bold;
+}
+/* color */
+h4{
+    margin-top: 15px;
+}
+ul, li{
+    list-style-type: none;
+}
+.nav_logo {
+    font-size: 24px;
+    margin-left: 0;
+}
+   
+#header li{
+    font-size: 2rem;
+}
+
+.container{
+    font-size: 16px;
+}
+#wirte_header{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+input[type='text']{
+    width: 50%;
+}
+input[type='text']::placeholder{
+    color: white;
+}
+select, option, input{
+    background-color: var(--blue);
+    color: white;
+}
+
+select{
+    width: fit-content;
+}
+input[name="title"]{
+    flex-grow: 1;
+}
+
+#write_wrap{
+    width: 100%;
+    display: flex;
+    margin-top: 15px;
+}
+#single_plans{
+    flex-shrink: 0;
+    width: fit-content;
+    padding: 10px;
+}
+#summernote{
+    flex-grow: 1;
+}
+.sList{
+    text-align: center;
+    border: 1px solid #ddd;
+    margin: 5px;
+}
+.day{
+    border-bottom: 1px solid white;
+}
+.place_title{
+    background: transparent;
+    border: none;
+}
+.note-editing-area, .note-toolbar{
+    background-color: black;
+    border: 1px solid white;
+    color: white;
+}

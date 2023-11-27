@@ -1,0 +1,234 @@
+{
+  "125590": {
+    "addr1": "강원특별자치도 태백시 태백산로 4778",
+    "addr2": "(소도동)",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010100",
+    "contentid": "125590",
+    "contenttypeid": "12",
+    "createdtime": "20031013090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/70/2656670_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/70/2656670_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.9620714511",
+    "mapy": "37.1311136816",
+    "mlevel": "6",
+    "modifiedtime": "20230710131241",
+    "sigungucode": "14",
+    "tel": "",
+    "title": "태백산 국립공원",
+    "zipcode": "26043",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "주출입구 까지 평탄한 길로 되어 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "125740": {
+    "addr1": "강원특별자치도 태백시 황지연못길 12",
+    "addr2": "(황지동)",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010500",
+    "contentid": "125740",
+    "contenttypeid": "12",
+    "createdtime": "20030925090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/10/2611510_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/10/2611510_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.9910509427",
+    "mapy": "37.1727622365",
+    "mlevel": "6",
+    "modifiedtime": "20230703200912",
+    "sigungucode": "14",
+    "tel": "",
+    "title": "황지연못",
+    "zipcode": "26008",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(남녀공용, 1개)_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "634243": {
+    "addr1": "강원특별자치도 태백시 소도길 9-11",
+    "addr2": "(소도동)",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030400",
+    "contentid": "634243",
+    "contenttypeid": "12",
+    "createdtime": "20081009020738",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/83/2611383_image2_1.bmp",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/83/2611383_image2_1.bmp",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.9723343513",
+    "mapy": "37.1335108268",
+    "mlevel": "6",
+    "modifiedtime": "20230703144635",
+    "sigungucode": "14",
+    "tel": "",
+    "title": "태백체험공원",
+    "zipcode": "26043",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인화장실 있음(현장학습관 내)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1762763": {
+    "addr1": "강원특별자치도 태백시 평화길 15",
+    "addr2": "(한국청소년안전체험관)",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020600",
+    "contentid": "1762763",
+    "contenttypeid": "12",
+    "createdtime": "20121206020825",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/83/2950683_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/83/2950683_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.0267221911",
+    "mapy": "37.0993713487",
+    "mlevel": "6",
+    "modifiedtime": "20230703164028",
+    "sigungucode": "14",
+    "tel": "",
+    "title": "365세이프타운",
+    "zipcode": "26047",
+    "family": [
+      {
+        "유모차": "유모차 무료대여가능 (1층로비, 3대구비, 신분증 지참)"
+      }
+    ],
+    "handi": [
+      {
+        "휠체어": "휠체어 무료대여 가능 (1층로비, 3대 구비, 신분증 지참)"
+      },
+      {
+        "출입통로": "경사로를 이용하여 휠체어로 출입가능"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인전용 화장실 층마다 있음"
+      },
+      {
+        "관람석": "영상관에 휠체어석 있음"
+      },
+      {
+        "기타 지원 항목": "체험시설 특성상 신체장애가 계신 분들의 시설이용은 어려움"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2720995": {
+    "addr1": "강원특별자치도 태백시 통동 산 67-1",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020600",
+    "contentid": "2720995",
+    "contenttypeid": "12",
+    "createdtime": "20210615024716",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/87/2836787_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/87/2836787_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.0626754553",
+    "mapy": "37.1611038486",
+    "mlevel": "6",
+    "modifiedtime": "20230814105716",
+    "sigungucode": "14",
+    "tel": "",
+    "title": "통리탄탄파크",
+    "zipcode": "26029",
+    "family": [
+      {
+        "유모차": "대여가능"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

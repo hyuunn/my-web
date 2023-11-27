@@ -1,0 +1,2204 @@
+{
+  "133894":{
+     "addr1":"대구광역시 남구 앞산순환로 443",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"133894",
+     "contenttypeid":"39",
+     "createdtime":"20030930090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/05/1970305_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/05/1970305_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.5735656841",
+     "mapy":"35.8310378812",
+     "mlevel":"6",
+     "modifiedtime":"20230403102623",
+     "sigungucode":"1",
+     "tel":"053-656-8111",
+     "title":"대덕식당",
+     "zipcode":"42490",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "133896":{
+     "addr1":"대구광역시 달성군 현풍중앙로 56-1 원조현풍할매집곰탕",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"133896",
+     "contenttypeid":"39",
+     "createdtime":"20040829090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/71/219871_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/71/219871_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.4458056961",
+     "mapy":"35.6946259664",
+     "mlevel":"6",
+     "modifiedtime":"20230404111303",
+     "sigungucode":"3",
+     "tel":"053-615-1122",
+     "title":"원조현풍박소선할매집곰탕",
+     "zipcode":"43005",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "기타 지원 항목":"입식(의자식)테이블 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "634159":{
+     "addr1":"대구광역시 동구 팔공로 481",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"634159",
+     "contenttypeid":"39",
+     "createdtime":"20081009012906",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/30/1893730_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/30/1893730_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.6433702688",
+     "mapy":"35.9442069112",
+     "mlevel":"6",
+     "modifiedtime":"20221229140448",
+     "sigungucode":"4",
+     "tel":"053-982-3384",
+     "title":"팔공참한우암소마실",
+     "zipcode":"41005",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "635695":{
+     "addr1":"대구광역시 북구 유통단지로8길 80",
+     "addr2":"(산격동)",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"635695",
+     "contenttypeid":"39",
+     "createdtime":"20081010203932",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"128.6135184197",
+     "mapy":"35.9057301620",
+     "mlevel":"6",
+     "modifiedtime":"20230118094256",
+     "sigungucode":"5",
+     "tel":"053-382-2238",
+     "title":"집밥아미정",
+     "zipcode":"41517",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함(자동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "637610":{
+     "addr1":"대구광역시 중구 국채보상로 571",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"637610",
+     "contenttypeid":"39",
+     "createdtime":"20081014231441",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"128.5932072846",
+     "mapy":"35.8711225946",
+     "mlevel":"6",
+     "modifiedtime":"20230316100020",
+     "sigungucode":"8",
+     "tel":"053-253-7623",
+     "title":"국일따로국밥",
+     "zipcode":"41918",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "637649":{
+     "addr1":"대구광역시 수성구 지범로39길 11-12",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"637649",
+     "contenttypeid":"39",
+     "createdtime":"20081014235312",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"128.6391128855",
+     "mapy":"35.8240537679",
+     "mlevel":"6",
+     "modifiedtime":"20230202132713",
+     "sigungucode":"7",
+     "tel":"053-782-9571",
+     "title":"벙글벙글식당",
+     "zipcode":"42198",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구 무단차\n원활한 이동 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "637678":{
+     "addr1":"대구광역시 중구 국채보상로 563-1",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"637678",
+     "contenttypeid":"39",
+     "createdtime":"20081015000820",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"128.5924184691",
+     "mapy":"35.8709809295",
+     "mlevel":"6",
+     "modifiedtime":"20221226134629",
+     "sigungucode":"8",
+     "tel":"053-257-1476",
+     "title":"대구전통따로식당",
+     "zipcode":"41918",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "637848":{
+     "addr1":"대구광역시 동구 신암남로 133",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"637848",
+     "contenttypeid":"39",
+     "createdtime":"20081015022216",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"128.6271928016",
+     "mapy":"35.8846911299",
+     "mlevel":"6",
+     "modifiedtime":"20230328104009",
+     "sigungucode":"4",
+     "tel":"053-954-2323",
+     "title":"해금강",
+     "zipcode":"41223",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음(1층)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "637893":{
+     "addr1":"대구광역시 중구 동덕로 114",
+     "addr2":"(삼덕동2가)",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"637893",
+     "contenttypeid":"39",
+     "createdtime":"20081015023918",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"128.6032565752",
+     "mapy":"35.8648068280",
+     "mlevel":"6",
+     "modifiedtime":"20220801093918",
+     "sigungucode":"8",
+     "tel":"053-423-2792",
+     "title":"대백손칼국수",
+     "zipcode":"41948",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "638187":{
+     "addr1":"대구광역시 중구 중앙대로 406-12",
+     "addr2":"(남일동)",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020400",
+     "contentid":"638187",
+     "contenttypeid":"39",
+     "createdtime":"20081016000004",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/65/2366965_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/65/2366965_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.5944266717",
+     "mapy":"35.8693172661",
+     "mlevel":"6",
+     "modifiedtime":"20221123182025",
+     "sigungucode":"8",
+     "tel":"053-425-6839",
+     "title":"중화반점",
+     "zipcode":"41937",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "638203":{
+     "addr1":"대구광역시 중구 명덕로 93",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"638203",
+     "contenttypeid":"39",
+     "createdtime":"20081016000543",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/71/1681571_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/71/1681571_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.5808504180",
+     "mapy":"35.8575100191",
+     "mlevel":"6",
+     "modifiedtime":"20221104165053",
+     "sigungucode":"8",
+     "tel":"053-255-0742",
+     "title":"미성당납작만두",
+     "zipcode":"41977",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음(수동문)_무장애 편의시설"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "820127":{
+     "addr1":"대구광역시 수성구 들안로 9",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"820127",
+     "contenttypeid":"39",
+     "createdtime":"20091015001014",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/08/817608_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/08/817608_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.6161897207",
+     "mapy":"35.8306137137",
+     "mlevel":"6",
+     "modifiedtime":"20221124161042",
+     "sigungucode":"7",
+     "tel":"053-783-8558",
+     "title":"용지봉",
+     "zipcode":"42168",
+     "family":[
+        {
+           "유아용 보조 의자":"구비"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "839752":{
+     "addr1":"대구광역시 수성구 무학로 151",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020200",
+     "contentid":"839752",
+     "contenttypeid":"39",
+     "createdtime":"20091028193901",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/63/1896963_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/63/1896963_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.6252611440",
+     "mapy":"35.8306055490",
+     "mlevel":"6",
+     "modifiedtime":"20220831165525",
+     "sigungucode":"7",
+     "tel":"053-765-4774",
+     "title":"라벨라쿠치나",
+     "zipcode":"42186",
+     "family":[
+        {
+           "유아용 보조 의자":"구비(2개)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "843455":{
+     "addr1":"대구광역시 달서구 달서대로85길 17",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020400",
+     "contentid":"843455",
+     "contenttypeid":"39",
+     "createdtime":"20091029061019",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/25/2932225_image2_1.jpeg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/25/2932225_image3_1.jpeg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.4897395676",
+     "mapy":"35.8371134304",
+     "mlevel":"6",
+     "modifiedtime":"20221212110004",
+     "sigungucode":"2",
+     "tel":"053-588-2111",
+     "title":"촉향원",
+     "zipcode":"42714",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "기타 지원 항목":"입식(의자식)테이블 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "844301":{
+     "addr1":"대구광역시 달서구 상화로9길 2-13",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"844301",
+     "contenttypeid":"39",
+     "createdtime":"20091029063900",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/02/1897002_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/02/1897002_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.5199960291",
+     "mapy":"35.8084227883",
+     "mlevel":"6",
+     "modifiedtime":"20220421171056",
+     "sigungucode":"2",
+     "tel":"053-644-5000",
+     "title":"미담",
+     "zipcode":"42776",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "858582":{
+     "addr1":"대구광역시 동구 팔공로 368",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020400",
+     "contentid":"858582",
+     "contenttypeid":"39",
+     "createdtime":"20091104072635",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/08/1893808_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/08/1893808_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.6427790105",
+     "mapy":"35.9314638996",
+     "mlevel":"6",
+     "modifiedtime":"20220812113854",
+     "sigungucode":"4",
+     "tel":"053-984-1344",
+     "title":"왕산손짜장",
+     "zipcode":"41020",
+     "family":[
+        {
+           "유아용 보조 의자":"구비"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음(후문)_무장애 편의시설"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "858791":{
+     "addr1":"대구광역시 남구 중앙대로51길 23",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"858791",
+     "contenttypeid":"39",
+     "createdtime":"20091104073145",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/37/1897037_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/37/1897037_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.5891052839",
+     "mapy":"35.8561742112",
+     "mlevel":"6",
+     "modifiedtime":"20230118093951",
+     "sigungucode":"1",
+     "tel":"053-651-3500",
+     "title":"물베기한정식",
+     "zipcode":"42410",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "859540":{
+     "addr1":"대구광역시 달서구 구마로 116",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"859540",
+     "contenttypeid":"39",
+     "createdtime":"20091104074816",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/66/1897066_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/66/1897066_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.5403684451",
+     "mapy":"35.8369116054",
+     "mlevel":"6",
+     "modifiedtime":"20230508105435",
+     "sigungucode":"2",
+     "tel":"053-526-8380",
+     "title":"연화정삼계탕",
+     "zipcode":"42733",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1757042":{
+     "addr1":"대구광역시 서구 달구벌대로 1789",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"1757042",
+     "contenttypeid":"39",
+     "createdtime":"20121126233500",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/12/2839812_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/12/2839812_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.5604105051",
+     "mapy":"35.8592011179",
+     "mlevel":"6",
+     "modifiedtime":"20230530112638",
+     "sigungucode":"6",
+     "tel":"053-554-9475",
+     "title":"손복자 부산 할매낙지",
+     "zipcode":"41866",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1828214":{
+     "addr1":"대구광역시 달서구 한실로6길 165-7",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"1828214",
+     "contenttypeid":"39",
+     "createdtime":"20130716191752",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/13/1970313_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/13/1970313_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.5300038982",
+     "mapy":"35.7933330126",
+     "mlevel":"6",
+     "modifiedtime":"20221027144115",
+     "sigungucode":"2",
+     "tel":"053-643-7799",
+     "title":"동이식당",
+     "zipcode":"42829",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"접근로 경사가 가파름"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1845322":{
+     "addr1":"대구광역시 동구 팔공산로185길 72",
+     "addr2":"(용수동)",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"1845322",
+     "contenttypeid":"39",
+     "createdtime":"20130916190951",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"128.6934507137",
+     "mapy":"35.9887972314",
+     "mlevel":"6",
+     "modifiedtime":"20221223154621",
+     "sigungucode":"4",
+     "tel":"053-985-4082",
+     "title":"산채식당",
+     "zipcode":"41007",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "출입통로":"출입구에 단차있으나 원활한 이동 가능"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1908126":{
+     "addr1":"대구광역시 수성구 수성로 232",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"1908126",
+     "contenttypeid":"39",
+     "createdtime":"20140326182320",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/66/1821766_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/66/1821766_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.6131728884",
+     "mapy":"35.8461341244",
+     "mlevel":"6",
+     "modifiedtime":"20230707172739",
+     "sigungucode":"7",
+     "tel":"053-765-4001",
+     "title":"지산골가마솥국밥",
+     "zipcode":"42151",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1939790":{
+     "addr1":"대구광역시 중구 동성로4길 93",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020900",
+     "contentid":"1939790",
+     "contenttypeid":"39",
+     "createdtime":"20140807235746",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/21/1939621_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/21/1939621_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.5994290192",
+     "mapy":"35.8689451782",
+     "mlevel":"6",
+     "modifiedtime":"20221012175654",
+     "sigungucode":"8",
+     "tel":"053-424-4783",
+     "title":"마이커피컬로맨스",
+     "zipcode":"41938",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "기타 지원 항목":"입식(의자식)테이블 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1939800":{
+     "addr1":"대구광역시 중구 동성로4길 91",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020900",
+     "contentid":"1939800",
+     "contenttypeid":"39",
+     "createdtime":"20140808002606",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/30/1939630_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/30/1939630_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.5993956921",
+     "mapy":"35.8688285236",
+     "mlevel":"6",
+     "modifiedtime":"20221226103601",
+     "sigungucode":"8",
+     "tel":"053-425-3527",
+     "title":"류",
+     "zipcode":"41938",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(문종류)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2366976":{
+     "addr1":"대구광역시 중구 국채보상로93길 6",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020200",
+     "contentid":"2366976",
+     "contenttypeid":"39",
+     "createdtime":"20160211191746",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/60/2366960_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/60/2366960_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.5811083574",
+     "mapy":"35.8708640675",
+     "mlevel":"6",
+     "modifiedtime":"20230119145459",
+     "sigungucode":"8",
+     "tel":"",
+     "title":"미림식당",
+     "zipcode":"41925",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음(수동문)_무장애 편의시설"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2366978":{
+     "addr1":"대구광역시 중구 동성로2길 71",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"2366978",
+     "contenttypeid":"39",
+     "createdtime":"20160211193343",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/52/2366952_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/52/2366952_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.5968959017",
+     "mapy":"35.8692006576",
+     "mlevel":"6",
+     "modifiedtime":"20221216154516",
+     "sigungucode":"8",
+     "tel":"053-431-1120",
+     "title":"미진분식",
+     "zipcode":"41938",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2609615":{
+     "addr1":"대구광역시 중구 국채보상로 602-1",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020900",
+     "contentid":"2609615",
+     "contenttypeid":"39",
+     "createdtime":"20190705005253",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/94/2609794_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/94/2609794_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.5966153358",
+     "mapy":"35.8704755085",
+     "mlevel":"6",
+     "modifiedtime":"20230531174804",
+     "sigungucode":"8",
+     "tel":"053-426-1601",
+     "title":"[백년가게]밀밭베이커리",
+     "zipcode":"41938",
+     "family":[
+        
+     ],
+     "handi":[
+        
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"0"
+  },
+  "2633901":{
+     "addr1":"대구광역시 동구 금강로 153",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020900",
+     "contentid":"2633901",
+     "contenttypeid":"39",
+     "createdtime":"20191107222904",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"128.7371892881",
+     "mapy":"35.8626567704",
+     "mlevel":"6",
+     "modifiedtime":"20221104105353",
+     "sigungucode":"4",
+     "tel":"053-964-2901",
+     "title":"금강역 레일카페(반야월연꽃마을협동조합)",
+     "zipcode":"41092",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "화장실":"장애인 화장실 있음(금강역)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2678871":{
+     "addr1":"대구광역시 중구 명덕로 333",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020300",
+     "contentid":"2678871",
+     "contenttypeid":"39",
+     "createdtime":"20201027001533",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/84/2674784_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/84/2674784_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.6063648840",
+     "mapy":"35.8558384563",
+     "mlevel":"6",
+     "modifiedtime":"20210609022832",
+     "sigungucode":"8",
+     "tel":"053-256-6868",
+     "title":"힛또",
+     "zipcode":"41953",
+     "family":[
+        {
+           "유모차":"대여가능(지하1층)"
+        },
+        {
+           "수유실":"수유실 있음(8층)"
+        },
+        {
+           "유아용 보조 의자":"구비"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음(3층, 6층)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2703702":{
+     "addr1":"대구광역시 달성군 논공읍 논공로 697-5",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"2703702",
+     "contenttypeid":"39",
+     "createdtime":"20210113194707",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"128.4516902999",
+     "mapy":"35.7306442243",
+     "mlevel":"6",
+     "modifiedtime":"20230713153653",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"일월정 한정식",
+     "zipcode":"42981",
+     "family":[
+        {
+           "유아용 보조 의자":"구비"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주출입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2736725":{
+     "addr1":"대구광역시 수성구 용학로 106-5",
+     "addr2":"(두산동)",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020200",
+     "contentid":"2736725",
+     "contenttypeid":"39",
+     "createdtime":"20210826221925",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/80/2737080_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/80/2737080_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.6208394728",
+     "mapy":"35.8248061238",
+     "mlevel":"6",
+     "modifiedtime":"20221103112033",
+     "sigungucode":"7",
+     "tel":"",
+     "title":"스펠바운드",
+     "zipcode":"42217",
+     "family":[
+        {
+           "유아용 보조 의자":"구비"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2736783":{
+     "addr1":"대구광역시 동구 서촌로 82",
+     "addr2":"(송정동)",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"2736783",
+     "contenttypeid":"39",
+     "createdtime":"20210826232133",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/25/2737025_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/25/2737025_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.6266345446",
+     "mapy":"35.9830799743",
+     "mlevel":"6",
+     "modifiedtime":"20221027173201",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"팔공산장작구이",
+     "zipcode":"41000",
+     "family":[
+        {
+           "유아용 보조 의자":"구비"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2738031":{
+     "addr1":"대구광역시 서구 달구벌대로375길 14-1",
+     "addr2":"(내당동)",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020700",
+     "contentid":"2738031",
+     "contenttypeid":"39",
+     "createdtime":"20210831223144",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/67/2738267_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/67/2738267_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.5701512285",
+     "mapy":"35.8622759486",
+     "mlevel":"",
+     "modifiedtime":"20211127001809",
+     "sigungucode":"6",
+     "tel":"",
+     "title":"푸른회식당",
+     "zipcode":"41870",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2774562":{
+     "addr1":"대구광역시 남구 봉덕남로 59",
+     "addr2":"(봉덕동)",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"2774562",
+     "contenttypeid":"39",
+     "createdtime":"20211116005654",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/86/2773586_image2_1.JPG",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/86/2773586_image2_1.JPG",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.5933136248",
+     "mapy":"35.8425869374",
+     "mlevel":"",
+     "modifiedtime":"20230209092926",
+     "sigungucode":"1",
+     "tel":"053-471-4555",
+     "title":"씨레기국수",
+     "zipcode":"42447",
+     "family":[
+        {
+           "유아용 보조 의자":"구비"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2823794":{
+     "addr1":"대구광역시 달성군 휴양림길 670",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020900",
+     "contentid":"2823794",
+     "contenttypeid":"39",
+     "createdtime":"20220615134534",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"128.4714143985",
+     "mapy":"35.7002702406",
+     "mlevel":"6",
+     "modifiedtime":"20220701144034",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"두낫디스터브 비슬산",
+     "zipcode":"42989",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2840694":{
+     "addr1":"대구광역시 북구 공항로 89",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020900",
+     "contentid":"2840694",
+     "contenttypeid":"39",
+     "createdtime":"20220822152524",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/89/2840689_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/89/2840689_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.6247981393",
+     "mapy":"35.9000365704",
+     "mlevel":"6",
+     "modifiedtime":"20221014101059",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"카페멜트",
+     "zipcode":"41521",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주출입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2841697":{
+     "addr1":"대구광역시 달성군 강정본길 77",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020900",
+     "contentid":"2841697",
+     "contenttypeid":"39",
+     "createdtime":"20220823141859",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/88/2841688_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/88/2841688_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.4635722847",
+     "mapy":"35.8423623562",
+     "mlevel":"6",
+     "modifiedtime":"20230207134855",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"게이블루프커피",
+     "zipcode":"42917",
+     "family":[
+        {
+           "유아용 보조 의자":"구비"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2841719":{
+     "addr1":"대구광역시 달성군 옥포로 597",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"2841719",
+     "contenttypeid":"39",
+     "createdtime":"20220823142550",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/07/2841707_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/07/2841707_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.4888004798",
+     "mapy":"35.7467125301",
+     "mlevel":"6",
+     "modifiedtime":"20220919150124",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"김태희옛날손국수",
+     "zipcode":"42977",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문/자동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2846042":{
+     "addr1":"대구광역시 달성군 세천북로 66",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020900",
+     "contentid":"2846042",
+     "contenttypeid":"39",
+     "createdtime":"20220830145626",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/29/2846029_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/29/2846029_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.4747647589",
+     "mapy":"35.8778807616",
+     "mlevel":"6",
+     "modifiedtime":"20221121164906",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"벨베꼼메",
+     "zipcode":"42922",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주출입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2846174":{
+     "addr1":"대구광역시 동구 매여로 320",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020900",
+     "contentid":"2846174",
+     "contenttypeid":"39",
+     "createdtime":"20220830160424",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/71/2846171_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/71/2846171_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.7151094384",
+     "mapy":"35.9068652470",
+     "mlevel":"6",
+     "modifiedtime":"20221121160653",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"수수밀소",
+     "zipcode":"41058",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주출입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2846342":{
+     "addr1":"대구광역시 중구 서성로 67",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020900",
+     "contentid":"2846342",
+     "contenttypeid":"39",
+     "createdtime":"20220830172156",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/37/2846337_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/37/2846337_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.5870133442",
+     "mapy":"35.8726056458",
+     "mlevel":"6",
+     "modifiedtime":"20221121155337",
+     "sigungucode":"8",
+     "tel":"",
+     "title":"더 디퍼",
+     "zipcode":"41921",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2850296":{
+     "addr1":"대구광역시 남구 앞산순환로87길 51",
+     "addr2":"1층",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020900",
+     "contentid":"2850296",
+     "contenttypeid":"39",
+     "createdtime":"20220906155144",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/77/2850277_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/77/2850277_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.5728934691",
+     "mapy":"35.8329071016",
+     "mlevel":"6",
+     "modifiedtime":"20221121141320",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"라겟옴",
+     "zipcode":"42491",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2850368":{
+     "addr1":"대구광역시 달서구 조암남로32길 24",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020900",
+     "contentid":"2850368",
+     "contenttypeid":"39",
+     "createdtime":"20220906160830",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/47/2850347_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/47/2850347_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.5162682910",
+     "mapy":"35.8188548730",
+     "mlevel":"6",
+     "modifiedtime":"20221025110955",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"스테이블모먼트",
+     "zipcode":"42759",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주출입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2850655":{
+     "addr1":"대구광역시 수성구 고모로 188",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020900",
+     "contentid":"2850655",
+     "contenttypeid":"39",
+     "createdtime":"20220907100418",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/52/2850652_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/52/2850652_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.6795556428",
+     "mapy":"35.8565425061",
+     "mlevel":"6",
+     "modifiedtime":"20221025110712",
+     "sigungucode":"7",
+     "tel":"",
+     "title":"룰리커피",
+     "zipcode":"42260",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설 / 주차장 자갈 주의"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2850660":{
+     "addr1":"대구광역시 수성구 용학로 106-7",
+     "addr2":"수성스퀘어 1층",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020900",
+     "contentid":"2850660",
+     "contenttypeid":"39",
+     "createdtime":"20220907101037",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/58/2850658_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/58/2850658_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.6193062845",
+     "mapy":"35.8244394704",
+     "mlevel":"6",
+     "modifiedtime":"20221025110451",
+     "sigungucode":"7",
+     "tel":"",
+     "title":"르그랑팔레드 고바슨 수성점",
+     "zipcode":"42217",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주출입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2866254":{
+     "addr1":"대구광역시 동구 팔공로 995",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"2866254",
+     "contenttypeid":"39",
+     "createdtime":"20221012135746",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/47/2866247_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/47/2866247_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.6874355240",
+     "mapy":"35.9551037153",
+     "mlevel":"6",
+     "modifiedtime":"20221205132423",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"동봉",
+     "zipcode":"41009",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주출입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  }
+}

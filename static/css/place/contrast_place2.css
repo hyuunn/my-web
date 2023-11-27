@@ -1,0 +1,75 @@
+:root {
+    --blue : rgb(41, 108, 255);
+  }
+body{
+    background-color: black;
+    font-size: 18px;
+    color: white;
+}
+.navbar{
+    background-color: black;
+}
+*{
+    font-family: 'Noto Sans KR', sans-serif;
+}
+a{
+    text-decoration: none;
+    color: var(--blue);
+}
+#header button{
+    color: var(--blue);
+    font-weight: bold;
+}
+.card{
+    background-color: black;
+    border:1px solid yellowgreen;
+}
+.card-title{
+    color:blue
+}
+.card-text{
+    color:white;
+}
+.bt{
+    background-color: black;
+    border:1px solid yellowgreen;
+    color: white;
+}
+.typeMenu{
+    position: absolute; 
+    margin-left:2%; 
+    width:40%;
+}
+.menu14,.menu12,.menu39,.menu28,.menu38{
+    color:white;
+    font-size:18px;
+}
+.typeMenuUl li{
+    color:white;
+}
+.changeTypeTitle{
+    color:white;
+}
+.changeBt{
+    background-color: blue;
+    color:white;
+}
+.areaSelect{
+    background-color: blue;
+    color:white;
+}
+
+.searchTA,.searchDiv, .searchBT{
+    background-color: black;
+    color:white;
+}
+.plus,.plus2{
+    background-color: black;
+}
+.plusIcon{
+    color:white;
+}
+
+.img_size{
+    filter:invert(100%)
+}

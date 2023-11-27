@@ -1,0 +1,227 @@
+{
+  "129996": {
+    "addr1": "전라남도 고흥군 고흥읍 고흥로 1892-67",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060700",
+    "contentid": "129996",
+    "contenttypeid": "14",
+    "createdtime": "20071106103809",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/46/1971046_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/46/1971046_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2975208647",
+    "mapy": "34.6124080728",
+    "mlevel": "6",
+    "modifiedtime": "20220705153526",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "고흥문화원",
+    "zipcode": "59536",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "130913": {
+    "addr1": "전라남도 고흥군 영남면 팔영로 1081",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060500",
+    "contentid": "130913",
+    "contenttypeid": "14",
+    "createdtime": "20070619090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/80/2552180_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/80/2552180_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4572293239",
+    "mapy": "34.6037034299",
+    "mlevel": "6",
+    "modifiedtime": "20230417110708",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "남포미술관",
+    "zipcode": "59520",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "화장실": "장애인 화장실 있음(남녀분리)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2379568": {
+    "addr1": "전라남도 고흥군 도양읍 장기산선암길 353",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010500",
+    "contentid": "2379568",
+    "contenttypeid": "14",
+    "createdtime": "20160422223829",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/47/2379847_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/47/2379847_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1250541164",
+    "mapy": "34.5526312994",
+    "mlevel": "6",
+    "modifiedtime": "20230713155448",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "고흥우주천문과학관",
+    "zipcode": "59552",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2605786": {
+    "addr1": "전라남도 고흥군 두원면 분청문화박물관길 99",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "2605786",
+    "contenttypeid": "14",
+    "createdtime": "20190610235812",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.3244875637",
+    "mapy": "34.6278595774",
+    "mlevel": "6",
+    "modifiedtime": "20230615134203",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "고흥분청문화박물관",
+    "zipcode": "59515",
+    "family": [
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      },
+      {
+        "오디오 가이드": "음성안내기 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2782711": {
+    "addr1": "전라남도 고흥군 도화면 충무사길 101-13",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "2782711",
+    "contenttypeid": "14",
+    "createdtime": "20211129202247",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/78/2788878_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/78/2788878_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3395092518",
+    "mapy": "34.4841925738",
+    "mlevel": "6",
+    "modifiedtime": "20230721150028",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "발포역사전시체험관",
+    "zipcode": "59528",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

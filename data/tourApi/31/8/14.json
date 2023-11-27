@@ -1,0 +1,457 @@
+{
+  "129875": {
+    "addr1": "경기도 김포시 모담공원로 170-1 한옥마을(아트하우스)",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060700",
+    "contentid": "129875",
+    "contenttypeid": "14",
+    "createdtime": "20071106103354",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/81/2660881_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/81/2660881_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6946974862",
+    "mapy": "37.6451539242",
+    "mlevel": "6",
+    "modifiedtime": "20220422165659",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "김포문화원",
+    "zipcode": "10077",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(인근 공중화장실)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1730614": {
+    "addr1": "경기도 김포시 통진읍 김포대로 2347-8",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060600",
+    "contentid": "1730614",
+    "contenttypeid": "14",
+    "createdtime": "20121009220830",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/72/2674672_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/72/2674672_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.5870253577",
+    "mapy": "37.6958599978",
+    "mlevel": "6",
+    "modifiedtime": "20221229134717",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "통진두레문화센터",
+    "zipcode": "10029",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(1층)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2396871": {
+    "addr1": "경기도 김포시 대곶면 대명항로 518",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "2396871",
+    "contenttypeid": "14",
+    "createdtime": "20160806002312",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.5637622016",
+    "mapy": "37.6464820073",
+    "mlevel": "6",
+    "modifiedtime": "20230830142539",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "김포인삼쌀맥주갤러리",
+    "zipcode": "10040",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음(수동문)"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      },
+      {
+        "유도안내설비": "점자손잡이 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2405073": {
+    "addr1": "경기도 김포시 양촌읍 양곡2로30번길 46",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060200",
+    "contentid": "2405073",
+    "contenttypeid": "14",
+    "createdtime": "20160825003232",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/43/2405043_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/43/2405043_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6295559905",
+    "mapy": "37.6533268175",
+    "mlevel": "6",
+    "modifiedtime": "20230330132040",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "김포독립운동기념관",
+    "zipcode": "10062",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2633971": {
+    "addr1": "경기도 김포시 모담공원로 170",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060500",
+    "contentid": "2633971",
+    "contenttypeid": "14",
+    "createdtime": "20191108010730",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.6958112268",
+    "mapy": "37.6467926425",
+    "mlevel": "6",
+    "modifiedtime": "20231013163740",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "김포 아트빌리지",
+    "zipcode": "10077",
+    "family": [
+      {
+        "유모차": "대여가능(6대)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "대여가능(3대)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설(주요시설 앞)"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2638136": {
+    "addr1": "경기도 김포시 돌문로 26",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060600",
+    "contentid": "2638136",
+    "contenttypeid": "14",
+    "createdtime": "20191122022713",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/19/2638119_image2_1.bmp",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/19/2638119_image2_1.bmp",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7201431169",
+    "mapy": "37.6189990881",
+    "mlevel": "6",
+    "modifiedtime": "20221216162131",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "김포아트홀",
+    "zipcode": "10110",
+    "family": [
+      {
+        "수유실": "수유실 있음(2층)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(1층, 3층 가족도우미 화장실)"
+      },
+      {
+        "관람석": "장애인 전용 관람석 있음(6석)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음(1층 안내데스크)"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "촉지안내도 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2674680": {
+    "addr1": "경기도 김포시 월곶면 용강로13번길 38",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "2674680",
+    "contenttypeid": "14",
+    "createdtime": "20201006023012",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/77/2674677_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/77/2674677_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.5522167339",
+    "mapy": "37.7208564685",
+    "mlevel": "6",
+    "modifiedtime": "20230119094452",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "김포 평화문화관",
+    "zipcode": "10024",
+    "family": [
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      },
+      {
+        "오디오 가이드": "음성안내버튼(점자안내판)"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2674685": {
+    "addr1": "경기도 김포시 월곶면 군하로276번길 20",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030400",
+    "contentid": "2674685",
+    "contenttypeid": "14",
+    "createdtime": "20201006025211",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.5522057297",
+    "mapy": "37.7170763532",
+    "mlevel": "6",
+    "modifiedtime": "20230630132717",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "월곶 생활문화센터",
+    "zipcode": "10024",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2736429": {
+    "addr1": "경기도 김포시 김포한강11로 455",
+    "addr2": "(운양동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "2736429",
+    "contenttypeid": "14",
+    "createdtime": "20210825201434",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/06/2736606_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/06/2736606_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6993634541",
+    "mapy": "37.6548362130",
+    "mlevel": "6",
+    "modifiedtime": "20230117150729",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "에코센터",
+    "zipcode": "10074",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "오디오 가이드": "음성안내버튼 있음(점자안내판)"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

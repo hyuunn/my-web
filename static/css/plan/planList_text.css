@@ -1,0 +1,29 @@
+button{
+    border: none;
+    padding: 5px;
+}
+body{
+    font-size: 18px;
+}
+.container{
+    padding: 20px;
+}
+#scheBox{
+    display: none;
+}
+
+#scheduler{
+    margin-top: 30px;
+}
+.fc-day a {
+    color: black;
+    text-decoration: none;
+}
+.fc-day-sun a {
+    color: red;
+    text-decoration: none;
+}
+.fc-day-sat a {
+    color: blue;
+    text-decoration: none;
+}

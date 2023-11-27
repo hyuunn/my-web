@@ -1,0 +1,75 @@
+{
+  "133637": {
+    "addr1": "전라남도 장흥군 장흥읍 동교2길 37",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "133637",
+    "contenttypeid": "39",
+    "createdtime": "20031224090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/70/219970_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/70/219970_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9091921816",
+    "mapy": "34.6791690530",
+    "mlevel": "6",
+    "modifiedtime": "20230414174009",
+    "sigungucode": "20",
+    "tel": "061-862-1021",
+    "title": "바다하우스",
+    "zipcode": "59324",
+    "family": [],
+    "handi": [
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1368494": {
+    "addr1": "전라남도 장흥군 장흥읍 물레방앗간길 4",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "1368494",
+    "contenttypeid": "39",
+    "createdtime": "20110823010406",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.9081506423",
+    "mapy": "34.6777053109",
+    "mlevel": "6",
+    "modifiedtime": "20230524140132",
+    "sigungucode": "20",
+    "tel": "061-864-1818",
+    "title": "만나숯불갈비",
+    "zipcode": "59327",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "입식(의자식)으로 되어있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

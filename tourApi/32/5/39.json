@@ -1,0 +1,401 @@
+{
+  "134004": {
+    "addr1": "강원특별자치도 속초시 싸리재길 250",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "134004",
+    "contenttypeid": "39",
+    "createdtime": "20040102090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/49/816849_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/49/816849_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.5602309005",
+    "mapy": "38.1859867456",
+    "mlevel": "6",
+    "modifiedtime": "20230818145152",
+    "sigungucode": "5",
+    "tel": "033-636-7750",
+    "title": "한송정가든",
+    "zipcode": "24868",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "626605": {
+    "addr1": "강원특별자치도 속초시 관광로 433",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "626605",
+    "contenttypeid": "39",
+    "createdtime": "20080920004252",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/50/588650_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/50/588650_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.5358327305",
+    "mapy": "38.1983903847",
+    "mlevel": "6",
+    "modifiedtime": "20230702095135",
+    "sigungucode": "5",
+    "tel": "033-635-8700",
+    "title": "초당할머니집",
+    "zipcode": "24867",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "631755": {
+    "addr1": "강원특별자치도 속초시 영랑해안1길 8",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "631755",
+    "contenttypeid": "39",
+    "createdtime": "20081006185531",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/21/1814521_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/21/1814521_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.5968266946",
+    "mapy": "38.2142063952",
+    "mlevel": "6",
+    "modifiedtime": "20230702044752",
+    "sigungucode": "5",
+    "tel": "033-633-0915",
+    "title": "사돈집",
+    "zipcode": "24811",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1936779": {
+    "addr1": "강원특별자치도 속초시 엑스포로 12-36",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "1936779",
+    "contenttypeid": "39",
+    "createdtime": "20140725002502",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/30/1936730_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/30/1936730_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.5905640622",
+    "mapy": "38.1922032786",
+    "mlevel": "6",
+    "modifiedtime": "20230702051634",
+    "sigungucode": "5",
+    "tel": "033-635-5050",
+    "title": "청초수물회",
+    "zipcode": "24885",
+    "family": [
+      {
+        "수유실": "수유실 있음"
+      },
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문/자동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구/엘리베이터 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2029047": {
+    "addr1": "강원특별자치도 속초시 중앙로147번길 16",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2029047",
+    "contenttypeid": "39",
+    "createdtime": "20150915192457",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.5901942662",
+    "mapy": "38.2045185048",
+    "mlevel": "6",
+    "modifiedtime": "20230702044640",
+    "sigungucode": "5",
+    "tel": "033-636-0933",
+    "title": "속초아저씨 튀김맛집",
+    "zipcode": "24832",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2501140": {
+    "addr1": "강원특별자치도 속초시 설악산로 214-1",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2501140",
+    "contenttypeid": "39",
+    "createdtime": "20170725235438",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.5843294011",
+    "mapy": "38.1638758988",
+    "mlevel": "6",
+    "modifiedtime": "20230702054056",
+    "sigungucode": "5",
+    "tel": "033-636-7905",
+    "title": "시골할머니",
+    "zipcode": "24904",
+    "family": [
+      {
+        "유아용 보조 의자": "구비(4대)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음(수동문)_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2608621": {
+    "addr1": "강원특별자치도 속초시 청초호반로 299",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2608621",
+    "contenttypeid": "39",
+    "createdtime": "20190702022647",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/35/2732935_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/35/2732935_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.5899138141",
+    "mapy": "38.2020382323",
+    "mlevel": "6",
+    "modifiedtime": "20230702103951",
+    "sigungucode": "5",
+    "tel": "033-633-2256",
+    "title": "[백년가게]함흥냉면옥",
+    "zipcode": "24837",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2774724": {
+    "addr1": "강원특별자치도 속초시 바람꽃마을길 37",
+    "addr2": "(노학동)",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2774724",
+    "contenttypeid": "39",
+    "createdtime": "20211116190954",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.5324247165",
+    "mapy": "38.1980736878",
+    "mlevel": "6",
+    "modifiedtime": "20230702041100",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "바람꽃 해녀마을",
+    "zipcode": "24867",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2905643": {
+    "addr1": "강원특별자치도 속초시 관광로 374",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2905643",
+    "contenttypeid": "39",
+    "createdtime": "20221111095930",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/32/2905632_image2_1.png",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/32/2905632_image3_1.png",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.5394131025",
+    "mapy": "38.1938354284",
+    "mlevel": "6",
+    "modifiedtime": "20230702050344",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "황대구탕",
+    "zipcode": "24859",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "624962": {
+    "addr1": "강원특별자치도 고성군 거진읍 거탄진로 99",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "624962",
+    "contenttypeid": "39",
+    "createdtime": "20080918001430",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/91/589091_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/91/589091_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.4533547709",
+    "mapy": "38.4440962438",
+    "mlevel": "6",
+    "modifiedtime": "20230702050609",
+    "sigungucode": "2",
+    "tel": "033-682-1040",
+    "title": "성진회관",
+    "zipcode": "24718",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2568287": {
+    "addr1": "강원특별자치도 고성군 죽왕면 삼포해변길 9",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2568287",
+    "contenttypeid": "39",
+    "createdtime": "20181121202626",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/88/2568288_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/88/2568288_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.5309961262",
+    "mapy": "38.3171097931",
+    "mlevel": "6",
+    "modifiedtime": "20230702040711",
+    "sigungucode": "2",
+    "tel": "033-631-3812",
+    "title": "다연",
+    "zipcode": "24750",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2818350": {
+    "addr1": "강원특별자치도 고성군 미시령옛길 1153 델피노골프&amp;리조트",
+    "addr2": "소노펠리체 델피노 EAST 10층",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2818350",
+    "contenttypeid": "39",
+    "createdtime": "20220429133332",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/21/2818021_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/21/2818021_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.4973942731",
+    "mapy": "38.2075246860",
+    "mlevel": "6",
+    "modifiedtime": "20230702045459",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "소노펠리체 델피노 더 엠브로시아",
+    "zipcode": "24768",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문/자동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2929461": {
+    "addr1": "강원특별자치도 고성군 천진해변길 46",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2929461",
+    "contenttypeid": "39",
+    "createdtime": "20221205123547",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/58/2929458_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/58/2929458_image3_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.5604146608",
+    "mapy": "38.2607002723",
+    "mlevel": "6",
+    "modifiedtime": "20230702094904",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "봉포머구리집 고성점",
+    "zipcode": "24764",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

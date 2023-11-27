@@ -1,0 +1,1023 @@
+{
+  "644428": {
+    "addr1": "전라남도 여수시 공화남2길 2",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020300",
+    "contentid": "644428",
+    "contenttypeid": "39",
+    "createdtime": "20081030231539",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.7414535793",
+    "mapy": "34.7491114842",
+    "mlevel": "6",
+    "modifiedtime": "20230316095909",
+    "sigungucode": "13",
+    "tel": "061-663-8252",
+    "title": "백천선어마을",
+    "zipcode": "59743",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "765155": {
+    "addr1": "전라남도 여수시 중앙로 72-26",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "765155",
+    "contenttypeid": "39",
+    "createdtime": "20090711011801",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.7348793914",
+    "mapy": "34.7397596395",
+    "mlevel": "6",
+    "modifiedtime": "20230926133517",
+    "sigungucode": "13",
+    "tel": "061-662-8697",
+    "title": "풍산식당",
+    "zipcode": "59735",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2509785": {
+    "addr1": "전라남도 여수시 무선6길 42-6",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2509785",
+    "contenttypeid": "39",
+    "createdtime": "20170120090005",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.6508524898",
+    "mapy": "34.7759763510",
+    "mlevel": "6",
+    "modifiedtime": "20230118092118",
+    "sigungucode": "13",
+    "tel": "061-685-8243",
+    "title": "향촌한우",
+    "zipcode": "59640",
+    "family": [
+      {
+        "영유아가족 기타 지원 항목": "놀이방 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2609556": {
+    "addr1": "전라남도 여수시 여객선터미널길 18",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2609556",
+    "contenttypeid": "39",
+    "createdtime": "20190705001312",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/76/2609776_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/76/2609776_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7320741059",
+    "mapy": "34.7387902548",
+    "mlevel": "6",
+    "modifiedtime": "20230818150630",
+    "sigungucode": "13",
+    "tel": "061-662-0900",
+    "title": "[백년가게]구백식당",
+    "zipcode": "59735",
+    "family": [],
+    "handi": [
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2670404": {
+    "addr1": "전라남도 여수시 소호로 486",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2670404",
+    "contenttypeid": "39",
+    "createdtime": "20200902193452",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/75/2666575_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/75/2666575_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.6541390850",
+    "mapy": "34.7455325966",
+    "mlevel": "6",
+    "modifiedtime": "20220411145815",
+    "sigungucode": "13",
+    "tel": "061-682-2230",
+    "title": "동동해",
+    "zipcode": "59665",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2670405": {
+    "addr1": "전라남도 여수시 돌산읍 강남해안로 189",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2670405",
+    "contenttypeid": "39",
+    "createdtime": "20200902193906",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/77/2666577_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/77/2666577_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7562337044",
+    "mapy": "34.7152099801",
+    "mlevel": "6",
+    "modifiedtime": "20210322212359",
+    "sigungucode": "13",
+    "tel": "061-644-5499",
+    "title": "동백한식",
+    "zipcode": "59769",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문/자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2670429": {
+    "addr1": "전라남도 여수시 돌산읍 강남로 46",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2670429",
+    "contenttypeid": "39",
+    "createdtime": "20200902213340",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/08/2666608_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/08/2666608_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7507785138",
+    "mapy": "34.7195955061",
+    "mlevel": "6",
+    "modifiedtime": "20220412154308",
+    "sigungucode": "13",
+    "tel": "061-644-2289",
+    "title": "진남횟집",
+    "zipcode": "59769",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2871686": {
+    "addr1": "전라남도 여수시 학동6길 1",
+    "addr2": "1층",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2871686",
+    "contenttypeid": "39",
+    "createdtime": "20221020135004",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/76/2871676_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/76/2871676_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.6668652904",
+    "mapy": "34.7636307887",
+    "mlevel": "6",
+    "modifiedtime": "20221103142649",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "강남집",
+    "zipcode": "59679",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2910343": {
+    "addr1": "전라남도 여수시 계동해안길 74",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2910343",
+    "contenttypeid": "39",
+    "createdtime": "20221116153906",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/19/2910319_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/19/2910319_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7935123522",
+    "mapy": "34.6620804595",
+    "mlevel": "6",
+    "modifiedtime": "20230202134635",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "더계동",
+    "zipcode": "59774",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2923307": {
+    "addr1": "전라남도 여수시 남산로 60-31 (주)여수수산물특화시장",
+    "addr2": "2층",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2923307",
+    "contenttypeid": "39",
+    "createdtime": "20221128130111",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/93/2923293_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/93/2923293_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7329074152",
+    "mapy": "34.7368682624",
+    "mlevel": "6",
+    "modifiedtime": "20230105100224",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "구이랑회",
+    "zipcode": "59753",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2923607": {
+    "addr1": "전라남도 여수시 국포1로 27",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2923607",
+    "contenttypeid": "39",
+    "createdtime": "20221128140026",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/00/2923600_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/00/2923600_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7225779812",
+    "mapy": "34.7282801561",
+    "mlevel": "6",
+    "modifiedtime": "20230206171543",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "카페 항해",
+    "zipcode": "59765",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2923644": {
+    "addr1": "전라남도 여수시 소호로 279",
+    "addr2": "3층",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2923644",
+    "contenttypeid": "39",
+    "createdtime": "20221128140651",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/23/2923623_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/23/2923623_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.6436876180",
+    "mapy": "34.7298952791",
+    "mlevel": "6",
+    "modifiedtime": "20230308113809",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "카페동동",
+    "zipcode": "59670",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2923655": {
+    "addr1": "전라남도 여수시 흥국로 95",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2923655",
+    "contenttypeid": "39",
+    "createdtime": "20221128141045",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/34/2923634_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/34/2923634_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.6727370471",
+    "mapy": "34.7617338806",
+    "mlevel": "6",
+    "modifiedtime": "20230103174936",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "신기아꾸",
+    "zipcode": "59681",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2923668": {
+    "addr1": "전라남도 여수시 망마로 25",
+    "addr2": "3층",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2923668",
+    "contenttypeid": "39",
+    "createdtime": "20221128141339",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/50/2923650_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/50/2923650_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.6659543428",
+    "mapy": "34.7603311424",
+    "mlevel": "6",
+    "modifiedtime": "20230308113517",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "통큰샤브",
+    "zipcode": "59676",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문/자동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2923713": {
+    "addr1": "전라남도 여수시 이순신광장로 139",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2923713",
+    "contenttypeid": "39",
+    "createdtime": "20221128142457",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/00/2923700_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/00/2923700_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7395151476",
+    "mapy": "34.7377821634",
+    "mlevel": "6",
+    "modifiedtime": "20230308112320",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "삼합싸다구",
+    "zipcode": "59737",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2923923": {
+    "addr1": "전라남도 여수시 웅천남6로 21",
+    "addr2": "마리나타워 2층",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2923923",
+    "contenttypeid": "39",
+    "createdtime": "20221128151214",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/15/2923915_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/15/2923915_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.6764400670",
+    "mapy": "34.7393947803",
+    "mlevel": "6",
+    "modifiedtime": "20230308112100",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "해안식당 여수웅천점",
+    "zipcode": "59792",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2923924": {
+    "addr1": "전라남도 여수시 박람회길 1 국제관",
+    "addr2": "D동 바닷가방면 1층",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020200",
+    "contentid": "2923924",
+    "contenttypeid": "39",
+    "createdtime": "20221128151245",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/11/2923911_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/11/2923911_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7465197232",
+    "mapy": "34.7522251119",
+    "mlevel": "6",
+    "modifiedtime": "20230308111143",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "놀스365 본점",
+    "zipcode": "59723",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문/자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2924873": {
+    "addr1": "전라남도 여수시 강남해안로 74",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2924873",
+    "contenttypeid": "39",
+    "createdtime": "20221129171537",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/60/2924860_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/60/2924860_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7456984103",
+    "mapy": "34.7192926741",
+    "mlevel": "6",
+    "modifiedtime": "20230308110607",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "카페스테이",
+    "zipcode": "59768",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2924895": {
+    "addr1": "전라남도 여수시 웅남1길 6-16",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2924895",
+    "contenttypeid": "39",
+    "createdtime": "20221129171944",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/83/2924883_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/83/2924883_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.6778063609",
+    "mapy": "34.7494020165",
+    "mlevel": "6",
+    "modifiedtime": "20230308110444",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "카페바림",
+    "zipcode": "59691",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2931191": {
+    "addr1": "전라남도 여수시 신월로 415",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2931191",
+    "contenttypeid": "39",
+    "createdtime": "20221207112536",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/82/2931182_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/82/2931182_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.6956831136",
+    "mapy": "34.7281713699",
+    "mlevel": "6",
+    "modifiedtime": "20230103144106",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "카페US",
+    "zipcode": "59747",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문/자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2931216": {
+    "addr1": "전라남도 여수시 신월로 578-1",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2931216",
+    "contenttypeid": "39",
+    "createdtime": "20221207113318",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/10/2931210_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/10/2931210_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7103235767",
+    "mapy": "34.7251386293",
+    "mlevel": "6",
+    "modifiedtime": "20230103143846",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "국동칼국수",
+    "zipcode": "59760",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2931274": {
+    "addr1": "전라남도 여수시 봉산남4길 23-26",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2931274",
+    "contenttypeid": "39",
+    "createdtime": "20221207124205",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/72/2931272_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/72/2931272_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7219445843",
+    "mapy": "34.7329573998",
+    "mlevel": "6",
+    "modifiedtime": "20230103143033",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "명동게장",
+    "zipcode": "59762",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2931280": {
+    "addr1": "전라남도 여수시 강남해안로 27",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2931280",
+    "contenttypeid": "39",
+    "createdtime": "20221207124624",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/78/2931278_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/78/2931278_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7467510024",
+    "mapy": "34.7229895006",
+    "mlevel": "6",
+    "modifiedtime": "20230103142822",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "모다기",
+    "zipcode": "59769",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2931286": {
+    "addr1": "전라남도 여수시 무술목길 50",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2931286",
+    "contenttypeid": "39",
+    "createdtime": "20221207125220",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/84/2931284_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/84/2931284_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7790990672",
+    "mapy": "34.6878828791",
+    "mlevel": "6",
+    "modifiedtime": "20230202174319",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "모이핀",
+    "zipcode": "59771",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

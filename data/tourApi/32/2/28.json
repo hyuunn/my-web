@@ -1,0 +1,84 @@
+{
+  "131517": {
+    "addr1": "강원특별자치도 고성군 미시령옛길 1153 델피노골프&amp;리조트",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03020700",
+    "contentid": "131517",
+    "contenttypeid": "28",
+    "createdtime": "20030523090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/29/1813429_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/29/1813429_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.4973942731",
+    "mapy": "38.2075246860",
+    "mlevel": "6",
+    "modifiedtime": "20230701131417",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "델피노 CC (대명 델피노)",
+    "zipcode": "24768",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(대명리조트)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "762715": {
+    "addr1": "강원특별자치도 고성군 죽왕면 동해대로 6090",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03021700",
+    "contentid": "762715",
+    "contenttypeid": "28",
+    "createdtime": "20090707025545",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.5133247077",
+    "mapy": "38.3428008983",
+    "mlevel": "6",
+    "modifiedtime": "20230905190500",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "송지호 오토캠핑장",
+    "zipcode": "24747",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "관리사무소에 경사로 설치되어 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(일반화장실 안에 전용 칸 설치)"
+      },
+      {
+        "기타 지원 항목": "샤워장은 장애시설이 설치되지 않은 일반샤워장이나 단차가 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

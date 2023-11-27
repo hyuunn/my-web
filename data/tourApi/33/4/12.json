@@ -1,0 +1,302 @@
+{
+  "125839": {
+    "addr1": "충청북도 영동군 상촌면",
+    "addr2": "(상촌면)",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010900",
+    "contentid": "125839",
+    "contenttypeid": "12",
+    "createdtime": "20030213090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/86/764686_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/86/764686_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.8730686140",
+    "mapy": "36.0576133105",
+    "mlevel": "6",
+    "modifiedtime": "20221109103031",
+    "sigungucode": "4",
+    "tel": "",
+    "title": "물한계곡",
+    "zipcode": "29126",
+    "family": [
+      {
+        "영유아가족 기타 지원 항목": "기저귀교환대 있음(화장실 내부)"
+      }
+    ],
+    "handi": [
+      {
+        "화장실": "장애인 화장실 있음(주차장 내 공중화장실,경사로있음)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2020734": {
+    "addr1": "충청북도 영동군 심천면 국악로1길 33",
+    "addr2": "(심천면)",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030200",
+    "contentid": "2020734",
+    "contenttypeid": "12",
+    "createdtime": "20150724015117",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.7022962723",
+    "mapy": "36.2113232872",
+    "mlevel": "6",
+    "modifiedtime": "20230706103849",
+    "sigungucode": "4",
+    "tel": "",
+    "title": "영동 국악체험촌",
+    "zipcode": "29106",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음 (각 건물 1층)_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(건물입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2609165": {
+    "addr1": "충청북도 영동군 심천면 약목2길 26",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0204",
+    "cat3": "A02040600",
+    "contentid": "2609165",
+    "contenttypeid": "12",
+    "createdtime": "20190703195916",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/45/2609145_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/45/2609145_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7203115903",
+    "mapy": "36.2019580120",
+    "mlevel": "6",
+    "modifiedtime": "20230720133437",
+    "sigungucode": "4",
+    "tel": "",
+    "title": "불휘농장",
+    "zipcode": "29105",
+    "family": [],
+    "handi": [],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "0"
+  },
+  "2609175": {
+    "addr1": "충청북도 영동군 양산면 호탄길 53-23",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0204",
+    "cat3": "A02040600",
+    "contentid": "2609175",
+    "contenttypeid": "12",
+    "createdtime": "20190703200447",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/56/2609156_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/56/2609156_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.6374041956",
+    "mapy": "36.1325033363",
+    "mlevel": "6",
+    "modifiedtime": "20230125101527",
+    "sigungucode": "4",
+    "tel": "",
+    "title": "영동블루와인농원",
+    "zipcode": "29160",
+    "family": [],
+    "handi": [],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "0"
+  },
+  "2633949": {
+    "addr1": "충청북도 영동군 영동읍 영동힐링로 30",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0204",
+    "cat3": "A02040600",
+    "contentid": "2633949",
+    "contenttypeid": "12",
+    "createdtime": "20191107224944",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/84/2615684_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/84/2615684_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7842958945",
+    "mapy": "36.1613110165",
+    "mlevel": "6",
+    "modifiedtime": "20221227170606",
+    "sigungucode": "4",
+    "tel": "",
+    "title": "영동 와인터널",
+    "zipcode": "29151",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능(2대, 매표소)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "화장실": "장애인 화장실 있음(주자창 2개, 전시관내 2개)"
+      },
+      {
+        "기타 지원 항목": "전시관내 장애인 전용경사로 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2648488": {
+    "addr1": "충청북도 영동군 영동읍 영동힐링로 248",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020600",
+    "contentid": "2648488",
+    "contenttypeid": "12",
+    "createdtime": "20200224223008",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/76/2648476_image2_1.bmp",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/76/2648476_image2_1.bmp",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7926146028",
+    "mapy": "36.1611667384",
+    "mlevel": "6",
+    "modifiedtime": "20230804165129",
+    "sigungucode": "4",
+    "tel": "",
+    "title": "과일나라테마공원",
+    "zipcode": "29142",
+    "family": [
+      {
+        "영유아가족 기타 지원 항목": "놀이방 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "관람석": "장애인 전용 관람석은 없으나 휠체어 접근 가능한 공간 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "안내요원": "안내요원 있음(안내 데스크)"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2733433": {
+    "addr1": "충청북도 영동군 황간면 목화실길 7",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02011000",
+    "contentid": "2733433",
+    "contenttypeid": "12",
+    "createdtime": "20210812192433",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/34/2733434_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/34/2733434_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.8805775641",
+    "mapy": "36.2135456865",
+    "mlevel": "6",
+    "modifiedtime": "20220930111803",
+    "sigungucode": "4",
+    "tel": "",
+    "title": "노근리평화공원",
+    "zipcode": "29113",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

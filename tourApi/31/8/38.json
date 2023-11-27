@@ -1,0 +1,204 @@
+{
+  "131985": {
+    "addr1": "경기도 김포시 김포대로 955",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010100",
+    "contentid": "131985",
+    "contenttypeid": "38",
+    "createdtime": "20031209090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/67/2405467_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/67/2405467_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7112853411",
+    "mapy": "37.6279562210",
+    "mlevel": "6",
+    "modifiedtime": "20221201143305",
+    "sigungucode": "8",
+    "tel": "031-980-2558",
+    "title": "김포장 (2, 7일)",
+    "zipcode": "10098",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(주차장 공용화장실)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1990459": {
+    "addr1": "경기도 김포시 고촌읍 아라육로152번길 100",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010600",
+    "contentid": "1990459",
+    "contenttypeid": "38",
+    "createdtime": "20150303224200",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/53/2396453_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/53/2396453_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7852544642",
+    "mapy": "37.5966750658",
+    "mlevel": "6",
+    "modifiedtime": "20230516163001",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "현대프리미엄아울렛 김포점",
+    "zipcode": "10135",
+    "family": [
+      {
+        "유모차": "대여가능"
+      },
+      {
+        "수유실": "수유실 있음(1층, 3층, 4층)"
+      },
+      {
+        "영유아가족 기타 지원 항목": "키즈카페있음 (B동 3층 하늘정원), 기저귀교환대 있음(수유실내부)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능(지하1층)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(건물 외부)_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원(안내데스크)"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2396929": {
+    "addr1": "경기도 김포시 김포대로 1009-49",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010600",
+    "contentid": "2396929",
+    "contenttypeid": "38",
+    "createdtime": "20160806011219",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/16/2396916_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/16/2396916_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7008389971",
+    "mapy": "37.6307001603",
+    "mlevel": "6",
+    "modifiedtime": "20230610082315",
+    "sigungucode": "8",
+    "tel": "031-981-8456",
+    "title": "김포로컬푸드",
+    "zipcode": "10100",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자유도로 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2860730": {
+    "addr1": "경기도 김포시 양촌읍 양곡리",
+    "addr2": "422-2",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "2860730",
+    "contenttypeid": "38",
+    "createdtime": "20220927113048",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/00/2860700_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/00/2860700_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6235481331",
+    "mapy": "37.6559819575",
+    "mlevel": "6",
+    "modifiedtime": "20221025175055",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "양곡시장",
+    "zipcode": "10059",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

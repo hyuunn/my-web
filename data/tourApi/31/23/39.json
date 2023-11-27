@@ -1,0 +1,976 @@
+{
+  "608424": {
+    "addr1": "경기도 용인시 처인구 백암면 백암로201번길 11",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "608424",
+    "contenttypeid": "39",
+    "createdtime": "20080813002401",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/10/612710_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/10/612710_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3736020789",
+    "mapy": "37.1646134895",
+    "mlevel": "6",
+    "modifiedtime": "20230227160119",
+    "sigungucode": "23",
+    "tel": "031-332-4608",
+    "title": "제일식당",
+    "zipcode": "17178",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "811327": {
+    "addr1": "경기도 용인시 수지구 수풍로 103",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "811327",
+    "contenttypeid": "39",
+    "createdtime": "20090928190607",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.0930338609",
+    "mapy": "37.3330083993",
+    "mlevel": "6",
+    "modifiedtime": "20230223162455",
+    "sigungucode": "23",
+    "tel": "031-276-3880",
+    "title": "가보정 4관",
+    "zipcode": "16821",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2737276": {
+    "addr1": "경기도 용인시 기흥구 기흥단지로 94",
+    "addr2": "(고매동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020300",
+    "contentid": "2737276",
+    "contenttypeid": "39",
+    "createdtime": "20210830184224",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/19/2737519_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/19/2737519_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1068856117",
+    "mapy": "37.2258071711",
+    "mlevel": "6",
+    "modifiedtime": "20231010090644",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "일만호백합샤브샤브",
+    "zipcode": "17086",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2739411": {
+    "addr1": "경기도 용인시 수지구 신봉1로330번길 4-1",
+    "addr2": "(신봉동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2739411",
+    "contenttypeid": "39",
+    "createdtime": "20210902223701",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/98/2775298_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/98/2775298_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0546067799",
+    "mapy": "37.3334965436",
+    "mlevel": "6",
+    "modifiedtime": "20230612141102",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "송정갈비",
+    "zipcode": "16803",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 1단 턱이 있지만 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문/자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2739423": {
+    "addr1": "경기도 용인시 기흥구 기흥단지로 89",
+    "addr2": "(고매동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2739423",
+    "contenttypeid": "39",
+    "createdtime": "20210902224246",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/92/2775192_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/92/2775192_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1075660896",
+    "mapy": "37.2263848942",
+    "mlevel": "6",
+    "modifiedtime": "20230610091123",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "사또가든",
+    "zipcode": "17086",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2739427": {
+    "addr1": "경기도 용인시 수지구 고기로 454",
+    "addr2": "(고기동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2739427",
+    "contenttypeid": "39",
+    "createdtime": "20210902225615",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/58/2775358_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/58/2775358_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0592528186",
+    "mapy": "37.3605907088",
+    "mlevel": "6",
+    "modifiedtime": "20230831152310",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "열두화덕",
+    "zipcode": "16801",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2739437": {
+    "addr1": "경기도 용인시 기흥구 기흥단지로121번길 9",
+    "addr2": "(고매동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020200",
+    "contentid": "2739437",
+    "contenttypeid": "39",
+    "createdtime": "20210902231520",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/76/2775376_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/76/2775376_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1093409189",
+    "mapy": "37.2267293310",
+    "mlevel": "6",
+    "modifiedtime": "20230905185715",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "오뜨아르",
+    "zipcode": "17086",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2742174": {
+    "addr1": "경기도 용인시 기흥구 신정로 270-4",
+    "addr2": "(보정동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2742174",
+    "contenttypeid": "39",
+    "createdtime": "20210909201939",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/45/2750745_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/45/2750745_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0991789021",
+    "mapy": "37.2919160474",
+    "mlevel": "6",
+    "modifiedtime": "20230224103936",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "만수정",
+    "zipcode": "16933",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2751599": {
+    "addr1": "경기도 용인시 기흥구 용구대로2145번길 23",
+    "addr2": "(신갈동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2751599",
+    "contenttypeid": "39",
+    "createdtime": "20210930014920",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/81/2751681_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/81/2751681_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1044703891",
+    "mapy": "37.2812118264",
+    "mlevel": "6",
+    "modifiedtime": "20231013154623",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "메밀래",
+    "zipcode": "16966",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2754726": {
+    "addr1": "경기도 용인시 기흥구 동백죽전대로527번길 98-8",
+    "addr2": "(중동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2754726",
+    "contenttypeid": "39",
+    "createdtime": "20211007234154",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/76/2755176_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/76/2755176_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1440890063",
+    "mapy": "37.2816263774",
+    "mlevel": "6",
+    "modifiedtime": "20231019143119",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "마이플레이버",
+    "zipcode": "16990",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2754742": {
+    "addr1": "경기도 용인시 기흥구 신정로 221",
+    "addr2": "(신갈동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2754742",
+    "contenttypeid": "39",
+    "createdtime": "20211007235653",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/67/2755167_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/67/2755167_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0991345517",
+    "mapy": "37.2887080847",
+    "mlevel": "6",
+    "modifiedtime": "20230927135551",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "롤링트라이브",
+    "zipcode": "16945",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2756676": {
+    "addr1": "경기도 용인시 수지구 이종무로 112",
+    "addr2": "(고기동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2756676",
+    "contenttypeid": "39",
+    "createdtime": "20211013234900",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/80/2787080_image2_1.png",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/80/2787080_image2_1.png",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0460790370",
+    "mapy": "37.3598155624",
+    "mlevel": "6",
+    "modifiedtime": "20230216154826",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "개울가에 핀 야생화",
+    "zipcode": "16800",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2807926": {
+    "addr1": "경기도 용인시 처인구 백원로 436 핀오크",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2807926",
+    "contenttypeid": "39",
+    "createdtime": "20220222134008",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.3615755193",
+    "mapy": "37.1599749188",
+    "mlevel": "6",
+    "modifiedtime": "20220503145026",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "시간정원",
+    "zipcode": "17177",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2811389": {
+    "addr1": "경기도 용인시 처인구 지삼로 513",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2811389",
+    "contenttypeid": "39",
+    "createdtime": "20220318105149",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.1579222776",
+    "mapy": "37.2391898708",
+    "mlevel": "6",
+    "modifiedtime": "20220506132938",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "도도한밥상",
+    "zipcode": "17090",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2838573": {
+    "addr1": "경기도 용인시 처인구 삼백로 844",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2838573",
+    "contenttypeid": "39",
+    "createdtime": "20220818110350",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/70/2838570_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/70/2838570_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3688475044",
+    "mapy": "37.1450712162",
+    "mlevel": "6",
+    "modifiedtime": "20221014144053",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "더원클래식",
+    "zipcode": "17181",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2838582": {
+    "addr1": "경기도 용인시 처인구 경기동로1024번길 46",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2838582",
+    "contenttypeid": "39",
+    "createdtime": "20220818111049",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/78/2838578_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/78/2838578_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2091655782",
+    "mapy": "37.1144718760",
+    "mlevel": "6",
+    "modifiedtime": "20221014143604",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "라쿠스205",
+    "zipcode": "17139",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2841199": {
+    "addr1": "경기도 용인시 처인구 유림로 173",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2841199",
+    "contenttypeid": "39",
+    "createdtime": "20220823095243",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/91/2841191_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/91/2841191_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1953460466",
+    "mapy": "37.2611630007",
+    "mlevel": "6",
+    "modifiedtime": "20220919153018",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "고향보리밥",
+    "zipcode": "17042",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2842513": {
+    "addr1": "경기도 용인시 수지구 신봉1로 382",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2842513",
+    "contenttypeid": "39",
+    "createdtime": "20220824095434",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/08/2842508_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/08/2842508_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0479212509",
+    "mapy": "37.3343935421",
+    "mlevel": "6",
+    "modifiedtime": "20220919093847",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "청호골송어",
+    "zipcode": "16803",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2843654": {
+    "addr1": "경기도 용인시 수지구 고기로 468",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020200",
+    "contentid": "2843654",
+    "contenttypeid": "39",
+    "createdtime": "20220824160414",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/42/2843642_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/42/2843642_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0577307353",
+    "mapy": "37.3605712394",
+    "mlevel": "6",
+    "modifiedtime": "20220916143042",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "아로스토",
+    "zipcode": "16801",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2844819": {
+    "addr1": "경기도 용인시 기흥구 원고매로2번길 3",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2844819",
+    "contenttypeid": "39",
+    "createdtime": "20220829111201",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/16/2844816_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/16/2844816_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1038137977",
+    "mapy": "37.2211937613",
+    "mlevel": "6",
+    "modifiedtime": "20220916171314",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "고매옥",
+    "zipcode": "17086",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2907453": {
+    "addr1": "경기도 용인시 처인구 성산로 670 동촌",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2907453",
+    "contenttypeid": "39",
+    "createdtime": "20221114145217",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/51/2907451_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/51/2907451_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2129520446",
+    "mapy": "37.2874047248",
+    "mlevel": "6",
+    "modifiedtime": "20230308142927",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "호가",
+    "zipcode": "17023",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2917486": {
+    "addr1": "경기도 용인시 기흥구 동백중앙로 283 골드프라자",
+    "addr2": "D동 2층",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020200",
+    "contentid": "2917486",
+    "contenttypeid": "39",
+    "createdtime": "20221124134346",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/79/2917479_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/79/2917479_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1541687624",
+    "mapy": "37.2775603626",
+    "mlevel": "6",
+    "modifiedtime": "20230308131439",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "동백식탁",
+    "zipcode": "17006",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2922681": {
+    "addr1": "경기도 용인시 수지구 만현로 17-1",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020400",
+    "contentid": "2922681",
+    "contenttypeid": "39",
+    "createdtime": "20221125133312",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/68/2922668_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/68/2922668_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0894708260",
+    "mapy": "37.3141160795",
+    "mlevel": "6",
+    "modifiedtime": "20230105100809",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "최고집손짜장",
+    "zipcode": "16928",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "132400": {
+    "addr1": "강원특별자치도 양구군 양구읍 중앙길 68",
+    "addr2": "(양구읍)",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010100",
+    "contentid": "132400",
+    "contenttypeid": "38",
+    "createdtime": "20030416090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/87/1948187_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/87/1948187_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.9895242323",
+    "mapy": "38.1040964456",
+    "mlevel": "6",
+    "modifiedtime": "20230701102304",
+    "sigungucode": "6",
+    "tel": "",
+    "title": "양구장 / 양구 중앙시장 (5,10일)",
+    "zipcode": "24536",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "132583": {
+    "addr1": "강원특별자치도 양구군 양구읍 관공서로 10",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010900",
+    "contentid": "132583",
+    "contenttypeid": "38",
+    "createdtime": "20040128090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/25/1948025_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/25/1948025_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.9906184940",
+    "mapy": "38.1068572559",
+    "mlevel": "6",
+    "modifiedtime": "20230701102011",
+    "sigungucode": "6",
+    "tel": "",
+    "title": "양구명품관(강원)",
+    "zipcode": "24523",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음(수동문)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

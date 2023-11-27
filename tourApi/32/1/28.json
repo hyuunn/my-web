@@ -1,0 +1,88 @@
+{
+  "2702497": {
+    "addr1": "강원특별자치도 강릉시 주문진읍 향호리 8-35",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03022700",
+    "contentid": "2702497",
+    "contenttypeid": "28",
+    "createdtime": "20211230224128",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/35/2739235_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/35/2739235_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.8186327077",
+    "mapy": "37.9113903369",
+    "mlevel": "6",
+    "modifiedtime": "20230701133923",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "해파랑길 41코스",
+    "zipcode": "",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2744417": {
+    "addr1": "강원특별자치도 강릉시 해안로 1282 연곡해수욕장관리실",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03021700",
+    "contentid": "2744417",
+    "contenttypeid": "28",
+    "createdtime": "20210914211421",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/84/2744184_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/84/2744184_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.8543866802",
+    "mapy": "37.8584193943",
+    "mlevel": "6",
+    "modifiedtime": "20230906102758",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "연곡해변솔향기캠핑장",
+    "zipcode": "25431",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "화장실 앞 경사로(시멘트/아스팔트 노면, 손잡이 있음, 경사각 4º)\n장애인 캠핑장 경사로(나무데크길, 손잡이 및 점자 표시 있음, 경사각 4º)\n장애인 캠핑장 근처 경사로(나무데크길, 손잡이 및 점자 표시 있음, 경사각 5º)"
+      },
+      {
+        "매표소": "매표소 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(일반샤워실 옆, 카라반 캠핑장 근처, 화장실 겸 사워장)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

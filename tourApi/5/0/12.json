@@ -1,0 +1,2432 @@
+{
+  "126324":{
+     "addr1":"광주광역시 북구 하서로 52",
+     "addr2":"",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"126324",
+     "contenttypeid":"12",
+     "createdtime":"20031223090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/73/2675673_image2_1.JPG",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/73/2675673_image2_1.JPG",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.8842958259",
+     "mapy":"35.1814981787",
+     "mlevel":"6",
+     "modifiedtime":"20230502110400",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"중외공원",
+     "zipcode":"61104",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"데크로드 산책로 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음(주차장 공중화장실,경사로설치됨)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "126325":{
+     "addr1":"광주광역시 남구 사직길 49",
+     "addr2":"(사동)",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"126325",
+     "contenttypeid":"12",
+     "createdtime":"20031223090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/67/1587467_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/67/1587467_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9121749221",
+     "mapy":"35.1413559608",
+     "mlevel":"6",
+     "modifiedtime":"20230503115308",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"사직공원(광주)",
+     "zipcode":"61638",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "126329":{
+     "addr1":"광주광역시 북구 충효동",
+     "addr2":", 전라남도 담양군 고서면 광주호",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01011700",
+     "contentid":"126329",
+     "contenttypeid":"12",
+     "createdtime":"20020430090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/75/566675_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/75/566675_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9927528112",
+     "mapy":"35.1851523796",
+     "mlevel":"6",
+     "modifiedtime":"20220523132211",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"광주호",
+     "zipcode":"61146",
+     "family":[
+        {
+           "유모차":"유모차 무료대여 가능 (5대구비, 신분증 지참 필)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"데크로드 있음"
+        },
+        {
+           "휠체어":"휠체어 무료대여 가능 (3대구비, 신분증지참 필)"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"보조견 동반 가능"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "126350":{
+     "addr1":"광주광역시 북구 무등로 1514-35",
+     "addr2":"",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0201",
+     "cat3":"A02010800",
+     "contentid":"126350",
+     "contenttypeid":"12",
+     "createdtime":"20031223090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/48/2675648_image2_1.JPG",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/48/2675648_image2_1.JPG",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9857793462",
+     "mapy":"35.1486258304",
+     "mlevel":"6",
+     "modifiedtime":"20220818112746",
+     "sigungucode":"4",
+     "tel":"062-266-0326",
+     "title":"원효사",
+     "zipcode":"61147",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"경사로 설치 있음"
+        },
+        {
+           "화장실":"장애인용화장실 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "126351":{
+     "addr1":"광주광역시 동구 증심사길 177",
+     "addr2":"(운림동)",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0201",
+     "cat3":"A02010800",
+     "contentid":"126351",
+     "contenttypeid":"12",
+     "createdtime":"20031107090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/37/2364337_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/37/2364337_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9697618157",
+     "mapy":"35.1287583574",
+     "mlevel":"6",
+     "modifiedtime":"20230613095916",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"증심사(광주)",
+     "zipcode":"61493",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "화장실":"장애인 전용 화장실 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "126384":{
+     "addr1":"광주광역시 남구 포충로 767",
+     "addr2":"(원산동)",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0201",
+     "cat3":"A02010700",
+     "contentid":"126384",
+     "contenttypeid":"12",
+     "createdtime":"20031223090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/13/1587513_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/13/1587513_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.8487457033",
+     "mapy":"35.0898468165",
+     "mlevel":"6",
+     "modifiedtime":"20220520173050",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"포충사",
+     "zipcode":"61752",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "화장실":"장애인 전용 화장실 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "126385":{
+     "addr1":"광주광역시 북구 무등로 1050",
+     "addr2":"",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0201",
+     "cat3":"A02010700",
+     "contentid":"126385",
+     "contenttypeid":"12",
+     "createdtime":"20031223090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/10/1033310_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/10/1033310_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9692640546",
+     "mapy":"35.1519696177",
+     "mlevel":"6",
+     "modifiedtime":"20220613132152",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"충민사",
+     "zipcode":"61148",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "화장실":"장애인용화장실이 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "126425":{
+     "addr1":"광주광역시 북구 민주로 200",
+     "addr2":"(운정동)",
+     "areacode":"5",
+     "booktour":"1",
+     "cat1":"A02",
+     "cat2":"A0201",
+     "cat3":"A02010700",
+     "contentid":"126425",
+     "contenttypeid":"12",
+     "createdtime":"20031107090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/55/2364355_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/55/2364355_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9395617934",
+     "mapy":"35.2358457501",
+     "mlevel":"6",
+     "modifiedtime":"20220310165215",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"국립 5.18 민주묘지",
+     "zipcode":"61045",
+     "family":[
+        {
+           "유모차":"대여가능(민주의 문 옆 안내소)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "휠체어":"대여가능(수동 휠체어)"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        },
+        {
+           "기타 지원 항목":"접근로 호출 벨 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자유도로 및 점자블록 있음_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "126429":{
+     "addr1":"광주광역시 동구 예술길 24",
+     "addr2":"",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0203",
+     "cat3":"A02030600",
+     "contentid":"126429",
+     "contenttypeid":"12",
+     "createdtime":"20020419090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/60/2364360_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/60/2364360_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9186491379",
+     "mapy":"35.1498078933",
+     "mlevel":"6",
+     "modifiedtime":"20230512134414",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"광주 예술의 거리",
+     "zipcode":"61475",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "127064":{
+     "addr1":"광주광역시 남구 중앙로107번길 15",
+     "addr2":"(구동)",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0201",
+     "cat3":"A02010700",
+     "contentid":"127064",
+     "contenttypeid":"12",
+     "createdtime":"20020510090000",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.9093972429",
+     "mapy":"35.1472246955",
+     "mlevel":"6",
+     "modifiedtime":"20230329154558",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"광주공원 사적비군",
+     "zipcode":"61636",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "화장실":"장애인용화장실 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "127072":{
+     "addr1":"광주광역시 남구 사직길 49",
+     "addr2":"(사동) 사직공원 내",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0201",
+     "cat3":"A02010900",
+     "contentid":"127072",
+     "contenttypeid":"12",
+     "createdtime":"20020510090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/63/1587463_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/63/1587463_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9120888213",
+     "mapy":"35.1412337508",
+     "mlevel":"6",
+     "modifiedtime":"20220518163514",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"사직단",
+     "zipcode":"61638",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"사직단까지 경사로가 설치되어 있음_무장애 편의시설"
+        },
+        {
+           "화장실":"장애인 화장실 있음(사직공원 공중화장실)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "127075":{
+     "addr1":"광주광역시 남구 중앙로107번길 15",
+     "addr2":"(구동)",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"127075",
+     "contenttypeid":"12",
+     "createdtime":"20031105090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/57/566657_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/57/566657_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9079362685",
+     "mapy":"35.1468969300",
+     "mlevel":"6",
+     "modifiedtime":"20220525100916",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"광주공원",
+     "zipcode":"61636",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "127077":{
+     "addr1":"광주광역시 남구 중앙로107번길 5",
+     "addr2":"(구동)",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0201",
+     "cat3":"A02010700",
+     "contentid":"127077",
+     "contenttypeid":"12",
+     "createdtime":"20020510090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/33/1587433_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/33/1587433_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9092917275",
+     "mapy":"35.1459803899",
+     "mlevel":"6",
+     "modifiedtime":"20220908175009",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"광주향교",
+     "zipcode":"61636",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "출입통로":"경사로가 설치되어있어 휠체어로 입구 진입가능_무장애 편의정보"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "127079":{
+     "addr1":"광주광역시 남구 중앙로107번길 15",
+     "addr2":"(구동)",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0201",
+     "cat3":"A02010700",
+     "contentid":"127079",
+     "contenttypeid":"12",
+     "createdtime":"20020612090000",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.9086500890",
+     "mapy":"35.1471080299",
+     "mlevel":"6",
+     "modifiedtime":"20220404162838",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"현충탑(광주)",
+     "zipcode":"61636",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"탑까지 경사로가 설치되어 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "127323":{
+     "addr1":"광주광역시 북구 풍암제길 14",
+     "addr2":"",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0201",
+     "cat3":"A02010700",
+     "contentid":"127323",
+     "contenttypeid":"12",
+     "createdtime":"20020510090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/82/741682_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/82/741682_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9983333183",
+     "mapy":"35.1674711376",
+     "mlevel":"6",
+     "modifiedtime":"20230504103502",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"광주 충효동 요지",
+     "zipcode":"61147",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(1층)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "127325":{
+     "addr1":"광주광역시 북구 충효샘길 7",
+     "addr2":"(충효동)",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01010500",
+     "contentid":"127325",
+     "contenttypeid":"12",
+     "createdtime":"20020510090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/20/2369720_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/20/2369720_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.0009520932",
+     "mapy":"35.1848719954",
+     "mlevel":"6",
+     "modifiedtime":"20220922175433",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"광주 충효동 왕버들 군",
+     "zipcode":"61146",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(광주호 호수생태관리소 옆 공중화장실)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(장애인화장싶 입구 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "127539":{
+     "addr1":"광주광역시 북구 우치로 677",
+     "addr2":"(생용동)",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020600",
+     "contentid":"127539",
+     "contenttypeid":"12",
+     "createdtime":"20031105090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/75/2765475_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/75/2765475_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.8936078564",
+     "mapy":"35.2227325653",
+     "mlevel":"6",
+     "modifiedtime":"20230616162321",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"광주패밀리랜드",
+     "zipcode":"61028",
+     "family":[
+        {
+           "유모차":"대여가능(대여료 3,000원)"
+        },
+        {
+           "영유아가족 기타 지원 항목":"미아보호소 있음(놀이공원 입구 방송실 1층, 062-607-8015)\n의무실 있음(놀이공원 입구, 062-607-8000)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "휠체어":"대여가능"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음(주차장쪽 정문입구, 잔디광장쪽, 놀이동산입구 옆, 수영장 옆)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능"
+        },
+        {
+           "안내요원":"안내요원 있음"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "127575":{
+     "addr1":"광주광역시 동구 동산길 29",
+     "addr2":"",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01010100",
+     "contentid":"127575",
+     "contenttypeid":"12",
+     "createdtime":"20031107090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/82/2716382_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/82/2716382_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9482942154",
+     "mapy":"35.1308438692",
+     "mlevel":"6",
+     "modifiedtime":"20230824173442",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"무등산국립공원",
+     "zipcode":"61494",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "휠체어":"대여가능(탐방안내센터)"
+        },
+        {
+           "화장실":"장애인 화장실 있음(탐방안내센터)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(탐방안내센터 입구 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "128158":{
+     "addr1":"광주광역시 남구 사직길 49",
+     "addr2":"",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0205",
+     "cat3":"A02050200",
+     "contentid":"128158",
+     "contenttypeid":"12",
+     "createdtime":"20040602090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/63/2493363_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/63/2493363_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9155968119",
+     "mapy":"35.1425419960",
+     "mlevel":"6",
+     "modifiedtime":"20221216094542",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"광주 경찰충혼탑",
+     "zipcode":"61638",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "화장실":"장애인용화장실 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "129202":{
+     "addr1":"광주광역시 광산구 박호등임로 43-1",
+     "addr2":"",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"129202",
+     "contenttypeid":"12",
+     "createdtime":"20060811090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/09/1587909_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/09/1587909_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.7361567252",
+     "mapy":"35.1587121481",
+     "mlevel":"6",
+     "modifiedtime":"20221219133714",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"송산유원지",
+     "zipcode":"62398",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        },
+        {
+           "기타 지원 항목":"데크로드 구간 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "129443":{
+     "addr1":"광주광역시 북구 충효샘길 7",
+     "addr2":"",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01010500",
+     "contentid":"129443",
+     "contenttypeid":"12",
+     "createdtime":"20070302090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/33/2662633_image2_1.bmp",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/33/2662633_image2_1.bmp",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.0010882121",
+     "mapy":"35.1840804198",
+     "mlevel":"6",
+     "modifiedtime":"20220907162802",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"광주호 호수생태원",
+     "zipcode":"61146",
+     "family":[
+        {
+           "유모차":"대여가능(관리사무소 문의)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "휠체어":"대여가능(관리사무소 문의)"
+        },
+        {
+           "화장실":"장애인 화장실 있음(주차장 공중 화장실)"
+        },
+        {
+           "기타 지원 항목":"산책로 데크로드 구간 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주차장 장애인화장실 입구 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "129444":{
+     "addr1":"광주광역시 서구 내방로 152",
+     "addr2":"",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"129444",
+     "contenttypeid":"12",
+     "createdtime":"20070302090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/72/2637772_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/72/2637772_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.8585681905",
+     "mapy":"35.1557506526",
+     "mlevel":"6",
+     "modifiedtime":"20230821134420",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"5·18 기념공원",
+     "zipcode":"61965",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음(공원내, 기념센터 1층)"
+        },
+        {
+           "관람석":"장애인 관람석 있음(기념센터 내 9석)"
+        }
+     ],
+     "hearing":[
+        {
+           "기타 지원 항목":"기념센터 내에 보청기 있음"
+        }
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실 앞)_시각장애인 편의시설"
+        },
+        {
+           "보조견 동반":"동반가능"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"1",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "129445":{
+     "addr1":"광주광역시 서구 상무평화로 13",
+     "addr2":"(치평동)",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"129445",
+     "contenttypeid":"12",
+     "createdtime":"20070302090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/78/1559578_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/78/1559578_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.8399588973",
+     "mapy":"35.1488677834",
+     "mlevel":"6",
+     "modifiedtime":"20230221093605",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"5·18 자유공원",
+     "zipcode":"61956",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        },
+        {
+           "기타 지원 항목":"공원 및 전시실 휠체어 접근 가능"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "250453":{
+     "addr1":"광주광역시 광산구 첨단중앙로182번길 39",
+     "addr2":"",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"250453",
+     "contenttypeid":"12",
+     "createdtime":"20071030090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/76/1587376_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/76/1587376_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.8427290223",
+     "mapy":"35.2228872434",
+     "mlevel":"6",
+     "modifiedtime":"20230614112640",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"쌍암공원",
+     "zipcode":"62274",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자유도로 및 점자블록 있음_시각장애인 편의시설"
+        },
+        {
+           "보조견 동반":"동반가능"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1330521":{
+     "addr1":"광주광역시 동구 중앙로",
+     "addr2":"",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0203",
+     "cat3":"A02030400",
+     "contentid":"1330521",
+     "contenttypeid":"12",
+     "createdtime":"20110713225156",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/06/1587606_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/06/1587606_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9151411393",
+     "mapy":"35.1488246125",
+     "mlevel":"6",
+     "modifiedtime":"20220919102216",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"충장로",
+     "zipcode":"61483",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        },
+        {
+           "휠체어":"대여가능(충장 우체국)"
+        },
+        {
+           "화장실":"장애인 화장실 있음(충장우체국1층,광주청소년삶디자인센터1층)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1621022":{
+     "addr1":"광주광역시 광산구 무진대로 282",
+     "addr2":"(우산동)",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060600",
+     "contentid":"1621022",
+     "contenttypeid":"12",
+     "createdtime":"20120503015401",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/97/1587397_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/97/1587397_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.8114277913",
+     "mapy":"35.1607326292",
+     "mlevel":"6",
+     "modifiedtime":"20230518103616",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"광주무역회관",
+     "zipcode":"62364",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        },
+        {
+           "기타 지원 항목":"건물 입구는 지하 1층이지만 장애인은 지상 1층 출입구를 이용하는 것이 유리함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실,엘리베이터 입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1621447":{
+     "addr1":"광주광역시 북구 경양로 125",
+     "addr2":"(신안동)",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0203",
+     "cat3":"A02030400",
+     "contentid":"1621447",
+     "contenttypeid":"12",
+     "createdtime":"20120503223939",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.9057444277",
+     "mapy":"35.1615924556",
+     "mlevel":"6",
+     "modifiedtime":"20221025103952",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"오리요리의 거리",
+     "zipcode":"61252",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1621573":{
+     "addr1":"광주광역시 서구 전평길 1",
+     "addr2":"",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01011800",
+     "contentid":"1621573",
+     "contenttypeid":"12",
+     "createdtime":"20120503232252",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/28/1587728_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/28/1587728_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.8493672528",
+     "mapy":"35.1146356961",
+     "mlevel":"6",
+     "modifiedtime":"20230322171026",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"전평제",
+     "zipcode":"62070",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함_무장애 편의시설"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        },
+        {
+           "기타 지원 항목":"공원 산책로(데크로드) 입구에 약 10cm정도의 단차가 있으나 휠체어 접근 가능"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실 입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1621652":{
+     "addr1":"광주광역시 서구 운천로 165",
+     "addr2":"(쌍촌동) 일대",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01011800",
+     "contentid":"1621652",
+     "contenttypeid":"12",
+     "createdtime":"20120503235322",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/74/2616874_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/74/2616874_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.8562352777",
+     "mapy":"35.1471654718",
+     "mlevel":"6",
+     "modifiedtime":"20230321105251",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"운천저수지",
+     "zipcode":"61998",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실 입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1622203":{
+     "addr1":"광주광역시 서구 상무공원로 101",
+     "addr2":"",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"1622203",
+     "contenttypeid":"12",
+     "createdtime":"20120504185051",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/79/1587779_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/79/1587779_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.8403948478",
+     "mapy":"35.1537505721",
+     "mlevel":"6",
+     "modifiedtime":"20230328135217",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"상무시민공원",
+     "zipcode":"61953",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1622215":{
+     "addr1":"광주광역시 서구 월드컵서로 71-3",
+     "addr2":"(풍암동) 일원",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01011700",
+     "contentid":"1622215",
+     "contenttypeid":"12",
+     "createdtime":"20120504185920",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/10/1587810_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/10/1587810_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.8700956492",
+     "mapy":"35.1277317885",
+     "mlevel":"6",
+     "modifiedtime":"20230215113632",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"풍암저수지 (풍암호수)",
+     "zipcode":"62017",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 1단 이내의 단차가 있지만 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        },
+        {
+           "기타 지원 항목":"공원 산책로 휠체어 접근 가능"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실 입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1852992":{
+     "addr1":"광주광역시 서구 무진대로 919",
+     "addr2":"(광천동)",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0204",
+     "cat3":"A02040800",
+     "contentid":"1852992",
+     "contenttypeid":"12",
+     "createdtime":"20131023225325",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.8805327471",
+     "mapy":"35.1624280471",
+     "mlevel":"6",
+     "modifiedtime":"20230110155523",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"KBC 광주방송",
+     "zipcode":"61915",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2002480":{
+     "addr1":"광주광역시 북구 우치로 677",
+     "addr2":"",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020600",
+     "contentid":"2002480",
+     "contenttypeid":"12",
+     "createdtime":"20150511232011",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/48/2003548_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/48/2003548_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.8940800160",
+     "mapy":"35.2235741448",
+     "mlevel":"6",
+     "modifiedtime":"20230202111036",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"광주 우치공원 동물원",
+     "zipcode":"61028",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "휠체어":"대여가능"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2027193":{
+     "addr1":"광주광역시 서구 운천로 230",
+     "addr2":"",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0201",
+     "cat3":"A02010800",
+     "contentid":"2027193",
+     "contenttypeid":"12",
+     "createdtime":"20150903235809",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.8560351305",
+     "mapy":"35.1537702779",
+     "mlevel":"6",
+     "modifiedtime":"20220929173131",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"무각사",
+     "zipcode":"61965",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"현재 대웅보전은 공사중 이므로 이곳을 제외한 구간은 휠체어로 접근가능함"
+        },
+        {
+           "화장실":"공원 내 장애인전용 화장실 이용가능"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2470068":{
+     "addr1":"광주광역시 북구 첨단과기로 123",
+     "addr2":"",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0204",
+     "cat3":"A02040800",
+     "contentid":"2470068",
+     "contenttypeid":"12",
+     "createdtime":"20161229015625",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.8416345612",
+     "mapy":"35.2274311559",
+     "mlevel":"6",
+     "modifiedtime":"20230324092709",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"녹색에너지체험관 (광주전남지역본부)",
+     "zipcode":"61005",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "대중교통":"저상버스 운행(매월16,첨단23,첨단30,운림51)<br />\n한국 전자 통신 연구원 정류장 하차 바로 접근 가능"
+        },
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함(수동문,자동문)"
+        },
+        {
+           "엘리베이터":"장애인 엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음(1층)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(엘리베이터 앞)_시각장애인 편의시설"
+        },
+        {
+           "안내요원":"관람 및 체험 도움 가능한 안내요원 있음"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2524187":{
+     "addr1":"광주광역시 남구 서서평길 7",
+     "addr2":"",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0201",
+     "cat3":"A02010600",
+     "contentid":"2524187",
+     "contenttypeid":"12",
+     "createdtime":"20171222000553",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.9135191516",
+     "mapy":"35.1451944390",
+     "mlevel":"6",
+     "modifiedtime":"20230824173350",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"양림역사문화마을",
+     "zipcode":"61640",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음(빛고을 공예촌, 양림동행정복지센터)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2554189":{
+     "addr1":"광주광역시 남구 승촌보길 90",
+     "addr2":"(승촌동)",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0204",
+     "cat3":"A02040800",
+     "contentid":"2554189",
+     "contenttypeid":"12",
+     "createdtime":"20180718195229",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.7611568167",
+     "mapy":"35.0659535982",
+     "mlevel":"",
+     "modifiedtime":"20220901155551",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"영산강문화관",
+     "zipcode":"61759",
+     "family":[
+        {
+           "유모차":"대여가능(2대)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "휠체어":"대여가능(2대)"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        },
+        {
+           "기타 지원 항목":"층간 이동용 경사로 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2563697":{
+     "addr1":"광주광역시 동구 지호로164번길 35-1",
+     "addr2":"(지산동)",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"2563697",
+     "contenttypeid":"12",
+     "createdtime":"20181022184739",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/88/2563688_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/88/2563688_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9491103443",
+     "mapy":"35.1494112311",
+     "mlevel":"6",
+     "modifiedtime":"20230330113016",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"지산유원지",
+     "zipcode":"61447",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2565865":{
+     "addr1":"광주광역시 동구 동명동",
+     "addr2":"",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0203",
+     "cat3":"A02030600",
+     "contentid":"2565865",
+     "contenttypeid":"12",
+     "createdtime":"20181113200746",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/63/2565863_image2_1.bmp",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/63/2565863_image2_1.bmp",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9267289927",
+     "mapy":"35.1492525371",
+     "mlevel":"6",
+     "modifiedtime":"20230614102445",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"동명동 카페거리",
+     "zipcode":"61434",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2603494":{
+     "addr1":"광주광역시 남구 오기원길 20-13",
+     "addr2":"",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0203",
+     "cat3":"A02030600",
+     "contentid":"2603494",
+     "contenttypeid":"12",
+     "createdtime":"20190528022659",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/84/2386684_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/84/2386684_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9164190229",
+     "mapy":"35.1400895088",
+     "mlevel":"6",
+     "modifiedtime":"20230614103550",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"양림동 펭귄마을공예거리",
+     "zipcode":"61662",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "안내요원":"안내요원 있음(관광안내소)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2605353":{
+     "addr1":"광주광역시 광산구 광산로29번길",
+     "addr2":"(송정동)",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0203",
+     "cat3":"A02030600",
+     "contentid":"2605353",
+     "contenttypeid":"12",
+     "createdtime":"20190606011415",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/65/2368465_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/65/2368465_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.7943076079",
+     "mapy":"35.1397152706",
+     "mlevel":"6",
+     "modifiedtime":"20230614111851",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"광주 송정동 떡갈비 골목",
+     "zipcode":"62430",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2666987":{
+     "addr1":"광주광역시 동구 금남로 245",
+     "addr2":"(금남로1가)",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0205",
+     "cat3":"A02050600",
+     "contentid":"2666987",
+     "contenttypeid":"12",
+     "createdtime":"20200812233346",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/90/2785690_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/90/2785690_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9187324992",
+     "mapy":"35.1483997205",
+     "mlevel":"6",
+     "modifiedtime":"20220804132541",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"전일빌딩245",
+     "zipcode":"61475",
+     "family":[
+        {
+           "유모차":"대여가능(신분증보관, 사전문의 여부)"
+        },
+        {
+           "수유실":"수유실 있음(2층)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+        },
+        {
+           "엘리베이터":"휠체어 리프트, 엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음(1층)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+        },
+        {
+           "안내요원":"안내요원 있음(안내데스크)"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2675030":{
+     "addr1":"광주광역시 서구 서창둑길 377",
+     "addr2":"(벽진동)",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01010500",
+     "contentid":"2675030",
+     "contenttypeid":"12",
+     "createdtime":"20201007052714",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/23/2675023_image2_1.JPG",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/23/2675023_image2_1.JPG",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.8287545923",
+     "mapy":"35.1384632138",
+     "mlevel":"6",
+     "modifiedtime":"20221024100357",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"영산강 극락 친수공원 일원",
+     "zipcode":"62076",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2752603":{
+     "addr1":"광주광역시 남구 포충로 966-15",
+     "addr2":"(양과동)",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020600",
+     "contentid":"2752603",
+     "contenttypeid":"12",
+     "createdtime":"20211002000440",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/98/2752598_image2_1.JPG",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/98/2752598_image2_1.JPG",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.8679024826",
+     "mapy":"35.0842811007",
+     "mlevel":"6",
+     "modifiedtime":"20221216152144",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"빛고을농촌테마공원",
+     "zipcode":"61758",
+     "family":[
+        {
+           "수유실":"수유실 있음"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+        },
+        {
+           "안내요원":"안내요원 있음"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2754467":{
+     "addr1":"광주광역시 서구 월드컵서로 71-3",
+     "addr2":"(풍암동)",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"2754467",
+     "contenttypeid":"12",
+     "createdtime":"20211007185542",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/03/2754503_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/03/2754503_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.8704372755",
+     "mapy":"35.1281345268",
+     "mlevel":"6",
+     "modifiedtime":"20220914132908",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"풍암호수공원",
+     "zipcode":"62017",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2765212":{
+     "addr1":"광주광역시 동구 문화전당로35번길 15",
+     "addr2":"(광산동)",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0203",
+     "cat3":"A02030600",
+     "contentid":"2765212",
+     "contenttypeid":"12",
+     "createdtime":"20211101183714",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.9168910560",
+     "mapy":"35.1459777413",
+     "mlevel":"6",
+     "modifiedtime":"20221222142553",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"아시아음식문화거리",
+     "zipcode":"61487",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2774008":{
+     "addr1":"광주광역시 동구 동명로67번길 22-44",
+     "addr2":"(산수동)",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"2774008",
+     "contenttypeid":"12",
+     "createdtime":"20211112200917",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/69/2774169_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/69/2774169_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9268760931",
+     "mapy":"35.1536214910",
+     "mlevel":"6",
+     "modifiedtime":"20221206131614",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"푸른길분수공원",
+     "zipcode":"61432",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2783810":{
+     "addr1":"광주광역시 광산구 선암동 241-31",
+     "addr2":"",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"2783810",
+     "contenttypeid":"12",
+     "createdtime":"20211130232009",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.7743675985",
+     "mapy":"35.1439977854",
+     "mlevel":"6",
+     "modifiedtime":"20230320220301",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"황룡친수공원",
+     "zipcode":"",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2783824":{
+     "addr1":"광주광역시 북구 동림동 130-15",
+     "addr2":"",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"2783824",
+     "contenttypeid":"12",
+     "createdtime":"20211130232324",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.8619975926",
+     "mapy":"35.1897079853",
+     "mlevel":"6",
+     "modifiedtime":"20230422130309",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"산동교친수공원",
+     "zipcode":"",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2783851":{
+     "addr1":"광주광역시 광산구 하남대로54번안길 133",
+     "addr2":"(하남동)",
+     "areacode":"5",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"2783851",
+     "contenttypeid":"12",
+     "createdtime":"20211130232910",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.8000950217",
+     "mapy":"35.1783276722",
+     "mlevel":"6",
+     "modifiedtime":"20230802203339",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"경암근린공원",
+     "zipcode":"62336",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2822573":{
+     "addr1":"광주광역시 광산구 장신로82번길 57 공원관리사무소",
+     "addr2":"",
+     "areacode":"5",
+     "booktour":"",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"2822573",
+     "contenttypeid":"12",
+     "createdtime":"20220602144531",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/65/2822565_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/65/2822565_image3_1.jpg",
+     "cpyrhtDivCd":"Type1",
+     "mapx":"126.8202596628",
+     "mapy":"35.1879824765",
+     "mlevel":"6",
+     "modifiedtime":"20220608100521",
+     "sigungucode":"1",
+     "tel":"062-960-8702, 062-960-6857",
+     "title":"광주 수완호수공원",
+     "zipcode":"62225",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"*휠체어가 올라갈 수 있는 경사로가 설치되어 있음\n*문턱없이 평지로 연결되어 휠체어 통과 가능함\n*정문에는 계단이 있어 후문으로 접근 시 문턱없이 접근 가능(후문 경사로 있음)\n*문앞에 2단의 턱이 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  }
+}

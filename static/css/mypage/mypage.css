@@ -1,0 +1,226 @@
+*{
+    font-family: 'Noto Sans KR', sans-serif;
+}
+body, div, ul, li, button{
+    margin: 0; padding: 0;
+}
+body{
+    height: 120vh; font-size: 18px;
+}
+ul, li{
+    list-style: none;
+}
+button{
+    background-color: transparent;
+    border: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+#in_content{
+    float: left;
+    width: 100%;
+    margin: 30px 0;
+}
+
+.tabnav{
+    width: 100%;
+    display: flex;
+}
+.tabnav li{
+    flex: 1;
+    text-align: center;
+}
+
+.tabnav li a:before{
+    content:""; 
+    position:absolute; 
+    left:0; top:0px; 
+    width:100%; height:3px; 
+}
+
+.tabnav li a{ 
+    position:relative; 
+    display:block; 
+    color: #000; 
+    padding:0 20px; 
+    line-height:46px; 
+    text-decoration:none; 
+    font-size: 1rem;
+    border-bottom: 1px solid #ddd;
+}
+.tabnav li a:hover{
+    background:#eee; 
+    color: rgb(125, 104, 244); 
+}
+.tabnav li a.active{
+    color: rgb(125, 104, 244); 
+    border: 1px solid #ddd;
+    border-bottom: none;
+    font-weight: bold;
+}
+.tab_content{
+    height: 620px;
+    padding: 15px;
+}
+
+#info li{
+    margin: 15px;
+}
+#info button{
+    margin: 15px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 15px;
+}
+#info button:hover{
+    background-color: #ddd;
+}
+.offcanvas-body sup{
+    margin: 0;
+    padding: 0;
+    color: #ddd;
+    font-size: 5px;
+}
+.words{
+    font-size: 13px;
+    padding: 0;
+}
+#requests, #reports{
+    height: 200px;
+}
+#reports{
+    margin-top: 15px;
+}
+#plans{
+    height: 620px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 15px;
+}
+.list{
+    flex: 0 1 5%;
+    margin: 10px;
+}
+.list a{
+    text-decoration: none;
+    color: rgb(125, 104, 244); 
+}
+.list button{
+    float: right;
+}
+#bookmarks{
+    width: 100%;
+    display: flex;
+    padding: 0;
+}
+#bookmarks li p{
+    font-size: 13px;
+}
+#bookmarks button{
+    font-size: 18px;
+}
+#folders{
+    flex-shrink: 0;
+    width: 400px;
+    padding: 10px;
+    border-right: 1px solid #ddd;
+    position: relative;
+    height: 620px;
+    overflow-y: scroll;
+}
+
+#folders li{
+    height: 100px;
+    border-bottom: 1px solid #ddd;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+#places{
+    position: absolute;
+    width: 400px;
+    display: none;
+    background-color: white;
+}
+#bookmark_header{
+    height: 100px;
+    border-bottom: 1px solid #ddd;
+    font-size: 18px;
+}
+#bookmark_header p {
+    text-align:center; font-weight:bold;
+}
+#places ul{
+    height: 520px;
+    overflow-y: scroll;
+}
+.modify_btn{
+    float: right;
+    margin-right: 10px;
+}
+.modify{
+    border: 1px solid #ddd;
+    background-color: white;
+    box-shadow: #000;
+    padding: 10px;
+    width: fit-content;
+    float: right;
+    display: none;
+    margin-top: 30px;
+}
+.place{
+    display: none;
+    border-bottom: 1px solid #ddd;
+    height: 80px;
+    padding: 10px 0 10px 20px;
+}
+#map{
+    flex-grow: 1;
+    padding: 30px;
+    height: 620px;
+}
+.marker{
+    width: 30px;
+    height: 30px;
+}
+
+.btn{
+    margin: 15px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 15px;
+}
+.btn:hover{
+    background-color: #ddd;
+}
+table{
+    width: 100%;
+}
+table .narrow{
+    width: 8%;
+    text-align: center;
+}
+table th, td{
+    padding: 10px 5px;
+    border-bottom: 1px solid #ddd;
+}
+table th{
+    border-top: 1px solid #ddd;
+}
+.page_buttons{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+.button{
+    margin: 0 0.5rem;
+    cursor: pointer;
+    padding: 5px;
+}
+.button.active,
+.button:hover {
+    background-color: #ddd;
+}

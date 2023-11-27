@@ -1,0 +1,145 @@
+{
+  "129953": {
+    "addr1": "충청북도 진천군 진천읍 문화로 79",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060700",
+    "contentid": "129953",
+    "contenttypeid": "14",
+    "createdtime": "20071106103647",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/68/1332668_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/68/1332668_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4398715925",
+    "mapy": "36.8500176212",
+    "mlevel": "6",
+    "modifiedtime": "20221019111857",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "진천문화원",
+    "zipcode": "27841",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "130773": {
+    "addr1": "충청북도 진천군 진천읍 백곡로 1504-12",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "130773",
+    "contenttypeid": "14",
+    "createdtime": "20060322090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/89/2668589_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/89/2668589_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4138455803",
+    "mapy": "36.8707258807",
+    "mlevel": "6",
+    "modifiedtime": "20230216111322",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "진천 종박물관",
+    "zipcode": "27843",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "관람석": "장애인 전용 관람석은 없으나 휠체어 접근 가능한 공간 있음(영상실)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음<br />\n점자유도로 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2615388": {
+    "addr1": "충청북도 진천군 진천읍 장관리",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02061100",
+    "contentid": "2615388",
+    "contenttypeid": "14",
+    "createdtime": "20190816201717",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.4138955599",
+    "mapy": "36.8712980380",
+    "mlevel": "6",
+    "modifiedtime": "20230531112347",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "주철장 전수교육관",
+    "zipcode": "27843",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

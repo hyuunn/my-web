@@ -1,0 +1,91 @@
+{
+  "130104": {
+    "addr1": "경기도 군포시 한세로56번길 12",
+    "addr2": "(당정동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060700",
+    "contentid": "130104",
+    "contenttypeid": "14",
+    "createdtime": "20071106104222",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/09/2358209_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/09/2358209_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9548682338",
+    "mapy": "37.3472320578",
+    "mlevel": "6",
+    "modifiedtime": "20230726110206",
+    "sigungucode": "7",
+    "tel": "",
+    "title": "군포문화원",
+    "zipcode": "15853",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "주출입구 앞에는 계단이 많으나 계단 밑 철쭉홀로 진입시 무단차로 접근 가능하며 장애인 주차장에서는 대공연장 출입구로 접근 가능 함"
+      },
+      {
+        "엘리베이터": "엘리베이터,장애인리프트 있음"
+      },
+      {
+        "관람석": "장애인 전용 관람석 있음(수리홀 5개,철쭉홀 3개)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "오디오 가이드": "출입구 앞 음성시설안내 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1730460": {
+    "addr1": "경기도 군포시 고산로 599",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060600",
+    "contentid": "1730460",
+    "contenttypeid": "14",
+    "createdtime": "20121009194944",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.9273257562",
+    "mapy": "37.3664043434",
+    "mlevel": "6",
+    "modifiedtime": "20230125101056",
+    "sigungucode": "7",
+    "tel": "",
+    "title": "군포시문화예술회관",
+    "zipcode": "15820",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능 함"
+      },
+      {
+        "출입통로": "주출입구는 계단이 많고 주출입구 계단 앞 1층 철쭉홀은 무단차로 접근 가능하며 장애인 주차장에서는 대공연장 출입구는 무단차로 접근 가능 함"
+      },
+      {
+        "엘리베이터": "엘리베이터,장애인리프트 있음"
+      },
+      {
+        "관람석": "장애인 전용 관람석 있음(수리홀 나,다,라열 5석/철쭉홀 나열 3석)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

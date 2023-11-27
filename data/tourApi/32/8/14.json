@@ -1,0 +1,644 @@
+{
+  "129884": {
+    "addr1": "강원특별자치도 영월군 영월읍 단종로 12",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060700",
+    "contentid": "129884",
+    "contenttypeid": "14",
+    "createdtime": "20071106103412",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/58/1820358_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/58/1820358_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.4686473421",
+    "mapy": "37.1846731027",
+    "mlevel": "6",
+    "modifiedtime": "20230701103742",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "영월문화원",
+    "zipcode": "26232",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(엘리베이터,주출입구 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "130309": {
+    "addr1": "강원특별자치도 영월군 김삿갓면 김삿갓로 432-10",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "130309",
+    "contenttypeid": "14",
+    "createdtime": "20071106105131",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/79/1583379_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/79/1583379_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.6066042622",
+    "mapy": "37.0963219882",
+    "mlevel": "6",
+    "modifiedtime": "20230701105240",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "조선민화박물관",
+    "zipcode": "26246",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "주차장에서 출입구까지 단차 없이 연결되어 있으나 바닥재질이 자갈임"
+      },
+      {
+        "출입통로": "주출입구에 경사로가 설치되어 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "130467": {
+    "addr1": "강원특별자치도 영월군 영월읍 동강로 716",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "130467",
+    "contenttypeid": "14",
+    "createdtime": "20071106105921",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.5055205311",
+    "mapy": "37.2279382659",
+    "mlevel": "6",
+    "modifiedtime": "20230712103817",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "영월곤충박물관",
+    "zipcode": "26223",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "130475": {
+    "addr1": "강원특별자치도 영월군 김삿갓면 김삿갓로 216-22",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060200",
+    "contentid": "130475",
+    "contenttypeid": "14",
+    "createdtime": "20071106105951",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/90/2026090_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/90/2026090_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.6017051984",
+    "mapy": "37.0794932741",
+    "mlevel": "6",
+    "modifiedtime": "20230701104421",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "난고 김삿갓 문학관",
+    "zipcode": "26246",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "130667": {
+    "addr1": "강원특별자치도 영월군 영월읍 단종로 190",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "130667",
+    "contenttypeid": "14",
+    "createdtime": "20070907090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/77/556177_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/77/556177_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.4546816177",
+    "mapy": "37.1951799631",
+    "mlevel": "6",
+    "modifiedtime": "20230701105259",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "단종역사관",
+    "zipcode": "26225",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(장릉입구 오른쪽)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "130879": {
+    "addr1": "강원특별자치도 영월군 영월읍 영월로 1909-10",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "130879",
+    "contenttypeid": "14",
+    "createdtime": "20061218090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/98/2026098_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/98/2026098_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.4615147283",
+    "mapy": "37.1819788343",
+    "mlevel": "6",
+    "modifiedtime": "20230701105418",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "동강사진박물관",
+    "zipcode": "26235",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "798017": {
+    "addr1": "강원특별자치도 영월군 영월읍 삼옥길 31",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060500",
+    "contentid": "798017",
+    "contenttypeid": "14",
+    "createdtime": "20090905010124",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/27/765427_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/27/765427_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.5068876548",
+    "mapy": "37.2084044293",
+    "mlevel": "6",
+    "modifiedtime": "20230701104539",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "국제현대미술관",
+    "zipcode": "26223",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(화장실)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1398051": {
+    "addr1": "강원특별자치도 영월군 김삿갓면 영월동로 1107-1",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "1398051",
+    "contenttypeid": "14",
+    "createdtime": "20111008023437",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.5354206938",
+    "mapy": "37.1319332118",
+    "mlevel": "6",
+    "modifiedtime": "20230701104927",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "영월아프리카미술박물관",
+    "zipcode": "26245",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(1층)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1625235": {
+    "addr1": "강원특별자치도 영월군 수주면 무릉법흥로 303",
+    "addr2": "(수주면)",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "1625235",
+    "contenttypeid": "14",
+    "createdtime": "20120509024629",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/45/1583345_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/45/1583345_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.2627402129",
+    "mapy": "37.2999559371",
+    "mlevel": "6",
+    "modifiedtime": "20230701105552",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "호야지리박물관",
+    "zipcode": "26201",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1937095": {
+    "addr1": "강원특별자치도 영월군 김삿갓면 영월동로 1121-15",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "1937095",
+    "contenttypeid": "14",
+    "createdtime": "20140726011833",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.5367206235",
+    "mapy": "37.1303723051",
+    "mlevel": "6",
+    "modifiedtime": "20230701105348",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "영월 동굴생태관",
+    "zipcode": "26245",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "대여가능(1대)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1937324": {
+    "addr1": "강원특별자치도 영월군 주천면 송학주천로 899-6",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "1937324",
+    "contenttypeid": "14",
+    "createdtime": "20140728183001",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/31/1937331_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/31/1937331_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.2393330954",
+    "mapy": "37.2357573432",
+    "mlevel": "6",
+    "modifiedtime": "20230725132439",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "인도미술박물관",
+    "zipcode": "26206",
+    "family": [],
+    "handi": [
+      {
+        "출입통로": "단차없어 휠체어로 이동편리함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1959509": {
+    "addr1": "강원특별자치도 영월군 김삿갓면 내리계곡로 1088",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "1959509",
+    "contenttypeid": "14",
+    "createdtime": "20141023223003",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.6771865597",
+    "mapy": "37.1056555920",
+    "mlevel": "6",
+    "modifiedtime": "20230701104533",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "호안다구박물관",
+    "zipcode": "26247",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 휠체어 통과 가능함(수동문)"
+      },
+      {
+        "화장실": "장애인 화장실 있음(외부,남녀분리)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2633903": {
+    "addr1": "강원특별자치도 영월군 주천면 송학주천로 1467-9",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060500",
+    "contentid": "2633903",
+    "contenttypeid": "14",
+    "createdtime": "20191107223126",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/45/2633145_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/45/2633145_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.2691404013",
+    "mapy": "37.2740146038",
+    "mlevel": "6",
+    "modifiedtime": "20231010091237",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "젊은달 와이파크",
+    "zipcode": "26203",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음(카페 달)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2704681": {
+    "addr1": "강원특별자치도 영월군 영월읍 금강공원길 84-3",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "2704681",
+    "contenttypeid": "14",
+    "createdtime": "20210127032801",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.4768993603",
+    "mapy": "37.1853342942",
+    "mlevel": "6",
+    "modifiedtime": "20230713153003",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "라디오스타박물관",
+    "zipcode": "26228",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2735622": {
+    "addr1": "강원특별자치도 영월군 영월읍 청령포로 133",
+    "addr2": "(영월읍)",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "2735622",
+    "contenttypeid": "14",
+    "createdtime": "20210820190127",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.4477160928",
+    "mapy": "37.1776762902",
+    "mlevel": "6",
+    "modifiedtime": "20230808170719",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "강변저류지 홍보관",
+    "zipcode": "26226",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

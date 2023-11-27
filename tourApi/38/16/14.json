@@ -1,0 +1,159 @@
+{
+  "129989": {
+    "addr1": "전라남도 영광군 영광읍 천년로13길 2-28",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060700",
+    "contentid": "129989",
+    "contenttypeid": "14",
+    "createdtime": "20071106103756",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/16/1971116_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/16/1971116_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.5078963649",
+    "mapy": "35.2722815958",
+    "mlevel": "6",
+    "modifiedtime": "20221227183820",
+    "sigungucode": "16",
+    "tel": "",
+    "title": "영광문화원",
+    "zipcode": "57045",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구,계단 앞)_시각장애인 편의시설"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음(1층 입구)"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2405963": {
+    "addr1": "전라남도 영광군 백수읍 해안로 957",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "2405963",
+    "contenttypeid": "14",
+    "createdtime": "20160830004012",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/88/2716488_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/88/2716488_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.3892937782",
+    "mapy": "35.3537120612",
+    "mlevel": "6",
+    "modifiedtime": "20230222092812",
+    "sigungucode": "16",
+    "tel": "",
+    "title": "영광노을전시관",
+    "zipcode": "57025",
+    "family": [
+      {
+        "유모차": "대여가능"
+      },
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음(수동문)"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "접근로 데크로드 구간 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "안내요원": "안내요원 있음(관광안내소)"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음(핸드레일)"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2556171": {
+    "addr1": "전라남도 영광군 영광읍 중앙로 228-16",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060900",
+    "contentid": "2556171",
+    "contenttypeid": "14",
+    "createdtime": "20180803001110",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/16/1971116_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/16/1971116_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.5159399224",
+    "mapy": "35.2792531625",
+    "mlevel": "6",
+    "modifiedtime": "20230117134930",
+    "sigungucode": "16",
+    "tel": "",
+    "title": "영광군립도서관",
+    "zipcode": "57051",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구,계단 앞)_시각장애인 편의시설"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음(1층입구)"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "0000",
+      "resultMsg": "OK"
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "addr1": "전라북도 전주시 덕진구 기린대로 451",
+            "addr2": "(덕진동1가)",
+            "areacode": "37",
+            "booktour": "",
+            "cat1": "A03",
+            "cat2": "A0302",
+            "cat3": "A03020300",
+            "contentid": "1625303",
+            "contenttypeid": "28",
+            "createdtime": "20120509030159",
+            "firstimage": "http://tong.visitkorea.or.kr/cms/resource/58/1605458_image2_1.jpg",
+            "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/58/1605458_image3_1.jpg",
+            "cpyrhtDivCd": "Type3",
+            "mapx": "127.1263269556",
+            "mapy": "35.8390416554",
+            "mlevel": "6",
+            "modifiedtime": "20230906133109",
+            "sigungucode": "12",
+            "tel": "063-239-2554",
+            "title": "전주종합경기장",
+            "zipcode": "54894"
+          },
+          {
+            "addr1": "전라북도 전주시 덕진구 안덕원로 71",
+            "addr2": "(진북동)",
+            "areacode": "37",
+            "booktour": "",
+            "cat1": "A03",
+            "cat2": "A0302",
+            "cat3": "A03020200",
+            "contentid": "131192",
+            "contenttypeid": "28",
+            "createdtime": "20020806090000",
+            "firstimage": "http://tong.visitkorea.or.kr/cms/resource/28/1974428_image2_1.jpg",
+            "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/28/1974428_image3_1.jpg",
+            "cpyrhtDivCd": "Type3",
+            "mapx": "127.1375373270",
+            "mapy": "35.8291763059",
+            "mlevel": "6",
+            "modifiedtime": "20230802202941",
+            "sigungucode": "12",
+            "tel": "",
+            "title": "전주교육문화회관",
+            "zipcode": "54936"
+          },
+          {
+            "addr1": "전라북도 전주시 덕진구 기린대로 1055",
+            "addr2": "",
+            "areacode": "37",
+            "booktour": "",
+            "cat1": "A03",
+            "cat2": "A0302",
+            "cat3": "A03020300",
+            "contentid": "131722",
+            "contenttypeid": "28",
+            "createdtime": "20040318090000",
+            "firstimage": "http://tong.visitkorea.or.kr/cms/resource/24/1605424_image2_1.jpg",
+            "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/24/1605424_image3_1.jpg",
+            "cpyrhtDivCd": "Type3",
+            "mapx": "127.0645233665",
+            "mapy": "35.8681289403",
+            "mlevel": "6",
+            "modifiedtime": "20220913134906",
+            "sigungucode": "12",
+            "tel": "",
+            "title": "전주월드컵경기장",
+            "zipcode": "54809"
+          }
+        ]
+      },
+      "numOfRows": 3,
+      "pageNo": 1,
+      "totalCount": 3
+    }
+  }
+}

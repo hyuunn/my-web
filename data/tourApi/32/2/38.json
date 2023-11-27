@@ -1,0 +1,153 @@
+{
+  "132783": {
+    "addr1": "강원특별자치도 고성군 간성읍 간성시장2길 6",
+    "addr2": "(간성읍)",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010100",
+    "contentid": "132783",
+    "contenttypeid": "38",
+    "createdtime": "20070508090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/77/1947777_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/77/1947777_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.4674999859",
+    "mapy": "38.3784708464",
+    "mlevel": "6",
+    "modifiedtime": "20230701102101",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "고성 간성시장 (2, 7일)",
+    "zipcode": "24735",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(주차장 상가 사무실 건물)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주차장 화장실 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "132784": {
+    "addr1": "강원특별자치도 고성군 거진읍 거진시장길 17-11",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010100",
+    "contentid": "132784",
+    "contenttypeid": "38",
+    "createdtime": "20070508090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/75/3026775_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/75/3026775_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.4538101632",
+    "mapy": "38.4479596904",
+    "mlevel": "6",
+    "modifiedtime": "20231027162455",
+    "sigungucode": "2",
+    "tel": "033-681-2191",
+    "title": "거진장 / 고성 거진시장 (1, 6일)",
+    "zipcode": "24715",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(공중화장실)_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1911421": {
+    "addr1": "강원특별자치도 고성군 현내면 통일전망대로 369",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010900",
+    "contentid": "1911421",
+    "contenttypeid": "38",
+    "createdtime": "20140407191051",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/39/3026739_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/39/3026739_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.3827237217",
+    "mapy": "38.5763766314",
+    "mlevel": "6",
+    "modifiedtime": "20231027155452",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "고성 DMZ박물관 뮤지엄샵",
+    "zipcode": "24701",
+    "family": [
+      {
+        "유모차": "대여가능(DMZ박물관)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능(DMZ박물관)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "엘리베이터": "장애인용 엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

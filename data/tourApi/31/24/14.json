@@ -1,0 +1,105 @@
+{
+  "130399": {
+    "addr1": "경기도 의왕시 백운로 23",
+    "addr2": "(오전동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060700",
+    "contentid": "130399",
+    "contenttypeid": "14",
+    "createdtime": "20071106105535",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/85/2553185_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/85/2553185_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9818656434",
+    "mapy": "37.3521125293",
+    "mlevel": "6",
+    "modifiedtime": "20230329113814",
+    "sigungucode": "24",
+    "tel": "",
+    "title": "의왕문화원",
+    "zipcode": "16065",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음 (접근로)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1850672": {
+    "addr1": "경기도 의왕시 왕송못동로 209",
+    "addr2": "(월암동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "1850672",
+    "contenttypeid": "14",
+    "createdtime": "20131011191523",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.9502807778",
+    "mapy": "37.3108778568",
+    "mlevel": "6",
+    "modifiedtime": "20220608132141",
+    "sigungucode": "24",
+    "tel": "",
+    "title": "의왕조류생태과학관",
+    "zipcode": "16107",
+    "family": [
+      {
+        "수유실": "수유실 있음(과학관 1층 키즈카페)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "대여가능(1대)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음 (1층-여, 2층-남)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      },
+      {
+        "오디오 가이드": "전시해설 스마트폰 어플 제공 (한국어)"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "1342269": {
+    "addr1": "전라남도 고흥군 도화면 천마로 2736-29",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020200",
+    "contentid": "1342269",
+    "contenttypeid": "39",
+    "createdtime": "20110726235513",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.3531301266",
+    "mapy": "34.4905254297",
+    "mlevel": "6",
+    "modifiedtime": "20220713104607",
+    "sigungucode": "2",
+    "tel": "061-832-0100",
+    "title": "빅토리아레스토랑",
+    "zipcode": "59528",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "입식(의자식)테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1369177": {
+    "addr1": "전라남도 고흥군 도양읍 목넘가는길 19",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "1369177",
+    "contenttypeid": "39",
+    "createdtime": "20110823235221",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.1326707334",
+    "mapy": "34.5274370260",
+    "mlevel": "6",
+    "modifiedtime": "20230828163956",
+    "sigungucode": "2",
+    "tel": "061-842-5199",
+    "title": "녹동회타운",
+    "zipcode": "59557",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

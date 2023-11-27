@@ -1,0 +1,78 @@
+{
+  "1985854": {
+    "addr1": "전라북도 순창군 팔덕면 강천산길 85",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "1985854",
+    "contenttypeid": "39",
+    "createdtime": "20150126220542",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.0688209680",
+    "mapy": "35.4085950781",
+    "mlevel": "6",
+    "modifiedtime": "20230526091924",
+    "sigungucode": "7",
+    "tel": "063-652-9920",
+    "title": "강천각식당",
+    "zipcode": "56020",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "주출입구까지의 보행로에 보행장애물이 있으나, 휠체어가 지나갈 수 있는 공간이 있음\n차도와 보행자의 이동 동선이 분명하게 구분되어 있음_무장애\n 편의정보"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2717157": {
+    "addr1": "전라북도 순창군 순창읍 순창로 102-2",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2717157",
+    "contenttypeid": "39",
+    "createdtime": "20210514194816",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/86/2706586_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/86/2706586_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1425711011",
+    "mapy": "35.3652873549",
+    "mlevel": "",
+    "modifiedtime": "20230926170519",
+    "sigungucode": "7",
+    "tel": "",
+    "title": "베르자르당",
+    "zipcode": "56049",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

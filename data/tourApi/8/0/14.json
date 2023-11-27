@@ -1,0 +1,563 @@
+{
+  "129968":{
+     "addr1":"세종특별자치시 조치원읍 문화로 17",
+     "addr2":"",
+     "areacode":"8",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060700",
+     "contentid":"129968",
+     "contenttypeid":"14",
+     "createdtime":"20071106103716",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/29/1871029_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/29/1871029_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.3005575929",
+     "mapy":"36.6033740279",
+     "mlevel":"6",
+     "modifiedtime":"20220919094751",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"세종문화원",
+     "zipcode":"30024",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"접근로 경사로 있음"
+        },
+        {
+           "출입통로":"출입통로 휠체어 단독 진입 가능"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음<br />\n수평수직바 있으나 휠체어 회전은 어려움"
+        },
+        {
+           "관람석":"대강당-장애인 석 있음 (3석)<br />\n소강당-실내는 간이의자 형식으로 실내접근은 용이하나 2층계단이 있어<br />휠체어 진입 어려움"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "130133":{
+     "addr1":"세종특별자치시 금남면 산림박물관길 110",
+     "addr2":"",
+     "areacode":"8",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060100",
+     "contentid":"130133",
+     "contenttypeid":"14",
+     "createdtime":"20071106104336",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/32/1870832_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/32/1870832_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.2377899962",
+     "mapy":"36.4361920872",
+     "mlevel":"6",
+     "modifiedtime":"20230728130935",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"충청남도 산림박물관",
+     "zipcode":"30085",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "130952":{
+     "addr1":"세종특별자치시 국세청로 8-14",
+     "addr2":"(나성동)",
+     "areacode":"8",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060100",
+     "contentid":"130952",
+     "contenttypeid":"14",
+     "createdtime":"20070806090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/64/2437964_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/64/2437964_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.2607310549",
+     "mapy":"36.4852257627",
+     "mlevel":"6",
+     "modifiedtime":"20230222174728",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"국립조세박물관",
+     "zipcode":"30128",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함_무장애 편의시설"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실,주출입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1755029":{
+     "addr1":"세종특별자치시 조치원읍 문예회관길 22",
+     "addr2":"",
+     "areacode":"8",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060600",
+     "contentid":"1755029",
+     "contenttypeid":"14",
+     "createdtime":"20121121014058",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.2874144269",
+     "mapy":"36.5997714302",
+     "mlevel":"6",
+     "modifiedtime":"20230118151022",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"세종문화예술회관",
+     "zipcode":"30020",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        },
+        {
+           "관람석":"장애인 전용 관람석 있음(12석,다열 뒷줄과 중간줄)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(접근로)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1896898":{
+     "addr1":"세종특별자치시 다솜3로 48",
+     "addr2":"(어진동)",
+     "areacode":"8",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060900",
+     "contentid":"1896898",
+     "contenttypeid":"14",
+     "createdtime":"20140220025615",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/79/2643479_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/79/2643479_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.2683855544",
+     "mapy":"36.4988104520",
+     "mlevel":"6",
+     "modifiedtime":"20220930134116",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"국립세종도서관",
+     "zipcode":"30120",
+     "family":[
+        {
+           "수유실":"수유실 있음 (어린이실)"
+        },
+        {
+           "영유아가족 기타 지원 항목":"가족화장실 있음, 어린이자료실 있음"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"장애인용 엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        },
+        {
+           "관람석":"영상실에 휠체어석 있음"
+        },
+        {
+           "기타 지원 항목":"장애인 도서택배서비스 있음, 장애인정보누리터 있음"
+        }
+     ],
+     "hearing":[
+        {
+           "수화안내":"수화안내 가능 (자원봉사자 지원이 필요하므로 사전확인 필수)"
+        },
+        {
+           "자막 비디오 가이드 및 영상 자막 안내":"자막도서 있음"
+        }
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실 앞)_시각장애인 편의시설"
+        },
+        {
+           "점자 홍보물 및 점자 표지판":"점자도서 있음(일반자료실1)"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"1",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1951646":{
+     "addr1":"세종특별자치시 전의면 금사길 75",
+     "addr2":"",
+     "areacode":"8",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060100",
+     "contentid":"1951646",
+     "contenttypeid":"14",
+     "createdtime":"20140926011207",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.1704135845",
+     "mapy":"36.6086211161",
+     "mlevel":"6",
+     "modifiedtime":"20230224102606",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"세종시립민속박물관",
+     "zipcode":"30008",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "휠체어":"대여가능"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음(1층)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2008556":{
+     "addr1":"세종특별자치시  다솜3로 66 정부세종컨벤션센터",
+     "addr2":"",
+     "areacode":"8",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060400",
+     "contentid":"2008556",
+     "contenttypeid":"14",
+     "createdtime":"20150608201505",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/18/2008518_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/18/2008518_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.2688382303",
+     "mapy":"36.5010685337",
+     "mlevel":"6",
+     "modifiedtime":"20230307163440",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"정부세종컨벤션센터",
+     "zipcode":"30107",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"장애인용 엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        },
+        {
+           "기타 지원 항목":"외부 엘리베이터 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음_시각장애인 편의시설"
+        },
+        {
+           "점자 홍보물 및 점자 표지판":"점자안내판 있음"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2709995":{
+     "addr1":"세종특별자치시 다솜로 250",
+     "addr2":"(어진동)",
+     "areacode":"8",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02060300",
+     "contentid":"2709995",
+     "contenttypeid":"14",
+     "createdtime":"20210317233212",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.2732655939",
+     "mapy":"36.5017018737",
+     "mlevel":"6",
+     "modifiedtime":"20221212143937",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"대통령기록전시관",
+     "zipcode":"30107",
+     "family":[
+        {
+           "유모차":"대여가능"
+        },
+        {
+           "수유실":"수유실 있음(전시관 1층 구름다리 건너편)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "휠체어":"대여가능"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        },
+        {
+           "관람석":"장애인 전용 관람석 있음(5석/2층 대강당)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음(카페 및 식당)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자유도로 있음_시각장애인 편의시설"
+        },
+        {
+           "안내요원":"안내요원 있음(안내데스크)"
+        },
+        {
+           "오디오 가이드":"음성안내 버튼 있음(점자안내판)"
+        },
+        {
+           "점자 홍보물 및 점자 표지판":"점자안내판 있음"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2758601":{
+     "addr1":"세종특별자치시 국책연구원3로 12",
+     "addr2":"(반곡동)",
+     "areacode":"8",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0203",
+     "cat3":"A02030400",
+     "contentid":"2758601",
+     "contenttypeid":"14",
+     "createdtime":"20211019015614",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/86/2758586_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/86/2758586_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.3032714889",
+     "mapy":"36.4924201361",
+     "mlevel":"6",
+     "modifiedtime":"20230405103430",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"비오케이아트센터",
+     "zipcode":"30147",
+     "family":[
+        {
+           "수유실":"수유실 있음"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2761646":{
+     "addr1":"세종특별자치시 국세청로 32",
+     "addr2":"(나성동)",
+     "areacode":"8",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0203",
+     "cat3":"A02030400",
+     "contentid":"2761646",
+     "contenttypeid":"14",
+     "createdtime":"20211025205225",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.2619836862",
+     "mapy":"36.4864673089",
+     "mlevel":"6",
+     "modifiedtime":"20230303105912",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"세종지혜의숲(지혜의숲)",
+     "zipcode":"30128",
+     "family":[
+        {
+           "수유실":"수유실 있음"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  }
+}

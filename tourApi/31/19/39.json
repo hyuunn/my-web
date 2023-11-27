@@ -1,0 +1,252 @@
+{
+  "608274": {
+    "addr1": "경기도 양평군 옥천면 신복길 124",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "608274",
+    "contenttypeid": "39",
+    "createdtime": "20080812233142",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/34/612534_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/34/612534_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4668053672",
+    "mapy": "37.5321698635",
+    "mlevel": "6",
+    "modifiedtime": "20230530134119",
+    "sigungucode": "19",
+    "tel": "031-774-4369",
+    "title": "두부와보리 (옥천순두부)",
+    "zipcode": "12505",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1847699": {
+    "addr1": "경기도 양평군 서종면 북한강로 783-1",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "1847699",
+    "contenttypeid": "39",
+    "createdtime": "20130928012026",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.3489527981",
+    "mapy": "37.6072701055",
+    "mlevel": "6",
+    "modifiedtime": "20231102102135",
+    "sigungucode": "19",
+    "tel": "031-773-9960",
+    "title": "미진메밀마을",
+    "zipcode": "12502",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2539349": {
+    "addr1": "경기도 양평군 양서면 용담5길 23",
+    "addr2": "A동 101",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2539349",
+    "contenttypeid": "39",
+    "createdtime": "20180309002508",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/72/2538972_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/72/2538972_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3269843335",
+    "mapy": "37.5460879186",
+    "mlevel": "6",
+    "modifiedtime": "20230911200748",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "두머리부엌",
+    "zipcode": "12584",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2852798": {
+    "addr1": "경기도 양평군 산수로 3096",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2852798",
+    "contenttypeid": "39",
+    "createdtime": "20220914094357",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/84/2852784_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/84/2852784_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3894440837",
+    "mapy": "37.4926258142",
+    "mlevel": "6",
+    "modifiedtime": "20221024182929",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "헤리베르",
+    "zipcode": "12574",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문/자동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2854143": {
+    "addr1": "경기도 양평군 북한강로 952-5",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2854143",
+    "contenttypeid": "39",
+    "createdtime": "20220915144758",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/35/2854135_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/35/2854135_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.3532075388",
+    "mapy": "37.6221017941",
+    "mlevel": "6",
+    "modifiedtime": "20221024175357",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "느린정원",
+    "zipcode": "12502",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2854299": {
+    "addr1": "경기도 양평군 신복길 15",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2854299",
+    "contenttypeid": "39",
+    "createdtime": "20220915152900",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/91/2854291_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/91/2854291_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4621977047",
+    "mapy": "37.5234041292",
+    "mlevel": "6",
+    "modifiedtime": "20221201150608",
+    "sigungucode": "19",
+    "tel": "",
+    "title": "몽실면당",
+    "zipcode": "12505",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

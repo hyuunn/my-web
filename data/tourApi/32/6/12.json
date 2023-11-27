@@ -1,0 +1,280 @@
+{
+  "800067": {
+    "addr1": "강원특별자치도 양구군 국토정중앙면 국토정중앙로 (127, 국토정중앙)",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010500",
+    "contentid": "800067",
+    "contenttypeid": "12",
+    "createdtime": "20090909013323",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/46/1583246_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/46/1583246_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.0296994153",
+    "mapy": "38.0689929629",
+    "mlevel": "6",
+    "modifiedtime": "20230703201814",
+    "sigungucode": "6",
+    "tel": "",
+    "title": "국토정중앙천문대",
+    "zipcode": "24556",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2568827": {
+    "addr1": "강원특별자치도 양구군 양구읍 금강산로 439-51",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "2568827",
+    "contenttypeid": "12",
+    "createdtime": "20181122195631",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/31/2566531_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/31/2566531_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.9903513839",
+    "mapy": "38.1222387914",
+    "mlevel": "6",
+    "modifiedtime": "20230720162932",
+    "sigungucode": "6",
+    "tel": "",
+    "title": "양구근현대사박물관",
+    "zipcode": "24520",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "대여가능(1대)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2568829": {
+    "addr1": "강원특별자치도 양구군 양구읍 파로호로869번길 101",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "2568829",
+    "contenttypeid": "12",
+    "createdtime": "20181122200140",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/62/2566562_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/62/2566562_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.9811633400",
+    "mapy": "38.1220025339",
+    "mlevel": "6",
+    "modifiedtime": "20230703200906",
+    "sigungucode": "6",
+    "tel": "",
+    "title": "양구인문학박물관",
+    "zipcode": "24515",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2569462": {
+    "addr1": "강원특별자치도 양구군 양구읍 박수근로 367",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02011000",
+    "contentid": "2569462",
+    "contenttypeid": "12",
+    "createdtime": "20181124034601",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.9811972135",
+    "mapy": "38.1040990654",
+    "mlevel": "6",
+    "modifiedtime": "20230702190419",
+    "sigungucode": "6",
+    "tel": "",
+    "title": "DMZ산림두드림센터",
+    "zipcode": "24519",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2714079": {
+    "addr1": "강원특별자치도 양구군 양구읍 박수근로 366-24",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2714079",
+    "contenttypeid": "12",
+    "createdtime": "20210420012845",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.9828359190",
+    "mapy": "38.1052211879",
+    "mlevel": "6",
+    "modifiedtime": "20230703082055",
+    "sigungucode": "6",
+    "tel": "",
+    "title": "청춘양구레포츠공원",
+    "zipcode": "24519",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2714550": {
+    "addr1": "강원특별자치도 양구군 동면 숨골로310번길 131",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010700",
+    "contentid": "2714550",
+    "contenttypeid": "12",
+    "createdtime": "20210427003809",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.0740222459",
+    "mapy": "38.1900297009",
+    "mlevel": "6",
+    "modifiedtime": "20230927141801",
+    "sigungucode": "6",
+    "tel": "",
+    "title": "양구 수목원",
+    "zipcode": "24511",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

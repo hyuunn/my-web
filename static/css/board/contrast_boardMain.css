@@ -1,0 +1,32 @@
+:root {
+    --blue : rgb(41, 108, 255);
+  }
+body{
+    background-color: black;
+    font-size: 18px;
+    color: white;
+}
+.navbar{
+    background-color: black;
+}
+*{
+    font-family: 'Noto Sans KR', sans-serif;
+}
+a{
+    text-decoration: none;
+    color: var(--blue);
+}
+#header button{
+    color: var(--blue);
+    font-weight: bold;
+}
+.bottomBox, .planBox{
+    background-color: black;
+}
+.top-title,.bottom-title{
+    color:yellow;
+    box-shadow: none;
+}
+.Bcard{
+    border: 2px solid yellowgreen;
+}

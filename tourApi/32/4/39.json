@@ -1,0 +1,133 @@
+{
+  "626039": {
+    "addr1": "강원특별자치도 삼척시 동해대로 3935",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "626039",
+    "contenttypeid": "39",
+    "createdtime": "20080919010524",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "129.1815981598",
+    "mapy": "37.4343858610",
+    "mlevel": "6",
+    "modifiedtime": "20230831130437",
+    "sigungucode": "4",
+    "tel": "033-576-0789",
+    "title": "부림해물",
+    "zipcode": "25928",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2420329": {
+    "addr1": "강원특별자치도 삼척시 테마타운길 19",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020200",
+    "contentid": "2420329",
+    "contenttypeid": "39",
+    "createdtime": "20160921223518",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "129.1705203796",
+    "mapy": "37.4666735935",
+    "mlevel": "6",
+    "modifiedtime": "20230702101858",
+    "sigungucode": "4",
+    "tel": "033-576-0988",
+    "title": "알로블루빈",
+    "zipcode": "25909",
+    "family": [
+      {
+        "유아용 보조 의자": "구비(3대)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음(수동문)_무장애 편의시설"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2605877": {
+    "addr1": "강원특별자치도 삼척시 대학로 12",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020400",
+    "contentid": "2605877",
+    "contenttypeid": "39",
+    "createdtime": "20190611190757",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/79/2606379_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/79/2606379_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.1635384244",
+    "mapy": "37.4422179396",
+    "mlevel": "6",
+    "modifiedtime": "20230702050147",
+    "sigungucode": "4",
+    "tel": "033-574-2082",
+    "title": "[백년가게]동승춘",
+    "zipcode": "25920",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

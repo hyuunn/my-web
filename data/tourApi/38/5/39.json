@@ -1,0 +1,123 @@
+{
+  "1349170": {
+    "addr1": "전라남도 구례군 토지면 섬진강대로 5041",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "1349170",
+    "contenttypeid": "39",
+    "createdtime": "20110803204416",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.5260415706",
+    "mapy": "35.1969518722",
+    "mlevel": "6",
+    "modifiedtime": "20230920135554",
+    "sigungucode": "5",
+    "tel": "061-781-9393",
+    "title": "섬진강 다슬기",
+    "zipcode": "57624",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1364817": {
+    "addr1": "전라남도 구례군 산동면 지리산온천로 257",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "1364817",
+    "contenttypeid": "39",
+    "createdtime": "20110817201009",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.4562224016",
+    "mapy": "35.3170954379",
+    "mlevel": "6",
+    "modifiedtime": "20230523151042",
+    "sigungucode": "5",
+    "tel": "061-783-0481",
+    "title": "이대순두부",
+    "zipcode": "57604",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "접근로까지 보도블럭이 평탄함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2906086": {
+    "addr1": "전라남도 구례군 섬진강로 23",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2906086",
+    "contenttypeid": "39",
+    "createdtime": "20221111113959",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/77/2906077_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/77/2906077_image3_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4535903923",
+    "mapy": "35.1668456766",
+    "mlevel": "6",
+    "modifiedtime": "20230202165153",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "구례역대합실",
+    "zipcode": "57659",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

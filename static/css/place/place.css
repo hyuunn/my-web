@@ -1,0 +1,420 @@
+.bookmark{
+    width:90%;
+    margin-right:5%;
+    text-align: right;
+}
+.title{
+    text-align: center;
+    font-size:25px;
+}
+.subtitle{
+    text-align: center;
+    font-size:15px;
+}
+body{
+    margin:0px;
+    background-color: #F6F6F6;
+    min-height: 100vh;
+    font-family: 'Noto Sans KR', sans-serif;
+    
+}
+.main{
+    box-shadow: 0 9px 22px rgba(139, 139, 139, 0.25), 0 5px 5px rgba(139, 139, 139, 0.22);
+}
+.sideMenu{
+    
+    display:flex;
+    width:7%;
+    height:300px;
+    margin-left:5%;
+    
+    
+   
+    justify-content: space-evenly;
+    text-align: center;
+    position:fixed;
+    flex-direction: column; 
+}
+.sideMenu div{
+   
+    width:100%;
+    
+    
+}
+.sideMenu div p{
+    text-align: left;
+    font-size:12px;
+    
+}
+.content{
+    background-color: red;
+    width:78%;
+    margin-left:17%;
+}
+.main{
+    
+    width:75%;
+    background-color: white;
+    margin-left:15%;
+    
+    border-radius: 20px;
+}
+
+.handicapTitle{
+    font-size: 17px;
+}
+.handicapTitle{
+    width:100%;
+    border-radius: 15px;
+    background-color: #d9d9d9;
+
+}
+.img,.summary,.detail,.handicap{
+    width:70%;
+    
+    margin-left:15%;
+}
+/* .img{
+    width:50%;
+    margin-left:25%;
+} */
+table,.table {
+    border-collapse: collapse; /* 테이블 셀 경계 병합 */
+  }
+  
+  tr {
+    border-bottom: 0.5px solid #d9d9d9; /* 가로줄 스타일 적용 */
+  }
+  
+  td, th {
+    border: none; /* 셀과 헤더 테두리 없애기 */
+  }
+
+.mapAddr {
+    position: relative;
+    padding:0 2%;
+    width: 60%;
+    line-height: 70px;
+    height: 70px;
+    background-color: aliceblue;
+    margin-left: 20%;
+    display: flex; /* Flexbox를 사용하여 내부 컨텐츠를 정렬합니다 */
+    justify-content: left; /* 내부 컨텐츠를 양쪽 끝으로 정렬합니다 */
+    align-items: center; /* 수직 가운데 정렬합니다 */
+  }
+  
+  .mapAddr p {
+    margin: 5px; /* 기본 마진을 제거합니다 */
+  }
+  
+  .mapAddr img {
+    width: 80px;
+    
+    
+  }
+  .title2{
+    
+    margin-left:5%;
+    width:90%;
+    display: flex; /* Flexbox를 사용하여 내부 컨텐츠를 정렬합니다 */
+    justify-content: space-between; /* 내부 컨텐츠를 양쪽 끝으로 정렬합니다 */
+    align-items: center;
+  }
+  .title2 > * {
+    display: inline-block;
+    
+  }
+  .title2 div{
+
+    display: flex; /* Flexbox를 사용하여 내부 컨텐츠를 정렬합니다 */
+    justify-content: space-between; /* 내부 컨텐츠를 양쪽 끝으로 정렬합니다 */
+    align-items: center;
+  }
+
+  .title2 h5,p{
+    margin-top:15px; 
+  }
+  .title2 button {
+    margin-right:30px;
+    border-radius: 1em;
+    border: 2px solid gray; /* 버튼의 기본 테두리 제거 */
+    background:none; /* 버튼의 배경색 제거 */
+     padding:10px;/* 버튼의 여백 제거 */
+     font-size:13px;
+     margin-top:5px;
+  }
+
+  @keyframes downSlide {
+    from{
+        height:0px;
+        opacity:0;
+    }to{
+        height:400px;
+        opacity:1;
+    }
+}
+@keyframes upSlide {
+    from{
+        height:400px;
+        opacity:1;
+    }to{
+        height:0px;
+        opacity:0;
+    }
+}
+.close{
+    display:none;
+}
+
+.reviewD{
+    background-color: white;
+    
+ 
+    
+    width:100%; 
+    padding:2px;
+    display:flex;
+    justify-content: left;
+    flex-wrap: wrap;
+    
+}
+
+.topTitle1{
+    display:flex;
+    height:38px;
+    width:110%; 
+   
+    justify-content: space-between;
+}
+.upImage{
+    color:#000000;
+}
+#cardDiv{
+    width:300px;
+}
+.commentSubmit{
+    width:5%; 
+    position:relative; 
+    top:-10px;  
+    all:unset; 
+    font-size: 14px; 
+    color:gray;
+}
+.hidden{
+    display:none;
+}
+.commentTextarea{
+    font-size:16px;
+    width:80%; 
+    margin-left:7%; 
+    height:60px;
+    resize: none; 
+}
+
+
+.header{
+    width:100%;
+    display:flex;
+    justify-content: space-between;
+    margin:0px;
+    padding-top:5px;
+    padding-left:5px;
+    padding-right:5px;
+   
+}
+.Bcard{
+    
+    border:1px solid #cecece;
+    box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.22);
+    border-left:7px solid rgb(181, 220, 255);
+    width:367px;
+    margin:10px;
+    padding:5px;
+    border-radius: 12px;
+    text-align: center;
+    
+}
+.Bcard-body{
+    display:flex;
+    min-height: 150px;
+    flex-direction:column;
+    justify-content: space-evenly;
+}
+
+.cardBt{
+    background-color: aliceblue;
+    border-radius: 12px;
+    width:100%;
+    height:30px;
+    margin-bottom:3px;
+    border:0.5px solid rgb(211, 211, 211);
+    
+}
+.card-handiDiv{
+    width:100%; 
+    text-align:right;
+}
+.post-title{
+    position: relative; 
+    top:15px;
+    font-size:16px;
+}
+
+.reviewTop{
+    width:97%;
+    margin-bottom:30px;
+    text-align: right;
+}
+
+.choiceBt{
+    border:none;
+    background-color: white;
+}
+.choiceBtG{
+    border:none;
+    background-color: #ddd;
+}
+.noReviewDiv{
+    width:100%;
+    display:flex;
+    height: 150px;
+    flex-direction:column;
+    justify-content: space-evenly;
+    text-align: center;
+}
+.plusDiv{
+    flex-basis:100%; 
+    height:90px;
+    display:flex;
+    align-items:center; 
+    justify-content:center;
+}
+.plusIcon{
+    color: #787878;
+}
+
+/* 댓글 css부분 !! */
+
+.update {
+    all: unset;
+    color: gray;
+    font-size: 16px;
+    text-align: right;
+    margin-right: 5px;
+  }
+  
+  .delete {
+    all: unset;
+    color: gray;
+    font-size: 16px;
+    text-align: right;
+    margin-right: 5px;
+    margin-left: 3%;
+  }
+  
+  [class^='name'],
+  .updateDiv {
+    flex-basis: 23%;
+  }
+  
+  [class^='name'] p,
+  .updateName {
+    color: gray;
+    margin-left: 20%;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  .comment_time{
+    margin-left: 30px;
+    font-size: 14px;
+    color: gray;
+  }
+  #commentBox{
+    padding: 20px 20px 50px 20px;
+  }
+  .updateBtn{
+    text-align: right;
+    flex-basis: 23%;
+  }
+  [class^='description'] {
+    flex-basis: 60%;
+    font-size: 16px;
+    color: gray;
+  }
+  
+  .recomment {
+    all: unset;
+    color: gray;
+    font-size: 16px;
+    text-align: right;
+    margin-right: 5px;
+  }
+  
+  [class^='recommentDiv'] {
+    width: 90%;
+    margin-left: 10%;
+  }
+  
+  
+  #commentID {
+    min-height: 80px;
+    padding-top: 10px;
+    display: flex;
+    border-top: 0.2px solid rgb(179, 179, 179);
+  }
+  
+  .comment {
+    flex-basis: 70%;
+    margin-left: 10%;
+    height: 60px;
+    resize: none;
+    font-size: 16px;
+  }
+  
+  .updateCancel,
+  .recommentCancel {
+    width: 5%;
+    height: 5%;
+    position: relative;
+    top: -10px;
+    all: unset;
+    color: gray;
+    font-size: 16px;
+    margin-left: 3%;
+  }
+  
+  .updateSubmit,
+  .recommentSubmit {
+    width: 5%;
+    height: 5%;
+    position: relative;
+    top: -50px;
+    all: unset;
+    font-size: 16px;
+    color: gray;
+    margin-left: 0.5%;
+  }
+  
+  .recommentForm {
+    display: flex;
+    width: 100%;
+  }
+  
+  
+  .updateDiv {
+    flex-basis: 23%;
+  
+  }
+  
+  .updateForm {
+    display: flex;
+    width: 100%;
+  }
+  
+  #updateTA {
+    flex-basis: 50%;
+    left: 10%;
+    height: 60px;
+    resize: none;
+    font-size: 16px;
+  }

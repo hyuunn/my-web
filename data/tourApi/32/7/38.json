@@ -1,0 +1,54 @@
+{
+  "131998": {
+    "addr1": "강원특별자치도 양양군 양양읍 남문5길 4-1",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010100",
+    "contentid": "131998",
+    "contenttypeid": "38",
+    "createdtime": "20020422090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/41/2738641_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/41/2738641_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.6231730870",
+    "mapy": "38.0750203187",
+    "mlevel": "6",
+    "modifiedtime": "20230701101232",
+    "sigungucode": "7",
+    "tel": "033-671-2878",
+    "title": "양양전통시장 (4, 9일)",
+    "zipcode": "25030",
+    "family": [
+      {
+        "수유실": "수유실 있음(문화카페 내부)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(웰컴센터)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(화장실 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

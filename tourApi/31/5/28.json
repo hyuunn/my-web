@@ -1,0 +1,129 @@
+{
+  "131349": {
+    "addr1": "경기도 광주시 초월읍 경수길 25",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03020200",
+    "contentid": "131349",
+    "contenttypeid": "28",
+    "createdtime": "20020712090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/66/1956866_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/66/1956866_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2871609973",
+    "mapy": "37.4200934746",
+    "mlevel": "6",
+    "modifiedtime": "20220418101656",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "SRC재활체육관 광주",
+    "zipcode": "12728",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "장애인 강습있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "646762": {
+    "addr1": "경기도 광주시 도척면 도척윗로 278",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03021200",
+    "contentid": "646762",
+    "contenttypeid": "28",
+    "createdtime": "20081105231806",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/32/2658432_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/32/2658432_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2922239974",
+    "mapy": "37.3374836915",
+    "mlevel": "6",
+    "modifiedtime": "20230110141703",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "곤지암리조트 스키장",
+    "zipcode": "12809",
+    "family": [
+      {
+        "유모차": "유모차 대여 가능함"
+      }
+    ],
+    "handi": [],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "0"
+  },
+  "2722856": {
+    "addr1": "경기도 광주시 도척면 도척윗로 278",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03022700",
+    "contentid": "2722856",
+    "contenttypeid": "28",
+    "createdtime": "20210623190025",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/57/2722657_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/57/2722657_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2922239974",
+    "mapy": "37.3374836915",
+    "mlevel": "",
+    "modifiedtime": "20230627160106",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "곤지암 루지 360도",
+    "zipcode": "12809",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

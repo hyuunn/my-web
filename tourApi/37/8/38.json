@@ -1,0 +1,170 @@
+{
+  "132288": {
+    "addr1": "전라북도 완주군 봉동읍 봉동동서로 134-5",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010100",
+    "contentid": "132288",
+    "contenttypeid": "38",
+    "createdtime": "20020419090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/95/1976595_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/95/1976595_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1670873761",
+    "mapy": "35.9387115715",
+    "mlevel": "6",
+    "modifiedtime": "20220516173754",
+    "sigungucode": "8",
+    "tel": "063-261-3001",
+    "title": "봉동시장 (5, 10일)",
+    "zipcode": "55326",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "132300": {
+    "addr1": "전라북도 완주군 삼례읍 삼례로 370-2",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010100",
+    "contentid": "132300",
+    "contenttypeid": "38",
+    "createdtime": "20020417090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/10/1976610_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/10/1976610_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0729742841",
+    "mapy": "35.9104520441",
+    "mlevel": "6",
+    "modifiedtime": "20230422133709",
+    "sigungucode": "8",
+    "tel": "063-291-9429",
+    "title": "삼례정기시장 (3, 8일)",
+    "zipcode": "55342",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "132301": {
+    "addr1": "전라북도 완주군 고산면 남봉로 134",
+    "addr2": "(고산면)",
+    "areacode": "37",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010100",
+    "contentid": "132301",
+    "contenttypeid": "38",
+    "createdtime": "20020417090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/07/1976507_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/07/1976507_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2057718752",
+    "mapy": "35.9744303986",
+    "mlevel": "6",
+    "modifiedtime": "20230310171503",
+    "sigungucode": "8",
+    "tel": "063-262-0119",
+    "title": "고산미소시장/고산시장 (4, 9일)",
+    "zipcode": "55311",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2687343": {
+    "addr1": "전라북도 완주군 용진읍 완주로 187",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010600",
+    "contentid": "2687343",
+    "contenttypeid": "38",
+    "createdtime": "20201127022337",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/45/1821545_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/45/1821545_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1555176819",
+    "mapy": "35.8817511904",
+    "mlevel": "6",
+    "modifiedtime": "20220520093044",
+    "sigungucode": "8",
+    "tel": "063-240-6925",
+    "title": "완주 로컬푸드직매장",
+    "zipcode": "55351",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

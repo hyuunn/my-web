@@ -1,0 +1,44 @@
+{
+  "131393": {
+    "addr1": "강원특별자치도 양구군 양구읍 박수근로 366-27",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03020200",
+    "contentid": "131393",
+    "contenttypeid": "28",
+    "createdtime": "20020723090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/64/1846764_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/64/1846764_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.9816443558",
+    "mapy": "38.1053905899",
+    "mlevel": "6",
+    "modifiedtime": "20230701125409",
+    "sigungucode": "6",
+    "tel": "",
+    "title": "양구청소년수련관",
+    "zipcode": "24519",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

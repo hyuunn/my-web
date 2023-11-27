@@ -1,0 +1,692 @@
+{
+  "125415": {
+    "addr1": "전라북도 완주군 동상면 대아수목로 94-34",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010700",
+    "contentid": "125415",
+    "contenttypeid": "12",
+    "createdtime": "20040223090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.3047575211",
+    "mapy": "35.9736738835",
+    "mlevel": "6",
+    "modifiedtime": "20230630103053",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "대아수목원",
+    "zipcode": "55344",
+    "family": [
+      {
+        "유모차": "대여가능"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "127533": {
+    "addr1": "전라북도 완주군 고산면 고산휴양림로 246",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010600",
+    "contentid": "127533",
+    "contenttypeid": "12",
+    "createdtime": "20030701090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.2331252962",
+    "mapy": "35.9629766259",
+    "mlevel": "6",
+    "modifiedtime": "20230925091706",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "고산자연휴양림",
+    "zipcode": "55312",
+    "family": [
+      {
+        "유모차": "대여가능"
+      }
+    ],
+    "handi": [
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "단차는 거의없으나 기울기가 있어 보행에 지장이 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "127673": {
+    "addr1": "전라북도 완주군 운주면 산북리 611-34",
+    "addr2": ", 충남 논산군 벌곡면, 금산군 진산면",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010200",
+    "contentid": "127673",
+    "contenttypeid": "12",
+    "createdtime": "20031008090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/77/2827477_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/77/2827477_image3_1.jpg",
+    "cpyrhtDivCd": "Type1",
+    "mapx": "127.3345288096",
+    "mapy": "36.1176107757",
+    "mlevel": "6",
+    "modifiedtime": "20230524175505",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "대둔산도립공원(전북)",
+    "zipcode": "565-911,3",
+    "family": [],
+    "handi": [
+      {
+        "출입통로": "입구부터 내부시설까지 돌길로 되어있음(내부 보행로는 단차는 거의없으나 경사가 있음)"
+      },
+      {
+        "화장실": "장애인 화장실 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1939606": {
+    "addr1": "전라북도 완주군 경천면 오복대석길 45",
+    "addr2": "(경천면)",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030100",
+    "contentid": "1939606",
+    "contenttypeid": "12",
+    "createdtime": "20140807183254",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/54/2632954_image2_1.bmp",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/54/2632954_image2_1.bmp",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2539914194",
+    "mapy": "36.0181595914",
+    "mlevel": "6",
+    "modifiedtime": "20230403140657",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "오복마을",
+    "zipcode": "55302",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "전반적으로 평평하며 포장길임 (잔디밭체험 시 간이경사로를 만들어서 이동가능)"
+      },
+      {
+        "출입통로": "경사로를 이용하여 휠체어로 출입가능"
+      },
+      {
+        "화장실": "장애인전용화장실 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2469085": {
+    "addr1": "전라북도 완주군 소양면",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0204",
+    "cat3": "A02040800",
+    "contentid": "2469085",
+    "contenttypeid": "12",
+    "createdtime": "20161222225133",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.2849686366",
+    "mapy": "35.8299176763",
+    "mlevel": "6",
+    "modifiedtime": "20221206110951",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "완주 대승한지마을",
+    "zipcode": "55346",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2469088": {
+    "addr1": "전라북도 완주군 삼례읍 삼례역로 81-13",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0204",
+    "cat3": "A02040800",
+    "contentid": "2469088",
+    "contenttypeid": "12",
+    "createdtime": "20161222225751",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.0662527712",
+    "mapy": "35.9062357414",
+    "mlevel": "6",
+    "modifiedtime": "20230816173641",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "완주 삼례문화예술촌",
+    "zipcode": "55343",
+    "family": [
+      {
+        "유모차": "대여가능(3대)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음 / 무장애 관람동선 있음"
+      },
+      {
+        "휠체어": "대여가능(전동 2대, 수동1대)"
+      },
+      {
+        "출입통로": "출입구까지 경사로가 설치되어 있음(수동문) / 건물마다 휠체어 입구 따로 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음(카페 뜨레)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "안내요원": "전시해설자 있음(사전예약)"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음, 점자도서(심례책마을) 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2606205": {
+    "addr1": "전라북도 완주군 고산면 대아저수로 416",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03021800",
+    "contentid": "2606205",
+    "contenttypeid": "12",
+    "createdtime": "20190613003241",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/44/2608644_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/44/2608644_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2613582073",
+    "mapy": "35.9888380620",
+    "mlevel": "6",
+    "modifiedtime": "20230224131722",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "완주 고산 놀토피아",
+    "zipcode": "55310",
+    "family": [
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "0"
+  },
+  "2633954": {
+    "addr1": "전라북도 완주군 소양면 원암로 82",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030400",
+    "contentid": "2633954",
+    "contenttypeid": "12",
+    "createdtime": "20191107225613",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/13/2638613_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/13/2638613_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2520066415",
+    "mapy": "35.8693487271",
+    "mlevel": "6",
+    "modifiedtime": "20230515115949",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "산속등대 복합문화공간",
+    "zipcode": "55347",
+    "family": [
+      {
+        "유아용 보조 의자": "구비(슨슨카페)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음(어뮤즈월드)"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음(슨슨카페)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2713282": {
+    "addr1": "전라북도 완주군 경천면 경가천길 474",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030400",
+    "contentid": "2713282",
+    "contenttypeid": "12",
+    "createdtime": "20210408004658",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.2765383569",
+    "mapy": "36.0577582496",
+    "mlevel": "6",
+    "modifiedtime": "20230802191659",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "싱그랭이 에코정원",
+    "zipcode": "55302",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2742233": {
+    "addr1": "전라북도 완주군 이서면 반교로 107-16",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2742233",
+    "contenttypeid": "12",
+    "createdtime": "20210909223026",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/06/2742606_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/06/2742606_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0224059145",
+    "mapy": "35.8290771018",
+    "mlevel": "6",
+    "modifiedtime": "20230109112350",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "지사울공원",
+    "zipcode": "55365",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2755847": {
+    "addr1": "전라북도 완주군 봉동읍 둔산3로 94",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010500",
+    "contentid": "2755847",
+    "contenttypeid": "12",
+    "createdtime": "20211013012226",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/43/2755843_image2_1.png",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/43/2755843_image2_1.png",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1284207931",
+    "mapy": "35.9609583634",
+    "mlevel": "6",
+    "modifiedtime": "20221116150922",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "둔산공원",
+    "zipcode": "55316",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2815256": {
+    "addr1": "전라북도 완주군 구이면 덕천리",
+    "addr2": "420-14",
+    "areacode": "37",
+    "booktour": "",
+    "cat1": "A02",
+    "cat2": "A0204",
+    "cat3": "A02040800",
+    "contentid": "2815256",
+    "contenttypeid": "12",
+    "createdtime": "20220406155522",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.1345148131",
+    "mapy": "35.7442414673",
+    "mlevel": "6",
+    "modifiedtime": "20220418172558",
+    "sigungucode": "8",
+    "tel": "010-3675-0052",
+    "title": "전북에어포스 스쿨",
+    "zipcode": "55361",
+    "family": [
+      {
+        "수유실": "있음"
+      }
+    ],
+    "handi": [
+      {
+        "휠체어": "휠체어 대여가능"
+      },
+      {
+        "화장실": "있음"
+      },
+      {
+        "기타 지원 항목": "가능"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "가능"
+      },
+      {
+        "안내요원": "있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2815625": {
+    "addr1": "전라북도 완주군 봉동동서로 100",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "",
+    "cat1": "A02",
+    "cat2": "A0204",
+    "cat3": "A02040800",
+    "contentid": "2815625",
+    "contenttypeid": "12",
+    "createdtime": "20220411102444",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/17/2815617_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/17/2815617_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1635182834",
+    "mapy": "35.9374199897",
+    "mlevel": "6",
+    "modifiedtime": "20220520155327",
+    "sigungucode": "8",
+    "tel": "010-6697-3723",
+    "title": "사부작 채집가",
+    "zipcode": "55326",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2995167": {
+    "addr1": "전라북도 완주군 봉동동서로 134-4",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030400",
+    "contentid": "2995167",
+    "contenttypeid": "12",
+    "createdtime": "20230721131349",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/32/2995132_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/32/2995132_image3_1.jpg",
+    "cpyrhtDivCd": "Type1",
+    "mapx": "127.1668457321",
+    "mapy": "35.9386699052",
+    "mlevel": "6",
+    "modifiedtime": "20230724132136",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "달달구리(주식회사달달구리)",
+    "zipcode": "55326",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "휠체어가 올라갈 수 있는 경사로가 설치되어 있음문턱없이 평지로 연결되어 휠체어 통과 가능함"
+      },
+      {
+        "출입통로": "휠체어 통과 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2995169": {
+    "addr1": "전라북도 완주군 단지길 37",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030400",
+    "contentid": "2995169",
+    "contenttypeid": "12",
+    "createdtime": "20230721133313",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/48/2995148_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/48/2995148_image3_1.jpg",
+    "cpyrhtDivCd": "Type1",
+    "mapx": "127.2631953933",
+    "mapy": "35.9420628673",
+    "mlevel": "6",
+    "modifiedtime": "20230724133258",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "농업회사법인 주식회사 공동체공간 수작",
+    "zipcode": "55344",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "휠체어가 올라갈 수 있는 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구에 휠체어가 통과"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2996389": {
+    "addr1": "전라북도 완주군 삼례나들목로 338-33 삼례중학교",
+    "addr2": "308호",
+    "areacode": "37",
+    "booktour": "",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030400",
+    "contentid": "2996389",
+    "contenttypeid": "12",
+    "createdtime": "20230727142309",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/86/2996386_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/86/2996386_image3_1.jpg",
+    "cpyrhtDivCd": "Type1",
+    "mapx": "127.0845923592",
+    "mapy": "35.9231730187",
+    "mlevel": "6",
+    "modifiedtime": "20230802194358",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "만듦협동조합",
+    "zipcode": "55339",
+    "family": [],
+    "handi": [],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "0"
+  }
+}

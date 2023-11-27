@@ -1,0 +1,130 @@
+{
+  "612807": {
+    "addr1": "경기도 의정부시 호국로1309번길 7",
+    "addr2": "(의정부동) 일대",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030600",
+    "contentid": "612807",
+    "contenttypeid": "12",
+    "createdtime": "20080821015515",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/61/1775961_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/61/1775961_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0491428378",
+    "mapy": "37.7446209136",
+    "mlevel": "6",
+    "modifiedtime": "20230911202607",
+    "sigungucode": "25",
+    "tel": "",
+    "title": "의정부 부대찌개거리",
+    "zipcode": "11689",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1032289": {
+    "addr1": "경기도 의정부시 송산로939번길 98",
+    "addr2": "(산곡동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030400",
+    "contentid": "1032289",
+    "contenttypeid": "12",
+    "createdtime": "20100527012149",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/21/2687521_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/21/2687521_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1002002199",
+    "mapy": "37.7121339517",
+    "mlevel": "6",
+    "modifiedtime": "20230425151857",
+    "sigungucode": "25",
+    "tel": "",
+    "title": "담다헌 체험교육관",
+    "zipcode": "11799",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "단층건물"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2736404": {
+    "addr1": "경기도 의정부시 용민로 205",
+    "addr2": "(낙양동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2736404",
+    "contenttypeid": "12",
+    "createdtime": "20210825193950",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/75/2768375_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/75/2768375_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0922999383",
+    "mapy": "37.7470741862",
+    "mlevel": "6",
+    "modifiedtime": "20230228111431",
+    "sigungucode": "25",
+    "tel": "",
+    "title": "낙양물사랑공원",
+    "zipcode": "11769",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

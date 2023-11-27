@@ -1,0 +1,137 @@
+{
+  "129883": {
+    "addr1": "강원특별자치도 양양군 양양읍 양양로 114-5",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060700",
+    "contentid": "129883",
+    "contenttypeid": "14",
+    "createdtime": "20071106103410",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/76/1836876_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/76/1836876_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.6163626198",
+    "mapy": "38.0741730629",
+    "mlevel": "6",
+    "modifiedtime": "20230701104708",
+    "sigungucode": "7",
+    "tel": "",
+    "title": "양양문화원",
+    "zipcode": "25024",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구 및 주요시설 입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "130930": {
+    "addr1": "강원특별자치도 양양군 손양면 학포길 33",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "130930",
+    "contenttypeid": "14",
+    "createdtime": "20070719090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/15/2739215_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/15/2739215_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.6604471476",
+    "mapy": "38.0859003350",
+    "mlevel": "6",
+    "modifiedtime": "20230701104703",
+    "sigungucode": "7",
+    "tel": "",
+    "title": "오산리선사유적박물관",
+    "zipcode": "25042",
+    "family": [
+      {
+        "유모차": "대여가능"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자유도로 있음_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "743034": {
+    "addr1": "강원특별자치도 양양군 손양면 선사유적로 359",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060500",
+    "contentid": "743034",
+    "contenttypeid": "14",
+    "createdtime": "20090528022636",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/02/1813002_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/02/1813002_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.6789240402",
+    "mapy": "38.0605564165",
+    "mlevel": "6",
+    "modifiedtime": "20230701104550",
+    "sigungucode": "7",
+    "tel": "",
+    "title": "일현미술관",
+    "zipcode": "25042",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음(수동문)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "129882": {
+    "addr1": "강원특별자치도 동해시 천곡2길 8",
+    "addr2": "(천곡동)",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060700",
+    "contentid": "129882",
+    "contenttypeid": "14",
+    "createdtime": "20080218201450",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/51/1812951_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/51/1812951_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.1124460209",
+    "mapy": "37.5245296808",
+    "mlevel": "6",
+    "modifiedtime": "20230907103547",
+    "sigungucode": "3",
+    "tel": "",
+    "title": "동해문화원",
+    "zipcode": "25759",
+    "family": [],
+    "handi": [
+      {
+        "출입통로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "장애인 리프트 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

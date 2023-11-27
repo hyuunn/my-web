@@ -1,0 +1,785 @@
+{
+  "130081": {
+    "addr1": "충청북도 충주시 중앙탑면 중앙탑길 112-28",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "130081",
+    "contenttypeid": "14",
+    "createdtime": "20071106104122",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.8654619578",
+    "mapy": "37.0161867973",
+    "mlevel": "6",
+    "modifiedtime": "20220610174801",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "충주박물관",
+    "zipcode": "27447",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "화장실": "장애인 화장실 있음(1층 2관)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "130548": {
+    "addr1": "충청북도 충주시 동량면 충원대로 1346",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "130548",
+    "contenttypeid": "14",
+    "createdtime": "20050315090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/84/1597184_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/84/1597184_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.9289554218",
+    "mapy": "37.0450874177",
+    "mlevel": "6",
+    "modifiedtime": "20230224102929",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "충주과수과학관",
+    "zipcode": "27442",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터는 없으나 장애인리프트 사용 가능"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "130758": {
+    "addr1": "충청북도 충주시 예성로 207",
+    "addr2": "(교현동)",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060900",
+    "contentid": "130758",
+    "contenttypeid": "14",
+    "createdtime": "20060313090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/70/1847970_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/70/1847970_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.9338125553",
+    "mapy": "36.9748428128",
+    "mlevel": "6",
+    "modifiedtime": "20220708171012",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "충주시립도서관",
+    "zipcode": "27378",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(자동문,수동문)"
+      },
+      {
+        "엘리베이터": "장애인용 엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 칸이 있음(각 층)"
+      },
+      {
+        "기타 지원 항목": "장애인 열람실에 높낮이 조절 가능한 시설 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      },
+      {
+        "기타 지원 항목": "장애인 열람실 이용가능(점자도서,청각자료,좌석점자블록)"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1627228": {
+    "addr1": "충청북도 충주시 동량면 조동1길 15",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "1627228",
+    "contenttypeid": "14",
+    "createdtime": "20120510220242",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/07/1990707_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/07/1990707_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.9616641324",
+    "mapy": "37.0263485120",
+    "mlevel": "6",
+    "modifiedtime": "20230214112921",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "조동리 선사유적 박물관",
+    "zipcode": "27320",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(1층)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞 연결됨)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1686651": {
+    "addr1": "충청북도 충주시 신니면 신덕로 301",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060200",
+    "contentid": "1686651",
+    "contenttypeid": "14",
+    "createdtime": "20120806203931",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.6861340059",
+    "mapy": "37.0034460895",
+    "mlevel": "6",
+    "modifiedtime": "20230228155453",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "김재옥교사기념관",
+    "zipcode": "27455",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(학교공용)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(접근로)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1687039": {
+    "addr1": "충청북도 충주시 충주호수로 423",
+    "addr2": "(용탄동)",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "1687039",
+    "contenttypeid": "14",
+    "createdtime": "20120807010532",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.9628864678",
+    "mapy": "37.0185633192",
+    "mlevel": "6",
+    "modifiedtime": "20220923102338",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "충주 민물고기전시관",
+    "zipcode": "27432",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(자동문)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1687304": {
+    "addr1": "충청북도 충주시 대소원면 장성길 38-1",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060500",
+    "contentid": "1687304",
+    "contenttypeid": "14",
+    "createdtime": "20120807025532",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.8388436921",
+    "mapy": "36.9613898362",
+    "mlevel": "6",
+    "modifiedtime": "20230206165939",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "성마루미술관",
+    "zipcode": "27472",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(1층)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1689699": {
+    "addr1": "충청북도 충주시 중앙탑면 묘곡내동길 100",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010500",
+    "contentid": "1689699",
+    "contenttypeid": "14",
+    "createdtime": "20120810020648",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.8484072453",
+    "mapy": "37.0403170387",
+    "mlevel": "6",
+    "modifiedtime": "20230208132553",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "충주고구려천문과학관",
+    "zipcode": "27448",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(주차장 야외화장실)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1689954": {
+    "addr1": "충청북도 충주시 남한강로 24",
+    "addr2": "(금릉동)",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "1689954",
+    "contenttypeid": "14",
+    "createdtime": "20120810201104",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/70/2024770_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/70/2024770_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.9055702752",
+    "mapy": "36.9878491297",
+    "mlevel": "6",
+    "modifiedtime": "20221027150223",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "충주세계무술박물관",
+    "zipcode": "27438",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "무료대여(무술박물관)"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(엘리베이터 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1689977": {
+    "addr1": "충청북도 충주시 중원대로 3324",
+    "addr2": "(호암동)",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060600",
+    "contentid": "1689977",
+    "contenttypeid": "14",
+    "createdtime": "20120810204248",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.9255691356",
+    "mapy": "36.9648743632",
+    "mlevel": "6",
+    "modifiedtime": "20230221145149",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "우륵당",
+    "zipcode": "27411",
+    "family": [
+      {
+        "유모차": "대여가능"
+      },
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1690303": {
+    "addr1": "충청북도 충주시 중원대로 3324",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02061100",
+    "contentid": "1690303",
+    "contenttypeid": "14",
+    "createdtime": "20120811013031",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.9258024576",
+    "mapy": "36.9645410723",
+    "mlevel": "6",
+    "modifiedtime": "20220922100549",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "충주시택견원",
+    "zipcode": "27411",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구에는 계단이 있으나 건물 뒷편의 후문에는 단차가 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1691210": {
+    "addr1": "충청북도 충주시 상아배이길 84",
+    "addr2": "(호암동)",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "1691210",
+    "contenttypeid": "14",
+    "createdtime": "20120813192201",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.9225362021",
+    "mapy": "36.9604359286",
+    "mlevel": "6",
+    "modifiedtime": "20220713145241",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "호암공원생태전시관",
+    "zipcode": "27477",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "화장실": "장애인 화장실 있음(1층)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1691236": {
+    "addr1": "충청북도 충주시 중원대로 3306",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060600",
+    "contentid": "1691236",
+    "contenttypeid": "14",
+    "createdtime": "20120813194532",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.9269024117",
+    "mapy": "36.9627190795",
+    "mlevel": "6",
+    "modifiedtime": "20220831172622",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "호암예술관",
+    "zipcode": "27411",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      },
+      {
+        "관람석": "장애인 전용 관람석 있음(후열 가 2석,후열 다 2석)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(경사로)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1938381": {
+    "addr1": "충청북도 충주시 중앙탑면 감노로 2319",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "1938381",
+    "contenttypeid": "14",
+    "createdtime": "20140731184527",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/77/1784777_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/77/1784777_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.8482076062",
+    "mapy": "37.0283295264",
+    "mlevel": "6",
+    "modifiedtime": "20230404142511",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "충주고구려비전시관",
+    "zipcode": "27448",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "단차없어 휠체어로 이동편리함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2605828": {
+    "addr1": "충청북도 충주시 앙성면 가곡로 1434",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060500",
+    "contentid": "2605828",
+    "contenttypeid": "14",
+    "createdtime": "20190611023726",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/69/2603269_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/69/2603269_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7945355490",
+    "mapy": "37.0942403921",
+    "mlevel": "6",
+    "modifiedtime": "20230628170131",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "오대호아트팩토리",
+    "zipcode": "27302",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "대여가능(1대)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(공간이 좁아 주의 필요)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2613665": {
+    "addr1": "충청북도 충주시 살미면 월악로 432",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "2613665",
+    "contenttypeid": "14",
+    "createdtime": "20190731013237",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.0145712080",
+    "mapy": "36.9045940445",
+    "mlevel": "6",
+    "modifiedtime": "20230703134041",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "충주커피박물관",
+    "zipcode": "27492",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2766538": {
+    "addr1": "충청북도 충주시 번영대로 270-10",
+    "addr2": "(연수동)",
+    "areacode": "33",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "2766538",
+    "contenttypeid": "14",
+    "createdtime": "20211102212714",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/63/2767263_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/63/2767263_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.9487886761",
+    "mapy": "36.9857362806",
+    "mlevel": "6",
+    "modifiedtime": "20230130095618",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "국립충주기상과학관",
+    "zipcode": "27331",
+    "family": [
+      {
+        "유모차": "대여가능"
+      },
+      {
+        "수유실": "수유실 있음(1층)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      },
+      {
+        "오디오 가이드": "음성버튼(점자안내판)"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

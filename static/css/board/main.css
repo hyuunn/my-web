@@ -1,0 +1,64 @@
+.icon {
+    width: 110px;   /*전체를 감싸는 크기를 아이콘 크기로 맞춤*/
+    height: 110px;
+    margin: 10px;
+    position: relative;
+}
+
+.a{
+    position: absolute;  /*어떤 요소에 absoult를ㄹ 주면 블럭요소는 inline으로 변경됨.*/
+    background-color: #333;
+    width: 100px;
+    color : #fff;
+    top : 50px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 2em;
+    left: 55%;    /*1. 왼쪽에서 50%위치에 둔다.*/
+    transform: translateX(-50%);  /*2. 크기값을 50%만큼 이동시켜준다.->항상 중앙에 위치하게됨*/
+    /*무엇인가가 서서히 나타나게 하려면 display:none->block보다는 opacity:0->1으로 두는게 더 효과가 좋음*/
+    opacity: 0;
+    transition: 0.5s; 
+    /*투명도가 0이지만 -> 어떤 변화가 요청되면 0.5초뒤에 일어나자.*/
+
+    /*사용자가 아이콘이 아닌, 말풍선이 있는 위치에 마우스를 올려도 효과가 발생!-> 오직 아이콘에 hover됐을 때 나타나게 하려면?*/
+    /*그렇다면 말풍선의 존재 자체를 없게 만들면 됨 -> visiability(display를 하면 투명도를 못 줌ㅜ)*/
+    visibility: hidden; /*자릿값을 유지하되, 존재자체가 사라지게 함-display:none은 자릿값도 사라지게함*/
+
+}
+
+/*박스밑에 있는 삼각형을 만들기-> 먼저 사각형을 요소 끝에 만듬 -> 위치시킴 -> 박스랑 같은색으로 -> 사각형이 회전하여 삼각형처럼 보임*/
+.icon span:after {
+    /*선택한 요소의 맨 마지막 자식으로 의사 요소를 하나 생성합니다. 
+    보통 content 속성과 함께 짝지어, 요소에 장식용 콘텐츠를 추가할 때 사용합니다. 기본값은 인라인*/
+    content : '';  /*가상클래스 before, after는 무조건 content가 있어야 작동*/
+    position: absolute;
+    background-color:#333;
+    width : 10px;
+    height: 10px;
+    /*transform은 한 요소에 1번밖에 못쓰므로 합쳐줘야함*/
+    transform: rotate(45deg) translateX(-50%);
+    bottom: 65px;
+    left: 50%;    /*1. 왼쪽에서 50%위치에 둔다.*/
+    /*2. 크기값을 50%만큼 이동시켜준다.->항상 중앙에 위치하게됨*/
+
+}
+/*icon요소를 hover하면 -> icon의 자식 중 span에서 어떠한 변화가 있게 만듬*/
+.icon:hover span{
+    opacity: 1;
+    visibility: visible; 
+    /*hover가 되면 -> 비쥬얼빌리티가 hidden에서 visible로 변경됨*/
+    /*오직 아이콘에 hover했을 때 변경되게 함*/
+}
+
+.card-1:hover {
+box-shadow: 0 9px 22px rgba(0,0,0,0.25), 0 5px 5px rgba(0,0,0,0.22);
+}
+.comment:focus {
+    outline: none;
+}
+
+.post_bottom{
+    display:flex;
+    justify-content: space-between;
+}

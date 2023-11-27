@@ -1,0 +1,136 @@
+{
+  "131447": {
+    "addr1": "경기도 성남시 수정구 희망로509번길 20",
+    "addr2": "(신흥동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03020200",
+    "contentid": "131447",
+    "contenttypeid": "28",
+    "createdtime": "20020730090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/92/1875392_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/92/1875392_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1501587210",
+    "mapy": "37.4492931687",
+    "mlevel": "6",
+    "modifiedtime": "20231004142327",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "성남시수정청소년수련관",
+    "zipcode": "13268",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자유도로 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "665164": {
+    "addr1": "경기도 성남시 분당구 탄천로 215",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03021300",
+    "contentid": "665164",
+    "contenttypeid": "28",
+    "createdtime": "20081210194933",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/68/1875468_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/68/1875468_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1196181670",
+    "mapy": "37.4099082971",
+    "mlevel": "6",
+    "modifiedtime": "20230727133516",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "탄천종합운동장 빙상장",
+    "zipcode": "13495",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(수영장 화장실(자동문))"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음 (화장실 입구)_시각장애인 편의시설"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음(화장실)"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2370995": {
+    "addr1": "경기도 성남시 분당구 탄천로 215",
+    "addr2": "(야탑동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03020300",
+    "contentid": "2370995",
+    "contenttypeid": "28",
+    "createdtime": "20160227010318",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/91/2370391_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/91/2370391_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1212957823",
+    "mapy": "37.4102555093",
+    "mlevel": "6",
+    "modifiedtime": "20221020110016",
+    "sigungucode": "12",
+    "tel": "031-725-7100",
+    "title": "탄천종합운동장",
+    "zipcode": "13495",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(실내경기운동장 화장실,공중화장실)"
+      },
+      {
+        "관람석": "장애인 전용 관람석 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

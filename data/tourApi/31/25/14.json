@@ -1,0 +1,214 @@
+{
+  "129861": {
+    "addr1": "경기도 의정부시 산단로 123",
+    "addr2": "(신곡동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060700",
+    "contentid": "129861",
+    "contenttypeid": "14",
+    "createdtime": "20071106103329",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/08/1053208_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/08/1053208_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0793678048",
+    "mapy": "37.7464240278",
+    "mlevel": "6",
+    "modifiedtime": "20220914145928",
+    "sigungucode": "25",
+    "tel": "",
+    "title": "의정부문화원",
+    "zipcode": "11780",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구에 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음(점자블록,점자번호판)"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(1층에 남녀분리된 화장실이 있음)"
+      },
+      {
+        "관람석": "문예극장에 장애인 전용 좌석 있음(10석)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(건물 메인입구부터 건물내 입구까지 연결)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "130409": {
+    "addr1": "경기도 의정부시 의정로 1",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060600",
+    "contentid": "130409",
+    "contenttypeid": "14",
+    "createdtime": "20071106105559",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/59/1053159_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/59/1053159_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0340500917",
+    "mapy": "37.7334330545",
+    "mlevel": "6",
+    "modifiedtime": "20230131174658",
+    "sigungucode": "25",
+    "tel": "",
+    "title": "의정부예술의전당",
+    "zipcode": "11622",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "휠체어 대여(2대 보유) 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "관람석": "장애인 좌석(대극장 20석, 소극장 4석)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "유도안내설비": "점자손잡이 있음(전시관입구 경사로)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2705299": {
+    "addr1": "경기도 의정부시 민락로 248",
+    "addr2": "(민락동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060900",
+    "contentid": "2705299",
+    "contenttypeid": "14",
+    "createdtime": "20210203234259",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/97/2947297_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/97/2947297_image3_1.jpg",
+    "cpyrhtDivCd": "Type1",
+    "mapx": "127.1061431730",
+    "mapy": "37.7451996551",
+    "mlevel": "6",
+    "modifiedtime": "20230206161002",
+    "sigungucode": "25",
+    "tel": "031-828-8870",
+    "title": "의정부미술도서관",
+    "zipcode": "11814",
+    "family": [
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2841316": {
+    "addr1": "경기도 의정부시 장곡로 280",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060900",
+    "contentid": "2841316",
+    "contenttypeid": "14",
+    "createdtime": "20220823102215",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.0537900969",
+    "mapy": "37.7285173163",
+    "mlevel": "6",
+    "modifiedtime": "20221025103626",
+    "sigungucode": "25",
+    "tel": "",
+    "title": "의정부음악도서관",
+    "zipcode": "11733",
+    "family": [
+      {
+        "수유실": "수유실 있음(1층)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

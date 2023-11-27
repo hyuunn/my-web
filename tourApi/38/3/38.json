@@ -1,0 +1,50 @@
+{
+  "1434518": {
+    "addr1": "전라남도 곡성군 곡성읍 곡성로 856",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010100",
+    "contentid": "1434518",
+    "contenttypeid": "38",
+    "createdtime": "20111111200347",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/67/2032567_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/67/2032567_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2984539545",
+    "mapy": "35.2798080307",
+    "mlevel": "6",
+    "modifiedtime": "20230328095046",
+    "sigungucode": "3",
+    "tel": "",
+    "title": "곡성장 / 곡성기차마을전통시장 (3, 8일)",
+    "zipcode": "57535",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(화장실 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

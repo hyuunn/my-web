@@ -1,0 +1,42 @@
+.container-md{
+    padding: 20px;
+}
+.more_btn{
+    display: none;
+}
+button{
+    border: none;
+    padding: 5px;
+}
+body{
+    font-size: 18px;
+}
+.when{
+    font-weight: bold;
+}
+#content_wrap{
+    width: 100%;
+    display: flex;
+    margin-top: 15px;
+}
+#single_plans{
+    flex-shrink: 0;
+    width: fit-content;
+    padding: 10px;
+    margin-right: 10px;
+}
+#content{
+    flex-grow: 1;
+    border: 1px solid #ddd;
+    border-radius: 0.5%;
+    padding: 30px;
+}
+#map{
+    width: 80%;
+    height: 500px;
+    margin: 10px auto;
+}
+.commentTextarea{
+    font-size: 15px;
+    width:80%; margin-left:7%; height:60px; resize: none;
+}

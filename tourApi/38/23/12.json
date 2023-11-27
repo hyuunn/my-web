@@ -1,0 +1,618 @@
+{
+  "126241": {
+    "addr1": "전라남도 해남군 삼산면 대흥사길 400",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010200",
+    "contentid": "126241",
+    "contenttypeid": "12",
+    "createdtime": "20030422090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/18/1929618_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/18/1929618_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6161141958",
+    "mapy": "34.4896049087",
+    "mlevel": "6",
+    "modifiedtime": "20230925154126",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "두륜산도립공원",
+    "zipcode": "59047",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "케이블카 있으나 엘리베이터로 올라가려면 계단을 올라가야 함\n접근로 무단차"
+      },
+      {
+        "출입통로": "주출입구 무단차"
+      },
+      {
+        "화장실": "장애인 화장실 있음(쉼터와 버스정류소쪽 공용화장실)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "126272": {
+    "addr1": "전라남도 해남군 송지면 사구미길 20",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01011200",
+    "contentid": "126272",
+    "contenttypeid": "12",
+    "createdtime": "20030707090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/88/1565488_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/88/1565488_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.5791631257",
+    "mapy": "34.3208787542",
+    "mlevel": "6",
+    "modifiedtime": "20230503105712",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "사구미해변",
+    "zipcode": "59066",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "해변가까지 무단차구간 있음(종합상황실 앞)"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(왼쪽 공중화장실(경사로),주차장 옆 공중화장실)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "126302": {
+    "addr1": "전라남도 해남군 송지면 땅끝해안로 1827",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01011200",
+    "contentid": "126302",
+    "contenttypeid": "12",
+    "createdtime": "20030707090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/17/1564817_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/17/1564817_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.5190463327",
+    "mapy": "34.3143479503",
+    "mlevel": "6",
+    "modifiedtime": "20230706093045",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "송호해수욕장",
+    "zipcode": "59065",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "장애인 화장실 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "126313": {
+    "addr1": "전라남도 해남군 문내면 관광레저로 12",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "126313",
+    "contenttypeid": "12",
+    "createdtime": "20031029090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.3108224049",
+    "mapy": "34.5733544172",
+    "mlevel": "6",
+    "modifiedtime": "20231026173257",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "우수영관광지",
+    "zipcode": "59004",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "126373": {
+    "addr1": "전라남도 해남군 삼산면 대흥사길 400",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "1",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010800",
+    "contentid": "126373",
+    "contenttypeid": "12",
+    "createdtime": "20031113090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/09/1929609_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/09/1929609_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6166394469",
+    "mapy": "34.4771813097",
+    "mlevel": "6",
+    "modifiedtime": "20230519154553",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "대흥사[유네스코 세계문화유산]",
+    "zipcode": "59047",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(화장실 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "126417": {
+    "addr1": "전라남도 해남군 해남읍 녹우당길 135",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010400",
+    "contentid": "126417",
+    "contenttypeid": "12",
+    "createdtime": "20031107090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/91/219391_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/91/219391_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6219372108",
+    "mapy": "34.5510536692",
+    "mlevel": "6",
+    "modifiedtime": "20220602180420",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "해남윤씨 녹우당 일원",
+    "zipcode": "59046",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(경사로 설치됨)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "126432": {
+    "addr1": "전라남도 해남군 송지면 땅끝마을길 60-28",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020200",
+    "contentid": "126432",
+    "contenttypeid": "12",
+    "createdtime": "20031201090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/36/2367436_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/36/2367436_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.5266488294",
+    "mapy": "34.2980165668",
+    "mlevel": "6",
+    "modifiedtime": "20230927094613",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "땅끝관광지",
+    "zipcode": "59065",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음(전망대)"
+      },
+      {
+        "화장실": "장애인 화장실 있음(선착장과 모노레일 승강장)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "안내요원": "안내요원 있음(관광안내소)"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "126809": {
+    "addr1": "전라남도 해남군 황산면 공룡박물관길 234",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0102",
+    "cat3": "A01020200",
+    "contentid": "126809",
+    "contenttypeid": "12",
+    "createdtime": "20031117090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/90/1929590_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/90/1929590_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.4374136354",
+    "mapy": "34.5898101845",
+    "mlevel": "6",
+    "modifiedtime": "20230610055646",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "우항리 공룡화석 자연사유적지",
+    "zipcode": "59007",
+    "family": [
+      {
+        "유모차": "대여가능"
+      },
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "129448": {
+    "addr1": "전라남도 해남군 삼산면 대흥사길 88-45",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030400",
+    "contentid": "129448",
+    "contenttypeid": "12",
+    "createdtime": "20070305090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/22/1564622_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/22/1564622_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6253409902",
+    "mapy": "34.4968181405",
+    "mlevel": "6",
+    "modifiedtime": "20230209145206",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "두륜산케이블카",
+    "zipcode": "59047",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(주차장)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "553319": {
+    "addr1": "전라남도 해남군 해남읍 녹우당길 135",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010700",
+    "contentid": "553319",
+    "contenttypeid": "12",
+    "createdtime": "20080424200114",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.6225204875",
+    "mapy": "34.5512564337",
+    "mlevel": "6",
+    "modifiedtime": "20221111154146",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "고산 윤선도 유적지",
+    "zipcode": "59046",
+    "family": [
+      {
+        "유모차": "대여가능"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "안내요원": "안내요원 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "780806": {
+    "addr1": "전라남도 해남군 송지면 땅끝마을길 60-28",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030400",
+    "contentid": "780806",
+    "contenttypeid": "12",
+    "createdtime": "20090819202716",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/35/948835_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/35/948835_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.5234241768",
+    "mapy": "34.2952807097",
+    "mlevel": "6",
+    "modifiedtime": "20230322093239",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "땅끝모노레일",
+    "zipcode": "59065",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "* 장애인전용화장실 있음_무장애 편의정보"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "989046": {
+    "addr1": "전라남도 해남군 화원면 시아로 552",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020200",
+    "contentid": "989046",
+    "contenttypeid": "12",
+    "createdtime": "20100330195741",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/39/2676039_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/39/2676039_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.2654237020",
+    "mapy": "34.6873519740",
+    "mlevel": "6",
+    "modifiedtime": "20230503131035",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "화원 오시아노 관광단지",
+    "zipcode": "59002",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함(숲구간 있음)"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(주차장 공중화장실)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2755146": {
+    "addr1": "전라남도 해남군 황산면 고천암로 752-14",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010500",
+    "contentid": "2755146",
+    "contenttypeid": "12",
+    "createdtime": "20211008222041",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/29/2755129_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/29/2755129_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.4627296611",
+    "mapy": "34.5231902986",
+    "mlevel": "6",
+    "modifiedtime": "20231006164923",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "고천암 자연생태공원",
+    "zipcode": "59009",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2774392": {
+    "addr1": "전라남도 해남군 문내면 관광레저로 12-20",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030400",
+    "contentid": "2774392",
+    "contenttypeid": "12",
+    "createdtime": "20211115221127",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/77/2774377_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/77/2774377_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.3089614695",
+    "mapy": "34.5728516656",
+    "mlevel": "6",
+    "modifiedtime": "20230918110229",
+    "sigungucode": "23",
+    "tel": "",
+    "title": "명량해상케이블카",
+    "zipcode": "59004",
+    "family": [
+      {
+        "수유실": "수유실 있음(2층)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(1층)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

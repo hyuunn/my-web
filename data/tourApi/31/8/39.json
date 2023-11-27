@@ -1,0 +1,551 @@
+{
+  "2654585": {
+    "addr1": "경기도 김포시 양촌읍 석모로5번길 34",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2654585",
+    "contenttypeid": "39",
+    "createdtime": "20200428024302",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.6492459491",
+    "mapy": "37.6500358834",
+    "mlevel": "6",
+    "modifiedtime": "20231102165124",
+    "sigungucode": "8",
+    "tel": "031-996-5177",
+    "title": "글린 공원",
+    "zipcode": "10065",
+    "family": [
+      {
+        "유아용 보조 의자": "구비(2개)"
+      },
+      {
+        "영유아가족 기타 지원 항목": "아기의자 구비(7개)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음(완만함)_무장애 편의시설"
+      },
+      {
+        "출입통로": "주 출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2732309": {
+    "addr1": "경기도 김포시 하성면 금포로1915번길 7",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2732309",
+    "contenttypeid": "39",
+    "createdtime": "20210809230045",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/61/2732561_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/61/2732561_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6617323767",
+    "mapy": "37.6970334074",
+    "mlevel": "6",
+    "modifiedtime": "20230811174251",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "뱀부15-8",
+    "zipcode": "10013",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문/자동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2741034": {
+    "addr1": "경기도 김포시 대곶면 대명항1로 52",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2741034",
+    "contenttypeid": "39",
+    "createdtime": "20210907235824",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.5460889188",
+    "mapy": "37.6428848921",
+    "mlevel": "",
+    "modifiedtime": "20231102171503",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "수산공원",
+    "zipcode": "10041",
+    "family": [
+      {
+        "유아용 보조 의자": "구비(5대 이상)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음(완만함)"
+      },
+      {
+        "출입통로": "주 출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2807542": {
+    "addr1": "경기도 김포시 김포한강2로 76 프레즌스빌딩",
+    "addr2": "104호",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020300",
+    "contentid": "2807542",
+    "contenttypeid": "39",
+    "createdtime": "20220218111518",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.6747244756",
+    "mapy": "37.6393264707",
+    "mlevel": "6",
+    "modifiedtime": "20220503160055",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "스밀",
+    "zipcode": "10088",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2810960": {
+    "addr1": "경기도 김포시 걸포2로 83 한강메트로자이1단지",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020300",
+    "contentid": "2810960",
+    "contenttypeid": "39",
+    "createdtime": "20220316152414",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.7015777485",
+    "mapy": "37.6331943273",
+    "mlevel": "6",
+    "modifiedtime": "20220503132930",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "금스시",
+    "zipcode": "10099",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2826454": {
+    "addr1": "경기도 김포시 김포대로2435번길 107-20",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2826454",
+    "contenttypeid": "39",
+    "createdtime": "20220705141700",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/37/2826437_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/37/2826437_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.5768486300",
+    "mapy": "37.6916380880",
+    "mlevel": "6",
+    "modifiedtime": "20220816151704",
+    "sigungucode": "8",
+    "tel": "0507-1368-7780",
+    "title": "카페 드 첼시",
+    "zipcode": "10029",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문/자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2844395": {
+    "addr1": "경기도 김포시 김포한강9로75번길 22",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020200",
+    "contentid": "2844395",
+    "contenttypeid": "39",
+    "createdtime": "20220826103121",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/91/2844391_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/91/2844391_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6240345374",
+    "mapy": "37.6439222594",
+    "mlevel": "6",
+    "modifiedtime": "20220916155830",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "겸손돈가스",
+    "zipcode": "10071",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2845736": {
+    "addr1": "경기도 김포시 김포한강9로75번길 38",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2845736",
+    "contenttypeid": "39",
+    "createdtime": "20220830112112",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/22/2845722_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/22/2845722_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6234457094",
+    "mapy": "37.6436611687",
+    "mlevel": "6",
+    "modifiedtime": "20221121165657",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "하이테이블",
+    "zipcode": "10071",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2854609": {
+    "addr1": "경기도 김포시 김포한강1로97번길 32-22",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2854609",
+    "contenttypeid": "39",
+    "createdtime": "20220916105047",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/97/2854597_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/97/2854597_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6707634972",
+    "mapy": "37.6475032257",
+    "mlevel": "6",
+    "modifiedtime": "20221024164510",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "락원이북만두",
+    "zipcode": "10080",
+    "family": [
+      {
+        "유아용 보조 의자": "유아의자"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2869051": {
+    "addr1": "경기도 김포시 김포한강4로 233",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2869051",
+    "contenttypeid": "39",
+    "createdtime": "20221018111148",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/50/2869050_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/50/2869050_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6570146787",
+    "mapy": "37.6501804477",
+    "mlevel": "6",
+    "modifiedtime": "20221102171102",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "이학갈비 김포점",
+    "zipcode": "10065",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2869069": {
+    "addr1": "경기도 김포시 석모로73번길 114-10",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2869069",
+    "contenttypeid": "39",
+    "createdtime": "20221018112541",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/66/2869066_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/66/2869066_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6429243491",
+    "mapy": "37.6484553992",
+    "mlevel": "6",
+    "modifiedtime": "20221102171259",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "김포금쌀밥집 지미재",
+    "zipcode": "10065",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2877455": {
+    "addr1": "경기도 김포시 대곶북로 379",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2877455",
+    "contenttypeid": "39",
+    "createdtime": "20221027151324",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/50/2877450_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/50/2877450_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.5739270557",
+    "mapy": "37.6780368433",
+    "mlevel": "6",
+    "modifiedtime": "20230208110944",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "카페 시차",
+    "zipcode": "10028",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

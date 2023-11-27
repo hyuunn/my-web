@@ -1,0 +1,84 @@
+{
+  "131244": {
+    "addr1": "전라북도 군산시 번영로 281",
+    "addr2": "(사정동)",
+    "areacode": "37",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0303",
+    "cat3": "A03030700",
+    "contentid": "131244",
+    "contenttypeid": "28",
+    "createdtime": "20021118090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/22/1974422_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/22/1974422_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7464881400",
+    "mapy": "35.9642375100",
+    "mlevel": "6",
+    "modifiedtime": "20221104145231",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "월명실내수영장 (월명체육관)",
+    "zipcode": "54069",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2606125": {
+    "addr1": "전라북도 군산시 선유북길 136 공중하강체험시설",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0304",
+    "cat3": "A03040100",
+    "contentid": "2606125",
+    "contenttypeid": "28",
+    "createdtime": "20190612222226",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/96/2368896_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/96/2368896_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.4089443822",
+    "mapy": "35.8144933151",
+    "mlevel": "6",
+    "modifiedtime": "20231106163805",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "선유 스카이썬라인",
+    "zipcode": "54000",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

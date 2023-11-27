@@ -1,0 +1,1296 @@
+{
+  "133069": {
+    "addr1": "경기도 성남시 수정구 수정로 460-3",
+    "addr2": "(단대동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "133069",
+    "contenttypeid": "39",
+    "createdtime": "20030825090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/81/1788281_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/81/1788281_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1558245234",
+    "mapy": "37.4616029539",
+    "mlevel": "6",
+    "modifiedtime": "20230622131148",
+    "sigungucode": "12",
+    "tel": "031-745-5700",
+    "title": "장마담집",
+    "zipcode": "13131",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "134608": {
+    "addr1": "경기도 성남시 분당구 서현로 192",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020700",
+    "contentid": "134608",
+    "contenttypeid": "39",
+    "createdtime": "20040709090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/06/1788306_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/06/1788306_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1243850249",
+    "mapy": "37.3877942802",
+    "mlevel": "6",
+    "modifiedtime": "20230524172357",
+    "sigungucode": "12",
+    "tel": "031-707-3192",
+    "title": "탈리",
+    "zipcode": "13590",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "403125": {
+    "addr1": "경기도 성남시 분당구 정자일로 100",
+    "addr2": "(정자동,미켈란쉐르빌) 2층 211호",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020700",
+    "contentid": "403125",
+    "contenttypeid": "39",
+    "createdtime": "20080120064101",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/60/399560_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/60/399560_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1069874131",
+    "mapy": "37.3591500652",
+    "mlevel": "6",
+    "modifiedtime": "20230830091313",
+    "sigungucode": "12",
+    "tel": "031-717-0104",
+    "title": "살라타이 분당정자점",
+    "zipcode": "13562",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함(수동문)_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자유도로 있음(건물 출입구 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "403342": {
+    "addr1": "경기도 성남시 분당구 안골로 24",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "403342",
+    "contenttypeid": "39",
+    "createdtime": "20080120064934",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.1348952697",
+    "mapy": "37.3846809411",
+    "mlevel": "6",
+    "modifiedtime": "20230804094638",
+    "sigungucode": "12",
+    "tel": "031-703-9133",
+    "title": "서현궁",
+    "zipcode": "13572",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "603079": {
+    "addr1": "경기도 성남시 수정구 산성대로 597",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "603079",
+    "contenttypeid": "39",
+    "createdtime": "20080804233652",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/46/1788346_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/46/1788346_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1689344016",
+    "mapy": "37.4630669096",
+    "mlevel": "6",
+    "modifiedtime": "20230221094640",
+    "sigungucode": "12",
+    "tel": "031-742-5666",
+    "title": "고암남원추어탕",
+    "zipcode": "13134",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "603250": {
+    "addr1": "경기도 성남시 분당구 불곡남로 5",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "603250",
+    "contenttypeid": "39",
+    "createdtime": "20080805003534",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/58/1788358_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/58/1788358_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1229748575",
+    "mapy": "37.3589114915",
+    "mlevel": "6",
+    "modifiedtime": "20231025090704",
+    "sigungucode": "12",
+    "tel": "031-718-3344",
+    "title": "두향",
+    "zipcode": "13604",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "804498": {
+    "addr1": "경기도 성남시 분당구 대왕판교로606번길 10",
+    "addr2": "(백현동,알파리움1단지)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020300",
+    "contentid": "804498",
+    "contenttypeid": "39",
+    "createdtime": "20090916195808",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/27/1887727_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/27/1887727_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1084834708",
+    "mapy": "37.3956097555",
+    "mlevel": "6",
+    "modifiedtime": "20230918173104",
+    "sigungucode": "12",
+    "tel": "031-706-9880",
+    "title": "자산어보",
+    "zipcode": "13530",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "기타 지원 항목": "입식(의자식)테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "805121": {
+    "addr1": "경기도 성남시 분당구 만세길 20",
+    "addr2": "(율동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "805121",
+    "contenttypeid": "39",
+    "createdtime": "20090917014635",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/41/1887741_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/41/1887741_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1524381408",
+    "mapy": "37.3839952248",
+    "mlevel": "6",
+    "modifiedtime": "20220927104925",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "향촌",
+    "zipcode": "13576",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 평지로 되어 있으나 흙(돌) 구간 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2027561": {
+    "addr1": "경기도 성남시 분당구 내정로165번길 38",
+    "addr2": "(수내동,양지마을청구금호아파트)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2027561",
+    "contenttypeid": "39",
+    "createdtime": "20150907200311",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/48/2503348_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/48/2503348_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1162971825",
+    "mapy": "37.3767593026",
+    "mlevel": "6",
+    "modifiedtime": "20230206175552",
+    "sigungucode": "12",
+    "tel": "031-714-9124",
+    "title": "자연애 쭈꾸미",
+    "zipcode": "13597",
+    "family": [
+      {
+        "유아용 보조 의자": "구비(3개)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2625078": {
+    "addr1": "경기도 성남시 분당구 판교역로146번길 20",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020200",
+    "contentid": "2625078",
+    "contenttypeid": "39",
+    "createdtime": "20191015224021",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.1121026653",
+    "mapy": "37.3928462513",
+    "mlevel": "6",
+    "modifiedtime": "20230831152857",
+    "sigungucode": "12",
+    "tel": "031-5170-2541",
+    "title": "에이치 541(h' 541)",
+    "zipcode": "13529",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      },
+      {
+        "영유아가족 기타 지원 항목": "유아휴게실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2752627": {
+    "addr1": "경기도 성남시 수정구 청계산로 617",
+    "addr2": "(상적동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2752627",
+    "contenttypeid": "39",
+    "createdtime": "20211005180417",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/74/2932374_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/74/2932374_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0885953709",
+    "mapy": "37.4316774367",
+    "mlevel": "6",
+    "modifiedtime": "20221212112137",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "디안만두전골",
+    "zipcode": "13443",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2753888": {
+    "addr1": "경기도 성남시 수정구 여수대로56번길 3",
+    "addr2": "(시흥동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2753888",
+    "contenttypeid": "39",
+    "createdtime": "20211006222151",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/82/2932282_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/82/2932282_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1084716196",
+    "mapy": "37.4218733761",
+    "mlevel": "6",
+    "modifiedtime": "20221212110030",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "청담추어정",
+    "zipcode": "13445",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2760844": {
+    "addr1": "경기도 성남시 수정구 적푸리로35번길 4-7",
+    "addr2": "(상적동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2760844",
+    "contenttypeid": "39",
+    "createdtime": "20211021231646",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/09/2760909_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/09/2760909_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0853178287",
+    "mapy": "37.4338826782",
+    "mlevel": "6",
+    "modifiedtime": "20221222114139",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "시그니쳐9",
+    "zipcode": "13443",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2809093": {
+    "addr1": "경기도 성남시 분당구 판교역로 240 삼환하이펙스A동",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2809093",
+    "contenttypeid": "39",
+    "createdtime": "20220303154049",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.1104608859",
+    "mapy": "37.4021201469",
+    "mlevel": "6",
+    "modifiedtime": "20220503154432",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "픽유어온샐러드",
+    "zipcode": "13493",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2827032": {
+    "addr1": "경기도 성남시 분당구 정자동",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020700",
+    "contentid": "2827032",
+    "contenttypeid": "39",
+    "createdtime": "20220708110701",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.1068150884",
+    "mapy": "37.3633523527",
+    "mlevel": "6",
+    "modifiedtime": "20220816154840",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "효뜨꽌",
+    "zipcode": "13559",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2837493": {
+    "addr1": "경기도 성남시 수정구 설개로14번길 23 시흥동 81-2 김영모과자점",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2837493",
+    "contenttypeid": "39",
+    "createdtime": "20220817100704",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/90/2837490_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/90/2837490_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1040637367",
+    "mapy": "37.4201040575",
+    "mlevel": "6",
+    "modifiedtime": "20221014144255",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "파네트리 제과명장 김영모",
+    "zipcode": "13445",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2844686": {
+    "addr1": "경기도 성남시 분당구 동판교로52번길 17-7",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2844686",
+    "contenttypeid": "39",
+    "createdtime": "20220829094445",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/79/2844679_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/79/2844679_image3_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1152636666",
+    "mapy": "37.3865498160",
+    "mlevel": "6",
+    "modifiedtime": "20221014110504",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "올덴브라운",
+    "zipcode": "13535",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2870396": {
+    "addr1": "경기도 성남시 분당구 정자일로 197",
+    "addr2": "푸르지오씨티 2차 2층",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2870396",
+    "contenttypeid": "39",
+    "createdtime": "20221019135806",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/92/2870392_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/92/2870392_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1055372932",
+    "mapy": "37.3680823378",
+    "mlevel": "6",
+    "modifiedtime": "20221103111833",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "모랑해물솥밥 정자역점",
+    "zipcode": "13557",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2871393": {
+    "addr1": "경기도 성남시 분당구 불곡로13번길 1",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2871393",
+    "contenttypeid": "39",
+    "createdtime": "20221020104718",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/66/2871366_image2_1.jpeg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/66/2871366_image3_1.jpeg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1240080899",
+    "mapy": "37.3591753681",
+    "mlevel": "6",
+    "modifiedtime": "20221103133755",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "선한레시피 정자본점",
+    "zipcode": "13604",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2875035": {
+    "addr1": "경기도 성남시 분당구 동판교로52번길 17-5",
+    "addr2": "1층",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2875035",
+    "contenttypeid": "39",
+    "createdtime": "20221025160353",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/31/2875031_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/31/2875031_image3_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1150942376",
+    "mapy": "37.3865498130",
+    "mlevel": "6",
+    "modifiedtime": "20230206174154",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "올덴그레이",
+    "zipcode": "13535",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2910015": {
+    "addr1": "경기도 성남시 수정구 위례순환로 130 위례 아트리버 푸르지오",
+    "addr2": "2단지 상가동 202호",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020200",
+    "contentid": "2910015",
+    "contenttypeid": "39",
+    "createdtime": "20221116141831",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/97/2909997_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/97/2909997_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1427393395",
+    "mapy": "37.4708349802",
+    "mlevel": "6",
+    "modifiedtime": "20230308142437",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "헬로미켈란",
+    "zipcode": "13640",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2911099": {
+    "addr1": "경기도 성남시 분당구 판교공원로3길 10",
+    "addr2": "1층 101호",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020200",
+    "contentid": "2911099",
+    "contenttypeid": "39",
+    "createdtime": "20221117100126",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/94/2911094_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/94/2911094_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0901824721",
+    "mapy": "37.3914904593",
+    "mlevel": "6",
+    "modifiedtime": "20230127110410",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "더댄디라이언",
+    "zipcode": "13477",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2911169": {
+    "addr1": "경기도 성남시 분당구 판교백현로 29",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020200",
+    "contentid": "2911169",
+    "contenttypeid": "39",
+    "createdtime": "20221117102615",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/59/2911159_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/59/2911159_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0959072257",
+    "mapy": "37.3817916870",
+    "mlevel": "6",
+    "modifiedtime": "20230127110107",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "아지오21",
+    "zipcode": "13539",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2911184": {
+    "addr1": "경기도 성남시 수정구 위례서일로3길 7-12",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020300",
+    "contentid": "2911184",
+    "contenttypeid": "39",
+    "createdtime": "20221117103134",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/72/2911172_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/72/2911172_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1389481390",
+    "mapy": "37.4665576304",
+    "mlevel": "6",
+    "modifiedtime": "20230127105654",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "은호스시",
+    "zipcode": "13647",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2911230": {
+    "addr1": "경기도 성남시 분당구 서현로237번길 3",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2911230",
+    "contenttypeid": "39",
+    "createdtime": "20221117104830",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/26/2911226_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/26/2911226_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1281819646",
+    "mapy": "37.3856084907",
+    "mlevel": "6",
+    "modifiedtime": "20230127103359",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "카페온더데스크",
+    "zipcode": "13572",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2914536": {
+    "addr1": "경기도 성남시 분당구 안골로48번길 5",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2914536",
+    "contenttypeid": "39",
+    "createdtime": "20221122102717",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/22/2914522_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/22/2914522_image3_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1370367054",
+    "mapy": "37.3859752740",
+    "mlevel": "6",
+    "modifiedtime": "20230308134358",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "윤시케이크",
+    "zipcode": "13572",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2915863": {
+    "addr1": "경기도 성남시 분당구 산운로32번길 14",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2915863",
+    "contenttypeid": "39",
+    "createdtime": "20221123105707",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/42/2915842_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/42/2915842_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0653902731",
+    "mapy": "37.3917510954",
+    "mlevel": "6",
+    "modifiedtime": "20230125150757",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "운중본가 장수촌",
+    "zipcode": "13463",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2915893": {
+    "addr1": "경기도 성남시 분당구 판교로 788",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2915893",
+    "contenttypeid": "39",
+    "createdtime": "20221123110824",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/89/2915889_image2_1.jpeg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/89/2915889_image3_1.jpeg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1599840840",
+    "mapy": "37.4049845948",
+    "mlevel": "6",
+    "modifiedtime": "20230308132329",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "비디788",
+    "zipcode": "13509",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2925418": {
+    "addr1": "경기도 성남시 분당구 쇳골로 70-1 아셈메디칼 빌딩 Ⅱ",
+    "addr2": "1~3층,루프탑,야외공원",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2925418",
+    "contenttypeid": "39",
+    "createdtime": "20221130114036",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/03/2925403_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/03/2925403_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0941356562",
+    "mapy": "37.3643325677",
+    "mlevel": "6",
+    "modifiedtime": "20230308102134",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "카랑코에",
+    "zipcode": "13551",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2925430": {
+    "addr1": "경기도 성남시 분당구 판교백현로 65",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2925430",
+    "contenttypeid": "39",
+    "createdtime": "20221130114701",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/23/2925423_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/23/2925423_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0919992179",
+    "mapy": "37.3828414948",
+    "mlevel": "6",
+    "modifiedtime": "20230103174500",
+    "sigungucode": "12",
+    "tel": "",
+    "title": "하누소 The Hill",
+    "zipcode": "13539",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

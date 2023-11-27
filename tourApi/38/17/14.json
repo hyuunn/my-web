@@ -1,0 +1,323 @@
+{
+  "129710": {
+    "addr1": "전라남도 영암군 영암읍 교동로 55",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060700",
+    "contentid": "129710",
+    "contenttypeid": "14",
+    "createdtime": "20071106102631",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/16/1007916_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/16/1007916_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6911807185",
+    "mapy": "34.7969632971",
+    "mlevel": "6",
+    "modifiedtime": "20231030173351",
+    "sigungucode": "17",
+    "tel": "",
+    "title": "영암문화원",
+    "zipcode": "58414",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "130321": {
+    "addr1": "전라남도 영암군 삼호읍 녹색로 653-11",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "130321",
+    "contenttypeid": "14",
+    "createdtime": "20060628090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/18/1073318_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/18/1073318_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.4578018121",
+    "mapy": "34.7761201242",
+    "mlevel": "6",
+    "modifiedtime": "20230629155515",
+    "sigungucode": "17",
+    "tel": "",
+    "title": "전라남도 농업박물관",
+    "zipcode": "58447",
+    "family": [
+      {
+        "수유실": "수유실 있음(농경문화관)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "전시해설자 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "130422": {
+    "addr1": "전라남도 영암군 군서면 서호정길 5",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "130422",
+    "contenttypeid": "14",
+    "createdtime": "20071106105641",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/48/2705748_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/48/2705748_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6193323841",
+    "mapy": "34.7604995424",
+    "mlevel": "6",
+    "modifiedtime": "20230328110636",
+    "sigungucode": "17",
+    "tel": "",
+    "title": "영암도기박물관",
+    "zipcode": "58434",
+    "family": [
+      {
+        "유모차": "유모차 무료 대여(2대,안내데스크)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "휠체어 무료 대여(2대,안내데스크)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(자동문,수동문)"
+      },
+      {
+        "엘리베이터": "장애인용 엘리베이터 있음(휠체어 2대크기)"
+      },
+      {
+        "화장실": "장애인 화장실 있음(1,2층,야외화장실)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(엘리베이터,출입구,계단 앞 등)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2732489": {
+    "addr1": "전라남도 영암군 영암읍 기찬랜드로 19-10",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020600",
+    "contentid": "2732489",
+    "contenttypeid": "14",
+    "createdtime": "20210810225939",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/90/2732490_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/90/2732490_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6853841377",
+    "mapy": "34.7916054707",
+    "mlevel": "6",
+    "modifiedtime": "20230822154853",
+    "sigungucode": "17",
+    "tel": "",
+    "title": "가야금테마공원",
+    "zipcode": "58420",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2732508": {
+    "addr1": "전라남도 영암군 영암읍 영암로 1498",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060200",
+    "contentid": "2732508",
+    "contenttypeid": "14",
+    "createdtime": "20210810231627",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/12/2732512_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/12/2732512_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6949360532",
+    "mapy": "34.7924499783",
+    "mlevel": "6",
+    "modifiedtime": "20230622143017",
+    "sigungucode": "17",
+    "tel": "",
+    "title": "낭산김준연선생기념관",
+    "zipcode": "58421",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2732538": {
+    "addr1": "전라남도 영암군 군서면 구림로 96",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060500",
+    "contentid": "2732538",
+    "contenttypeid": "14",
+    "createdtime": "20210810232913",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/41/2732541_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/41/2732541_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6217821635",
+    "mapy": "34.7606856731",
+    "mlevel": "6",
+    "modifiedtime": "20221004104610",
+    "sigungucode": "17",
+    "tel": "",
+    "title": "영암군립하정웅미술관",
+    "zipcode": "58434",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자유도로 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2779301": {
+    "addr1": "전라남도 영암군 영암읍 기찬랜드로 41",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "2779301",
+    "contenttypeid": "14",
+    "createdtime": "20211125022214",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/35/2781135_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/35/2781135_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6851369678",
+    "mapy": "34.7903583844",
+    "mlevel": "6",
+    "modifiedtime": "20230224132728",
+    "sigungucode": "17",
+    "tel": "",
+    "title": "영암곤충박물관",
+    "zipcode": "58420",
+    "family": [
+      {
+        "유모차": "대여가능"
+      },
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

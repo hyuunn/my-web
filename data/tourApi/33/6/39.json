@@ -1,0 +1,63 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "0000",
+      "resultMsg": "OK"
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "addr1": "충청북도 음성군 음성읍 시장로115번길 5",
+            "addr2": "",
+            "areacode": "33",
+            "booktour": "",
+            "cat1": "A05",
+            "cat2": "A0502",
+            "cat3": "A05020400",
+            "contentid": "2608178",
+            "contenttypeid": "39",
+            "createdtime": "20190628024030",
+            "firstimage": "http://tong.visitkorea.or.kr/cms/resource/59/2608259_image2_1.jpg",
+            "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/59/2608259_image2_1.jpg",
+            "cpyrhtDivCd": "Type3",
+            "mapx": "127.6910771000",
+            "mapy": "36.9373537884",
+            "mlevel": "6",
+            "modifiedtime": "20230109130125",
+            "sigungucode": "6",
+            "tel": "043-872-6414<br />043-872-3414",
+            "title": "[백년가게]영빈관",
+            "zipcode": "27696"
+          },
+          {
+            "addr1": "충청북도 음성군 맹동면 대하4길 6-13",
+            "addr2": "",
+            "areacode": "33",
+            "booktour": "",
+            "cat1": "A05",
+            "cat2": "A0502",
+            "cat3": "A05020100",
+            "contentid": "2778486",
+            "contenttypeid": "39",
+            "createdtime": "20211124194501",
+            "firstimage": "",
+            "firstimage2": "",
+            "cpyrhtDivCd": "",
+            "mapx": "127.5440522453",
+            "mapy": "36.9086599754",
+            "mlevel": "6",
+            "modifiedtime": "20221228150839",
+            "sigungucode": "6",
+            "tel": "",
+            "title": "심사숙고",
+            "zipcode": "27738"
+          }
+        ]
+      },
+      "numOfRows": 2,
+      "pageNo": 1,
+      "totalCount": 2
+    }
+  }
+}

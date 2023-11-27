@@ -1,0 +1,7709 @@
+{
+  "132178":{
+     "addr1":"서울특별시 종로구 세종대로 149",
+     "addr2":"(세종로)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010400",
+     "contentid":"132178",
+     "contenttypeid":"38",
+     "createdtime":"20030519090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/41/2589341_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/41/2589341_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9761378170",
+     "mapy":"37.5695871827",
+     "mlevel":"6",
+     "modifiedtime":"20230125105348",
+     "sigungucode":"23",
+     "tel":"02-399-3270",
+     "title":"동화면세점",
+     "zipcode":"03186",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "132180":{
+     "addr1":"서울특별시 중구 남대문시장4길 21",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"132180",
+     "contenttypeid":"38",
+     "createdtime":"20031117090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/96/759696_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/96/759696_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9776796357",
+     "mapy":"37.5592467455",
+     "mlevel":"6",
+     "modifiedtime":"20230303091354",
+     "sigungucode":"24",
+     "tel":"",
+     "title":"남대문시장",
+     "zipcode":"04529",
+     "family":[
+        {
+           "수유실":"수유실 있음(G동 대도아케이드 지하 1층)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능"
+        },
+        {
+           "안내요원":"안내요원 있음(남대문시장 관광안내소)"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "132182":{
+     "addr1":"서울특별시 중구 청계천로 274",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"132182",
+     "contenttypeid":"38",
+     "createdtime":"20031119090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/61/614361_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/61/614361_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.0080126943",
+     "mapy":"37.5694211079",
+     "mlevel":"6",
+     "modifiedtime":"20230308163317",
+     "sigungucode":"24",
+     "tel":"02-2265-3531",
+     "title":"서울 평화시장",
+     "zipcode":"04563",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "132183":{
+     "addr1":"서울특별시 종로구 창경궁로 88",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"132183",
+     "contenttypeid":"38",
+     "createdtime":"20031117090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/81/2668981_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/81/2668981_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9997217621",
+     "mapy":"37.5701653166",
+     "mlevel":"6",
+     "modifiedtime":"20230622163102",
+     "sigungucode":"23",
+     "tel":"",
+     "title":"광장시장",
+     "zipcode":"03195",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음(남1문 광장시장 나들이 쉼터)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "132184":{
+     "addr1":"서울특별시 서초구 신반포로 194",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"132184",
+     "contenttypeid":"38",
+     "createdtime":"20031117090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/94/1920594_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/94/1920594_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.0075478821",
+     "mapy":"37.5054063136",
+     "mlevel":"6",
+     "modifiedtime":"20230610055702",
+     "sigungucode":"15",
+     "tel":"02-535-2212",
+     "title":"고속터미널 의류도매상가",
+     "zipcode":"06545",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함(상가 복도공간이 협소함)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(터미널 화장실)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "132186":{
+     "addr1":"서울특별시 중구 마장로1길 21",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"132186",
+     "contenttypeid":"38",
+     "createdtime":"20031117090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/53/1984353_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/53/1984353_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.0119012497",
+     "mapy":"37.5686851518",
+     "mlevel":"6",
+     "modifiedtime":"20230403142814",
+     "sigungucode":"24",
+     "tel":"02-2232-2882",
+     "title":"서울 광희시장",
+     "zipcode":"04567",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록있음(엘리베이터)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "132200":{
+     "addr1":"서울특별시 종로구 종로 266",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"132200",
+     "contenttypeid":"38",
+     "createdtime":"20031117090000",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.0073293863",
+     "mapy":"37.5707292767",
+     "mlevel":"6",
+     "modifiedtime":"20230721091139",
+     "sigungucode":"23",
+     "tel":"02-2262-0114",
+     "title":"동대문 종합시장·동대문 쇼핑타운",
+     "zipcode":"03198",
+     "family":[
+        {
+           "수유실":"수유실 있음(B동 5층)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음(층별로 장애인 화장실 설치여부 상이함)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실 앞)_시각장애인 편의시설"
+        },
+        {
+           "보조견 동반":"동반가능"
+        },
+        {
+           "안내요원":"안내요원 있음(안내데스크)"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "132201":{
+     "addr1":"서울특별시 서초구 신반포로 194",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"132201",
+     "contenttypeid":"38",
+     "createdtime":"20031117090000",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.0071923683",
+     "mapy":"37.5050868999",
+     "mlevel":"6",
+     "modifiedtime":"20221101100728",
+     "sigungucode":"15",
+     "tel":"02-533-2489",
+     "title":"강남고속터미널 혼수상가",
+     "zipcode":"06545",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함(상가 복도공간이 협소함)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(터미널 화장실)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "132215":{
+     "addr1":"서울특별시 송파구 양재대로 932",
+     "addr2":"(가락동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"132215",
+     "contenttypeid":"38",
+     "createdtime":"20031117090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/84/1920584_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/84/1920584_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.1109831778",
+     "mapy":"37.4960925880",
+     "mlevel":"6",
+     "modifiedtime":"20230424130802",
+     "sigungucode":"18",
+     "tel":"02-3435-1000",
+     "title":"가락농수산물종합도매시장",
+     "zipcode":"05699",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "132216":{
+     "addr1":"서울특별시 동작구 노들로 674",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"132216",
+     "contenttypeid":"38",
+     "createdtime":"20031117090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/54/2382954_image2_1.JPG",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/54/2382954_image2_1.JPG",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9368207234",
+     "mapy":"37.5148539488",
+     "mlevel":"6",
+     "modifiedtime":"20230321135338",
+     "sigungucode":"12",
+     "tel":"02-2254-8117",
+     "title":"노량진수산물도매시장",
+     "zipcode":"06900",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"장애인용 엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주차장 출입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "132217":{
+     "addr1":"서울특별시 중구 을지로36길 35",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"132217",
+     "contenttypeid":"38",
+     "createdtime":"20031119090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/46/1984446_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/46/1984446_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.0019383691",
+     "mapy":"37.5651409407",
+     "mlevel":"6",
+     "modifiedtime":"20230814171437",
+     "sigungucode":"24",
+     "tel":"",
+     "title":"서울 중부시장",
+     "zipcode":"04547",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        },
+        {
+           "기타 지원 항목":"센트마빌딩 주차구역, 화장실 이용 가능"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실, 엘리베이터)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "132219":{
+     "addr1":"서울특별시 종로구 인사동길 29",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A02",
+     "cat2":"A0203",
+     "cat3":"A02030400",
+     "contentid":"132219",
+     "contenttypeid":"38",
+     "createdtime":"20031119090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/24/2612524_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/24/2612524_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9857423926",
+     "mapy":"37.5732591505",
+     "mlevel":"6",
+     "modifiedtime":"20220818155242",
+     "sigungucode":"23",
+     "tel":"02-732-2240",
+     "title":"인사동 고미술거리",
+     "zipcode":"03149",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "132220":{
+     "addr1":"서울특별시 동대문구 약령중앙로 10",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"132220",
+     "contenttypeid":"38",
+     "createdtime":"20041109090000",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.0370431067",
+     "mapy":"37.5791427223",
+     "mlevel":"6",
+     "modifiedtime":"20230707101128",
+     "sigungucode":"11",
+     "tel":"02-969-4793~4",
+     "title":"서울 약령시장",
+     "zipcode":"02570",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"주차장에서 출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음(상가 건물 내)"
+        },
+        {
+           "기타 지원 항목":"한의원 건물 대부분 장애인 시설 있음, 한의원 상가 휠체어 진입 가능"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "132225":{
+     "addr1":"서울특별시 중구 남대문시장길 25-8",
+     "addr2":"(남대문로4가)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"132225",
+     "contenttypeid":"38",
+     "createdtime":"20031117090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/96/759696_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/96/759696_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9774490656",
+     "mapy":"37.5604827090",
+     "mlevel":"6",
+     "modifiedtime":"20230403160901",
+     "sigungucode":"24",
+     "tel":"02-752-1012",
+     "title":"남대문인삼시장",
+     "zipcode":"04529",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "132229":{
+     "addr1":"서울특별시 용산구 청파로 74",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"132229",
+     "contenttypeid":"38",
+     "createdtime":"20031119090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/08/669208_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/08/669208_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9595403701",
+     "mapy":"37.5327661639",
+     "mlevel":"6",
+     "modifiedtime":"20220607160413",
+     "sigungucode":"21",
+     "tel":"02-707-4700, 4694",
+     "title":"용산전자랜드",
+     "zipcode":"04372",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "132230":{
+     "addr1":"서울특별시 서초구 신반포로 194",
+     "addr2":"(반포동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"132230",
+     "contenttypeid":"38",
+     "createdtime":"20031117090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/62/1948162_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/62/1948162_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.0075478821",
+     "mapy":"37.5054063136",
+     "mlevel":"6",
+     "modifiedtime":"20221227190147",
+     "sigungucode":"15",
+     "tel":"",
+     "title":"고속터미널 꽃도매상가",
+     "zipcode":"06545",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함(상가 복도공간이 협소함)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(터미널 화장실)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "132241":{
+     "addr1":"서울특별시 중구 을지로33길 18-1 오성빌딩",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"132241",
+     "contenttypeid":"38",
+     "createdtime":"20031120090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/79/2667479_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/79/2667479_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9997190611",
+     "mapy":"37.5674656304",
+     "mlevel":"6",
+     "modifiedtime":"20221202134119",
+     "sigungucode":"24",
+     "tel":"02-2266-8765",
+     "title":"방산 종합시장",
+     "zipcode":"04546",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "132248":{
+     "addr1":"서울특별시 송파구 올림픽로 240",
+     "addr2":"(잠실동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"132248",
+     "contenttypeid":"38",
+     "createdtime":"20031030090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/29/1920629_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/29/1920629_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.0972006734",
+     "mapy":"37.5110794886",
+     "mlevel":"6",
+     "modifiedtime":"20221226162315",
+     "sigungucode":"18",
+     "tel":"02-411-2000",
+     "title":"롯데월드 쇼핑몰",
+     "zipcode":"05554",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(롯데백화점)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "132318":{
+     "addr1":"서울특별시 중구 을지로 30",
+     "addr2":"(소공동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010400",
+     "contentid":"132318",
+     "contenttypeid":"38",
+     "createdtime":"20031028090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/21/2871621_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/21/2871621_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9809819395",
+     "mapy":"37.5653516507",
+     "mlevel":"6",
+     "modifiedtime":"20230825094833",
+     "sigungucode":"24",
+     "tel":"02-759-6660~2",
+     "title":"롯데면세점 (본점)",
+     "zipcode":"04533",
+     "family":[
+        {
+           "유모차":"대여가능"
+        },
+        {
+           "영유아가족 기타 지원 항목":"유아휴게실 있음"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "132460":{
+     "addr1":"서울특별시 중구 퇴계로36길 10",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010700",
+     "contentid":"132460",
+     "contenttypeid":"38",
+     "createdtime":"20040227090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/87/2514687_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/87/2514687_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9945252956",
+     "mapy":"37.5601886048",
+     "mlevel":"6",
+     "modifiedtime":"20230802211451",
+     "sigungucode":"24",
+     "tel":"02-2270-1190",
+     "title":"한국의집 사랑 카페앤아트샵",
+     "zipcode":"04626",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자유도로 있음_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "132492":{
+     "addr1":"서울특별시 서초구 신반포로 지하 200",
+     "addr2":"(반포동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"132492",
+     "contenttypeid":"38",
+     "createdtime":"20031117090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/86/2020186_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/86/2020186_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.0014096166",
+     "mapy":"37.5031286903",
+     "mlevel":"6",
+     "modifiedtime":"20230317161408",
+     "sigungucode":"15",
+     "tel":"02-535-8182",
+     "title":"고투몰(강남터미널 지하도상가)",
+     "zipcode":"06545",
+     "family":[
+        {
+           "유모차":"대여가능(서측광장 경비초소, 중앙광장 경비초소, 동측광장 경비초소)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함(반포지구대 앞 9호선 엘리베이터 이용)"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자유도로 있음_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "132512":{
+     "addr1":"서울특별시 종로구 인사동길 12",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010700",
+     "contentid":"132512",
+     "contenttypeid":"38",
+     "createdtime":"20040213090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/62/1984462_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/62/1984462_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9871311896",
+     "mapy":"37.5720370953",
+     "mlevel":"6",
+     "modifiedtime":"20220715171737",
+     "sigungucode":"23",
+     "tel":"02-737-9700 ~4",
+     "title":"충무공사",
+     "zipcode":"03163",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"정문 경사로,후문 무단차접근"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(정문 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "132531":{
+     "addr1":"서울특별시 중구 동호로 249",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010400",
+     "contentid":"132531",
+     "contenttypeid":"38",
+     "createdtime":"20031028090000",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.0064021014",
+     "mapy":"37.5563226009",
+     "mlevel":"6",
+     "modifiedtime":"20220624150047",
+     "sigungucode":"24",
+     "tel":"1688-1110",
+     "title":"신라면세점(서울점)",
+     "zipcode":"04605",
+     "family":[
+        {
+           "유모차":"대여가능(1층 안내데스크)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(1층(남자화장실),2층(여자화장실))"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "132557":{
+     "addr1":"서울특별시 중구 남대문시장10길 2 MESA",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"132557",
+     "contenttypeid":"38",
+     "createdtime":"20031024090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/28/668128_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/28/668128_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9796155373",
+     "mapy":"37.5604271986",
+     "mlevel":"6",
+     "modifiedtime":"20230308152905",
+     "sigungucode":"24",
+     "tel":"02-2128-7800",
+     "title":"남대문 메사 (MESA)",
+     "zipcode":"04529",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함(회전문)"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(보조출입구 계단 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "132580":{
+     "addr1":"서울특별시 용산구 이태원로 179",
+     "addr2":"(이태원동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"132580",
+     "contenttypeid":"38",
+     "createdtime":"20031024090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/71/1984471_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/71/1984471_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9937149795",
+     "mapy":"37.5347276602",
+     "mlevel":"6",
+     "modifiedtime":"20221226183056",
+     "sigungucode":"21",
+     "tel":"02-3786-6351",
+     "title":"해밀톤 쇼핑센터",
+     "zipcode":"04350",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(호텔 4층 이용)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "안내요원":"안내요원 있음"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "132590":{
+     "addr1":"서울특별시 종로구 인사동5길 14",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010900",
+     "contentid":"132590",
+     "contenttypeid":"38",
+     "createdtime":"20031015090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/38/2497338_image2_1.JPG",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/38/2497338_image2_1.JPG",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9853257785",
+     "mapy":"37.5727536463",
+     "mlevel":"6",
+     "modifiedtime":"20230726105843",
+     "sigungucode":"23",
+     "tel":"02-735-6529",
+     "title":"한국관광명품점(인사동)",
+     "zipcode":"03149",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음(지하1층)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(보조출입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "132593":{
+     "addr1":"서울특별시 금천구 디지털로9길 23",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"132593",
+     "contenttypeid":"38",
+     "createdtime":"20031106090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/10/1923610_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/10/1923610_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.8863707829",
+     "mapy":"37.4786294780",
+     "mlevel":"6",
+     "modifiedtime":"20230512181720",
+     "sigungucode":"8",
+     "tel":"02-2109-7000",
+     "title":"마리오아울렛",
+     "zipcode":"08511",
+     "family":[
+        {
+           "유모차":"유모차 대여 가능함(1관,2관,3관 1층)"
+        }
+     ],
+     "handi":[
+        {
+           "화장실":"장애인화장실 있음_무장애 편의시설"
+        },
+        {
+           "기타 지원 항목":"휠체어충전기 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자 홍보물 및 점자 표지판":"점자표지판 있음"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "132613":{
+     "addr1":"서울특별시 용산구 이태원동",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A02",
+     "cat2":"A0203",
+     "cat3":"A02030400",
+     "contentid":"132613",
+     "contenttypeid":"38",
+     "createdtime":"20040329090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/78/566478_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/78/566478_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9906791694",
+     "mapy":"37.5338610390",
+     "mlevel":"6",
+     "modifiedtime":"20220818105938",
+     "sigungucode":"21",
+     "tel":"02-797-7319, 2293",
+     "title":"이태원 쇼핑거리",
+     "zipcode":"04390",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "132642":{
+     "addr1":"서울특별시 중구 소공로 63",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010300",
+     "contentid":"132642",
+     "contenttypeid":"38",
+     "createdtime":"20050720090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/61/668861_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/61/668861_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9808542989",
+     "mapy":"37.5609271625",
+     "mlevel":"6",
+     "modifiedtime":"20220707175528",
+     "sigungucode":"24",
+     "tel":"1588-1234",
+     "title":"신세계백화점 (본점)",
+     "zipcode":"04530",
+     "family":[
+        {
+           "유모차":"대여가능(24개월 이하,사전문의)"
+        },
+        {
+           "수유실":"수유실,유아휴게실 있음"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자유도로 있음_시각장애인 편의시설"
+        },
+        {
+           "안내요원":"안내요원 있음"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "132668":{
+     "addr1":"서울특별시 중구 남대문로 81",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010300",
+     "contentid":"132668",
+     "contenttypeid":"38",
+     "createdtime":"20061031090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/24/2997124_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/24/2997124_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9817152234",
+     "mapy":"37.5647378465",
+     "mlevel":"6",
+     "modifiedtime":"20230804111706",
+     "sigungucode":"24",
+     "tel":"010-6470-4769",
+     "title":"롯데백화점 본점",
+     "zipcode":"04533",
+     "family":[
+        {
+           "유모차":"대여가능(1층)"
+        },
+        {
+           "영유아가족 기타 지원 항목":"유아휴게실 있음(7층)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "휠체어":"대여가능"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음_시각장애인 편의시설"
+        },
+        {
+           "안내요원":"안내요원 있음"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "132670":{
+     "addr1":"서울특별시 강남구 압구정로 165",
+     "addr2":"(압구정동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010300",
+     "contentid":"132670",
+     "contenttypeid":"38",
+     "createdtime":"20061101090000",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.0274343401",
+     "mapy":"37.5273513442",
+     "mlevel":"6",
+     "modifiedtime":"20230516115227",
+     "sigungucode":"1",
+     "tel":"02-547-2233",
+     "title":"현대백화점 (압구정본점)",
+     "zipcode":"06001",
+     "family":[
+        {
+           "유모차":"유모차 대여 가능함"
+        },
+        {
+           "영유아가족 기타 지원 항목":"유아휴게실 있음(지하2층)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "엘리베이터":"장애인용 엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주출입구,엘리베이터 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "132673":{
+     "addr1":"서울특별시 강남구 테헤란로 517",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010300",
+     "contentid":"132673",
+     "contenttypeid":"38",
+     "createdtime":"20061109090000",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.0597319294",
+     "mapy":"37.5086457635",
+     "mlevel":"6",
+     "modifiedtime":"20230422134121",
+     "sigungucode":"1",
+     "tel":"02-552-2233",
+     "title":"현대백화점 (무역센터점)",
+     "zipcode":"06164",
+     "family":[
+        {
+           "유모차":"대여가능(24개월 이하,지하1층 유모차 대여소)"
+        },
+        {
+           "수유실":"수유실 있음(유아휴게실)"
+        },
+        {
+           "영유아가족 기타 지원 항목":"유아휴게실(9층,기저귀 교환대,베이비체어,아기침대)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(지하1층(여성 장애인 화장실), 10층(장애인화장실))"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "132686":{
+     "addr1":"서울특별시 양천구 목동동로 309",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010300",
+     "contentid":"132686",
+     "contenttypeid":"38",
+     "createdtime":"20061113090000",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.8762258535",
+     "mapy":"37.5287623617",
+     "mlevel":"6",
+     "modifiedtime":"20220706165007",
+     "sigungucode":"19",
+     "tel":"02-6678-9000",
+     "title":"행복한백화점",
+     "zipcode":"07997",
+     "family":[
+        {
+           "유모차":"유모차 대여 가능함"
+        }
+     ],
+     "handi":[
+        
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"0"
+  },
+  "273746":{
+     "addr1":"서울특별시 중구 마장로5길 11-7",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"273746",
+     "contenttypeid":"38",
+     "createdtime":"20040319194344",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.0181228914",
+     "mapy":"37.5691713182",
+     "mlevel":"6",
+     "modifiedtime":"20230721153724",
+     "sigungucode":"24",
+     "tel":"",
+     "title":"황학동 벼룩시장 (도깨비시장 / 만물시장)",
+     "zipcode":"04571",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "273756":{
+     "addr1":"서울특별시 중구 장충단로 275",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"273756",
+     "contenttypeid":"38",
+     "createdtime":"20080531000622",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.0087681967",
+     "mapy":"37.5688767395",
+     "mlevel":"6",
+     "modifiedtime":"20230817100410",
+     "sigungucode":"24",
+     "tel":"",
+     "title":"두산타워 (doota)",
+     "zipcode":"04563",
+     "family":[
+        {
+           "유모차":"유모차 대여 가능함(1F 안내데스크)"
+        },
+        {
+           "수유실":"수유실 있음"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "273758":{
+     "addr1":"서울특별시 중구 장충단로 263",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"273758",
+     "contenttypeid":"38",
+     "createdtime":"20040319225218",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/31/669231_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/31/669231_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.0085265783",
+     "mapy":"37.5679629533",
+     "mlevel":"6",
+     "modifiedtime":"20220419160926",
+     "sigungucode":"24",
+     "tel":"",
+     "title":"밀리오레 (동대문점)",
+     "zipcode":"04563",
+     "family":[
+        {
+           "유모차":"유모차 대여 가능함"
+        }
+     ],
+     "handi":[
+        
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"0"
+  },
+  "273772":{
+     "addr1":"서울특별시 강남구 압구정로 343",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010300",
+     "contentid":"273772",
+     "contenttypeid":"38",
+     "createdtime":"20040320024611",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.0400442707",
+     "mapy":"37.5284708848",
+     "mlevel":"6",
+     "modifiedtime":"20220721172610",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"갤러리아백화점 명품관",
+     "zipcode":"06008",
+     "family":[
+        {
+           "유모차":"유모차 대여 가능함"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"장애인용 엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "273806":{
+     "addr1":"서울특별시 중구 남대문로 73",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010300",
+     "contentid":"273806",
+     "contenttypeid":"38",
+     "createdtime":"20050721014708",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/56/668856_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/56/668856_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9815930278",
+     "mapy":"37.5641934634",
+     "mlevel":"6",
+     "modifiedtime":"20230610061911",
+     "sigungucode":"24",
+     "tel":"",
+     "title":"롯데백화점 (에비뉴엘)",
+     "zipcode":"04533",
+     "family":[
+        {
+           "유모차":"대여가능(본점 이용)"
+        },
+        {
+           "영유아가족 기타 지원 항목":"유아휴게실 있음(본점 이용)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "679686":{
+     "addr1":"서울특별시 성동구 왕십리광장로 17",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"679686",
+     "contenttypeid":"38",
+     "createdtime":"20090115014832",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/85/1930185_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/85/1930185_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.0383990394",
+     "mapy":"37.5615003522",
+     "mlevel":"6",
+     "modifiedtime":"20220818112909",
+     "sigungucode":"16",
+     "tel":"",
+     "title":"엔터식스 왕십리역점",
+     "zipcode":"04750",
+     "family":[
+        {
+           "유모차":"대여가능(1층 서비스 데스크)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음(1층)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자유도로 있음(주 출입구 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "688998":{
+     "addr1":"서울특별시 용산구 한강대로23길 55",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"688998",
+     "contenttypeid":"38",
+     "createdtime":"20090206182300",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/99/936299_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/99/936299_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9648510800",
+     "mapy":"37.5298527082",
+     "mlevel":"6",
+     "modifiedtime":"20221117170607",
+     "sigungucode":"21",
+     "tel":"",
+     "title":"현대 아이파크몰",
+     "zipcode":"04377",
+     "family":[
+        {
+           "유모차":"유모차 대여 가능함"
+        }
+     ],
+     "handi":[
+        {
+           "휠체어":"휠체어 대여 가능함(1F, 3F)"
+        },
+        {
+           "화장실":"장애인 화장실 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "690568":{
+     "addr1":"서울특별시 광진구 광나루로56길 85",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"690568",
+     "contenttypeid":"38",
+     "createdtime":"20090210193056",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/65/1984465_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/65/1984465_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.0957612191",
+     "mapy":"37.5355988375",
+     "mlevel":"6",
+     "modifiedtime":"20230622133902",
+     "sigungucode":"6",
+     "tel":"",
+     "title":"테크노마트 강변점",
+     "zipcode":"05116",
+     "family":[
+        {
+           "유모차":"무료대여(지하1층 안내데스크,신분증 필요)"
+        },
+        {
+           "수유실":"유아휴게실(1층,9층)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "732484":{
+     "addr1":"서울특별시 송파구 충민로 66",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"732484",
+     "contenttypeid":"38",
+     "createdtime":"20090511234754",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/78/1920578_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/78/1920578_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.1229354097",
+     "mapy":"37.4770061292",
+     "mlevel":"6",
+     "modifiedtime":"20230719151847",
+     "sigungucode":"18",
+     "tel":"",
+     "title":"가든파이브라이프(Garden5life)",
+     "zipcode":"05838",
+     "family":[
+        {
+           "유모차":"대여가능"
+        },
+        {
+           "수유실":"수유실 있음(영관 6층, 테크노관 5층, 리빙관 4층)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "휠체어":"대여가능"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(각 동 출입구 앞)_시각장애인 편의시설"
+        },
+        {
+           "안내요원":"안내요원 있음(고객지원센터)"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "806322":{
+     "addr1":"서울특별시 영등포구 영중로 15",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"806322",
+     "contenttypeid":"38",
+     "createdtime":"20090918233853",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/34/1113234_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/34/1113234_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9039014342",
+     "mapy":"37.5172030882",
+     "mlevel":"6",
+     "modifiedtime":"20221229111349",
+     "sigungucode":"20",
+     "tel":"",
+     "title":"타임스퀘어",
+     "zipcode":"07305",
+     "family":[
+        {
+           "유모차":"유모차 대여 가능함(1층 안내데스크, 10:30~22:00, 신분증보관)"
+        },
+        {
+           "영유아가족 기타 지원 항목":"유아휴게실(지하2층)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "휠체어":"휠체어 대여 가능함 (1층 안내데스크, 10:30~22:00, 신분증보관)"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(지하1,2,3층)"
+        },
+        {
+           "기타 지원 항목":"무인안내시스템(지하3층~지상5층)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "807619":{
+     "addr1":"서울특별시 중구 명동길 14",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"807619",
+     "contenttypeid":"38",
+     "createdtime":"20090922223103",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/09/2036209_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/09/2036209_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9828596009",
+     "mapy":"37.5634213529",
+     "mlevel":"6",
+     "modifiedtime":"20221020165353",
+     "sigungucode":"24",
+     "tel":"",
+     "title":"눈스퀘어",
+     "zipcode":"04536",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음(수동문)"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(각 층)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주출입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "948730":{
+     "addr1":"서울특별시 동대문구 고산자로36길 3",
+     "addr2":"(제기동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"948730",
+     "contenttypeid":"38",
+     "createdtime":"20100210232444",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.0391568047",
+     "mapy":"37.5790899880",
+     "mlevel":"6",
+     "modifiedtime":"20230704144026",
+     "sigungucode":"11",
+     "tel":"",
+     "title":"경동시장",
+     "zipcode":"02571",
+     "family":[
+        {
+           "수유실":"수유실 있음(신세계이마트 희망놀이터)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음(농협건물)"
+        },
+        {
+           "기타 지원 항목":"주차장에서 시장으로 휠체어 이동시 주차장 경사로 이용"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실 앞)_시각장애인 편의시설"
+        },
+        {
+           "보조견 동반":"동반가능"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "969942":{
+     "addr1":"서울특별시 종로구 인사동길 33",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010900",
+     "contentid":"969942",
+     "contenttypeid":"38",
+     "createdtime":"20100309221951",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/88/1011188_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/88/1011188_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9855035196",
+     "mapy":"37.5734730103",
+     "mlevel":"6",
+     "modifiedtime":"20221005103337",
+     "sigungucode":"23",
+     "tel":"",
+     "title":"한국공예관",
+     "zipcode":"03149",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "화장실":"장애인화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "984585":{
+     "addr1":"서울특별시 중구 장충단로 253",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"984585",
+     "contenttypeid":"38",
+     "createdtime":"20100324213104",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/61/1000561_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/61/1000561_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.0081710683",
+     "mapy":"37.5674741142",
+     "mlevel":"6",
+     "modifiedtime":"20220916175620",
+     "sigungucode":"24",
+     "tel":"",
+     "title":"헬로우 에이피엠 (Hello apm)",
+     "zipcode":"04564",
+     "family":[
+        {
+           "유모차":"대여 가능"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "985142":{
+     "addr1":"서울특별시 용산구 이태원로 160",
+     "addr2":"(이태원동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"985142",
+     "contenttypeid":"38",
+     "createdtime":"20100325020125",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/50/994350_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/50/994350_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9916262952",
+     "mapy":"37.5342165709",
+     "mlevel":"6",
+     "modifiedtime":"20230610074040",
+     "sigungucode":"21",
+     "tel":"02-798-5693",
+     "title":"해밀톤셔츠",
+     "zipcode":"04391",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함_무장애 편의시설"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "985267":{
+     "addr1":"서울특별시 종로구 인사동길 34-1",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010900",
+     "contentid":"985267",
+     "contenttypeid":"38",
+     "createdtime":"20100325182154",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/49/994749_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/49/994749_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9836897370",
+     "mapy":"37.5755560687",
+     "mlevel":"6",
+     "modifiedtime":"20220922134710",
+     "sigungucode":"23",
+     "tel":"02-722-9969",
+     "title":"인사아트프라자",
+     "zipcode":"03148",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"인사아트 프라자 내에는 장애인 전용 화장실이 없어, 건너편 건물 인사동 마루 건물을 이용"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "985351":{
+     "addr1":"서울특별시 영등포구 영중로 15",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"985351",
+     "contenttypeid":"38",
+     "createdtime":"20100325193906",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/51/995151_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/51/995151_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9039014342",
+     "mapy":"37.5172030882",
+     "mlevel":"6",
+     "modifiedtime":"20220713105046",
+     "sigungucode":"20",
+     "tel":"",
+     "title":"아트박스 (영등포점)",
+     "zipcode":"07305",
+     "family":[
+        {
+           "유모차":"대여가능(1층)"
+        },
+        {
+           "수유실":"수유실 있음(B2층)"
+        },
+        {
+           "영유아가족 기타 지원 항목":"유아휴게실 있음(B2층)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함(회전문,수동문)"
+        },
+        {
+           "휠체어":"대여가능(1층)"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음(B1,2,3층)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주 출입구 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "985361":{
+     "addr1":"서울특별시 강남구 강남대로162길 41-19",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"985361",
+     "contenttypeid":"38",
+     "createdtime":"20100325195107",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/95/995195_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/95/995195_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.0208350940",
+     "mapy":"37.5219268558",
+     "mlevel":"6",
+     "modifiedtime":"20230422224918",
+     "sigungucode":"1",
+     "tel":"02-2633-0120",
+     "title":"쉭앤칙 (Chic And Chick)",
+     "zipcode":"06028",
+     "family":[
+        {
+           "유모차":"유모차 대여 가능함"
+        }
+     ],
+     "handi":[
+        
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"0"
+  },
+  "985372":{
+     "addr1":"서울특별시 마포구 양화로 45",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"985372",
+     "contenttypeid":"38",
+     "createdtime":"20100325200632",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/61/995261_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/61/995261_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9136995850",
+     "mapy":"37.5511159887",
+     "mlevel":"6",
+     "modifiedtime":"20221101133902",
+     "sigungucode":"13",
+     "tel":"",
+     "title":"테이크어스트릿 (Take a street)",
+     "zipcode":"04036",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주 출입구 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "987071":{
+     "addr1":"서울특별시 중구 을지로45길 62",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"987071",
+     "contenttypeid":"38",
+     "createdtime":"20100326200541",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/81/1984381_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/81/1984381_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.0130011984",
+     "mapy":"37.5669492622",
+     "mlevel":"6",
+     "modifiedtime":"20221020142058",
+     "sigungucode":"24",
+     "tel":"02-6366-3114",
+     "title":"누죤패션몰",
+     "zipcode":"04566",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "987592":{
+     "addr1":"서울특별시 송파구 중대로 80",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"987592",
+     "contenttypeid":"38",
+     "createdtime":"20100327000658",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/58/1000758_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/58/1000758_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.1178493426",
+     "mapy":"37.4917654362",
+     "mlevel":"6",
+     "modifiedtime":"20221020161803",
+     "sigungucode":"18",
+     "tel":"02-400-5886",
+     "title":"지센(ZISHEN) 롯데마트송파점",
+     "zipcode":"05833",
+     "family":[
+        {
+           "유모차":"대여가능(지하2층)"
+        },
+        {
+           "영유아가족 기타 지원 항목":"유아휴게실 있음(지하2층)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "휠체어":"대여가능(지하2층)"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음(지하2층 고객센터 앞)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주 출입구 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1013527":{
+     "addr1":"서울특별시 종로구 창경궁로 88",
+     "addr2":"(예지동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"1013527",
+     "contenttypeid":"38",
+     "createdtime":"20100504001341",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/80/1015080_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/80/1015080_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9989079502",
+     "mapy":"37.5700653137",
+     "mlevel":"6",
+     "modifiedtime":"20230223175551",
+     "sigungucode":"23",
+     "tel":"",
+     "title":"광장시장 한복매장",
+     "zipcode":"03195",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1013559":{
+     "addr1":"서울특별시 종로구 종로 266",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"1013559",
+     "contenttypeid":"38",
+     "createdtime":"20100504002251",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/86/1015186_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/86/1015186_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.0088792547",
+     "mapy":"37.5703710128",
+     "mlevel":"6",
+     "modifiedtime":"20221223155341",
+     "sigungucode":"23",
+     "tel":"02-2262-0114",
+     "title":"동대문종합시장 악세사리상가",
+     "zipcode":"03198",
+     "family":[
+        {
+           "수유실":"수유실 있음(B동 5층)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음(층별로 장애인 화장실 설치여부 상이함)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(장애인화장실 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1013584":{
+     "addr1":"서울특별시 종로구 종로 266",
+     "addr2":"(종로6가)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"1013584",
+     "contenttypeid":"38",
+     "createdtime":"20100504002830",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/19/1015219_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/19/1015219_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.0073293863",
+     "mapy":"37.5707292767",
+     "mlevel":"6",
+     "modifiedtime":"20230209142619",
+     "sigungucode":"23",
+     "tel":"02-2262-0114",
+     "title":"동대문종합시장 한복상가",
+     "zipcode":"03198",
+     "family":[
+        {
+           "수유실":"수유실 있음(B동 5층)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음(층별로 장애인 화장실 설치여부 상이함)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(장애인화장실 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1014424":{
+     "addr1":"서울특별시 용산구 한강대로23길 55",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"1014424",
+     "contenttypeid":"38",
+     "createdtime":"20100505000235",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/33/1017133_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/33/1017133_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9648510800",
+     "mapy":"37.5298527082",
+     "mlevel":"6",
+     "modifiedtime":"20221004153803",
+     "sigungucode":"21",
+     "tel":"",
+     "title":"이바돔 (아이파크몰점)",
+     "zipcode":"04377",
+     "family":[
+        {
+           "유모차":"유모차 대여 가능함"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1021328":{
+     "addr1":"서울특별시 강남구 봉은사로 524",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"1021328",
+     "contenttypeid":"38",
+     "createdtime":"20100514014049",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/87/2005287_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/87/2005287_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.0571098261",
+     "mapy":"37.5128868912",
+     "mlevel":"6",
+     "modifiedtime":"20230804162239",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"클루 (코엑스점)",
+     "zipcode":"06164",
+     "family":[
+        {
+           "유모차":"대여가능(메가박스 입구 옆,센트럴플라자 라움 옆)"
+        },
+        {
+           "수유실":"수유실 있음(메가박스 입구 옆,피터앤폴 옆)"
+        }
+     ],
+     "handi":[
+        {
+           "대중교통":"2호선 삼성역,9호선 봉은사역 연결통로 있음"
+        },
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "휠체어":"대여가능(메가박스 입구 옆)"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(코엑스몰 출입구 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1021348":{
+     "addr1":"서울특별시 강남구 봉은사로 524",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010700",
+     "contentid":"1021348",
+     "contenttypeid":"38",
+     "createdtime":"20100514014928",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/95/2005295_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/95/2005295_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.0571098261",
+     "mapy":"37.5128868912",
+     "mlevel":"6",
+     "modifiedtime":"20230508094856",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"한얼공예",
+     "zipcode":"06164",
+     "family":[
+        {
+           "유모차":"유모차 대여 가능함"
+        }
+     ],
+     "handi":[
+        
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"0"
+  },
+  "1073924":{
+     "addr1":"서울특별시 서초구 매헌로 16",
+     "addr2":"(양재동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"1073924",
+     "contenttypeid":"38",
+     "createdtime":"20100813192438",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.0368075465",
+     "mapy":"37.4623618353",
+     "mlevel":"6",
+     "modifiedtime":"20230823180700",
+     "sigungucode":"15",
+     "tel":"02-2155-0001",
+     "title":"양재 하이브랜드",
+     "zipcode":"06771",
+     "family":[
+        {
+           "유모차":"대여 가능(1층 중앙 안내 데스크,신분증지참,02-2155-0001)"
+        },
+        {
+           "영유아가족 기타 지원 항목":"기저귀 교환실 있음(패션몰 2층 C동 여자화장실 내)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1113581":{
+     "addr1":"서울특별시 중구 마장로 3",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"1113581",
+     "contenttypeid":"38",
+     "createdtime":"20101019223459",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/93/1984393_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/93/1984393_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.0105235943",
+     "mapy":"37.5688045577",
+     "mlevel":"6",
+     "modifiedtime":"20220826144754",
+     "sigungucode":"24",
+     "tel":"02-2234-0981",
+     "title":"맥스타일 (maxtyle)",
+     "zipcode":"04567",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(지하1,2층)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자유도로 있음_시각장애인 편의시설"
+        },
+        {
+           "점자 홍보물 및 점자 표지판":"점자안내판 있음"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1221790":{
+     "addr1":"서울특별시 서초구 신반포로 176",
+     "addr2":"(반포동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A02",
+     "cat2":"A0205",
+     "cat3":"A02050600",
+     "contentid":"1221790",
+     "contenttypeid":"38",
+     "createdtime":"20110304002847",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/45/1205345_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/45/1205345_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.0038037796",
+     "mapy":"37.5053729170",
+     "mlevel":"6",
+     "modifiedtime":"20230726170836",
+     "sigungucode":"15",
+     "tel":"02-6282-0114",
+     "title":"센트럴시티",
+     "zipcode":"06546",
+     "family":[
+        {
+           "영유아가족 기타 지원 항목":"유아용 변기 있음"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실,엘리베이터)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1253230":{
+     "addr1":"서울특별시 성동구 마장로33길 53",
+     "addr2":"(마장동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"1253230",
+     "contenttypeid":"38",
+     "createdtime":"20110409003220",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/40/2489440_image2_1.png",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/40/2489440_image2_1.png",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.0400208612",
+     "mapy":"37.5704021247",
+     "mlevel":"6",
+     "modifiedtime":"20221108160310",
+     "sigungucode":"16",
+     "tel":"",
+     "title":"마장 축산물시장",
+     "zipcode":"04748",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1258328":{
+     "addr1":"서울특별시 중구 명동길 14",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"1258328",
+     "contenttypeid":"38",
+     "createdtime":"20110418181950",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.9828596009",
+     "mapy":"37.5634213529",
+     "mlevel":"6",
+     "modifiedtime":"20221228100357",
+     "sigungucode":"24",
+     "tel":"02-3783-4881",
+     "title":"H&M (명동1호점)",
+     "zipcode":"04536",
+     "family":[
+        {
+           "수유실":"수유실 있음(눈스퀘어 7층)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1304231":{
+     "addr1":"서울특별시 강남구 강남대로 500",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"1304231",
+     "contenttypeid":"38",
+     "createdtime":"20110610223407",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/10/1309110_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/10/1309110_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.0237685863",
+     "mapy":"37.5068842110",
+     "mlevel":"6",
+     "modifiedtime":"20221228105950",
+     "sigungucode":"1",
+     "tel":"02-541-8081",
+     "title":"금강제화 (강남본점)",
+     "zipcode":"06119",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "엘리베이터":"엘리베이터 있음_무장애 편의정보"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1304632":{
+     "addr1":"서울특별시 마포구 어울마당로 65",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"1304632",
+     "contenttypeid":"38",
+     "createdtime":"20110611012633",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/98/1309098_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/98/1309098_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9210016996",
+     "mapy":"37.5510383509",
+     "mlevel":"6",
+     "modifiedtime":"20230610075122",
+     "sigungucode":"13",
+     "tel":"02-330-6200",
+     "title":"KT&G 상상마당 디자인스퀘어",
+     "zipcode":"04042",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음(3층)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주 출입구 앞)_시각장애인 편의시설"
+        },
+        {
+           "기타 지원 항목":"엘리베이터 점자버튼 있음"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1304838":{
+     "addr1":"서울특별시 종로구 종로 183",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"1304838",
+     "contenttypeid":"38",
+     "createdtime":"20110611030151",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/95/1308995_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/95/1308995_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9986579401",
+     "mapy":"37.5712262854",
+     "mlevel":"6",
+     "modifiedtime":"20230613161042",
+     "sigungucode":"23",
+     "tel":"02-2273-7622",
+     "title":"미보 주얼리",
+     "zipcode":"03130",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+        },
+        {
+           "엘리베이터":"장애인 엘리베이터 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1304864":{
+     "addr1":"서울특별시 종로구 청계천로 41",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"1304864",
+     "contenttypeid":"38",
+     "createdtime":"20110611031714",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/13/1309013_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/13/1309013_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9821594881",
+     "mapy":"37.5696567271",
+     "mlevel":"6",
+     "modifiedtime":"20221226165834",
+     "sigungucode":"23",
+     "tel":"1522-2776",
+     "title":"영풍문고 종로점",
+     "zipcode":"03188",
+     "family":[
+        {
+           "수유실":"수유실 있음(지하 2층)"
+        },
+        {
+           "영유아가족 기타 지원 항목":"키즈존 있음"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로 있어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(지하 1층)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1336178":{
+     "addr1":"서울특별시 용산구 한강대로 405",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"1336178",
+     "contenttypeid":"38",
+     "createdtime":"20110720234250",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/32/2652032_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/32/2652032_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9717164149",
+     "mapy":"37.5548277077",
+     "mlevel":"6",
+     "modifiedtime":"20230323163236",
+     "sigungucode":"21",
+     "tel":"02-6965-2500",
+     "title":"롯데쇼핑 롯데아울렛 서울역[한국관광 품질인증/Korea Quality]",
+     "zipcode":"04320",
+     "family":[
+        {
+           "유모차":"대여가능(6개월 이상~24개월 미만)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"보조출입구까지 턱이 없어 휠체어 접근 가능함(또는 서울역 2번출구 엘리베이터 이용)"
+        },
+        {
+           "휠체어":"대여가능"
+        },
+        {
+           "출입통로":"보조출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자유도로 있음_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1535690":{
+     "addr1":"서울특별시 강서구 하늘길  77",
+     "addr2":"(방화동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"1535690",
+     "contenttypeid":"38",
+     "createdtime":"20120112224759",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/85/1570285_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/85/1570285_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.8007428022",
+     "mapy":"37.5659844669",
+     "mlevel":"6",
+     "modifiedtime":"20230119113012",
+     "sigungucode":"4",
+     "tel":"02-6116-4000",
+     "title":"롯데몰 김포공항",
+     "zipcode":"07505",
+     "family":[
+        {
+           "유모차":"유모차 대여 가능함(유모차대여소)"
+        },
+        {
+           "영유아가족 기타 지원 항목":"육아휴게실 있음"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"무단차 접근 및 지하철출구와 연결 됨"
+        },
+        {
+           "휠체어":"휠체어대여 가능함"
+        },
+        {
+           "엘리베이터":"장애인 전용 엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블럭 있음_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1590323":{
+     "addr1":"서울특별시 종로구 자하문로15길 18",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"1590323",
+     "contenttypeid":"38",
+     "createdtime":"20120403204818",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/45/2595845_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/45/2595845_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9699269553",
+     "mapy":"37.5807635503",
+     "mlevel":"6",
+     "modifiedtime":"20230711102848",
+     "sigungucode":"23",
+     "tel":"",
+     "title":"통인시장",
+     "zipcode":"03036",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음(신교 공영주차장)"
+        },
+        {
+           "화장실":"장애인 화장실 있음(고객만족센터)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실 앞)_시각장애인 편의시설"
+        },
+        {
+           "보조견 동반":"동반가능"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1754832":{
+     "addr1":"서울특별시 동대문구 천호대로4길 21",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"1754832",
+     "contenttypeid":"38",
+     "createdtime":"20121120234122",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/11/1986111_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/11/1986111_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.0254665660",
+     "mapy":"37.5727182604",
+     "mlevel":"6",
+     "modifiedtime":"20230322101108",
+     "sigungucode":"11",
+     "tel":"",
+     "title":"서울풍물시장",
+     "zipcode":"02586",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음(시장 내 초록동 화장실)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1804150":{
+     "addr1":"서울특별시 강남구 선릉로131길 12",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"1804150",
+     "contenttypeid":"38",
+     "createdtime":"20130412190718",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.0398445885",
+     "mapy":"37.5178998874",
+     "mlevel":"6",
+     "modifiedtime":"20221005171955",
+     "sigungucode":"1",
+     "tel":"02-542-6344",
+     "title":"오르시아",
+     "zipcode":"06059",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주 출입구 앞)_시각장애인 편의시설"
+        },
+        {
+           "보조견 동반":"동반가능"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1916000":{
+     "addr1":"서울특별시 종로구 종로 1",
+     "addr2":"(종로1가)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"1916000",
+     "contenttypeid":"38",
+     "createdtime":"20140424235807",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.9779820539",
+     "mapy":"37.5709759433",
+     "mlevel":"6",
+     "modifiedtime":"20230210162258",
+     "sigungucode":"23",
+     "tel":"02-732-9961",
+     "title":"핫트랙스 (광화문점)",
+     "zipcode":"03154",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(교보빌딩 이용)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1918710":{
+     "addr1":"서울특별시 송파구 올림픽로 269",
+     "addr2":"(신천동,롯데캐슬골드)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"1918710",
+     "contenttypeid":"38",
+     "createdtime":"20140513232124",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.1006280443",
+     "mapy":"37.5144069417",
+     "mlevel":"6",
+     "modifiedtime":"20220824133759",
+     "sigungucode":"18",
+     "tel":"02-417-9961",
+     "title":"핫트랙스 (잠실점)",
+     "zipcode":"05510",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함(회전문,수동문)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1984944":{
+     "addr1":"서울특별시 강남구 영동대로 513",
+     "addr2":"(삼성동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"1984944",
+     "contenttypeid":"38",
+     "createdtime":"20150120222803",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.0594429796",
+     "mapy":"37.5117148467",
+     "mlevel":"6",
+     "modifiedtime":"20230825151921",
+     "sigungucode":"1",
+     "tel":"02-6002-5300",
+     "title":"스타필드 코엑스몰",
+     "zipcode":"06164",
+     "family":[
+        {
+           "유모차":"대여가능"
+        },
+        {
+           "수유실":"수유실 있음"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "휠체어":"대여가능"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1985821":{
+     "addr1":"서울특별시 강남구 테헤란로 521",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"1985821",
+     "contenttypeid":"38",
+     "createdtime":"20150126184325",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.0608845757",
+     "mapy":"37.5095984514",
+     "mlevel":"6",
+     "modifiedtime":"20221229140434",
+     "sigungucode":"1",
+     "tel":"02-559-7089",
+     "title":"파르나스몰",
+     "zipcode":"06164",
+     "family":[
+        {
+           "유모차":"그랜드 인터컨티넨탈 서울 파르나스 컨시어지에서 대여 가능"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "휠체어":"그랜드 인터컨티넨탈 서울 파르나스 컨시어지에서 대여 가능"
+        },
+        {
+           "엘리베이터":"장애인용 엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주출입구 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1988288":{
+     "addr1":"서울특별시 영등포구 국제금융로 10",
+     "addr2":"(여의도동) IFC몰 B1",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"1988288",
+     "contenttypeid":"38",
+     "createdtime":"20150213003307",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/83/1996083_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/83/1996083_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9248854067",
+     "mapy":"37.5252358628",
+     "mlevel":"6",
+     "modifiedtime":"20230220135438",
+     "sigungucode":"20",
+     "tel":"",
+     "title":"IFC몰",
+     "zipcode":"07326",
+     "family":[
+        {
+           "유모차":"대여가능(컨시어지 데스트(L3사우스 아트리움,24개월 이하 무료대여,신분증보관))"
+        },
+        {
+           "수유실":"수유실 있음(L1)"
+        },
+        {
+           "영유아가족 기타 지원 항목":"유아휴게실 있음(L1,기저귀교환대,정수기,세면대)"
+        }
+     ],
+     "handi":[
+        {
+           "휠체어":"대여 가능(컨시어지 데스트(L3 시우스 아트리움,무료대여)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음 (주출입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2011782":{
+     "addr1":"서울특별시 마포구 양화로 45",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"2011782",
+     "contenttypeid":"38",
+     "createdtime":"20150624011457",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/68/2012068_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/68/2012068_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9139217822",
+     "mapy":"37.5513131918",
+     "mlevel":"6",
+     "modifiedtime":"20221117172327",
+     "sigungucode":"13",
+     "tel":"",
+     "title":"메세나폴리스 몰",
+     "zipcode":"04036",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음 (주출입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2017158":{
+     "addr1":"서울특별시 강남구 영동대로 513",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"2017158",
+     "contenttypeid":"38",
+     "createdtime":"20150716010820",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/28/2016028_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/28/2016028_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.0587569030",
+     "mapy":"37.5126897207",
+     "mlevel":"6",
+     "modifiedtime":"20230330132609",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"카카오프렌즈 브랜드스토어",
+     "zipcode":"06164",
+     "family":[
+        {
+           "유모차":"대여가능"
+        },
+        {
+           "수유실":"수유실 있음"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "휠체어":"대여가능(코엑스)"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(코엑스몰)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2017159":{
+     "addr1":"서울특별시 강남구 영동대로 513",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"2017159",
+     "contenttypeid":"38",
+     "createdtime":"20150716010820",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/78/2015978_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/78/2015978_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.0591318945",
+     "mapy":"37.5118092746",
+     "mlevel":"6",
+     "modifiedtime":"20221012164425",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"영풍문고 스타필드코엑스몰점",
+     "zipcode":"06164",
+     "family":[
+        {
+           "유모차":"대여가능(메가박스 입구 옆,센트럴플라자 라움 옆)"
+        },
+        {
+           "수유실":"수유실 있음(메가박스 입구 옆, 피터앤 폴 옆)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "휠체어":"대여가능(메가박스 입구 옆)"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"장애인 엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(코엑스 몰 출입구 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2027870":{
+     "addr1":"서울특별시 광진구 아차산로 200",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"2027870",
+     "contenttypeid":"38",
+     "createdtime":"20150908234157",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/33/2028033_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/33/2028033_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.0650860666",
+     "mapy":"37.5414726033",
+     "mlevel":"6",
+     "modifiedtime":"20230725181223",
+     "sigungucode":"6",
+     "tel":"",
+     "title":"커먼그라운드",
+     "zipcode":"05071",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2037026":{
+     "addr1":"서울특별시 영등포구 디지털로37나길 21",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2037026",
+     "contenttypeid":"38",
+     "createdtime":"20151030011453",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/89/2029889_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/89/2029889_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.8999497350",
+     "mapy":"37.4916670951",
+     "mlevel":"6",
+     "modifiedtime":"20230308165213",
+     "sigungucode":"20",
+     "tel":"",
+     "title":"대림중앙시장",
+     "zipcode":"07419",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2359162":{
+     "addr1":"서울특별시 용산구 한강대로23길 55",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010400",
+     "contentid":"2359162",
+     "contenttypeid":"38",
+     "createdtime":"20160106201104",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/53/2362553_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/53/2362553_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9647566449",
+     "mapy":"37.5298249324",
+     "mlevel":"6",
+     "modifiedtime":"20221026174100",
+     "sigungucode":"21",
+     "tel":"1688-8800",
+     "title":"신라아이파크면세점",
+     "zipcode":"04377",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능하며 용산역 출구로도 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자유도로 있음_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2436503":{
+     "addr1":"서울특별시 성동구 왕십리로 63",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"2436503",
+     "contenttypeid":"38",
+     "createdtime":"20161027203000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/78/2565578_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/78/2565578_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.0435962960",
+     "mapy":"37.5436136344",
+     "mlevel":"6",
+     "modifiedtime":"20230407095034",
+     "sigungucode":"16",
+     "tel":"",
+     "title":"언더스탠드에비뉴",
+     "zipcode":"04769",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음(파워스탠드 건물)"
+        },
+        {
+           "화장실":"장애인 화장실 있음(파워스탠드 1층)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음_시각장애인 편의시설"
+        },
+        {
+           "보조견 동반":"동반가능"
+        },
+        {
+           "안내요원":"안내요원 있음(안내데스크)"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2484146":{
+     "addr1":"서울특별시 종로구 자하문로 3",
+     "addr2":"지하1층",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"2484146",
+     "contenttypeid":"38",
+     "createdtime":"20170307223603",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/37/2484137_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/37/2484137_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9723657428",
+     "mapy":"37.5764807580",
+     "mlevel":"6",
+     "modifiedtime":"20221026145501",
+     "sigungucode":"23",
+     "tel":"",
+     "title":"궁가는여우",
+     "zipcode":"03041",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "엘리베이터":"엘리베이터 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2497414":{
+     "addr1":"서울특별시 종로구 자하문로 231",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"2497414",
+     "contenttypeid":"38",
+     "createdtime":"20170623012745",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/34/2628634_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/34/2628634_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"0",
+     "mapy":"13533098",
+     "mlevel":"6",
+     "modifiedtime":"20230303090452",
+     "sigungucode":"23",
+     "tel":"010-7377-5375",
+     "title":"아트코리아[한국관광 품질인증/Korea Quality]",
+     "zipcode":"03021",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자유도로 있음_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2498048":{
+     "addr1":"서울특별시 중구 을지로 30 롯데호텔",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"2498048",
+     "contenttypeid":"38",
+     "createdtime":"20170628031321",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/50/2532850_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/50/2532850_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9810458210",
+     "mapy":"37.5654016461",
+     "mlevel":"6",
+     "modifiedtime":"20230303094319",
+     "sigungucode":"24",
+     "tel":"010-8746-2715",
+     "title":"세란안경[한국관광 품질인증/Korea Quality]",
+     "zipcode":"04533",
+     "family":[
+        {
+           "유모차":"대여가능"
+        },
+        {
+           "영유아가족 기타 지원 항목":"유아휴게실"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "휠체어":"대여가능"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(보조출입구 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2498434":{
+     "addr1":"서울특별시 종로구 자하문로 280 청하빌딩",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"2498434",
+     "contenttypeid":"38",
+     "createdtime":"20170630025934",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/13/2579813_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/13/2579813_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9616966416",
+     "mapy":"37.5987029838",
+     "mlevel":"6",
+     "modifiedtime":"20230303091524",
+     "sigungucode":"23",
+     "tel":"02-395-1688",
+     "title":"청하고려인삼[한국관광 품질인증/Korea Quality]",
+     "zipcode":"03017",
+     "family":[
+        {
+           "수유실":"수유실 있음"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"장애인용 엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(엘리베이터 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2499807":{
+     "addr1":"서울특별시 마포구 포은로8길 14",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2499807",
+     "contenttypeid":"38",
+     "createdtime":"20170713232302",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.9056112896",
+     "mapy":"37.5562263614",
+     "mlevel":"6",
+     "modifiedtime":"20230610082752",
+     "sigungucode":"13",
+     "tel":"",
+     "title":"망원시장",
+     "zipcode":"04010",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음(고객센터 옆)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2505619":{
+     "addr1":"서울특별시 종로구 종로3길 17",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"2505619",
+     "contenttypeid":"38",
+     "createdtime":"20170905225428",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/17/2505617_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/17/2505617_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9788930814",
+     "mapy":"37.5709815145",
+     "mlevel":"6",
+     "modifiedtime":"20220825142615",
+     "sigungucode":"23",
+     "tel":"",
+     "title":"디타워 (replace 광화문)",
+     "zipcode":"03155",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함(회전문,수동문)"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주 출입구 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2543919":{
+     "addr1":"서울특별시 종로구 새문안로5가길 7",
+     "addr2":"(내수동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020700",
+     "contentid":"2543919",
+     "contenttypeid":"38",
+     "createdtime":"20180424231654",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/13/2543913_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/13/2543913_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9740629139",
+     "mapy":"37.5728312129",
+     "mlevel":"6",
+     "modifiedtime":"20221229104311",
+     "sigungucode":"23",
+     "tel":"",
+     "title":"광화문 세종클럽",
+     "zipcode":"03173",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주출입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2562345":{
+     "addr1":"서울특별시 영등포구 선유로 138",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010500",
+     "contentid":"2562345",
+     "contenttypeid":"38",
+     "createdtime":"20181008184430",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/43/2562343_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/43/2562343_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.8916023066",
+     "mapy":"37.5260379529",
+     "mlevel":"6",
+     "modifiedtime":"20220701175043",
+     "sigungucode":"20",
+     "tel":"",
+     "title":"롯데마트 (서울양평점)",
+     "zipcode":"07255",
+     "family":[
+        {
+           "유모차":"대여가능"
+        },
+        {
+           "수유실":"수유실 있음(유아휴게실/2층)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "휠체어":"대여가능(2대)"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주출입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2578284":{
+     "addr1":"서울특별시 마포구 양화로 162",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"2578284",
+     "contenttypeid":"38",
+     "createdtime":"20181215003218",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/74/2578274_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/74/2578274_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9238651767",
+     "mapy":"37.5563933350",
+     "mlevel":"6",
+     "modifiedtime":"20230610084039",
+     "sigungucode":"13",
+     "tel":"",
+     "title":"카카오프렌즈 홍대 플래그십 스토어",
+     "zipcode":"04050",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주출입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2589070":{
+     "addr1":"서울특별시 중구 퇴계로85길 36",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2589070",
+     "contenttypeid":"38",
+     "createdtime":"20190121224650",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/33/2558833_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/33/2558833_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.0197783639",
+     "mapy":"37.5667827371",
+     "mlevel":"6",
+     "modifiedtime":"20221128172457",
+     "sigungucode":"24",
+     "tel":"",
+     "title":"서울 중앙시장",
+     "zipcode":"04576",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2591755":{
+     "addr1":"서울특별시 구로구 구로동로26길 54",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2591755",
+     "contenttypeid":"38",
+     "createdtime":"20190313200751",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/48/2591748_image2_1.bmp",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/48/2591748_image2_1.bmp",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.8864593522",
+     "mapy":"37.4897143032",
+     "mlevel":"6",
+     "modifiedtime":"20230202110458",
+     "sigungucode":"7",
+     "tel":"",
+     "title":"남구로시장",
+     "zipcode":"08311",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2603251":{
+     "addr1":"서울특별시 종로구 경희궁1길 1",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"2603251",
+     "contenttypeid":"38",
+     "createdtime":"20190524231723",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/46/2603246_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/46/2603246_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9716409710",
+     "mapy":"37.5707702978",
+     "mlevel":"6",
+     "modifiedtime":"20221026170702",
+     "sigungucode":"23",
+     "tel":"",
+     "title":"라바타운",
+     "zipcode":"03176",
+     "family":[
+        {
+           "유아용 보조 의자":"구비"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함(자동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2606740":{
+     "addr1":"서울특별시 송파구 오금로 1",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A02",
+     "cat2":"A0206",
+     "cat3":"A02061000",
+     "contentid":"2606740",
+     "contenttypeid":"38",
+     "createdtime":"20190615011829",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.1030192649",
+     "mapy":"37.5224616054",
+     "mlevel":"6",
+     "modifiedtime":"20230522175911",
+     "sigungucode":"18",
+     "tel":"",
+     "title":"서울책보고",
+     "zipcode":"05507",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2611280":{
+     "addr1":"서울특별시 양천구 목동중앙북로 29",
+     "addr2":"(목동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2611280",
+     "contenttypeid":"38",
+     "createdtime":"20190716201345",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/79/2611279_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/79/2611279_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.8668539355",
+     "mapy":"37.5483154778",
+     "mlevel":"6",
+     "modifiedtime":"20230725112644",
+     "sigungucode":"19",
+     "tel":"",
+     "title":"목3동시장(목동깨비시장)",
+     "zipcode":"07946",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2611287":{
+     "addr1":"서울특별시 양천구 목동중앙남로7길 8",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2611287",
+     "contenttypeid":"38",
+     "createdtime":"20190716222712",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/81/2611281_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/81/2611281_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.8662431794",
+     "mapy":"37.5376750366",
+     "mlevel":"6",
+     "modifiedtime":"20221025175009",
+     "sigungucode":"19",
+     "tel":"",
+     "title":"목사랑시장",
+     "zipcode":"07958",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음(목4동시장고객지원센터)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2611310":{
+     "addr1":"서울특별시 양천구 오목로9길 31",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2611310",
+     "contenttypeid":"38",
+     "createdtime":"20190716233548",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/06/2611306_image2_1.JPG",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/06/2611306_image2_1.JPG",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.8421540661",
+     "mapy":"37.5249927478",
+     "mlevel":"6",
+     "modifiedtime":"20221102165335",
+     "sigungucode":"19",
+     "tel":"",
+     "title":"경창시장",
+     "zipcode":"07931",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2611323":{
+     "addr1":"서울특별시 양천구 월정로 161-5",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2611323",
+     "contenttypeid":"38",
+     "createdtime":"20190716235510",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/17/2611317_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/17/2611317_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.8360432845",
+     "mapy":"37.5330778105",
+     "mlevel":"6",
+     "modifiedtime":"20230223152529",
+     "sigungucode":"19",
+     "tel":"",
+     "title":"신영시장",
+     "zipcode":"07922",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음(고객지원센터)_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실 앞)_시각장애인 편의시설"
+        },
+        {
+           "보조견 동반":"동반가능"
+        },
+        {
+           "안내요원":"안내요원 있음(고객지원센터)"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2704559":{
+     "addr1":"서울특별시 송파구 백제고분로48길 41",
+     "addr2":"(방이동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2704559",
+     "contenttypeid":"38",
+     "createdtime":"20210126023916",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.1175821709",
+     "mapy":"37.5104077116",
+     "mlevel":"6",
+     "modifiedtime":"20230207100710",
+     "sigungucode":"18",
+     "tel":"",
+     "title":"방이시장",
+     "zipcode":"05633",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2708109":{
+     "addr1":"서울특별시 영등포구 여의대로 108",
+     "addr2":"파크원(Parc.1)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010300",
+     "contentid":"2708109",
+     "contenttypeid":"38",
+     "createdtime":"20210304234523",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/05/2708305_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/05/2708305_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9283267400",
+     "mapy":"37.5259691729",
+     "mlevel":"6",
+     "modifiedtime":"20230127092443",
+     "sigungucode":"20",
+     "tel":"",
+     "title":"더현대 서울",
+     "zipcode":"07335",
+     "family":[
+        {
+           "유모차":"대여가능"
+        },
+        {
+           "수유실":"수유실 있음(5층)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "휠체어":"대여가능"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+        },
+        {
+           "안내요원":"안내요원 있음"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2711768":{
+     "addr1":"서울특별시 용산구 이태원로 248",
+     "addr2":"현대카드 바이닐앤플라스틱",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"2711768",
+     "contenttypeid":"38",
+     "createdtime":"20210326031743",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.0008837102",
+     "mapy":"37.5368803162",
+     "mlevel":"6",
+     "modifiedtime":"20230407091417",
+     "sigungucode":"21",
+     "tel":"",
+     "title":"현대카드 Vinyl & Plastic",
+     "zipcode":"04400",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주출입구)_시각장애인 편의시설"
+        },
+        {
+           "보조견 동반":"동반가능"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2713581":{
+     "addr1":"서울특별시 강남구 압구정로46길 50",
+     "addr2":"(신사동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"2713581",
+     "contenttypeid":"38",
+     "createdtime":"20210412225237",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/44/2713444_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/44/2713444_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.0357030859",
+     "mapy":"37.5254211612",
+     "mlevel":"6",
+     "modifiedtime":"20221012144247",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"하우스 도산",
+     "zipcode":"06020",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함(자동문)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2741608":{
+     "addr1":"서울특별시 관악구 남부순환로246나길 14",
+     "addr2":"(봉천동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2741608",
+     "contenttypeid":"38",
+     "createdtime":"20210908224945",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/44/2779644_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/44/2779644_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9647859684",
+     "mapy":"37.4749340859",
+     "mlevel":"6",
+     "modifiedtime":"20221226175548",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"인헌시장",
+     "zipcode":"08793",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2743854":{
+     "addr1":"서울특별시 구로구 고척로32길 11-3",
+     "addr2":"(고척동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2743854",
+     "contenttypeid":"38",
+     "createdtime":"20210913233505",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/00/2779800_image2_1.png",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/00/2779800_image2_1.png",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.8498040088",
+     "mapy":"37.5021816456",
+     "mlevel":"6",
+     "modifiedtime":"20230802201615",
+     "sigungucode":"7",
+     "tel":"",
+     "title":"고척근린시장",
+     "zipcode":"08235",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2745621":{
+     "addr1":"서울특별시 은평구 응암동 427-1",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2745621",
+     "contenttypeid":"38",
+     "createdtime":"20210916000408",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/93/2779493_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/93/2779493_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9188673394",
+     "mapy":"37.5942805076",
+     "mlevel":"6",
+     "modifiedtime":"20230802210948",
+     "sigungucode":"22",
+     "tel":"",
+     "title":"신응암시장",
+     "zipcode":"03466",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2745622":{
+     "addr1":"서울특별시 은평구 통일로 850",
+     "addr2":"(불광동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2745622",
+     "contenttypeid":"38",
+     "createdtime":"20210916000908",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/06/2780506_image2_1.png",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/06/2780506_image2_1.png",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9214525049",
+     "mapy":"37.6193637482",
+     "mlevel":"6",
+     "modifiedtime":"20230503142703",
+     "sigungucode":"22",
+     "tel":"",
+     "title":"연서시장",
+     "zipcode":"03345",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2751406":{
+     "addr1":"서울특별시 광진구 자양동 816-79",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2751406",
+     "contenttypeid":"38",
+     "createdtime":"20210930000309",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/56/2779656_image2_1.png",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/56/2779656_image2_1.png",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.0647501150",
+     "mapy":"37.5369286806",
+     "mlevel":"6",
+     "modifiedtime":"20230418132923",
+     "sigungucode":"6",
+     "tel":"",
+     "title":"노룬산골목시장",
+     "zipcode":"05080",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2751414":{
+     "addr1":"서울특별시 광진구 중곡동 265-5",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2751414",
+     "contenttypeid":"38",
+     "createdtime":"20210930000807",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/66/2779666_image2_1.png",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/66/2779666_image2_1.png",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.0802312757",
+     "mapy":"37.5638063927",
+     "mlevel":"",
+     "modifiedtime":"20230802194708",
+     "sigungucode":"6",
+     "tel":"",
+     "title":"중곡제일시장",
+     "zipcode":"04910",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2751420":{
+     "addr1":"서울특별시 도봉구 창동 445-20",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2751420",
+     "contenttypeid":"38",
+     "createdtime":"20210930001133",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/01/2779701_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/01/2779701_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.0372719180",
+     "mapy":"37.6397245721",
+     "mlevel":"",
+     "modifiedtime":"20230428140447",
+     "sigungucode":"10",
+     "tel":"",
+     "title":"신창시장",
+     "zipcode":"01471",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2751432":{
+     "addr1":"서울특별시 마포구 굴레방로9길 11",
+     "addr2":"(아현동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2751432",
+     "contenttypeid":"38",
+     "createdtime":"20210930001552",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/19/2779719_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/19/2779719_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9546818022",
+     "mapy":"37.5567382914",
+     "mlevel":"6",
+     "modifiedtime":"20230802211513",
+     "sigungucode":"13",
+     "tel":"",
+     "title":"아현시장",
+     "zipcode":"04116",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2751441":{
+     "addr1":"서울특별시 서대문구 포방터길 46",
+     "addr2":"(홍은동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2751441",
+     "contenttypeid":"38",
+     "createdtime":"20210930002217",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/30/2779730_image2_1.png",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/30/2779730_image2_1.png",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9491700046",
+     "mapy":"37.5987610854",
+     "mlevel":"6",
+     "modifiedtime":"20230418132825",
+     "sigungucode":"14",
+     "tel":"",
+     "title":"포방터시장",
+     "zipcode":"03607",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2751863":{
+     "addr1":"서울특별시 강동구 풍성로58길 34",
+     "addr2":"(성내동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2751863",
+     "contenttypeid":"38",
+     "createdtime":"20210930185721",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.1351828602",
+     "mapy":"37.5275421510",
+     "mlevel":"6",
+     "modifiedtime":"20230802191413",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"둔촌역전통시장",
+     "zipcode":"05404",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2753917":{
+     "addr1":"서울특별시 강서구 까치산로 35",
+     "addr2":"(화곡동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2753917",
+     "contenttypeid":"38",
+     "createdtime":"20211006223517",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.8441478236",
+     "mapy":"37.5429323649",
+     "mlevel":"6",
+     "modifiedtime":"20230427180655",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"화곡본동시장",
+     "zipcode":"07721",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2753923":{
+     "addr1":"서울특별시 관악구 신사로14길 56",
+     "addr2":"(신림동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2753923",
+     "contenttypeid":"38",
+     "createdtime":"20211006223927",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.9178454723",
+     "mapy":"37.4865096802",
+     "mlevel":"6",
+     "modifiedtime":"20230515110811",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"관악신사시장",
+     "zipcode":"08705",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2756091":{
+     "addr1":"서울특별시 금천구 독산동 997-25",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2756091",
+     "contenttypeid":"38",
+     "createdtime":"20211013184731",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.9001668879",
+     "mapy":"37.4736580794",
+     "mlevel":"6",
+     "modifiedtime":"20230802210834",
+     "sigungucode":"8",
+     "tel":"",
+     "title":"별빛 남문시장",
+     "zipcode":"08544",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실 앞)_시각장애인 편의시설"
+        },
+        {
+           "보조견 동반":"동반가능"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2756098":{
+     "addr1":"서울특별시 금천구 독산로41길 7",
+     "addr2":"(시흥동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2756098",
+     "contenttypeid":"38",
+     "createdtime":"20211013185157",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.9043641141",
+     "mapy":"37.4599014181",
+     "mlevel":"6",
+     "modifiedtime":"20220818111700",
+     "sigungucode":"8",
+     "tel":"",
+     "title":"비단길 현대시장",
+     "zipcode":"08622",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2756105":{
+     "addr1":"서울특별시 동대문구 한천로 190",
+     "addr2":"(장안동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2756105",
+     "contenttypeid":"38",
+     "createdtime":"20211013185541",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.0685791590",
+     "mapy":"37.5778601056",
+     "mlevel":"6",
+     "modifiedtime":"20230612135124",
+     "sigungucode":"11",
+     "tel":"",
+     "title":"전곡시장",
+     "zipcode":"02525",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2758176":{
+     "addr1":"서울특별시 성북구 정릉로26가길 36",
+     "addr2":"(정릉동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2758176",
+     "contenttypeid":"38",
+     "createdtime":"20211018230745",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.0110392485",
+     "mapy":"37.6028283901",
+     "mlevel":"6",
+     "modifiedtime":"20230727101114",
+     "sigungucode":"17",
+     "tel":"",
+     "title":"아리랑골목시장(정릉 아리랑 골목시장)",
+     "zipcode":"02814",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2758180":{
+     "addr1":"서울특별시 성북구 보국문로11길 23",
+     "addr2":"(정릉동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2758180",
+     "contenttypeid":"38",
+     "createdtime":"20211018231136",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.0087504031",
+     "mapy":"37.6086248974",
+     "mlevel":"6",
+     "modifiedtime":"20230202170247",
+     "sigungucode":"17",
+     "tel":"",
+     "title":"정릉시장",
+     "zipcode":"02710",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2758193":{
+     "addr1":"서울특별시 구로구 개봉로17길 34",
+     "addr2":"(개봉동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2758193",
+     "contenttypeid":"38",
+     "createdtime":"20211018231655",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.8541039069",
+     "mapy":"37.4918523671",
+     "mlevel":"6",
+     "modifiedtime":"20230721172404",
+     "sigungucode":"7",
+     "tel":"",
+     "title":"개봉중앙시장",
+     "zipcode":"08337",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2758198":{
+     "addr1":"서울특별시 구로구 우마3길 19",
+     "addr2":"(가리봉동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2758198",
+     "contenttypeid":"38",
+     "createdtime":"20211018232131",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.8893759759",
+     "mapy":"37.4817874979",
+     "mlevel":"6",
+     "modifiedtime":"20230410104722",
+     "sigungucode":"7",
+     "tel":"",
+     "title":"가리봉시장",
+     "zipcode":"08387",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2758811":{
+     "addr1":"서울특별시 송파구 바람드리길 37-1",
+     "addr2":"(풍납동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2758811",
+     "contenttypeid":"38",
+     "createdtime":"20211019184929",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.1201561649",
+     "mapy":"37.5375518287",
+     "mlevel":"6",
+     "modifiedtime":"20230410105215",
+     "sigungucode":"18",
+     "tel":"",
+     "title":"풍납도깨비시장",
+     "zipcode":"05512",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2759106":{
+     "addr1":"서울특별시 동작구 사당로 244",
+     "addr2":"(사당동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2759106",
+     "contenttypeid":"38",
+     "createdtime":"20211019223411",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.9748959299",
+     "mapy":"37.4830860983",
+     "mlevel":"6",
+     "modifiedtime":"20230131175431",
+     "sigungucode":"12",
+     "tel":"",
+     "title":"사당시장",
+     "zipcode":"07011",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2759129":{
+     "addr1":"서울특별시 송파구 마천로45길 23",
+     "addr2":"(마천동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2759129",
+     "contenttypeid":"38",
+     "createdtime":"20211019224037",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.1507128395",
+     "mapy":"37.4981319566",
+     "mlevel":"6",
+     "modifiedtime":"20230721171538",
+     "sigungucode":"18",
+     "tel":"",
+     "title":"마천시장",
+     "zipcode":"05752",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2759622":{
+     "addr1":"서울특별시 동대문구 외대역동로 76",
+     "addr2":"(휘경동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2759622",
+     "contenttypeid":"38",
+     "createdtime":"20211020191227",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.0648706763",
+     "mapy":"37.5949858263",
+     "mlevel":"6",
+     "modifiedtime":"20230410104609",
+     "sigungucode":"11",
+     "tel":"",
+     "title":"이경시장",
+     "zipcode":"02428",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2759634":{
+     "addr1":"서울특별시 동대문구 고산자로34길 52-11",
+     "addr2":"(용두동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2759634",
+     "contenttypeid":"38",
+     "createdtime":"20211020192252",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.0417816072",
+     "mapy":"37.5776290944",
+     "mlevel":"6",
+     "modifiedtime":"20230721170643",
+     "sigungucode":"11",
+     "tel":"",
+     "title":"청량리수산시장",
+     "zipcode":"02560",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2759652":{
+     "addr1":"서울특별시 동대문구 왕산로33길 4",
+     "addr2":"(제기동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2759652",
+     "contenttypeid":"38",
+     "createdtime":"20211020192604",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.0424287103",
+     "mapy":"37.5797288624",
+     "mlevel":"6",
+     "modifiedtime":"20230508144930",
+     "sigungucode":"11",
+     "tel":"",
+     "title":"청량리청과물시장",
+     "zipcode":"02572",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2759655":{
+     "addr1":"서울특별시 강서구 방화동로16길 31",
+     "addr2":"(방화동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2759655",
+     "contenttypeid":"38",
+     "createdtime":"20211020192841",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.8123776975",
+     "mapy":"37.5714812570",
+     "mlevel":"6",
+     "modifiedtime":"20230721170425",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"방신재래시장",
+     "zipcode":"07604",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2759661":{
+     "addr1":"서울특별시 동대문구 경동시장로9가길 20",
+     "addr2":"(제기동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2759661",
+     "contenttypeid":"38",
+     "createdtime":"20211020193125",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.0403371651",
+     "mapy":"37.5821729849",
+     "mlevel":"6",
+     "modifiedtime":"20230410104503",
+     "sigungucode":"11",
+     "tel":"",
+     "title":"청량종합도매시장",
+     "zipcode":"02571",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2759669":{
+     "addr1":"서울특별시 동대문구 전농로4길 1",
+     "addr2":"(답십리동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2759669",
+     "contenttypeid":"38",
+     "createdtime":"20211020193703",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.0597385801",
+     "mapy":"37.5679166569",
+     "mlevel":"6",
+     "modifiedtime":"20230721170133",
+     "sigungucode":"11",
+     "tel":"",
+     "title":"현대시장",
+     "zipcode":"02615",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2759678":{
+     "addr1":"서울특별시 동작구 성대로2길 7",
+     "addr2":"(상도동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2759678",
+     "contenttypeid":"38",
+     "createdtime":"20211020193958",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.9317355101",
+     "mapy":"37.4994306498",
+     "mlevel":"6",
+     "modifiedtime":"20230410103739",
+     "sigungucode":"12",
+     "tel":"",
+     "title":"성대시장",
+     "zipcode":"07042",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2759976":{
+     "addr1":"서울특별시 종로구 충신동 31-1",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2759976",
+     "contenttypeid":"38",
+     "createdtime":"20211020232356",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.0055461095",
+     "mapy":"37.5744676988",
+     "mlevel":"6",
+     "modifiedtime":"20230410103633",
+     "sigungucode":"23",
+     "tel":"",
+     "title":"충신시장",
+     "zipcode":"03123",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2759985":{
+     "addr1":"서울특별시 중랑구 면목로39길 11",
+     "addr2":"(면목동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2759985",
+     "contenttypeid":"38",
+     "createdtime":"20211020232656",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.0863330476",
+     "mapy":"37.5796046675",
+     "mlevel":"6",
+     "modifiedtime":"20230724153108",
+     "sigungucode":"25",
+     "tel":"",
+     "title":"면목시장",
+     "zipcode":"02239",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2759990":{
+     "addr1":"서울특별시 중랑구 망우로62길 52-4",
+     "addr2":"(망우동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2759990",
+     "contenttypeid":"38",
+     "createdtime":"20211020232933",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.0983231292",
+     "mapy":"37.5969167604",
+     "mlevel":"6",
+     "modifiedtime":"20230410104010",
+     "sigungucode":"25",
+     "tel":"",
+     "title":"우림시장",
+     "zipcode":"02167",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2760228":{
+     "addr1":"서울특별시 양천구 남부순환로79길 37",
+     "addr2":"(신월동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2760228",
+     "contenttypeid":"38",
+     "createdtime":"20211021005447",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.8432208189",
+     "mapy":"37.5184268634",
+     "mlevel":"6",
+     "modifiedtime":"20230725092441",
+     "sigungucode":"19",
+     "tel":"",
+     "title":"신곡종합시장",
+     "zipcode":"08064",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2760240":{
+     "addr1":"서울특별시 용산구 후암로35길 24",
+     "addr2":"(후암동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2760240",
+     "contenttypeid":"38",
+     "createdtime":"20211021010135",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.9760355873",
+     "mapy":"37.5505255068",
+     "mlevel":"6",
+     "modifiedtime":"20230410103421",
+     "sigungucode":"21",
+     "tel":"",
+     "title":"후암시장",
+     "zipcode":"04325",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2761478":{
+     "addr1":"서울특별시 중랑구 동일로129길 35",
+     "addr2":"(중화동,태능에셈빌)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2761478",
+     "contenttypeid":"38",
+     "createdtime":"20211025190704",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.0775638424",
+     "mapy":"37.5992605586",
+     "mlevel":"6",
+     "modifiedtime":"20230724143203",
+     "sigungucode":"25",
+     "tel":"",
+     "title":"태릉시장",
+     "zipcode":"02104",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2763905":{
+     "addr1":"서울특별시 영등포구 문래로30길 27",
+     "addr2":"(문래동3가)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2763905",
+     "contenttypeid":"38",
+     "createdtime":"20211028003125",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.9007600806",
+     "mapy":"37.5162531419",
+     "mlevel":"6",
+     "modifiedtime":"20230725091957",
+     "sigungucode":"20",
+     "tel":"",
+     "title":"영일시장",
+     "zipcode":"07300",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2764364":{
+     "addr1":"서울특별시 영등포구 영등포동5가 33-29",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2764364",
+     "contenttypeid":"38",
+     "createdtime":"20211028184242",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/82/2779882_image2_1.png",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/82/2779882_image2_1.png",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9079676236",
+     "mapy":"37.5209860544",
+     "mlevel":"6",
+     "modifiedtime":"20230202165545",
+     "sigungucode":"20",
+     "tel":"",
+     "title":"영등포전통시장",
+     "zipcode":"07252",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2773278":{
+     "addr1":"서울 서대문구 남가좌동 154-15",
+     "addr2":"(남가좌동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2773278",
+     "contenttypeid":"38",
+     "createdtime":"20211111184640",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.9157738413",
+     "mapy":"37.5707776294",
+     "mlevel":"6",
+     "modifiedtime":"20230503112319",
+     "sigungucode":"14",
+     "tel":"",
+     "title":"모래내시장",
+     "zipcode":"03712",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2773407":{
+     "addr1":"서울특별시 마포구 월드컵로 235",
+     "addr2":"(성산동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2773407",
+     "contenttypeid":"38",
+     "createdtime":"20211111195601",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.8985227925",
+     "mapy":"37.5652529634",
+     "mlevel":"6",
+     "modifiedtime":"20230302134741",
+     "sigungucode":"13",
+     "tel":"",
+     "title":"마포농수산물시장",
+     "zipcode":"03901",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2774440":{
+     "addr1":"서울특별시 광진구 용마산로 50",
+     "addr2":"(중곡동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2774440",
+     "contenttypeid":"38",
+     "createdtime":"20211115234604",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.0880779440",
+     "mapy":"37.5581405258",
+     "mlevel":"6",
+     "modifiedtime":"20230619104520",
+     "sigungucode":"6",
+     "tel":"",
+     "title":"신성종합시장",
+     "zipcode":"04949",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2779456":{
+     "addr1":"서울특별시 성북구 동소문로 227",
+     "addr2":"(길음동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2779456",
+     "contenttypeid":"38",
+     "createdtime":"20211125184617",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.0216243941",
+     "mapy":"37.6028396902",
+     "mlevel":"6",
+     "modifiedtime":"20230302133953",
+     "sigungucode":"17",
+     "tel":"",
+     "title":"길음시장",
+     "zipcode":"02721",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2782194":{
+     "addr1":"서울특별시 강남구 선릉로 311",
+     "addr2":"(역삼동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2782194",
+     "contenttypeid":"38",
+     "createdtime":"20211126233656",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.0520912768",
+     "mapy":"37.4973913777",
+     "mlevel":"6",
+     "modifiedtime":"20230405140336",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"도곡시장",
+     "zipcode":"06218",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2784052":{
+     "addr1":"서울특별시 서초구 강남대로 27",
+     "addr2":"(양재동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2784052",
+     "contenttypeid":"38",
+     "createdtime":"20211201010850",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/89/2796289_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/89/2796289_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.0390127336",
+     "mapy":"37.4683111849",
+     "mlevel":"6",
+     "modifiedtime":"20230321103245",
+     "sigungucode":"15",
+     "tel":"",
+     "title":"양재꽃시장",
+     "zipcode":"06774",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2789102":{
+     "addr1":"서울특별시 서대문구 통일로 189-1",
+     "addr2":"(영천동)",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2789102",
+     "contenttypeid":"38",
+     "createdtime":"20211208194231",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/79/2789779_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/79/2789779_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9618752046",
+     "mapy":"37.5703923889",
+     "mlevel":"6",
+     "modifiedtime":"20230405102800",
+     "sigungucode":"14",
+     "tel":"",
+     "title":"독립문영천시장",
+     "zipcode":"03734",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2855519":{
+     "addr1":"서울특별시 송파구 올림픽로 300 롯데월드타워앤드롯데월드몰",
+     "addr2":"B1층 B01-030호",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"2855519",
+     "contenttypeid":"38",
+     "createdtime":"20220919165858",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/73/2855473_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/73/2855473_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.1040305171",
+     "mapy":"37.5142459111",
+     "mlevel":"6",
+     "modifiedtime":"20221025180146",
+     "sigungucode":"18",
+     "tel":"",
+     "title":"지존스토어 롯데월드몰점",
+     "zipcode":"05551",
+     "family":[
+        {
+           "유모차":"대여가능"
+        },
+        {
+           "수유실":"수유실 있음"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "휠체어":"대여가능"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자유도로 있음_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2856418":{
+     "addr1":"서울특별시 영등포구 여의대로 108 파크원",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"2856418",
+     "contenttypeid":"38",
+     "createdtime":"20220920152640",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.9273156868",
+     "mapy":"37.5271495732",
+     "mlevel":"6",
+     "modifiedtime":"20221025173709",
+     "sigungucode":"20",
+     "tel":"",
+     "title":"현대쌀집 더현대 서울",
+     "zipcode":"07335",
+     "family":[
+        {
+           "유모차":"대여가능(1층)"
+        },
+        {
+           "수유실":"수유실 있음"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+        },
+        {
+           "안내요원":"안내요원 있음"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2900483":{
+     "addr1":"서울특별시 마포구 양화로 188 애경타워",
+     "addr2":"",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"2900483",
+     "contenttypeid":"38",
+     "createdtime":"20221107161700",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/71/2900471_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/71/2900471_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9265121176",
+     "mapy":"37.5577987750",
+     "mlevel":"6",
+     "modifiedtime":"20230308144655",
+     "sigungucode":"13",
+     "tel":"",
+     "title":"AK&홍대",
+     "zipcode":"04051",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문/자동문)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+        },
+        {
+           "안내요원":"안내요원 있음"
+        },
+        {
+           "오디오 가이드":"음성버튼 있음(점자안내판)"
+        },
+        {
+           "점자 홍보물 및 점자 표지판":"점자안내판 있음(출입구)"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2907085":{
+     "addr1":"서울특별시 마포구 망원동",
+     "addr2":"480-8",
+     "areacode":"1",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2907085",
+     "contenttypeid":"38",
+     "createdtime":"20221114095649",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/67/2906867_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/67/2906867_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9057639870",
+     "mapy":"37.5585927556",
+     "mlevel":"6",
+     "modifiedtime":"20221201162216",
+     "sigungucode":"13",
+     "tel":"",
+     "title":"망원월드컵시장",
+     "zipcode":"03961",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  }
+}

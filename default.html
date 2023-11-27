@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Travel</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+        <link href="/css/default.css" rel="stylesheet">
+        <link href="/css/navbar.css" rel="stylesheet">
+        <script src="https://code.jquery.com/jquery-3.6.4.js" integrity="sha256-a9jBBRygX1Bh5lt8GZjXDzyOB+bWve9EiO7tROUtj/E=" crossorigin="anonymous"></script>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300&family=Raleway:ital,wght@1,200&display=swap" rel="stylesheet">
+        <script src="https://use.fontawesome.com/releases/v5.2.0/js/all.js"></script>
+    </head>
+    <body>
+      <header data-include-file="/header" class="header-wrap includeJs"></header>
+
+      <div class="container">
+        <div class="px-5 pt-5 rounded-3">
+          <div class="container-fluid py-5">
+            <h1 id="title">아직 여행 계획이 없으시군요</h1>
+            <p class="col-md-8 fs-4">Traveler와 함께 여행을 계획해보세요!</p>
+            <button type="button" id="create" class="btn btn-secondary btn-lg">일정 만들기 ✨</button>
+          </div>
+        </div>
+
+        <form action="/plan/create_process" method="post" id="scheBox">
+          <div id="when">
+              <p>언제 떠나시나요?</p>
+              <input type="date" name="startDate" data-placeholder="가는 날" required aria-required="true">
+              <input type="date" name="endDate" data-placeholder="오는 날" required aria-required="true">
+            </div>
+            <div id="where">
+              <p>어디로 떠나시나요?</p>
+              <select name="sido" id="sido" onchange="categoryChange(this)">
+                <option>시/도 선택</option>
+                <option value="1">서울특별시</option>
+                <option value="2">인천광역시</option>
+                <option value="3">대전광역시</option>
+                <option value="4">대구광역시</option>
+                <option value="5">광주광역시</option>
+                <option value="6">부산광역시</option>
+                <option value="7">울산광역시</option>
+                <option value="8">세종특별자치시</option>
+                <option value="31">경기도</option>
+                <option value="32">강원도</option>
+                <option value="33">충청북도</option>
+                <option value="34">충청남도</option>
+                <option value="35">경상북도</option>
+                <option value="36">경상남도</option>
+                <option value="37">전라북도</option>
+                <option value="38">전라남도</option>
+                <option value="39">제주도</option>
+              </select>
+              <select name="sigun" id="sigun">
+                <option>시/군 선택</option>
+              </select>
+              <button type="submit" class="ms-5 btn btn-secondary">저장</button>
+
+            </div>
+          </form>
+
+        <div id="intro">
+          <div id="popular">
+              <h5>최근 한 달 간 사람들이 많이 찾은 여행지 👀</h5>
+              <div id="picture">
+                <ul>
+                  <li>
+                    <a href="#">
+                      <img src="/images/city/jeju.jpg" class="image">
+                      <p class="city">제 주</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#">
+                      <img src="/images/city/busan.jpg" class="image">
+                      <p class="city">부 산</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#">
+                      <img src="/images/city/seoul.jpg" class="image">
+                      <p class="city">서 울</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#">
+                      <img src="/images/city/gangneung.jpg" class="image">
+                      <p class="city">강 릉</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#">
+                      <img src="/images/city/gyeongju.jpg" class="image">
+                      <p class="city">경 주</p>
+                    </a>
+                  </li>
+                </ul>
+                <!-- <button class="topBtn" id="topPrev">&lang;</button>
+                <button class="topBtn" id="topNext">&rang;</button> -->
+              </div>
+          </div>
+        </div>
+      </div>
+          
+      <script src="/js/includeHtml.js"></script>
+      <script src="/js/default.js"></script>
+      <script src="/js/navbar.js"></script> 
+      <!-- <script src="/js/selectLoca.js"></script>
+      <script src="/data/gyeonggi.json" type="text/javascript"></script> -->
+    </body>
+</html>

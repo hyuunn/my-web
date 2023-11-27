@@ -1,0 +1,122 @@
+{
+  "134343": {
+    "addr1": "전라북도 고창군 아산면 선운사로 8",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "134343",
+    "contenttypeid": "39",
+    "createdtime": "20040102090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/78/781878_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/78/781878_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.5997489820",
+    "mapy": "35.5080786152",
+    "mlevel": "6",
+    "modifiedtime": "20230802202403",
+    "sigungucode": "1",
+    "tel": "063-562-1533",
+    "title": "신덕식당",
+    "zipcode": "56452",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1602084": {
+    "addr1": "전라북도 고창군 아산면 중촌길 13",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "1602084",
+    "contenttypeid": "39",
+    "createdtime": "20120413230907",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.5858392346",
+    "mapy": "35.5030678394",
+    "mlevel": "6",
+    "modifiedtime": "20230308144950",
+    "sigungucode": "1",
+    "tel": "063-562-5055",
+    "title": "뭉치네풍천장어전문",
+    "zipcode": "56452",
+    "family": [],
+    "handi": [
+      {
+        "출입통로": "이동통로의 보폭이 넓음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(외부의 공용 화장실을 사용해야 하며, 장애인용 대변기가 설치됨)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2789442": {
+    "addr1": "전라북도 고창군 아산면 선운사로 77",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2789442",
+    "contenttypeid": "39",
+    "createdtime": "20211208223614",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/67/2796967_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/67/2796967_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.5947273112",
+    "mapy": "35.5039151148",
+    "mlevel": "6",
+    "modifiedtime": "20230224112628",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "옛날집 풍천장어본가",
+    "zipcode": "56452",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문/자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "0000",
+      "resultMsg": "OK"
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "addr1": "충청북도 진천군 진천읍 씨제이로 110",
+            "addr2": "",
+            "areacode": "33",
+            "booktour": "0",
+            "cat1": "A02",
+            "cat2": "A0204",
+            "cat3": "A02040600",
+            "contentid": "2617346",
+            "contenttypeid": "12",
+            "createdtime": "20190904185459",
+            "firstimage": "http://tong.visitkorea.or.kr/cms/resource/36/2617336_image2_1.jpg",
+            "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/36/2617336_image2_1.jpg",
+            "cpyrhtDivCd": "Type3",
+            "mapx": "127.4607939186",
+            "mapy": "36.8783702909",
+            "mlevel": "6",
+            "modifiedtime": "20230724180751",
+            "sigungucode": "8",
+            "tel": "",
+            "title": "CJ 블로썸 캠퍼스 (CJ제일제당)",
+            "zipcode": "27845"
+          },
+          {
+            "addr1": "충청북도 진천군 백곡면 백곡로 964",
+            "addr2": "",
+            "areacode": "33",
+            "booktour": "0",
+            "cat1": "A02",
+            "cat2": "A0203",
+            "cat3": "A02030100",
+            "contentid": "2436435",
+            "contenttypeid": "12",
+            "createdtime": "20161027024835",
+            "firstimage": "http://tong.visitkorea.or.kr/cms/resource/68/2436468_image2_1.JPG",
+            "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/68/2436468_image2_1.JPG",
+            "cpyrhtDivCd": "Type3",
+            "mapx": "127.3814760022",
+            "mapy": "36.8804214043",
+            "mlevel": "6",
+            "modifiedtime": "20230307140917",
+            "sigungucode": "8",
+            "tel": "",
+            "title": "물안뜰체험관",
+            "zipcode": "27823"
+          },
+          {
+            "addr1": "충청북도 진천군 문백면 구곡리",
+            "addr2": "",
+            "areacode": "33",
+            "booktour": "0",
+            "cat1": "A02",
+            "cat2": "A0201",
+            "cat3": "A02010700",
+            "contentid": "125973",
+            "contenttypeid": "12",
+            "createdtime": "20030321090000",
+            "firstimage": "http://tong.visitkorea.or.kr/cms/resource/74/2517874_image2_1.jpg",
+            "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/74/2517874_image2_1.jpg",
+            "cpyrhtDivCd": "Type3",
+            "mapx": "127.4929535846",
+            "mapy": "36.8264907281",
+            "mlevel": "6",
+            "modifiedtime": "20221108175742",
+            "sigungucode": "8",
+            "tel": "",
+            "title": "진천 농다리",
+            "zipcode": "27863"
+          }
+        ]
+      },
+      "numOfRows": 3,
+      "pageNo": 1,
+      "totalCount": 3
+    }
+  }
+}

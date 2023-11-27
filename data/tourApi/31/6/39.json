@@ -1,0 +1,54 @@
+{
+  "403659": {
+    "addr1": "경기도 구리시 아차산로 63",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "403659",
+    "contenttypeid": "39",
+    "createdtime": "20080120071327",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/39/401739_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/39/401739_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1147475724",
+    "mapy": "37.5639625529",
+    "mlevel": "6",
+    "modifiedtime": "20230920155115",
+    "sigungucode": "6",
+    "tel": "02-444-3515",
+    "title": "묘향만두",
+    "zipcode": "11958",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

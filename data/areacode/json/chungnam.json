@@ -1,0 +1,82 @@
+[
+          {
+            "rnum": 1,
+            "code": "1",
+            "name": "공주",
+            "latitude":36.446556,"longitude":127.11904
+          },
+          {
+            "rnum": 2,
+            "code": "2",
+            "name": "금산",
+            "latitude":36.108857,"longitude":127.488213
+          },
+          {
+            "rnum": 3,
+            "code": "3",
+            "name": "논산",
+            "latitude":36.1872399,"longitude":127.0986227
+          },
+          {
+            "rnum": 4,
+            "code": "4",
+            "name": "당진",
+            "latitude":36.8899744,"longitude":126.6459003
+          },
+          {
+            "rnum": 5,
+            "code": "5",
+            "name": "보령"
+          },
+          {
+            "rnum": 6,
+            "code": "6",
+            "name": "부여"
+          },
+          {
+            "rnum": 7,
+            "code": "7",
+            "name": "서산"
+          },
+          {
+            "rnum": 8,
+            "code": "8",
+            "name": "서천"
+          },
+          {
+            "rnum": 9,
+            "code": "9",
+            "name": "아산"
+          },
+          {
+            "rnum": 10,
+            "code": "11",
+            "name": "예산"
+          },
+          {
+            "rnum": 11,
+            "code": "12",
+            "name": "천안"
+          },
+          {
+            "rnum": 12,
+            "code": "13",
+            "name": "청양"
+          },
+          {
+            "rnum": 13,
+            "code": "14",
+            "name": "태안"
+          },
+          {
+            "rnum": 14,
+            "code": "15",
+            "name": "홍성"
+          },
+          {
+            "rnum": 15,
+            "code": "16",
+            "name": "계룡"
+          }
+        ]
+      

@@ -1,0 +1,46 @@
+{
+  "2519536": {
+    "addr1": "충청북도 단양군 적성면 옷바위길 10",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "",
+    "cat1": "A02",
+    "cat2": "A0205",
+    "cat3": "A02050600",
+    "contentid": "2519536",
+    "contenttypeid": "28",
+    "createdtime": "20171206234507",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/73/2618373_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/73/2618373_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.3370707587",
+    "mapy": "36.9776749798",
+    "mlevel": "6",
+    "modifiedtime": "20230825110526",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "만천하 스카이워크",
+    "zipcode": "27014",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능(매표소/수동휠체어/2대/무료)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

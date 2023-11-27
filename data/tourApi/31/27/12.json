@@ -1,0 +1,1553 @@
+{
+  "125583": {
+    "addr1": "경기도 파주시 탄현면 필승로 369",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0205",
+    "cat3": "A02050600",
+    "contentid": "125583",
+    "contenttypeid": "12",
+    "createdtime": "20021023090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/70/2445770_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/70/2445770_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6772704746",
+    "mapy": "37.7732303565",
+    "mlevel": "6",
+    "modifiedtime": "20230627143008",
+    "sigungucode": "27",
+    "tel": "",
+    "title": "오두산 통일전망대",
+    "zipcode": "10862",
+    "family": [
+      {
+        "유모차": "대여가능"
+      },
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "대여가능(3대)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "127517": {
+    "addr1": "경기도 파주시 조리읍 장곡로 218",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020600",
+    "contentid": "127517",
+    "contenttypeid": "12",
+    "createdtime": "20031106090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.8298627291",
+    "mapy": "37.7497524832",
+    "mlevel": "6",
+    "modifiedtime": "20231030164509",
+    "sigungucode": "27",
+    "tel": "",
+    "title": "하니랜드",
+    "zipcode": "10940",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "127519": {
+    "addr1": "경기도 파주시 희망로 307 도라산역",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02011000",
+    "contentid": "127519",
+    "contenttypeid": "12",
+    "createdtime": "20030408090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/97/935097_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/97/935097_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7096417227",
+    "mapy": "37.8989079340",
+    "mlevel": "6",
+    "modifiedtime": "20220421094935",
+    "sigungucode": "27",
+    "tel": "",
+    "title": "도라산역",
+    "zipcode": "10800",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음_무장애 편의시설"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음<br />\n점자유도로 있음_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "127548": {
+    "addr1": "경기도 파주시 문산읍 임진각로 177",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02011000",
+    "contentid": "127548",
+    "contenttypeid": "12",
+    "createdtime": "20030418090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/99/2706499_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/99/2706499_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7402002968",
+    "mapy": "37.8895929015",
+    "mlevel": "6",
+    "modifiedtime": "20230825130518",
+    "sigungucode": "27",
+    "tel": "",
+    "title": "파주 임진각(평화누리공원)",
+    "zipcode": "10808",
+    "family": [
+      {
+        "유모차": "대여가능(2대)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능(5대)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구~관광안내데스크)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "127657": {
+    "addr1": "경기도 파주시 파평면 화석정로 152-72",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010700",
+    "contentid": "127657",
+    "contenttypeid": "12",
+    "createdtime": "20021028090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/71/2364871_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/71/2364871_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8054971431",
+    "mapy": "37.8877054026",
+    "mlevel": "6",
+    "modifiedtime": "20220831172924",
+    "sigungucode": "27",
+    "tel": "",
+    "title": "화석정",
+    "zipcode": "10809",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "장애인 화장실 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "127679": {
+    "addr1": "경기도 파주시 조리읍 삼릉로 89",
+    "addr2": "(조리읍)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010700",
+    "contentid": "127679",
+    "contenttypeid": "12",
+    "createdtime": "20021024090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/05/1593605_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/05/1593605_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8288823384",
+    "mapy": "37.7471166613",
+    "mlevel": "6",
+    "modifiedtime": "20221020162939",
+    "sigungucode": "27",
+    "tel": "",
+    "title": "파주 삼릉 [유네스코 세계문화유산]",
+    "zipcode": "10939",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(화장실 입구)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "127680": {
+    "addr1": "경기도 파주시 문산읍 반구정로85번길 3",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010700",
+    "contentid": "127680",
+    "contenttypeid": "12",
+    "createdtime": "20021024090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.7526497747",
+    "mapy": "37.8678623276",
+    "mlevel": "6",
+    "modifiedtime": "20220620105900",
+    "sigungucode": "27",
+    "tel": "",
+    "title": "반구정과 황희선생유적지",
+    "zipcode": "10818",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "127691": {
+    "addr1": "경기도 파주시 법원읍 자운서원로 204",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010700",
+    "contentid": "127691",
+    "contenttypeid": "12",
+    "createdtime": "20030909090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/08/2482208_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/08/2482208_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8709612078",
+    "mapy": "37.8661174305",
+    "mlevel": "6",
+    "modifiedtime": "20230711102402",
+    "sigungucode": "27",
+    "tel": "",
+    "title": "파주이이유적",
+    "zipcode": "10825",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "유적지 입구,기념관 경사로 설치 됨"
+      },
+      {
+        "휠체어": "휠체어 대여 가능함(기념관)"
+      },
+      {
+        "출입통로": "유적지 진입까지는 무단차로 접근 가능하나 일부 유적지의 경우 계단으로만 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "128626": {
+    "addr1": "경기도 파주시 광탄면 부흥로 242",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010700",
+    "contentid": "128626",
+    "contenttypeid": "12",
+    "createdtime": "20070831090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/00/2713100_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/00/2713100_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8745266442",
+    "mapy": "37.8005084799",
+    "mlevel": "6",
+    "modifiedtime": "20220913102946",
+    "sigungucode": "27",
+    "tel": "",
+    "title": "벽초지수목원",
+    "zipcode": "10831",
+    "family": [
+      {
+        "유모차": "대여가능(유료/신분증보관)"
+      },
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(본관/야외)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "129195": {
+    "addr1": "경기도 파주시 탄현면 얼음실로 40",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030400",
+    "contentid": "129195",
+    "contenttypeid": "12",
+    "createdtime": "20060807090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.7026428319",
+    "mapy": "37.7845044938",
+    "mlevel": "6",
+    "modifiedtime": "20230222150354",
+    "sigungucode": "27",
+    "tel": "",
+    "title": "경기미래교육 파주캠퍼스",
+    "zipcode": "10859",
+    "family": [],
+    "handi": [
+      {
+        "출입통로": "건물시설들의 경우 경사로가 설치되어 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "보조견 동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "129196": {
+    "addr1": "경기도 파주시 탄현면 새오리로 69",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030100",
+    "contentid": "129196",
+    "contenttypeid": "12",
+    "createdtime": "20060807090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.6849692838",
+    "mapy": "37.7904034907",
+    "mlevel": "6",
+    "modifiedtime": "20230313132351",
+    "sigungucode": "27",
+    "tel": "",
+    "title": "프로방스 마을",
+    "zipcode": "10858",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞,엘리베이터 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "250410": {
+    "addr1": "경기도 파주시 탄현면 장릉로 90",
+    "addr2": "(탄현면)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010700",
+    "contentid": "250410",
+    "contenttypeid": "12",
+    "createdtime": "20071026090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.7115618428",
+    "mapy": "37.7709645647",
+    "mlevel": "6",
+    "modifiedtime": "20220926182100",
+    "sigungucode": "27",
+    "tel": "",
+    "title": "파주 장릉(인조,인열왕후) [유네스코 세계문화유산]",
+    "zipcode": "10860",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음 (입구 오른쪽)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "252560": {
+    "addr1": "경기도 파주시 장단면 제3땅굴로 310",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0205",
+    "cat3": "A02050600",
+    "contentid": "252560",
+    "contenttypeid": "12",
+    "createdtime": "20071031090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/86/2706486_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/86/2706486_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7047863286",
+    "mapy": "37.9088872381",
+    "mlevel": "6",
+    "modifiedtime": "20230512181342",
+    "sigungucode": "27",
+    "tel": "",
+    "title": "도라전망대",
+    "zipcode": "10800",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "안내요원": "안내요원 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "560481": {
+    "addr1": "경기도 파주시 회동길 145",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0204",
+    "cat3": "A02040800",
+    "contentid": "560481",
+    "contenttypeid": "12",
+    "createdtime": "20080516012543",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/64/1591764_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/64/1591764_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6866797759",
+    "mapy": "37.7083436435",
+    "mlevel": "6",
+    "modifiedtime": "20220525160118",
+    "sigungucode": "27",
+    "tel": "",
+    "title": "파주 출판도시",
+    "zipcode": "10881",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "장애인용 엘레베이터 있음(지혜의 숲)"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(지혜의 숲)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(지혜의 숲 주요시설 입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "611704": {
+    "addr1": "경기도 파주시 탄현면",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030600",
+    "contentid": "611704",
+    "contenttypeid": "12",
+    "createdtime": "20080820015114",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/25/1913925_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/25/1913925_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6844413030",
+    "mapy": "37.7992996663",
+    "mlevel": "6",
+    "modifiedtime": "20230925114018",
+    "sigungucode": "27",
+    "tel": "",
+    "title": "파주 맛고을 음식문화거리",
+    "zipcode": "10858",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "752389": {
+    "addr1": "경기도 파주시 문산읍 임진각로 148-39",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020600",
+    "contentid": "752389",
+    "contenttypeid": "12",
+    "createdtime": "20090612194703",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/75/1591975_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/75/1591975_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7419528904",
+    "mapy": "37.8904317240",
+    "mlevel": "6",
+    "modifiedtime": "20231026094656",
+    "sigungucode": "27",
+    "tel": "",
+    "title": "평화랜드",
+    "zipcode": "10808",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "752431": {
+    "addr1": "경기도 파주시 회동길 513",
+    "addr2": "(문발동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010500",
+    "contentid": "752431",
+    "contenttypeid": "12",
+    "createdtime": "20090612201015",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/49/2482949_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/49/2482949_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6931009990",
+    "mapy": "37.7229420565",
+    "mlevel": "6",
+    "modifiedtime": "20230601160531",
+    "sigungucode": "27",
+    "tel": "",
+    "title": "파주 DMZ 생태연구소",
+    "zipcode": "10881",
+    "family": [
+      {
+        "유모차": "대여가능(2대)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능(2대)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "DMZ 영상관, 전시관 주출입구 경사로 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음(DMZ 관광안내소)"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "919605": {
+    "addr1": "경기도 파주시 탄현면 정승로88번길 23-81",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010700",
+    "contentid": "919605",
+    "contenttypeid": "12",
+    "createdtime": "20100112195602",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/64/1591864_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/64/1591864_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7512066130",
+    "mapy": "37.8273920244",
+    "mlevel": "6",
+    "modifiedtime": "20230117130708",
+    "sigungucode": "27",
+    "tel": "",
+    "title": "황희정승묘",
+    "zipcode": "10857",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "장애인 전용 화장실 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1921229": {
+    "addr1": "경기도 파주시 문산읍 임진각로 148-53",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02011000",
+    "contentid": "1921229",
+    "contenttypeid": "12",
+    "createdtime": "20140527014656",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/55/2567555_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/55/2567555_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7389615126",
+    "mapy": "37.8899150642",
+    "mlevel": "6",
+    "modifiedtime": "20230601155917",
+    "sigungucode": "27",
+    "tel": "",
+    "title": "자유의 다리(파주)",
+    "zipcode": "10808",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "계단없어 휠체어로 이용가능"
+      },
+      {
+        "화장실": "장애인전용 화장실 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2375571": {
+    "addr1": "경기도 파주시 군내면 적십자로 137",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02011000",
+    "contentid": "2375571",
+    "contenttypeid": "12",
+    "createdtime": "20160330002018",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/85/2375485_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/85/2375485_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7316452726",
+    "mapy": "37.8984861542",
+    "mlevel": "6",
+    "modifiedtime": "20230829145901",
+    "sigungucode": "27",
+    "tel": "",
+    "title": "캠프 그리브스",
+    "zipcode": "10800",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "객실": "장애인 객실 있음(2실)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2545307": {
+    "addr1": "경기도 파주시 탑삭골길 260",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010700",
+    "contentid": "2545307",
+    "contenttypeid": "12",
+    "createdtime": "20180502231645",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/24/2590924_image2_1.bmp",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/24/2590924_image2_1.bmp",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7949386312",
+    "mapy": "37.7326399636",
+    "mlevel": "6",
+    "modifiedtime": "20231107105534",
+    "sigungucode": "27",
+    "tel": "",
+    "title": "퍼스트가든",
+    "zipcode": "10911",
+    "family": [
+      {
+        "유모차": "대여가능"
+      },
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2569501": {
+    "addr1": "경기도 파주시 탄현면 헤이리마을길 93-75",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060100",
+    "contentid": "2569501",
+    "contenttypeid": "12",
+    "createdtime": "20181125005056",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/01/2567501_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/01/2567501_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6961793403",
+    "mapy": "37.7913841314",
+    "mlevel": "6",
+    "modifiedtime": "20230601101922",
+    "sigungucode": "27",
+    "tel": "",
+    "title": "스토리 미니어처 뮤지엄",
+    "zipcode": "10859",
+    "family": [
+      {
+        "수유실": "수유실 있음(토들러 플레이&카페 2층)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "대여가능(1대)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(엘리베이터 앞)_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "전시해설자 있음(도슨트 가이드)"
+      },
+      {
+        "오디오 가이드": "음성안내어플 제공(이어폰 대여가능)"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2633942": {
+    "addr1": "경기도 파주시 광탄면 기산로 313",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0205",
+    "cat3": "A02050100",
+    "contentid": "2633942",
+    "contenttypeid": "12",
+    "createdtime": "20191107224658",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.9277086716",
+    "mapy": "37.7731792870",
+    "mlevel": "6",
+    "modifiedtime": "20230717094306",
+    "sigungucode": "27",
+    "tel": "",
+    "title": "마장호수 출렁다리",
+    "zipcode": "10953",
+    "family": [
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능(2대, 관리사무실)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2708312": {
+    "addr1": "경기도 파주시 적성면 윗배우니길 441-25",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0204",
+    "cat3": "A02040800",
+    "contentid": "2708312",
+    "contenttypeid": "12",
+    "createdtime": "20210308203638",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/98/1983098_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/98/1983098_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9579366460",
+    "mapy": "37.9602996735",
+    "mlevel": "6",
+    "modifiedtime": "20220930105913",
+    "sigungucode": "27",
+    "tel": "",
+    "title": "산머루농원",
+    "zipcode": "10804",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2724661": {
+    "addr1": "경기도 파주시 문산읍 임진각로 148-73",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02011000",
+    "contentid": "2724661",
+    "contenttypeid": "12",
+    "createdtime": "20210707235401",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.7402919011",
+    "mapy": "37.8915065690",
+    "mlevel": "",
+    "modifiedtime": "20230105102729",
+    "sigungucode": "27",
+    "tel": "",
+    "title": "파주 DMZ 곤돌라",
+    "zipcode": "10808",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "화장실": "장애인 화장실 있음(곤돌라 탑승장)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2738710": {
+    "addr1": "경기도 파주시 가람로150번길 41-33",
+    "addr2": "(와동동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2738710",
+    "contenttypeid": "12",
+    "createdtime": "20210901195526",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/81/2764481_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/81/2764481_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7684103332",
+    "mapy": "37.7386054615",
+    "mlevel": "6",
+    "modifiedtime": "20230404153748",
+    "sigungucode": "27",
+    "tel": "",
+    "title": "운정체육공원",
+    "zipcode": "10896",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2738713": {
+    "addr1": "경기도 파주시 경의로 1151",
+    "addr2": "(와동동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2738713",
+    "contenttypeid": "12",
+    "createdtime": "20210901200320",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/99/2764499_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/99/2764499_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7601366119",
+    "mapy": "37.7201630186",
+    "mlevel": "6",
+    "modifiedtime": "20230403131734",
+    "sigungucode": "27",
+    "tel": "",
+    "title": "운정호수공원",
+    "zipcode": "10897",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(공중화장실)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2738720": {
+    "addr1": "경기도 파주시 직지길 469",
+    "addr2": "(문발동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2738720",
+    "contenttypeid": "12",
+    "createdtime": "20210901200946",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/40/2764540_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/40/2764540_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6884237354",
+    "mapy": "37.7199006611",
+    "mlevel": "6",
+    "modifiedtime": "20230228131010",
+    "sigungucode": "27",
+    "tel": "",
+    "title": "파주출판단지근린공원",
+    "zipcode": "10881",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2740051": {
+    "addr1": "경기도 파주시 와석순환로 87",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2740051",
+    "contenttypeid": "12",
+    "createdtime": "20210906192749",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/54/2740454_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/54/2740454_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7473991857",
+    "mapy": "37.7096167979",
+    "mlevel": "6",
+    "modifiedtime": "20230512180742",
+    "sigungucode": "27",
+    "tel": "",
+    "title": "새암공원",
+    "zipcode": "10906",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2744398": {
+    "addr1": "경기도 파주시 탄현면 헤이리마을길 83",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060600",
+    "contentid": "2744398",
+    "contenttypeid": "12",
+    "createdtime": "20210914200842",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/86/2744286_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/86/2744286_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6996179513",
+    "mapy": "37.7900815669",
+    "mlevel": "",
+    "modifiedtime": "20230822133004",
+    "sigungucode": "27",
+    "tel": "",
+    "title": "황인용 뮤직 스페이스 <카메라타>",
+    "zipcode": "10859",
+    "family": [],
+    "handi": [],
+    "hearing": [],
+    "blind": [
+      {
+        "안내요원": "안내요원 있음(1층 프론트데스크)"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "0"
+  },
+  "2757569": {
+    "addr1": "경기도 파주시 교하로 677-20",
+    "addr2": "(동패동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020400",
+    "contentid": "2757569",
+    "contenttypeid": "12",
+    "createdtime": "20211015183915",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/42/2757542_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/42/2757542_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7043392530",
+    "mapy": "37.7089911042",
+    "mlevel": "6",
+    "modifiedtime": "20231024133330",
+    "sigungucode": "27",
+    "tel": "",
+    "title": "네이처스파",
+    "zipcode": "10883",
+    "family": [
+      {
+        "수유실": "수유실 있음(3층)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2764911": {
+    "addr1": "경기도 파주시 숲속노을로 256",
+    "addr2": "(동패동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2764911",
+    "contenttypeid": "12",
+    "createdtime": "20211029194413",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/07/2765007_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/07/2765007_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7123631103",
+    "mapy": "37.7234978900",
+    "mlevel": "6",
+    "modifiedtime": "20230228141810",
+    "sigungucode": "27",
+    "tel": "",
+    "title": "교하중앙공원",
+    "zipcode": "10885",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2764988": {
+    "addr1": "경기도 파주시 회동길 390",
+    "addr2": "(문발동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "2764988",
+    "contenttypeid": "12",
+    "createdtime": "20211029201250",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/37/2765037_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/37/2765037_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6937760801",
+    "mapy": "37.7178732145",
+    "mlevel": "6",
+    "modifiedtime": "20230228110035",
+    "sigungucode": "27",
+    "tel": "",
+    "title": "파주라기파크",
+    "zipcode": "10881",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2782005": {
+    "addr1": "경기도 파주시 와석순환로172번길 35",
+    "addr2": "(동패동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2782005",
+    "contenttypeid": "12",
+    "createdtime": "20211126224109",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/52/2782352_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/52/2782352_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7419995118",
+    "mapy": "37.7155354570",
+    "mlevel": "6",
+    "modifiedtime": "20230423054213",
+    "sigungucode": "27",
+    "tel": "",
+    "title": "운정건강공원(가온)",
+    "zipcode": "10901",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

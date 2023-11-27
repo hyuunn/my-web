@@ -1,0 +1,130 @@
+{
+  "132747": {
+    "addr1": "강원특별자치도 춘천시 명동길 34",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "132747",
+    "contenttypeid": "38",
+    "createdtime": "20070416090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/73/2745773_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/73/2745773_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7255744979",
+    "mapy": "37.8781316818",
+    "mlevel": "6",
+    "modifiedtime": "20230724163627",
+    "sigungucode": "13",
+    "tel": "033-254-2558",
+    "title": "춘천 중앙시장",
+    "zipcode": "24354",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(화장실 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "132753": {
+    "addr1": "강원특별자치도 춘천시 춘천로 19",
+    "addr2": "(온의동)",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010900",
+    "contentid": "132753",
+    "contenttypeid": "38",
+    "createdtime": "20070416090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/70/1947770_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/70/1947770_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7213057735",
+    "mapy": "37.8669495701",
+    "mlevel": "6",
+    "modifiedtime": "20230701102004",
+    "sigungucode": "13",
+    "tel": "033-241-4419",
+    "title": "향토공예관",
+    "zipcode": "24364",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "132761": {
+    "addr1": "강원특별자치도 춘천시 영서로 2352-21",
+    "addr2": "(온의동)",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010100",
+    "contentid": "132761",
+    "contenttypeid": "38",
+    "createdtime": "20070417090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/45/2745845_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/45/2745845_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7169755725",
+    "mapy": "37.8682826674",
+    "mlevel": "6",
+    "modifiedtime": "20231110175054",
+    "sigungucode": "13",
+    "tel": "033-253-5814",
+    "title": "춘천 풍물시장 / 풍물장 (2, 7일)",
+    "zipcode": "24364",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "주 출입구는 경사로가 있어 휠체어 접근 가능함(완만함)"
+      },
+      {
+        "출입통로": "주 출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반 가능_시각장애인 편의시설"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자 안내판 있음 (주차장)"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

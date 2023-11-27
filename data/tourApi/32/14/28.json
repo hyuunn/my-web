@@ -1,0 +1,139 @@
+{
+  "637442": {
+    "addr1": "강원특별자치도 태백시 서학로 861",
+    "addr2": "(황지동)",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03020700",
+    "contentid": "637442",
+    "contenttypeid": "28",
+    "createdtime": "20081014194912",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/03/1583603_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/03/1583603_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.9414219477",
+    "mapy": "37.1759164722",
+    "mlevel": "6",
+    "modifiedtime": "20230816153000",
+    "sigungucode": "14",
+    "tel": "033-580-7000",
+    "title": "오투리조트 골프장",
+    "zipcode": "26010",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문,수동문)"
+      },
+      {
+        "엘리베이터": "장애인용 엘리베이터 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1973361": {
+    "addr1": "강원특별자치도 태백시 천제단길 148",
+    "addr2": "(소도동)",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03020200",
+    "contentid": "1973361",
+    "contenttypeid": "28",
+    "createdtime": "20141212012243",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/00/1947700_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/00/1947700_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.9516837702",
+    "mapy": "37.1217701097",
+    "mlevel": "6",
+    "modifiedtime": "20230701133208",
+    "sigungucode": "14",
+    "tel": "",
+    "title": "태백시청소년수련관",
+    "zipcode": "26043",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "장애인용 엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구,엘리베이터,계단 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1973366": {
+    "addr1": "강원특별자치도 태백시 번영로 220",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03020200",
+    "contentid": "1973366",
+    "contenttypeid": "28",
+    "createdtime": "20141212014656",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/88/1947688_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/88/1947688_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.9851545408",
+    "mapy": "37.1630160198",
+    "mlevel": "6",
+    "modifiedtime": "20230701141009",
+    "sigungucode": "14",
+    "tel": "033-552-4499",
+    "title": "태백국민체육센터",
+    "zipcode": "26023",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "장애인용 엘리베이터있음"
+      },
+      {
+        "화장실": "장애인전용 화장실 있음(층마다, 공용)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 설치되어있음 (로비입구, 4층까지 시설물 문에 설치됨)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

@@ -1,0 +1,556 @@
+{
+  "126289": {
+    "addr1": "전라남도 영광군 홍농읍 가마미로 355",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01011200",
+    "contentid": "126289",
+    "contenttypeid": "12",
+    "createdtime": "20030707090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/63/3018763_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/63/3018763_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.4090769892",
+    "mapy": "35.3997293920",
+    "mlevel": "6",
+    "modifiedtime": "20231010121433",
+    "sigungucode": "16",
+    "tel": "",
+    "title": "가마미해수욕장",
+    "zipcode": "57000",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "126349": {
+    "addr1": "전라남도 영광군 불갑면 불갑사로 450",
+    "addr2": "(불갑면)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010800",
+    "contentid": "126349",
+    "contenttypeid": "12",
+    "createdtime": "20030122090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.5494666677",
+    "mapy": "35.2007737156",
+    "mlevel": "6",
+    "modifiedtime": "20231031160539",
+    "sigungucode": "16",
+    "tel": "",
+    "title": "불갑사(영광)",
+    "zipcode": "57058",
+    "family": [
+      {
+        "유모차": "대여가능(관광안내소)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "대여가능(관광안내소)"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "전시관 내부 신발 벗고 입장(휠체어 접근 한계 있음)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "안내요원": "안내요원 있음(관광안내소)"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "129013": {
+    "addr1": "전라남도 영광군 홍농읍 홍농로7길 24",
+    "addr2": "(홍농읍)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "129013",
+    "contenttypeid": "12",
+    "createdtime": "20060620090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.4266859323",
+    "mapy": "35.4239436036",
+    "mlevel": "6",
+    "modifiedtime": "20230531105235",
+    "sigungucode": "16",
+    "tel": "061-357-3521",
+    "title": "한마음공원",
+    "zipcode": "57003",
+    "family": [
+      {
+        "유모차": "대여가능"
+      },
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "산책로 휠체어 접근 가능"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "129218": {
+    "addr1": "전라남도 영광군 법성면 백제문화로 203",
+    "addr2": "(법성면)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010800",
+    "contentid": "129218",
+    "contenttypeid": "12",
+    "createdtime": "20060907090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/22/1607922_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/22/1607922_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.4314037163",
+    "mapy": "35.3620118202",
+    "mlevel": "6",
+    "modifiedtime": "20230711173500",
+    "sigungucode": "16",
+    "tel": "",
+    "title": "백제불교최초도래지",
+    "zipcode": "57009",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음(마라난타존자상 뒷편)"
+      },
+      {
+        "화장실": "장애인 화장실 있음(법성포구 방향 공용 주차장)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "129220": {
+    "addr1": "전라남도 영광군 법성면 법성리 821-1",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010400",
+    "contentid": "129220",
+    "contenttypeid": "12",
+    "createdtime": "20060907090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/40/195140_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/40/195140_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.4341255757",
+    "mapy": "35.3668863124",
+    "mlevel": "6",
+    "modifiedtime": "20220526162134",
+    "sigungucode": "16",
+    "tel": "",
+    "title": "영광 법성진 숲쟁이",
+    "zipcode": "57011",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "장애인 화장실 있음(근처 공중화장실,경사로있음)_무장애편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1623859": {
+    "addr1": "전라남도 영광군 불갑면 방마로 151",
+    "addr2": "(불갑면)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "1623859",
+    "contenttypeid": "12",
+    "createdtime": "20120507211356",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/94/3028194_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/94/3028194_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.5155135891",
+    "mapy": "35.2224095911",
+    "mlevel": "6",
+    "modifiedtime": "20231030160341",
+    "sigungucode": "16",
+    "tel": "",
+    "title": "불갑저수지 수변공원",
+    "zipcode": "57058",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(주차장,경사로설치됨)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1874060": {
+    "addr1": "전라남도 영광군 백수읍 해안로 957",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010500",
+    "contentid": "1874060",
+    "contenttypeid": "12",
+    "createdtime": "20131219233134",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/58/2647158_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/58/2647158_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.3960373556",
+    "mapy": "35.3644998387",
+    "mlevel": "6",
+    "modifiedtime": "20230610080937",
+    "sigungucode": "16",
+    "tel": "061-350-5600(노을전시관)",
+    "title": "백수해안도로",
+    "zipcode": "57025",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "휠체어 이용 가능한 산책로 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음(노을전시관, 노을종, 제2주차장)"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2684009": {
+    "addr1": "전라남도 영광군 염산면 향화로 2-10",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0205",
+    "cat3": "A02050600",
+    "contentid": "2684009",
+    "contenttypeid": "12",
+    "createdtime": "20201119191430",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/03/2684003_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/03/2684003_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.3603175723",
+    "mapy": "35.1686742123",
+    "mlevel": "6",
+    "modifiedtime": "20220426171040",
+    "sigungucode": "16",
+    "tel": "",
+    "title": "칠산타워",
+    "zipcode": "57065",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      },
+      {
+        "오디오 가이드": "음성버튼(점자안내판)"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2715691": {
+    "addr1": "전라남도 영광군 백수읍 대신리",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0205",
+    "cat3": "A02050600",
+    "contentid": "2715691",
+    "contenttypeid": "12",
+    "createdtime": "20210510185745",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/01/2814801_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/01/2814801_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.3875107289",
+    "mapy": "35.3486403842",
+    "mlevel": "6",
+    "modifiedtime": "20220524181420",
+    "sigungucode": "16",
+    "tel": "",
+    "title": "백수해안도로 노을전망대",
+    "zipcode": "57025",
+    "family": [
+      {
+        "유모차": "대여가능(무료/1대/노을전시관/061-350-5600)"
+      },
+      {
+        "수유실": "수유실 있음(노을전시관 지하)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "대여가능(무료/2대/노을전시관/061-350-5600)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "안내요원": "안내요원 있음(노을전시관)"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음(노을전시관, 노을종, 주차장)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2775019": {
+    "addr1": "전라남도 영광군 불갑사로 167",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030200",
+    "contentid": "2775019",
+    "contenttypeid": "12",
+    "createdtime": "20211117024241",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.5288625280",
+    "mapy": "35.2174242664",
+    "mlevel": "6",
+    "modifiedtime": "20230825090357",
+    "sigungucode": "16",
+    "tel": "",
+    "title": "화천월지단차원 (전 불갑다향)",
+    "zipcode": "57058",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "있음(체험장 시설 내 보유)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "안내요원": "있음(마을 사무장 상주)"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2775315": {
+    "addr1": "전라남도 영광군 백수읍 대신길2길 11-3",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030100",
+    "contentid": "2775315",
+    "contenttypeid": "12",
+    "createdtime": "20211117190434",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.3949156814",
+    "mapy": "35.3463713205",
+    "mlevel": "6",
+    "modifiedtime": "20230825094644",
+    "sigungucode": "16",
+    "tel": "",
+    "title": "다락해영어조합법인",
+    "zipcode": "57025",
+    "family": [],
+    "handi": [
+      {
+        "출입통로": "휠체어 통과가능 출입문"
+      },
+      {
+        "엘리베이터": "휠체어 탑승가능 엘리베이터"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "안내요원": "있음(카페 내 상시 근로 직원보유)　"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2775323": {
+    "addr1": "전라남도 영광군 대마면 원당길1길 8",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030100",
+    "contentid": "2775323",
+    "contenttypeid": "12",
+    "createdtime": "20211117190721",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/09/3002709_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/09/3002709_image3_1.jpg",
+    "cpyrhtDivCd": "Type1",
+    "mapx": "126.5580830107",
+    "mapy": "35.2950548534",
+    "mlevel": "6",
+    "modifiedtime": "20230829100147",
+    "sigungucode": "16",
+    "tel": "",
+    "title": "서로마을",
+    "zipcode": "57055",
+    "family": [],
+    "handi": [
+      {
+        "출입통로": "휠체어 통과가능 출입문"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "보조견 동반 가능"
+      },
+      {
+        "안내요원": "있음 (카페 내 상시 근로 직원보유)　"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

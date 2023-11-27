@@ -1,0 +1,568 @@
+{
+  "126314": {
+    "addr1": "전라남도 목포시 유달로 221",
+    "addr2": "(죽교동)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0206",
+    "cat3": "A02060300",
+    "contentid": "126314",
+    "contenttypeid": "12",
+    "createdtime": "20031107090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/29/1606929_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/29/1606929_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.3737365739",
+    "mapy": "34.7944083539",
+    "mlevel": "6",
+    "modifiedtime": "20220609092732",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "유달산 조각공원",
+    "zipcode": "58627",
+    "family": [],
+    "handi": [
+      {
+        "출입통로": "단차와 기울기가 없음"
+      },
+      {
+        "화장실": "장애인용화장실 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "126828": {
+    "addr1": "전라남도 목포시 남농로 135",
+    "addr2": "일대 (용해동)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030400",
+    "contentid": "126828",
+    "contenttypeid": "12",
+    "createdtime": "20040224090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/60/2515460_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/60/2515460_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.4209824186",
+    "mapy": "34.7936564349",
+    "mlevel": "6",
+    "modifiedtime": "20221020165028",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "갓바위 문화타운",
+    "zipcode": "58699",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "접근로는 대부분 경사가 있는 무단차로 구성 됨(돌구간 있음)"
+      },
+      {
+        "화장실": "장애인 전용 주차구역 있음(갓바위 휴게소식당)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "126937": {
+    "addr1": "전라남도 목포시 죽교동",
+    "addr2": "산 39-1",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010700",
+    "contentid": "126937",
+    "contenttypeid": "12",
+    "createdtime": "20020422090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/40/2639040_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/40/2639040_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.3742644776",
+    "mapy": "34.7872480580",
+    "mlevel": "6",
+    "modifiedtime": "20221115105355",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "이난영의 목포의 눈물 노래비",
+    "zipcode": "58625",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "장애인 화장실 있음(유달공원입구 화장실)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "127332": {
+    "addr1": "전라남도 목포시 죽교동",
+    "addr2": "산 27",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010500",
+    "contentid": "127332",
+    "contenttypeid": "12",
+    "createdtime": "20031111090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/34/1606934_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/34/1606934_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.3736116393",
+    "mapy": "34.7921363855",
+    "mlevel": "6",
+    "modifiedtime": "20230327095024",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "유달산 달성공원",
+    "zipcode": "58627",
+    "family": [],
+    "handi": [
+      {
+        "출입통로": "출입구는 계단으로 되어 있어 근처 조각공원을 통하여 입장이 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1624356": {
+    "addr1": "전라남도 목포시 남농로 166-1",
+    "addr2": "(용해동)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0102",
+    "cat3": "A01020200",
+    "contentid": "1624356",
+    "contenttypeid": "12",
+    "createdtime": "20120508023245",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.4250320655",
+    "mapy": "34.7934648561",
+    "mlevel": "6",
+    "modifiedtime": "20221031194946",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "목포 갓바위",
+    "zipcode": "58699",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "갓바위 부근 데크로드산책로 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1996657": {
+    "addr1": "전라남도 목포시 영산로75번길 5",
+    "addr2": "(무안동)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010700",
+    "contentid": "1996657",
+    "contenttypeid": "12",
+    "createdtime": "20150410200441",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/32/3011332_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/32/3011332_image3_1.jpg",
+    "cpyrhtDivCd": "Type1",
+    "mapx": "126.3842968662",
+    "mapy": "34.7896785040",
+    "mlevel": "6",
+    "modifiedtime": "20230915152857",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "오거리문화센터(구 동본원사 목포별원)",
+    "zipcode": "58728",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "주출입구는 계단이 있으나 공영주차장쪽 경사로를 이용하여 접근 가능_무장애 편의시설"
+      },
+      {
+        "화장실": "장애인 화장실 있음(목포문화재단사무실 화장실,경사로설치됨)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2606207": {
+    "addr1": "전라남도 목포시 해양대학로 240",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030400",
+    "contentid": "2606207",
+    "contenttypeid": "12",
+    "createdtime": "20190613004636",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/53/2640153_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/53/2640153_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.3700534460",
+    "mapy": "34.7994160626",
+    "mlevel": "6",
+    "modifiedtime": "20230623130529",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "목포 해상케이블카",
+    "zipcode": "58719",
+    "family": [
+      {
+        "수유실": "수유실 있음(고하도승강장 2층)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능(탑승장 입구)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "오디오 가이드": "음성안내기 있음"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음<br />\n점자도서 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2656482": {
+    "addr1": "전라남도 목포시 고하도안길 234",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020600",
+    "contentid": "2656482",
+    "contenttypeid": "12",
+    "createdtime": "20200518184540",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/11/2676111_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/11/2676111_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.3592243617",
+    "mapy": "34.7779821890",
+    "mlevel": "6",
+    "modifiedtime": "20230621172926",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "고하도 해상테마파크",
+    "zipcode": "58762",
+    "family": [],
+    "handi": [
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "등산로 구간에 위치하여 휠체어 및 노약자의 이용에 어려움이 있음<br />\n전망대는 이용가능하나 산책로는 계단구간이 있어 어려움"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자유도로 있음_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "오디오 가이드": "음성안내 버튼 있음(점자안내판)"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2663184": {
+    "addr1": "전라남도 목포시 평화로 82",
+    "addr2": "(상동)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2663184",
+    "contenttypeid": "12",
+    "createdtime": "20200710232407",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.4338006577",
+    "mapy": "34.7967007465",
+    "mlevel": "",
+    "modifiedtime": "20231004121721",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "목포평화광장",
+    "zipcode": "58750",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(공영주차장 앞)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2706019": {
+    "addr1": "전라남도 목포시 고하도안길 234",
+    "addr2": "(달동)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0205",
+    "cat3": "A02050600",
+    "contentid": "2706019",
+    "contenttypeid": "12",
+    "createdtime": "20210215234729",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/17/2706017_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/17/2706017_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.3592243617",
+    "mapy": "34.7779821890",
+    "mlevel": "6",
+    "modifiedtime": "20230714143159",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "고하도 전망대",
+    "zipcode": "58762",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2707901": {
+    "addr1": "전라남도 목포시 해안로 182",
+    "addr2": "(항동)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020800",
+    "contentid": "2707901",
+    "contenttypeid": "12",
+    "createdtime": "20210303200847",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/96/2707896_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/96/2707896_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.3841915033",
+    "mapy": "34.7820488058",
+    "mlevel": "6",
+    "modifiedtime": "20230623131549",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "목포연안여객선터미널",
+    "zipcode": "58759",
+    "family": [
+      {
+        "유모차": "대여가능(5대)"
+      },
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2784217": {
+    "addr1": "전라남도 목포시 청호로219번길 34-22",
+    "addr2": "(산정동)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2784217",
+    "contenttypeid": "12",
+    "createdtime": "20211201021655",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/59/2798659_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/59/2798659_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.3657758157",
+    "mapy": "34.8089954695",
+    "mlevel": "6",
+    "modifiedtime": "20230621144621",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "노을공원",
+    "zipcode": "58623",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2795516": {
+    "addr1": "전라남도 목포시 장미로 40",
+    "addr2": "(상동)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030600",
+    "contentid": "2795516",
+    "contenttypeid": "12",
+    "createdtime": "20211214200042",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/72/2798772_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/72/2798772_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.4257706771",
+    "mapy": "34.8022610998",
+    "mlevel": "6",
+    "modifiedtime": "20230321091848",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "장미의거리",
+    "zipcode": "58691",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

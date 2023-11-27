@@ -1,0 +1,197 @@
+{
+  "127190": {
+    "addr1": "전라남도 화순군 도곡면 효산리 64",
+    "addr2": "일대",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010700",
+    "contentid": "127190",
+    "contenttypeid": "12",
+    "createdtime": "20020612090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/03/2515703_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/03/2515703_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9178560502",
+    "mapy": "34.9869568050",
+    "mlevel": "6",
+    "modifiedtime": "20230925094952",
+    "sigungucode": "24",
+    "tel": "",
+    "title": "화순 고인돌군 유적 [유네스코 세계문화유산]",
+    "zipcode": "58154",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "장애인 화장실 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "127932": {
+    "addr1": "전라남도 화순군 도곡면 온천1길 45",
+    "addr2": "(도곡면)",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020300",
+    "contentid": "127932",
+    "contenttypeid": "12",
+    "createdtime": "20031022090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/29/186129_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/29/186129_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9033118398",
+    "mapy": "35.0291490268",
+    "mlevel": "6",
+    "modifiedtime": "20220518163253",
+    "sigungucode": "24",
+    "tel": "",
+    "title": "도곡원네스 리조트",
+    "zipcode": "58148",
+    "family": [],
+    "handi": [
+      {
+        "엘리베이터": "있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2606239": {
+    "addr1": "전라남도 화순군 화순읍 안양산로 537",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030100",
+    "contentid": "2606239",
+    "contenttypeid": "12",
+    "createdtime": "20190613013340",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/51/2608251_image2_1.PNG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/51/2608251_image2_1.PNG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0118922664",
+    "mapy": "35.0953433965",
+    "mlevel": "6",
+    "modifiedtime": "20230814105817",
+    "sigungucode": "24",
+    "tel": "",
+    "title": "무등산 양떼목장",
+    "zipcode": "58104",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 평지로 되어 있으나 흙(돌) 구간 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2718413": {
+    "addr1": "전라남도 화순군 화순읍 동구리",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2718413",
+    "contenttypeid": "12",
+    "createdtime": "20210526230640",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.9858810969",
+    "mapy": "35.0784670815",
+    "mlevel": "6",
+    "modifiedtime": "20230327180943",
+    "sigungucode": "24",
+    "tel": "",
+    "title": "동구리호수공원",
+    "zipcode": "58105",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2754463": {
+    "addr1": "전라남도 화순군 화순읍 안양산로 258",
+    "addr2": "",
+    "areacode": "38",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010500",
+    "contentid": "2754463",
+    "contenttypeid": "12",
+    "createdtime": "20211007185427",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/31/2754531_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/31/2754531_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0026934106",
+    "mapy": "35.0821086218",
+    "mlevel": "6",
+    "modifiedtime": "20231108143849",
+    "sigungucode": "24",
+    "tel": "",
+    "title": "수만리생태숲공원",
+    "zipcode": "58104",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "820754": {
+    "addr1": "전라북도 익산시 하나로 437",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020400",
+    "contentid": "820754",
+    "contenttypeid": "39",
+    "createdtime": "20091015200004",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/21/818721_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/21/818721_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9810811992",
+    "mapy": "35.9594032077",
+    "mlevel": "6",
+    "modifiedtime": "20230914111358",
+    "sigungucode": "9",
+    "tel": "063-838-8822",
+    "title": "동보성",
+    "zipcode": "54546",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1591070": {
+    "addr1": "전라북도 익산시 무왕로 985",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "1591070",
+    "contenttypeid": "39",
+    "createdtime": "20120404024943",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.9672823969",
+    "mapy": "35.9607000436",
+    "mlevel": "6",
+    "modifiedtime": "20230802191637",
+    "sigungucode": "9",
+    "tel": "063-842-0646",
+    "title": "원본함흥냉면",
+    "zipcode": "54543",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문/자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1592522": {
+    "addr1": "전라북도 익산시 동서로63길 60",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020200",
+    "contentid": "1592522",
+    "contenttypeid": "39",
+    "createdtime": "20120404231754",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.9837143701",
+    "mapy": "35.9566230149",
+    "mlevel": "6",
+    "modifiedtime": "20230223141224",
+    "sigungucode": "9",
+    "tel": "063-841-3211",
+    "title": "함지박레스토랑",
+    "zipcode": "54564",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1594741": {
+    "addr1": "전라북도 익산시 동서로51길 45",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "1594741",
+    "contenttypeid": "39",
+    "createdtime": "20120405221625",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.9785370928",
+    "mapy": "35.9551619808",
+    "mlevel": "6",
+    "modifiedtime": "20230530134433",
+    "sigungucode": "9",
+    "tel": "063-836-0666",
+    "title": "노형남정통추어탕",
+    "zipcode": "54641",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1594878": {
+    "addr1": "전라북도 익산시 목천로 281",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "1594878",
+    "contenttypeid": "39",
+    "createdtime": "20120405231136",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.9523512263",
+    "mapy": "35.9289006342",
+    "mlevel": "6",
+    "modifiedtime": "20230316112512",
+    "sigungucode": "9",
+    "tel": "063-842-3288",
+    "title": "전주소바",
+    "zipcode": "54675",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문/자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1595051": {
+    "addr1": "전라북도 익산시 금마면 미륵사지로 397",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "1595051",
+    "contenttypeid": "39",
+    "createdtime": "20120406003218",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.0244537384",
+    "mapy": "36.0115507890",
+    "mlevel": "6",
+    "modifiedtime": "20230126131000",
+    "sigungucode": "9",
+    "tel": "063-835-8919",
+    "title": "맛동순두부",
+    "zipcode": "54574",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1851929": {
+    "addr1": "전라북도 익산시 금마면 무왕로 1790-8",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "1851929",
+    "contenttypeid": "39",
+    "createdtime": "20131017231329",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/75/1977375_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/75/1977375_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0454748267",
+    "mapy": "35.9832849334",
+    "mlevel": "6",
+    "modifiedtime": "20230524175556",
+    "sigungucode": "9",
+    "tel": "063-834-1110",
+    "title": "만나먹거리촌",
+    "zipcode": "54573",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2788876": {
+    "addr1": "전라북도 익산시 금마면 미륵사지로 397",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2788876",
+    "contenttypeid": "39",
+    "createdtime": "20211208182743",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/88/2796188_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/88/2796188_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0242981949",
+    "mapy": "36.0116063357",
+    "mlevel": "6",
+    "modifiedtime": "20230224112825",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "원조미륵산순두부",
+    "zipcode": "54574",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "2785495": {
+    "addr1": "경기도 의왕시 바라산로 1",
+    "addr2": "(학의동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010600",
+    "contentid": "2785495",
+    "contenttypeid": "38",
+    "createdtime": "20211203020241",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/39/3007039_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/39/3007039_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0095874534",
+    "mapy": "37.3760296964",
+    "mlevel": "",
+    "modifiedtime": "20230927093113",
+    "sigungucode": "24",
+    "tel": "",
+    "title": "롯데프리미엄아울렛 타임빌라스",
+    "zipcode": "16016",
+    "family": [
+      {
+        "유모차": "대여가능(2층/통합서비스라운지)"
+      },
+      {
+        "수유실": "수유실 있음(2층)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

@@ -1,0 +1,1217 @@
+{
+  "132159":{
+     "addr1":"제주특별자치도 서귀포시 성산읍 고성오조로 93",
+     "addr2":"",
+     "areacode":"39",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010100",
+     "contentid":"132159",
+     "contenttypeid":"38",
+     "createdtime":"20020423090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/20/1932220_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/20/1932220_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9127293498",
+     "mapy":"33.4518891163",
+     "mlevel":"6",
+     "modifiedtime":"20230413225233",
+     "sigungucode":"3",
+     "tel":"064-760-4282",
+     "title":"고성5일시장 (4, 9일)",
+     "zipcode":"63640",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "132160":{
+     "addr1":"제주특별자치도 서귀포시 표선면 세성로 352-38",
+     "addr2":"(표선면)",
+     "areacode":"39",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010100",
+     "contentid":"132160",
+     "contenttypeid":"38",
+     "createdtime":"20020424090000",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.8302977947",
+     "mapy":"33.3221604411",
+     "mlevel":"6",
+     "modifiedtime":"20221222180633",
+     "sigungucode":"3",
+     "tel":"064-760-4475",
+     "title":"표선 5일시장 (2, 7일)",
+     "zipcode":"63625",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+        },
+        {
+           "보조견 동반":"동반가능"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "132161":{
+     "addr1":"제주특별자치도 서귀포시 대정읍 신영로36번길 65",
+     "addr2":"(대정읍)",
+     "areacode":"39",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010100",
+     "contentid":"132161",
+     "contenttypeid":"38",
+     "createdtime":"20020423090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/24/1932224_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/24/1932224_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.2483310829",
+     "mapy":"33.2204929929",
+     "mlevel":"6",
+     "modifiedtime":"20221018131809",
+     "sigungucode":"3",
+     "tel":"064-730-1615",
+     "title":"대정5일시장 (1, 6일)",
+     "zipcode":"63506",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_무장애 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "132487":{
+     "addr1":"제주특별자치도 제주시 공항로 2",
+     "addr2":"(용담이동)",
+     "areacode":"39",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010400",
+     "contentid":"132487",
+     "contenttypeid":"38",
+     "createdtime":"20030402090000",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.4947726967",
+     "mapy":"33.5071207433",
+     "mlevel":"6",
+     "modifiedtime":"20220526133433",
+     "sigungucode":"4",
+     "tel":"064-740-9900",
+     "title":"JDC 면세점 (제주공항점)",
+     "zipcode":"63115",
+     "family":[
+        {
+           "유모차":"대여가능(국내선 3층 일반대합실 중앙 종합 안내 카운터)"
+        },
+        {
+           "수유실":"수유실 있음(유아휴게실,국내선 3층 국내선 출발 입구, 국제선 3층, 2층 격리 대합실 내부)"
+        },
+        {
+           "영유아가족 기타 지원 항목":"놀이방 있음(국내선 4층 드롭탑 맞은편)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "휠체어":"대여가능(국내선 3층 일반대합실 중앙 종합 안내카운터)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(23개)"
+        },
+        {
+           "기타 지원 항목":"교통약자 전용 전화기 있음(국내선 3층 2번 게이트 앞)"
+        }
+     ],
+     "hearing":[
+        {
+           "수화안내":"화상캠 안내서비스(종합 안내 카운터)"
+        }
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음 (엘리베이터 입구, 외부 출입구, 내부)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"1",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "132556":{
+     "addr1":"제주특별자치도 서귀포시 토평서로11번길 142",
+     "addr2":"",
+     "areacode":"39",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010100",
+     "contentid":"132556",
+     "contenttypeid":"38",
+     "createdtime":"20031208090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/79/1905179_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/79/1905179_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.5725269301",
+     "mapy":"33.2668263180",
+     "mlevel":"6",
+     "modifiedtime":"20230228093321",
+     "sigungucode":"3",
+     "tel":"064-763-0965",
+     "title":"서귀포 향토5일시장 (4, 9일)",
+     "zipcode":"63579",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "132560":{
+     "addr1":"제주특별자치도 제주시 한림읍 한림로 300",
+     "addr2":"(한림읍)",
+     "areacode":"39",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010900",
+     "contentid":"132560",
+     "contenttypeid":"38",
+     "createdtime":"20031027090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/84/818784_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/84/818784_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.2390281082",
+     "mapy":"33.3908601266",
+     "mlevel":"6",
+     "modifiedtime":"20221227164756",
+     "sigungucode":"4",
+     "tel":"064-796-0008",
+     "title":"한림공원 쌍용각",
+     "zipcode":"63011",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "132561":{
+     "addr1":"제주특별자치도 제주시 한림읍 한림로 300",
+     "addr2":"",
+     "areacode":"39",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010900",
+     "contentid":"132561",
+     "contenttypeid":"38",
+     "createdtime":"20031027090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/92/818792_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/92/818792_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.2381087692",
+     "mapy":"33.3897241270",
+     "mlevel":"6",
+     "modifiedtime":"20230411164819",
+     "sigungucode":"4",
+     "tel":"064-796-0009",
+     "title":"한림공원 다화원휴게소 (제주)",
+     "zipcode":"63011",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "132595":{
+     "addr1":"제주특별자치도 서귀포시 천제연로188번길 12",
+     "addr2":"",
+     "areacode":"39",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010100",
+     "contentid":"132595",
+     "contenttypeid":"38",
+     "createdtime":"20040213090000",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.4242345901",
+     "mapy":"33.2507951855",
+     "mlevel":"6",
+     "modifiedtime":"20230327113728",
+     "sigungucode":"3",
+     "tel":"064-760-2633",
+     "title":"중문향토오일시장 (3, 8일)",
+     "zipcode":"63546",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "976820":{
+     "addr1":"제주특별자치도 제주시 오일장서길 26",
+     "addr2":"",
+     "areacode":"39",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010100",
+     "contentid":"976820",
+     "contenttypeid":"38",
+     "createdtime":"20100316231750",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/87/1031787_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/87/1031787_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.4758023552",
+     "mapy":"33.4969271258",
+     "mlevel":"6",
+     "modifiedtime":"20230613160559",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"제주시민속오일시장 (2, 7일)",
+     "zipcode":"63116",
+     "family":[
+        {
+           "유모차":"대여가능(고객지원센터)"
+        },
+        {
+           "수유실":"수유실 있음(고객지원센터)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "휠체어":"대여가능(고객지원센터)"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음(공영주차장)"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실 앞)_시각장애인 편의시설"
+        },
+        {
+           "보조견 동반":"동반가능"
+        },
+        {
+           "안내요원":"안내요원 있음(고객지원센터)"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "992261":{
+     "addr1":"제주특별자치도 제주시 구좌읍 해맞이해안로 1412",
+     "addr2":"",
+     "areacode":"39",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010100",
+     "contentid":"992261",
+     "contenttypeid":"38",
+     "createdtime":"20100406015222",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/40/1932240_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/40/1932240_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.8573407727",
+     "mapy":"33.5261772305",
+     "mlevel":"6",
+     "modifiedtime":"20221021112409",
+     "sigungucode":"4",
+     "tel":"064-728-7762064-728-7762",
+     "title":"세화민속오일시장(5일, 0일)",
+     "zipcode":"63361",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"진입로에 턱 없음 (시장 이동시 배수로 유의)"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "992309":{
+     "addr1":"제주특별자치도 제주시 동광로1길 32",
+     "addr2":"",
+     "areacode":"39",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"992309",
+     "contenttypeid":"38",
+     "createdtime":"20100406022400",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.5279698982",
+     "mapy":"33.5032716982",
+     "mlevel":"6",
+     "modifiedtime":"20230320235833",
+     "sigungucode":"4",
+     "tel":"064-753-2085",
+     "title":"제주 보성시장",
+     "zipcode":"63197",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음(보성시장주차장)"
+        },
+        {
+           "화장실":"장애인 화장실 있음(보성시장주차장 1층)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "993224":{
+     "addr1":"제주특별자치도 제주시 한림읍 한수풀로4길 10",
+     "addr2":"",
+     "areacode":"39",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010100",
+     "contentid":"993224",
+     "contenttypeid":"38",
+     "createdtime":"20100407184844",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.2745604816",
+     "mapy":"33.4198102588",
+     "mlevel":"6",
+     "modifiedtime":"20221201155146",
+     "sigungucode":"4",
+     "tel":"064-796-8830",
+     "title":"한림민속5일시장(4, 9일)",
+     "zipcode":"63026",
+     "family":[
+        {
+           "유모차":"대여가능"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음(미닫이 믄)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "993261":{
+     "addr1":"제주특별자치도 제주시 서문로4길 13-2",
+     "addr2":"",
+     "areacode":"39",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"993261",
+     "contenttypeid":"38",
+     "createdtime":"20100407192728",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.5179483634",
+     "mapy":"33.5113734195",
+     "mlevel":"6",
+     "modifiedtime":"20220922142704",
+     "sigungucode":"4",
+     "tel":"064-752-0893",
+     "title":"서문공설시장",
+     "zipcode":"63154",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1013246":{
+     "addr1":"제주특별자치도 제주시 관덕로14길 20",
+     "addr2":"",
+     "areacode":"39",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"1013246",
+     "contenttypeid":"38",
+     "createdtime":"20100503194230",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/38/2678438_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/38/2678438_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.5260587646",
+     "mapy":"33.5115624162",
+     "mlevel":"6",
+     "modifiedtime":"20230613131749",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"동문재래시장",
+     "zipcode":"63192",
+     "family":[
+        {
+           "유모차":"대여가능(고객지원센터)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1013258":{
+     "addr1":"제주특별자치도 서귀포시 중앙로62번길 18",
+     "addr2":"",
+     "areacode":"39",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"1013258",
+     "contenttypeid":"38",
+     "createdtime":"20100503194829",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/85/2046585_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/85/2046585_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.5632364425",
+     "mapy":"33.2501780068",
+     "mlevel":"6",
+     "modifiedtime":"20230303095134",
+     "sigungucode":"3",
+     "tel":"064-762-1949",
+     "title":"서귀포매일올레시장",
+     "zipcode":"63591",
+     "family":[
+        {
+           "유모차":"대여가능"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1013289":{
+     "addr1":"제주특별자치도 제주시 연삼로 473",
+     "addr2":"(이도이동)",
+     "areacode":"39",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010900",
+     "contentid":"1013289",
+     "contenttypeid":"38",
+     "createdtime":"20100503202536",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/69/1031569_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/69/1031569_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.5405800026",
+     "mapy":"33.4993528886",
+     "mlevel":"6",
+     "modifiedtime":"20230423054547",
+     "sigungucode":"4",
+     "tel":"064-751-3360",
+     "title":"제주 특산품전시판매장",
+     "zipcode":"63217",
+     "family":[
+        {
+           "유모차":"대여가능"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1014672":{
+     "addr1":"제주특별자치도 제주시 중앙로 60",
+     "addr2":"",
+     "areacode":"39",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"1014672",
+     "contenttypeid":"38",
+     "createdtime":"20100505014249",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/83/1017283_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/83/1017283_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.5246699600",
+     "mapy":"33.5131677726",
+     "mlevel":"6",
+     "modifiedtime":"20230612154300",
+     "sigungucode":"4",
+     "tel":"064-752-8776",
+     "title":"제주 중앙지하상가",
+     "zipcode":"63168",
+     "family":[
+        {
+           "유모차":"대여가능"
+        },
+        {
+           "수유실":"수유실 있음(2,3차 상가)"
+        }
+     ],
+     "handi":[
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1705333":{
+     "addr1":"제주특별자치도 제주시 한림읍 금능남로 127",
+     "addr2":"",
+     "areacode":"39",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"1705333",
+     "contenttypeid":"38",
+     "createdtime":"20120831231931",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.2396644133",
+     "mapy":"33.3796613764",
+     "mlevel":"6",
+     "modifiedtime":"20220926164515",
+     "sigungucode":"4",
+     "tel":"064-795-3200",
+     "title":"라온명품관",
+     "zipcode":"63015",
+     "family":[
+        {
+           "유모차":"대여 가능"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로 있어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(1층)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1871024":{
+     "addr1":"제주특별자치도 제주시 중앙로 20",
+     "addr2":"",
+     "areacode":"39",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010600",
+     "contentid":"1871024",
+     "contenttypeid":"38",
+     "createdtime":"20131213222240",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.5246032206",
+     "mapy":"33.5166479414",
+     "mlevel":"6",
+     "modifiedtime":"20220927181000",
+     "sigungucode":"4",
+     "tel":"064-723-1510",
+     "title":"제주칠성로상점가",
+     "zipcode":"63166",
+     "family":[
+        {
+           "유모차":"대여가능(칠성로 상점가 고객센터)"
+        },
+        {
+           "수유실":"수유실 있음(칠성로 상점가 고객센터)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음(칠성로 상점가 고객센터)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2537226":{
+     "addr1":"제주특별자치도 서귀포시 성산읍 동류암로 20",
+     "addr2":"",
+     "areacode":"39",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2537226",
+     "contenttypeid":"38",
+     "createdtime":"20180222020505",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/19/2537219_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/19/2537219_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.9182150328",
+     "mapy":"33.4498505414",
+     "mlevel":"6",
+     "modifiedtime":"20221018161145",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"골목시장",
+     "zipcode":"63640",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2737330":{
+     "addr1":"제주특별자치도 제주시 이도일동 1349-60",
+     "addr2":"",
+     "areacode":"39",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2737330",
+     "contenttypeid":"38",
+     "createdtime":"20210830223205",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/53/2737553_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/53/2737553_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.5257309971",
+     "mapy":"33.5124067622",
+     "mlevel":"6",
+     "modifiedtime":"20221108174647",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"동문수산시장",
+     "zipcode":"63192",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2755023":{
+     "addr1":"제주특별자치도 서귀포시 대정읍 영서중로13번길 9-8",
+     "addr2":"",
+     "areacode":"39",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2755023",
+     "contenttypeid":"38",
+     "createdtime":"20211008200851",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/52/2755152_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/52/2755152_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.2545860621",
+     "mapy":"33.2220012575",
+     "mlevel":"6",
+     "modifiedtime":"20221117173338",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"모슬포중앙시장",
+     "zipcode":"63510",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2765334":{
+     "addr1":"제주특별자치도 제주시 한림읍 한림로 687",
+     "addr2":"",
+     "areacode":"39",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2765334",
+     "contenttypeid":"38",
+     "createdtime":"20211101195438",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"126.2649364013",
+     "mapy":"33.4161382914",
+     "mlevel":"6",
+     "modifiedtime":"20230407132738",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"한림매일시장",
+     "zipcode":"63031",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2791430":{
+     "addr1":"제주특별자치도 서귀포시 중문상로17번길 4",
+     "addr2":"(중문동)",
+     "areacode":"39",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2791430",
+     "contenttypeid":"38",
+     "createdtime":"20211210181959",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/88/2800688_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/88/2800688_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.4240235083",
+     "mapy":"33.2503230129",
+     "mlevel":"6",
+     "modifiedtime":"20230410093913",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"불란지야시장",
+     "zipcode":"63546",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2860687":{
+     "addr1":"제주특별자치도 제주시 일도일동",
+     "addr2":"1144-28",
+     "areacode":"39",
+     "booktour":"",
+     "cat1":"A04",
+     "cat2":"A0401",
+     "cat3":"A04010200",
+     "contentid":"2860687",
+     "contenttypeid":"38",
+     "createdtime":"20220927112135",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/67/2860667_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/67/2860667_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"126.5282113326",
+     "mapy":"33.5125567854",
+     "mlevel":"6",
+     "modifiedtime":"20221025175555",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"동문공설시장",
+     "zipcode":"63264",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  }
+}

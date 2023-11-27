@@ -1,0 +1,109 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "0000",
+      "resultMsg": "OK"
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "addr1": "강원특별자치도 횡성군 경강로유현1길 50",
+            "addr2": "",
+            "areacode": "32",
+            "booktour": "",
+            "cat1": "A02",
+            "cat2": "A0203",
+            "cat3": "A02030400",
+            "contentid": "2939639",
+            "contenttypeid": "14",
+            "createdtime": "20221229160433",
+            "firstimage": "http://tong.visitkorea.or.kr/cms/resource/61/2380961_image2_1.JPG",
+            "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/61/2380961_image2_1.JPG",
+            "cpyrhtDivCd": "Type3",
+            "mapx": "127.8199400621",
+            "mapy": "37.5307182100",
+            "mlevel": "6",
+            "modifiedtime": "20230906101842",
+            "sigungucode": "18",
+            "tel": "033-340-5986~8  /  033-342-0035(전기카트 탑승 신청 문의 / 9:00~18:00)",
+            "title": "유현문화관광지",
+            "zipcode": "25200"
+          },
+          {
+            "addr1": "강원특별자치도 횡성군 갑천면 섬강로 1012",
+            "addr2": "",
+            "areacode": "32",
+            "booktour": "0",
+            "cat1": "A02",
+            "cat2": "A0206",
+            "cat3": "A02060300",
+            "contentid": "2614913",
+            "contenttypeid": "14",
+            "createdtime": "20190810022741",
+            "firstimage": "http://tong.visitkorea.or.kr/cms/resource/29/2519229_image2_1.JPG",
+            "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/29/2519229_image2_1.JPG",
+            "cpyrhtDivCd": "Type3",
+            "mapx": "128.0382421857",
+            "mapy": "37.5425431371",
+            "mlevel": "6",
+            "modifiedtime": "20230726135558",
+            "sigungucode": "18",
+            "tel": "",
+            "title": "횡성댐 물문화관",
+            "zipcode": "25252"
+          },
+          {
+            "addr1": "강원특별자치도 횡성군 횡성읍 문예로 75",
+            "addr2": "",
+            "areacode": "32",
+            "booktour": "0",
+            "cat1": "A02",
+            "cat2": "A0206",
+            "cat3": "A02060600",
+            "contentid": "2380303",
+            "contenttypeid": "14",
+            "createdtime": "20160426194551",
+            "firstimage": "http://tong.visitkorea.or.kr/cms/resource/02/2380302_image2_1.jpg",
+            "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/02/2380302_image2_1.jpg",
+            "cpyrhtDivCd": "Type3",
+            "mapx": "127.9751716993",
+            "mapy": "37.4886398615",
+            "mlevel": "6",
+            "modifiedtime": "20230725105933",
+            "sigungucode": "18",
+            "tel": "",
+            "title": "횡성군문화예술회관",
+            "zipcode": "25236"
+          },
+          {
+            "addr1": "강원특별자치도 횡성군 횡성읍 앞들서3로 6",
+            "addr2": "",
+            "areacode": "32",
+            "booktour": "0",
+            "cat1": "A02",
+            "cat2": "A0206",
+            "cat3": "A02060700",
+            "contentid": "129886",
+            "contenttypeid": "14",
+            "createdtime": "20071106103416",
+            "firstimage": "http://tong.visitkorea.or.kr/cms/resource/60/1812960_image2_1.jpg",
+            "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/60/1812960_image3_1.jpg",
+            "cpyrhtDivCd": "Type3",
+            "mapx": "127.9784990930",
+            "mapy": "37.4914673741",
+            "mlevel": "6",
+            "modifiedtime": "20230701105220",
+            "sigungucode": "18",
+            "tel": "",
+            "title": "횡성문화원",
+            "zipcode": "25236"
+          }
+        ]
+      },
+      "numOfRows": 4,
+      "pageNo": 1,
+      "totalCount": 4
+    }
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "133152": {
+    "addr1": "경기도 남양주시 진접읍 금강로 1845",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "133152",
+    "contenttypeid": "39",
+    "createdtime": "20040826090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/78/1788078_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/78/1788078_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2073560432",
+    "mapy": "37.7492899056",
+    "mlevel": "6",
+    "modifiedtime": "20230920095751",
+    "sigungucode": "9",
+    "tel": "031-572-4447",
+    "title": "더늘봄",
+    "zipcode": "12018",
+    "family": [
+      {
+        "유아용 보조 의자": "비치"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "799503": {
+    "addr1": "경기도 남양주시 강변북로632번길 57-2",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "799503",
+    "contenttypeid": "39",
+    "createdtime": "20090908192016",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/55/2391355_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/55/2391355_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1752525166",
+    "mapy": "37.5870331884",
+    "mlevel": "6",
+    "modifiedtime": "20230127173258",
+    "sigungucode": "9",
+    "tel": "031-569-5553",
+    "title": "본가제주밥상",
+    "zipcode": "12268",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 평지로 되어 있으나 흙(돌) 구간 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2818599": {
+    "addr1": "경기도 남양주시 북한강로 1312 금남멤버스텔",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2818599",
+    "contenttypeid": "39",
+    "createdtime": "20220504134228",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.3500714825",
+    "mapy": "37.6300980304",
+    "mlevel": "6",
+    "modifiedtime": "20220520112929",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "소나무향기 남양주",
+    "zipcode": "12194",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2820866": {
+    "addr1": "경기도 남양주시 경춘로 1104-2",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2820866",
+    "contenttypeid": "39",
+    "createdtime": "20220520112122",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.2254965220",
+    "mapy": "37.6366144495",
+    "mlevel": "6",
+    "modifiedtime": "20220531102929",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "키스톤 스피시즈",
+    "zipcode": "12238",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2840817": {
+    "addr1": "경기도 남양주시 식송1로 166",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2840817",
+    "contenttypeid": "39",
+    "createdtime": "20220822160815",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/09/2840809_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/09/2840809_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1136004030",
+    "mapy": "37.6630732349",
+    "mlevel": "6",
+    "modifiedtime": "20221013180018",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "카페파즈",
+    "zipcode": "12099",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2840839": {
+    "addr1": "경기도 남양주시 팔현로 75",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2840839",
+    "contenttypeid": "39",
+    "createdtime": "20220822161434",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/19/2840819_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/19/2840819_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2212702493",
+    "mapy": "37.6942743361",
+    "mlevel": "6",
+    "modifiedtime": "20221013174235",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "카페실버팟",
+    "zipcode": "12037",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2853201": {
+    "addr1": "경기도 남양주시 다산로 46 토담",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2853201",
+    "contenttypeid": "39",
+    "createdtime": "20220914123226",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/99/2853199_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/99/2853199_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.2543910919",
+    "mapy": "37.5405205794",
+    "mlevel": "6",
+    "modifiedtime": "20221024180506",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "벨스타커피",
+    "zipcode": "12277",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

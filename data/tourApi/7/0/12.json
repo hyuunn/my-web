@@ -1,0 +1,2522 @@
+{
+  "125418":{
+     "addr1":"울산광역시 울주군 상북면 청수골길 175",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01010600",
+     "contentid":"125418",
+     "contenttypeid":"12",
+     "createdtime":"20030328090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/02/219202_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/02/219202_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.0232319274",
+     "mapy":"35.5259945138",
+     "mlevel":"6",
+     "modifiedtime":"20220811132359",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"국립 신불산폭포자연휴양림",
+     "zipcode":"44909",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "객실":"장애인 객실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "126091":{
+     "addr1":"울산광역시 동구 해수욕장10길 18",
+     "addr2":"(일산동)",
+     "areacode":"7",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01011200",
+     "contentid":"126091",
+     "contenttypeid":"12",
+     "createdtime":"20030707090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/19/2506219_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/19/2506219_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.4302000587",
+     "mapy":"35.4949278551",
+     "mlevel":"6",
+     "modifiedtime":"20230423054855",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"일산해수욕장(울산)",
+     "zipcode":"44057",
+     "family":[
+        {
+           "수유실":"수유실 있음(안내소 건물 내부)"
+        },
+        {
+           "영유아가족 기타 지원 항목":"기저귀교환대 있음(장애인 화장실 내부)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 평지로 되어 있으나 흙(돌) 구간 있음"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능"
+        },
+        {
+           "안내요원":"안내요원 있음(관광안내소)"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "126096":{
+     "addr1":"울산광역시 울주군 서생면 진하리",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01011200",
+     "contentid":"126096",
+     "contenttypeid":"12",
+     "createdtime":"20030707090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/83/217383_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/83/217383_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.3451995038",
+     "mapy":"35.3827277372",
+     "mlevel":"6",
+     "modifiedtime":"20230807132508",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"진하해수욕장",
+     "zipcode":"45013",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음(명선교 양편)"
+        },
+        {
+           "화장실":"장애인 화장실 있음(명선교 아래 화장실)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "126184":{
+     "addr1":"울산광역시 울주군 상북면 석남로 557",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0201",
+     "cat3":"A02010800",
+     "contentid":"126184",
+     "contenttypeid":"12",
+     "createdtime":"20021021090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/69/2364269_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/69/2364269_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.0324006938",
+     "mapy":"35.6211173075",
+     "mlevel":"6",
+     "modifiedtime":"20230512182400",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"석남사(울산)",
+     "zipcode":"44901",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"접근로는 평탄하나 보도의 폭이 70cm 정도"
+        },
+        {
+           "출입통로":"원활한 이동 가능"
+        },
+        {
+           "화장실":"장애인용 화장실 있음(1.5mx1.8m의 활동공간)_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "126722":{
+     "addr1":"울산광역시 울주군 자수정로 212 자수정동굴나라",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01011900",
+     "contentid":"126722",
+     "contenttypeid":"12",
+     "createdtime":"20020430090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/67/2558467_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/67/2558467_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.0904172556",
+     "mapy":"35.5426827762",
+     "mlevel":"6",
+     "modifiedtime":"20230803112439",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"자수정 동굴나라",
+     "zipcode":"44952",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"1층을 관람하는 주요 동선은 보도블록으로 포장이 되어 있어 비교적 쉽게 이동할 수 있음_무장애 편의정보"
+        },
+        {
+           "기타 지원 항목":"동굴관람 보트에 휠체어 사용자를 위한 승강시설이 없으므로 도움이 필요함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "127515":{
+     "addr1":"울산광역시 동구 등대로 95",
+     "addr2":"(일산동)",
+     "areacode":"7",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"127515",
+     "contenttypeid":"12",
+     "createdtime":"20030630090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/75/2712575_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/75/2712575_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.4352775223",
+     "mapy":"35.4904034587",
+     "mlevel":"6",
+     "modifiedtime":"20230619131554",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"대왕암공원",
+     "zipcode":"44058",
+     "family":[
+        {
+           "유모차":"대여가능"
+        },
+        {
+           "영유아가족 기타 지원 항목":"기저귀교환대 있음 (화장실 내부)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "휠체어":"대여가능"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"보조견 동반 가능함"
+        },
+        {
+           "안내요원":"안내요원 있음_시각장애인 편의시설"
+        },
+        {
+           "기타 지원 항목":"시각장애인용 안전바 설치"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "127644":{
+     "addr1":"울산광역시 남구 대공원로 94",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020600",
+     "contentid":"127644",
+     "contenttypeid":"12",
+     "createdtime":"20070920090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/44/1588044_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/44/1588044_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.2940414740",
+     "mapy":"35.5308045918",
+     "mlevel":"6",
+     "modifiedtime":"20230422133413",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"울산대공원",
+     "zipcode":"44660",
+     "family":[
+        {
+           "수유실":"수유실 있음(공원 내부)"
+        },
+        {
+           "유아용 보조 의자":"유아용보조의자 있음(화장실 내부)"
+        }
+     ],
+     "handi":[
+        {
+           "휠체어":"휠체어 대여 가능함(도움안내실)"
+        },
+        {
+           "출입통로":"주출입구 무단차\n원활한 이동 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"보조견 동반 가능함"
+        },
+        {
+           "안내요원":"안내요원 있음(도움안내실)"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "128022":{
+     "addr1":"울산광역시 울주군 서생면 간절곶1길 39-2",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01011600",
+     "contentid":"128022",
+     "contenttypeid":"12",
+     "createdtime":"20031215090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/94/2648694_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/94/2648694_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.3605738299",
+     "mapy":"35.3589668021",
+     "mlevel":"6",
+     "modifiedtime":"20230629161230",
+     "sigungucode":"5",
+     "tel":"052-239-6313",
+     "title":"간절곶 등대",
+     "zipcode":"45015",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"전신주 등 지장물에 의한 보행 지장이 있을 수 있음. 간절곶등대와 소망우체통까지 접근하기에는 거리가 머니 임시주차장 이용 추천, 자연지형을 따라 보행로가 조성된 까닭에 경사로가 군데군데 있음, 전동흴체어는 무리 없이 이동 가능하나 수동휠체어는 동반인이 밀어주어야 함."
+        },
+        {
+           "출입통로":"주출입구 무단차\n원활한 이동 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"보조견 동반 가능함"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "128184":{
+     "addr1":"울산광역시 울주군 언양읍 반구대안길 285",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0201",
+     "cat3":"A02010700",
+     "contentid":"128184",
+     "contenttypeid":"12",
+     "createdtime":"20041012090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/29/2675629_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/29/2675629_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.1774107206",
+     "mapy":"35.6037219778",
+     "mlevel":"6",
+     "modifiedtime":"20230619161913",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"울주 대곡리 반구대 암각화",
+     "zipcode":"44913",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "출입통로":"차량으로는 반구대암각화 진입로 앞까지만 갈 수 있고 걸어서 15분 정도 들어가야 함_무장애 편의정보"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "128198":{
+     "addr1":"울산광역시 울주군 범서읍 두동로 160",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01010400",
+     "contentid":"128198",
+     "contenttypeid":"12",
+     "createdtime":"20041013090000",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.2352757129",
+     "mapy":"35.5822393705",
+     "mlevel":"6",
+     "modifiedtime":"20230725135521",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"선바위",
+     "zipcode":"44926",
+     "family":[
+        {
+           "영유아가족 기타 지원 항목":"기저귀교환대 있음(장애인전용 화장실 내부)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"일부 접근로의 경우, 차도와 보도의 명확한 구분이 없음으로 주의 필요"
+        },
+        {
+           "출입통로":"주출입구 무단차\n원활한 이동 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"보조견 동반 가능함"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "128199":{
+     "addr1":"울산광역시 북구 동해안로 1650",
+     "addr2":"(산하동)",
+     "areacode":"7",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01011200",
+     "contentid":"128199",
+     "contenttypeid":"12",
+     "createdtime":"20071001090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/00/1358100_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/00/1358100_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.4405841678",
+     "mapy":"35.6317098997",
+     "mlevel":"6",
+     "modifiedtime":"20230426152515",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"강동몽돌해변",
+     "zipcode":"44264",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"일부 접근로 보차 구분이 명확하지 않아 주의 필요"
+        },
+        {
+           "화장실":"장애인 화장실 있음(협소함)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"보조견 동반 가능함"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "128200":{
+     "addr1":"울산광역시 동구 주전동",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01011200",
+     "contentid":"128200",
+     "contenttypeid":"12",
+     "createdtime":"20041014090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/14/2609414_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/14/2609414_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.4552486547",
+     "mapy":"35.5656092760",
+     "mlevel":"6",
+     "modifiedtime":"20230324103842",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"주전몽돌해변",
+     "zipcode":"44013",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"해변구간까지 경사로가 설치되어 있음(남쪽 화장실 앞)"
+        },
+        {
+           "출입통로":"해변구간까지 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자유도로 있음(화장실 앞)_시각장애인 편의시설"
+        },
+        {
+           "보조견 동반":"동반가능"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "128202":{
+     "addr1":"울산광역시 중구 태화강국가정원길 154",
+     "addr2":"(태화동)",
+     "areacode":"7",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01010700",
+     "contentid":"128202",
+     "contenttypeid":"12",
+     "createdtime":"20041014090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/64/2653664_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/64/2653664_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.2913162043",
+     "mapy":"35.5488636215",
+     "mlevel":"6",
+     "modifiedtime":"20230825112709",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"태화강 국가정원",
+     "zipcode":"44457",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함(숲길있음)"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "128208":{
+     "addr1":"울산광역시 울주군 온양읍 외고산3길 36",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0204",
+     "cat3":"A02040800",
+     "contentid":"128208",
+     "contenttypeid":"12",
+     "createdtime":"20041014090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/63/2601663_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/63/2601663_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.2798871229",
+     "mapy":"35.4328792170",
+     "mlevel":"6",
+     "modifiedtime":"20220524180049",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"외고산 옹기마을",
+     "zipcode":"44970",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "휠체어":"대여가능"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+        },
+        {
+           "보조견 동반":"동반가능"
+        },
+        {
+           "안내요원":"전시해설자 있음"
+        },
+        {
+           "점자 홍보물 및 점자 표지판":"점자안내판 있음(발효식품관 앞)"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "128209":{
+     "addr1":"울산광역시 울주군 범서읍 두산로 52",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01010500",
+     "contentid":"128209",
+     "contenttypeid":"12",
+     "createdtime":"20041014090000",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.2715584085",
+     "mapy":"35.5910001775",
+     "mlevel":"6",
+     "modifiedtime":"20230214161940",
+     "sigungucode":"5",
+     "tel":"052-211-9163~4",
+     "title":"울산 들꽃학습원",
+     "zipcode":"44917",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 평지로 연결되어 있음"
+        },
+        {
+           "휠체어":"휠체어 무료대여(1대)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(야외)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실,엘리베이터 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "128211":{
+     "addr1":"울산광역시 중구 학성공원3길 54",
+     "addr2":"(학성동)",
+     "areacode":"7",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"128211",
+     "contenttypeid":"12",
+     "createdtime":"20041015090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/95/2449095_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/95/2449095_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.3393424099",
+     "mapy":"35.5545000030",
+     "mlevel":"6",
+     "modifiedtime":"20230322132629",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"학성공원",
+     "zipcode":"44528",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음(공원 정상까지 경사로로 이뤄져 휠체어 이동 용이)"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "129162":{
+     "addr1":"울산광역시 동구 화암등대길 50",
+     "addr2":"(방어동)",
+     "areacode":"7",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01011600",
+     "contentid":"129162",
+     "contenttypeid":"12",
+     "createdtime":"20060720090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/99/1588099_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/99/1588099_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.4073193497",
+     "mapy":"35.4725716003",
+     "mlevel":"6",
+     "modifiedtime":"20220401140424",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"화암추 등대",
+     "zipcode":"44114",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "129165":{
+     "addr1":"울산광역시 동구 등대로 155",
+     "addr2":"(일산동)",
+     "areacode":"7",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01011600",
+     "contentid":"129165",
+     "contenttypeid":"12",
+     "createdtime":"20060721090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/17/1588117_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/17/1588117_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.4438267191",
+     "mapy":"35.4924756100",
+     "mlevel":"6",
+     "modifiedtime":"20230106170849",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"울기등대",
+     "zipcode":"44058",
+     "family":[
+        {
+           "유모차":"대여가능(공원 입구 관리실 내)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함(등대 전망대 경사로 있어 휠체어 접근 가능)"
+        },
+        {
+           "휠체어":"대여가능(공원 입구 관리실 내)"
+        },
+        {
+           "출입통로":"주출입구는 경사로 있어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실 입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "129453":{
+     "addr1":"울산광역시 남구 문수로 44",
+     "addr2":"(옥동)",
+     "areacode":"7",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"129453",
+     "contenttypeid":"12",
+     "createdtime":"20070920090000",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.2595610237",
+     "mapy":"35.5352867733",
+     "mlevel":"6",
+     "modifiedtime":"20230704150110",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"울산체육공원",
+     "zipcode":"44659",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(문수호빈광장 2개,테니스장,매표소 옆)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "769495":{
+     "addr1":"울산광역시 남구 장생포고래로 244",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020800",
+     "contentid":"769495",
+     "contenttypeid":"12",
+     "createdtime":"20090723195454",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/77/2020477_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/77/2020477_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.3808541361",
+     "mapy":"35.5028149271",
+     "mlevel":"6",
+     "modifiedtime":"20221227173041",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"장생포 고래바다여행선",
+     "zipcode":"44780",
+     "family":[
+        
+     ],
+     "handi":[
+        
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"0"
+  },
+  "1393773":{
+     "addr1":"울산광역시 남구 남산로 223",
+     "addr2":"(무거동)",
+     "areacode":"7",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0205",
+     "cat3":"A02050600",
+     "contentid":"1393773",
+     "contenttypeid":"12",
+     "createdtime":"20110930022817",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.2939660784",
+     "mapy":"35.5450918732",
+     "mlevel":"6",
+     "modifiedtime":"20230629171339",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"태화강 전망대",
+     "zipcode":"44621",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1394298":{
+     "addr1":"울산광역시 동구 등대로 110",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01010500",
+     "contentid":"1394298",
+     "contenttypeid":"12",
+     "createdtime":"20110930232513",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/38/1353138_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/38/1353138_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.4388882995",
+     "mapy":"35.4911006709",
+     "mlevel":"6",
+     "modifiedtime":"20221229135125",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"대왕암 송림",
+     "zipcode":"44058",
+     "family":[
+        {
+           "유모차":"대여가능"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함(송림 산책로 단단한 흙길로 휠체어 접근 용이)"
+        },
+        {
+           "휠체어":"대여가능"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1395801":{
+     "addr1":"울산광역시 북구 동해안로 1801",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01011200",
+     "contentid":"1395801",
+     "contenttypeid":"12",
+     "createdtime":"20111006002213",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/06/1358506_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/06/1358506_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.4404504897",
+     "mapy":"35.6442473754",
+     "mlevel":"6",
+     "modifiedtime":"20220621172624",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"신명·정자해변",
+     "zipcode":"44232",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"해안가까지 경사로구간 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(경사로 설치됨)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1395991":{
+     "addr1":"울산광역시 동구 쇠평길 33-1",
+     "addr2":"(동부동)",
+     "areacode":"7",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01010700",
+     "contentid":"1395991",
+     "contenttypeid":"12",
+     "createdtime":"20111006012729",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/35/1355135_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/35/1355135_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.4271792207",
+     "mapy":"35.5535517673",
+     "mlevel":"6",
+     "modifiedtime":"20220826140000",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"울산테마식물수목원",
+     "zipcode":"44001",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1624499":{
+     "addr1":"울산광역시 중구 성안동 761",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01010500",
+     "contentid":"1624499",
+     "contenttypeid":"12",
+     "createdtime":"20120508040440",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.3135745200",
+     "mapy":"35.5791134163",
+     "mlevel":"6",
+     "modifiedtime":"20221220105153",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"숯못 생태공원",
+     "zipcode":"44423",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 경사로 있어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"장애인용 엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        },
+        {
+           "기타 지원 항목":"데크로드산책로 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1771073":{
+     "addr1":"울산광역시 중구 서원3길 65",
+     "addr2":"(학성동)",
+     "areacode":"7",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0204",
+     "cat3":"A02040800",
+     "contentid":"1771073",
+     "contenttypeid":"12",
+     "createdtime":"20121224193940",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.3335955356",
+     "mapy":"35.5599437273",
+     "mlevel":"6",
+     "modifiedtime":"20221020091515",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"울산문화방송 방송직업 체험 교육 Play-M",
+     "zipcode":"44512",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함(문화센터,회전문)"
+        },
+        {
+           "엘리베이터":"장애인용 엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        },
+        {
+           "기타 지원 항목":"휠체어로 이용가능한 식음업장 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1824216":{
+     "addr1":"울산광역시 남구 선암호수길 104",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"1824216",
+     "contenttypeid":"12",
+     "createdtime":"20130628015950",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/19/2662719_image2_1.bmp",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/19/2662719_image2_1.bmp",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.3260724005",
+     "mapy":"35.5170400753",
+     "mlevel":"6",
+     "modifiedtime":"20230223112845",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"선암호수공원",
+     "zipcode":"44772",
+     "family":[
+        {
+           "유모차":"유모차 대여 가능함 (2대, 신분증 지참)"
+        }
+     ],
+     "handi":[
+        {
+           "휠체어":"휠체어 대여 가능함(2대 보유)"
+        },
+        {
+           "화장실":"장애인화장실 있음(3개소)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2002486":{
+     "addr1":"울산광역시 남구 대공원로 94",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020600",
+     "contentid":"2002486",
+     "contenttypeid":"12",
+     "createdtime":"20150511233748",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/17/2003017_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/17/2003017_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.2940414740",
+     "mapy":"35.5308045918",
+     "mlevel":"6",
+     "modifiedtime":"20230328092746",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"울산대공원 동물원",
+     "zipcode":"44660",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "출입통로":"높낮이 차가 없어 휠체어로 출입가능_무장애 편의시설"
+        },
+        {
+           "화장실":"장애인전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 설치되어있음"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2381176":{
+     "addr1":"울산광역시 남구 장생포고래로 271-1",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0203",
+     "cat3":"A02030100",
+     "contentid":"2381176",
+     "contenttypeid":"12",
+     "createdtime":"20160428200139",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/08/2658308_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/08/2658308_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.3831649569",
+     "mapy":"35.5059840591",
+     "mlevel":"6",
+     "modifiedtime":"20230825134655",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"장생포 고래문화마을",
+     "zipcode":"44780",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차로 연결 되나 돌길 구간이 있으며 문화체험관은 옛 건물로 구성되어 단차구간 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음(주차장화장실,경사로 설치됨)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2502349":{
+     "addr1":"울산광역시 중구 옥교동",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0203",
+     "cat3":"A02030400",
+     "contentid":"2502349",
+     "contenttypeid":"12",
+     "createdtime":"20170804024403",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.3217522219",
+     "mapy":"35.5564883371",
+     "mlevel":"6",
+     "modifiedtime":"20220818161001",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"울산 문화의거리",
+     "zipcode":"44530",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2530538":{
+     "addr1":"울산광역시 동구 성끝길 103",
+     "addr2":"(방어동) 슬도입구",
+     "areacode":"7",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0203",
+     "cat3":"A02030400",
+     "contentid":"2530538",
+     "contenttypeid":"12",
+     "createdtime":"20180109193402",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/33/2530533_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/33/2530533_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.4328446686",
+     "mapy":"35.4809183669",
+     "mlevel":"6",
+     "modifiedtime":"20230327113537",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"울산 소리체험관",
+     "zipcode":"44111",
+     "family":[
+        {
+           "유모차":"대여가능(안내데스크)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음(수동문)"
+        },
+        {
+           "휠체어":"대여가능(안내데스크)"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"장애인 엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음(1층)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자유도로 있음(주 출입구 앞)<br />\n점자블록 있음(엘리베이터 앞, 화장실 앞)_시각장애인 편의시설"
+        },
+        {
+           "점자 홍보물 및 점자 표지판":"점자안내판 있음(주 출입구 앞)"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2555756":{
+     "addr1":"울산광역시 울주군 온양읍 대운상대길 225-92",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020500",
+     "contentid":"2555756",
+     "contenttypeid":"12",
+     "createdtime":"20180727224059",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/94/2662694_image2_1.bmp",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/94/2662694_image2_1.bmp",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.2361865678",
+     "mapy":"35.3901665277",
+     "mlevel":"6",
+     "modifiedtime":"20230720140039",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"국립대운산치유의숲",
+     "zipcode":"44972",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "휠체어":"휠체어 무료 대여(3대)"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(계단난간, 화장실, 건물입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2605809":{
+     "addr1":"울산광역시 남구 남산로 306",
+     "addr2":"(신정동)",
+     "areacode":"7",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0203",
+     "cat3":"A02030400",
+     "contentid":"2605809",
+     "contenttypeid":"12",
+     "createdtime":"20190611020002",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/11/2601311_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/11/2601311_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.3024681091",
+     "mapy":"35.5452836784",
+     "mlevel":"6",
+     "modifiedtime":"20230131145512",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"태화강동굴피아",
+     "zipcode":"44625",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주출입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2612976":{
+     "addr1":"울산광역시 동구 봉수로 155-1",
+     "addr2":"(방어동)",
+     "areacode":"7",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0205",
+     "cat3":"A02050600",
+     "contentid":"2612976",
+     "contenttypeid":"12",
+     "createdtime":"20190725225600",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/97/2653797_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/97/2653797_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.4062491748",
+     "mapy":"35.5017849664",
+     "mlevel":"6",
+     "modifiedtime":"20230516092614",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"울산대교 전망대",
+     "zipcode":"44022",
+     "family":[
+        {
+           "유모차":"대여가능(1대, 안내데스크)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "휠체어":"대여가능(2대, 안내데스크)"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음(하늘숲카페)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음_시각장애인 편의시설"
+        },
+        {
+           "보조견 동반":"동반가능"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2638479":{
+     "addr1":"울산광역시 남구 장생포고래로 246",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0203",
+     "cat3":"A02030400",
+     "contentid":"2638479",
+     "contenttypeid":"12",
+     "createdtime":"20191125184935",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/84/2639484_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/84/2639484_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.3813402009",
+     "mapy":"35.5029704748",
+     "mlevel":"6",
+     "modifiedtime":"20230610085836",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"장생포 모노레일",
+     "zipcode":"44780",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음<br />\n휠체어 리프트있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음(모노레일 탑승장 1층 및 매표소 화장실)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2638480":{
+     "addr1":"울산광역시 북구 산하중앙2로 87-33",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0203",
+     "cat3":"A02030400",
+     "contentid":"2638480",
+     "contenttypeid":"12",
+     "createdtime":"20191125185148",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/77/2639077_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/77/2639077_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.4403401426",
+     "mapy":"35.6176975821",
+     "mlevel":"6",
+     "modifiedtime":"20230203161850",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"울산안전체험관",
+     "zipcode":"44233",
+     "family":[
+        {
+           "유모차":"대여가능(3대, 안내데스크/24개월 이하)"
+        },
+        {
+           "수유실":"수유실 있음(1층)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "휠체어":"대여가능(2대, 안내데스크)"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        },
+        {
+           "관람석":"장애인 전용 관람석 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음<br />\n점자유도로 있음(주출입구)_시각장애인 편의시설"
+        },
+        {
+           "보조견 동반":"동반가능"
+        },
+        {
+           "안내요원":"안내요원 있음"
+        },
+        {
+           "점자 홍보물 및 점자 표지판":"점자안내판 있음<br />\n점자도서 있음"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2674942":{
+     "addr1":"울산광역시 울주군 상북면 알프스온천5길 103-8",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0203",
+     "cat3":"A02030400",
+     "contentid":"2674942",
+     "contenttypeid":"12",
+     "createdtime":"20201007041640",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/36/2674936_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/36/2674936_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.0680104958",
+     "mapy":"35.5564946930",
+     "mlevel":"6",
+     "modifiedtime":"20230726134344",
+     "sigungucode":"5",
+     "tel":"052-204-9231",
+     "title":"영남알프스 복합웰컴센터",
+     "zipcode":"44952",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "관람석":"장애인 전용 관람석 있음(2석/알프스시네마)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자유도로 있음_시각장애인 편의시설"
+        },
+        {
+           "안내요원":"안내요원 있음(관광안내소)"
+        },
+        {
+           "점자 홍보물 및 점자 표지판":"점자안내판 있음(영상체험관)"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2675086":{
+     "addr1":"울산광역시 북구 저수지길 158-31",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"2675086",
+     "contenttypeid":"12",
+     "createdtime":"20201007055305",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/77/2675077_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/77/2675077_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.3762043321",
+     "mapy":"35.6085418433",
+     "mlevel":"6",
+     "modifiedtime":"20230726171614",
+     "sigungucode":"4",
+     "tel":"052-241-7732",
+     "title":"송정 박상진호수공원",
+     "zipcode":"44236",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2717813":{
+     "addr1":"울산광역시 북구 호계매곡6로 108",
+     "addr2":"(호계동)",
+     "areacode":"7",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020600",
+     "contentid":"2717813",
+     "contenttypeid":"12",
+     "createdtime":"20210524231608",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/79/2917379_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/79/2917379_image3_1.jpg",
+     "cpyrhtDivCd":"Type1",
+     "mapx":"129.3676487809",
+     "mapy":"35.6347442892",
+     "mlevel":"6",
+     "modifiedtime":"20230503110500",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"애니언파크(울산 반려동물 문화센터)",
+     "zipcode":"44222",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"휠체어가 올라갈 수 있는 경사로가 설치되어 있음\n문턱없이 평지로 연결되어 휠체어 통과 가능함\n* 엘리베이터가 설치되어있어 쉽게 층간 이동 가능"
+        },
+        {
+           "출입통로":"주출입구에 휠체어가 통과 가능함(자동문)\n반려견운동장 입구의 문은 넓으나 수동문임"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인용 화장실 있음(1층, 2층 남여구분)"
+        },
+        {
+           "관람석":"관람석은 아니나 나무로된 계단형식 의자가 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"입구 및 화장실 옆에 점자안내 지도 있음\n손잡이에 점자 되어있음\n주차장에서 주 건물까지 설치되어 있음"
+        },
+        {
+           "보조견 동반":"동반가능"
+        },
+        {
+           "안내요원":"안내데스크 있음(1층 로비)\n직원 1~3층 수시로 확인"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2752131":{
+     "addr1":"울산광역시 동구 성끝길 122",
+     "addr2":"(방어동)",
+     "areacode":"7",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01011600",
+     "contentid":"2752131",
+     "contenttypeid":"12",
+     "createdtime":"20211001005211",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/76/2752176_image2_1.png",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/76/2752176_image2_1.png",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.4294006019",
+     "mapy":"35.4781713882",
+     "mlevel":"6",
+     "modifiedtime":"20230811172355",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"슬도등대",
+     "zipcode":"44111",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음(공영주차장)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실 앞)_시각장애인 편의시설"
+        },
+        {
+           "보조견 동반":"동반가능"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2752336":{
+     "addr1":"울산 동구 동부동 573-4",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"2752336",
+     "contenttypeid":"12",
+     "createdtime":"20211001183558",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/30/2752330_image2_1.png",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/30/2752330_image2_1.png",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.4344036297",
+     "mapy":"35.5521937229",
+     "mlevel":"6",
+     "modifiedtime":"20230404102648",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"쇠평어린이공원",
+     "zipcode":"",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2782677":{
+     "addr1":"울산광역시 울주군 서생면 송정1길 96",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"2782677",
+     "contenttypeid":"12",
+     "createdtime":"20211129195704",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/22/2796522_image2_1.png",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/22/2796522_image2_1.png",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.3544907095",
+     "mapy":"35.3702848630",
+     "mlevel":"6",
+     "modifiedtime":"20230515140006",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"송정공원",
+     "zipcode":"45015",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2784124":{
+     "addr1":"울산광역시 중구 유곡동 259-2",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020600",
+     "contentid":"2784124",
+     "contenttypeid":"12",
+     "createdtime":"20211201013635",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/32/2800032_image2_1.JPG",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/32/2800032_image2_1.JPG",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.3061895174",
+     "mapy":"35.5626623497",
+     "mlevel":"6",
+     "modifiedtime":"20230313100116",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"공룡발자국공원",
+     "zipcode":"",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2788428":{
+     "addr1":"울산광역시 울주군 온산읍 덕신리 269",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"2788428",
+     "contenttypeid":"12",
+     "createdtime":"20211208023433",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.3110843877",
+     "mapy":"35.4334714025",
+     "mlevel":"6",
+     "modifiedtime":"20230309152258",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"덕신소공원",
+     "zipcode":"",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2822414":{
+     "addr1":"울산광역시 북구 구유동",
+     "addr2":"구유동 654-1번지 외 7개소",
+     "areacode":"7",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03022700",
+     "contentid":"2822414",
+     "contenttypeid":"12",
+     "createdtime":"20220531161837",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"129.4519308655",
+     "mapy":"35.6153425111",
+     "mlevel":"6",
+     "modifiedtime":"20220609102612",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"강동사랑길",
+     "zipcode":"44233",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"산지로 되어있어 대부분 휠체어로 탐방하기 어려움"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2822473":{
+     "addr1":"울산광역시 북구 매곡동",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"2822473",
+     "contenttypeid":"12",
+     "createdtime":"20220531171818",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/33/2822433_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/33/2822433_image3_1.jpg",
+     "cpyrhtDivCd":"Type1",
+     "mapx":"129.3753305154",
+     "mapy":"35.6674407548",
+     "mlevel":"6",
+     "modifiedtime":"20230104143754",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"기박산성 의병 역사공원",
+     "zipcode":"44214",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "출입통로":"주출입구에 휠체어가 통과 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인용 화장실 있음(1층,남녀분리)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(계단 앞)(엘리베이터 앞)"
+        },
+        {
+           "보조견 동반":"보조견 동반 가능"
+        },
+        {
+           "안내요원":"안내데스크 있음(1층 로비)"
+        },
+        {
+           "점자 홍보물 및 점자 표지판":"점자촉지도 있음"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2871570":{
+     "addr1":"울산광역시 울주군 범서읍 구영리",
+     "addr2":"801-13",
+     "areacode":"7",
+     "booktour":"",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"2871570",
+     "contenttypeid":"12",
+     "createdtime":"20221020114023",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/57/2871557_image2_1.JPG",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/57/2871557_image3_1.JPG",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.2421420950",
+     "mapy":"35.5710407589",
+     "mlevel":"6",
+     "modifiedtime":"20230208133346",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"구영공원",
+     "zipcode":"44923",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2871593":{
+     "addr1":"울산광역시 울주군 범서읍 입암리",
+     "addr2":"129-1",
+     "areacode":"7",
+     "booktour":"",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"2871593",
+     "contenttypeid":"12",
+     "createdtime":"20221020114852",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/84/2871584_image2_1.JPG",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/84/2871584_image3_1.JPG",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.2344951937",
+     "mapy":"35.5833642290",
+     "mlevel":"6",
+     "modifiedtime":"20230207110242",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"선바위공원",
+     "zipcode":"44926",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2872004":{
+     "addr1":"울산광역시 북구 달천철장길 58 달천철장 관리시설",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"2872004",
+     "contenttypeid":"12",
+     "createdtime":"20221020151949",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/92/2871992_image2_1.JPG",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/92/2871992_image3_1.JPG",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"129.3290188345",
+     "mapy":"35.6342825006",
+     "mlevel":"6",
+     "modifiedtime":"20230207101824",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"달천철장유적공원",
+     "zipcode":"44205",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+        },
+        {
+           "보조견 동반":"동반가능"
+        },
+        {
+           "안내요원":"안내요원 있음(달천철장 안내소)"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2996440":{
+     "addr1":"울산광역시 울주군 반구대안길 351",
+     "addr2":"",
+     "areacode":"7",
+     "booktour":"",
+     "cat1":"A02",
+     "cat2":"A0203",
+     "cat3":"A02030400",
+     "contentid":"2996440",
+     "contenttypeid":"12",
+     "createdtime":"20230727155826",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/13/2996413_image2_1.jpeg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/13/2996413_image3_1.jpeg",
+     "cpyrhtDivCd":"Type1",
+     "mapx":"129.1784520795",
+     "mapy":"35.6114322405",
+     "mlevel":"6",
+     "modifiedtime":"20230802211043",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"반구대의 고요한 밤",
+     "zipcode":"44913",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"산길의 트레킹 코스기 때문에 휠체어로 접근 어려움"
+        },
+        {
+           "화장실":"손잡이 등 별도 시설은 없으나 화장실에 휠체어 접근 가능함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "990516": {
+    "addr1": "경상북도 경주시 원화로281번길 11",
+    "addr2": "",
+    "areacode": "35",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "990516",
+    "contenttypeid": "38",
+    "createdtime": "20100401195349",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/46/1968746_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/46/1968746_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.2151477703",
+    "mapy": "35.8464897643",
+    "mlevel": "6",
+    "modifiedtime": "20230610074254",
+    "sigungucode": "2",
+    "tel": "054-772-4226",
+    "title": "경주 성동시장",
+    "zipcode": "38146",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "990539": {
+    "addr1": "경상북도 경주시 금성로 295",
+    "addr2": "",
+    "areacode": "35",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "990539",
+    "contenttypeid": "38",
+    "createdtime": "20100401201653",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/74/3034074_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/74/3034074_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.2067541331",
+    "mapy": "35.8439732229",
+    "mlevel": "6",
+    "modifiedtime": "20231108113415",
+    "sigungucode": "2",
+    "tel": "054-743-3696",
+    "title": "경주 중앙시장",
+    "zipcode": "38156",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1972411": {
+    "addr1": "경상북도 경주시 하동공예촌길 78",
+    "addr2": "(하동)",
+    "areacode": "35",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010700",
+    "contentid": "1972411",
+    "contenttypeid": "38",
+    "createdtime": "20141210225308",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/01/1968701_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/01/1968701_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.3107239191",
+    "mapy": "35.8048434931",
+    "mlevel": "6",
+    "modifiedtime": "20230829113625",
+    "sigungucode": "2",
+    "tel": "054-772-0130",
+    "title": "갤러리 가람",
+    "zipcode": "38126",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2904146": {
+    "addr1": "경상북도 경주시 안강읍 양월리",
+    "addr2": "1353-7",
+    "areacode": "35",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "2904146",
+    "contenttypeid": "38",
+    "createdtime": "20221110100513",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/20/2904120_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/20/2904120_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.2222624854",
+    "mapy": "35.9900708967",
+    "mlevel": "6",
+    "modifiedtime": "20221226173201",
+    "sigungucode": "2",
+    "tel": "",
+    "title": "안강시장",
+    "zipcode": "38020",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

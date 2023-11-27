@@ -1,0 +1,191 @@
+{
+  "131456": {
+    "addr1": "강원특별자치도 춘천시 신샘밭로 89",
+    "addr2": "(사농동)",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03020200",
+    "contentid": "131456",
+    "contenttypeid": "28",
+    "createdtime": "20040227090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/27/1583527_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/27/1583527_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7204153141",
+    "mapy": "37.9225569719",
+    "mlevel": "6",
+    "modifiedtime": "20230701125745",
+    "sigungucode": "13",
+    "tel": "033-255-6601~3",
+    "title": "강원도청소년수련관",
+    "zipcode": "24207",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1947118": {
+    "addr1": "강원특별자치도 춘천시 신동면 김유정로 1383",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03022700",
+    "contentid": "1947118",
+    "contenttypeid": "28",
+    "createdtime": "20140911235714",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/48/2739748_image2_1.jpeg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/48/2739748_image3_1.jpeg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.7121497907",
+    "mapy": "37.8157136906",
+    "mlevel": "6",
+    "modifiedtime": "20231004103311",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "강촌레일파크 (김유정레일바이크)",
+    "zipcode": "24412",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여 가능"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(레일파크 탑승장 앞)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반 가능(10kg이하 반려견 개인 이동장 지참 시 레일바이크 탑승 가능)"
+      },
+      {
+        "안내요원": "안내요원 있음(탑승안내)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2660545": {
+    "addr1": "강원특별자치도 춘천시 서면 박사로 770",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03021700",
+    "contentid": "2660545",
+    "contenttypeid": "28",
+    "createdtime": "20200619202409",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/80/2745880_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/80/2745880_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.6858028380",
+    "mapy": "37.8875965063",
+    "mlevel": "6",
+    "modifiedtime": "20230701134426",
+    "sigungucode": "13",
+    "tel": "033-240-1791",
+    "title": "박사마을 어린이 글램핑장",
+    "zipcode": "24461",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "안내요원": "안내요원 있음(안내데스크)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2706717": {
+    "addr1": "강원특별자치도 춘천시 송앙동 684",
+    "addr2": "(송암동)",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0303",
+    "cat3": "A03030200",
+    "contentid": "2706717",
+    "contenttypeid": "28",
+    "createdtime": "20210222200438",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/48/2698148_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/48/2698148_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.6860287614",
+    "mapy": "37.8557224410",
+    "mlevel": "6",
+    "modifiedtime": "20230712164640",
+    "sigungucode": "13",
+    "tel": "",
+    "title": "킹카누 나루터",
+    "zipcode": "24239",
+    "family": [
+      {
+        "영유아가족 기타 지원 항목": "유아 구명조끼 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "대여가능(4대)"
+      },
+      {
+        "출입통로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "휠체어 탑승 가능한 특수카누 있음, 장애인 대기실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음(열린관광지 종합안내판)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

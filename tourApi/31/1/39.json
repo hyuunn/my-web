@@ -1,0 +1,312 @@
+{
+  "615573": {
+    "addr1": "경기도 가평군 상면 수목원로 60",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "615573",
+    "contenttypeid": "39",
+    "createdtime": "20080827233713",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.3692629287",
+    "mapy": "37.7691683261",
+    "mlevel": "6",
+    "modifiedtime": "20230413133024",
+    "sigungucode": "1",
+    "tel": "031-585-7501",
+    "title": "옛골75",
+    "zipcode": "12448",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2011963": {
+    "addr1": "경기도 가평군 가평읍 보납로 459-158",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2011963",
+    "contenttypeid": "39",
+    "createdtime": "20150624193836",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/85/2010785_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/85/2010785_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.5489884769",
+    "mapy": "37.8552782833",
+    "mlevel": "6",
+    "modifiedtime": "20230119143853",
+    "sigungucode": "1",
+    "tel": "031-581-5570",
+    "title": "동기간",
+    "zipcode": "12410",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "계단없이 접근가능한 길 있음"
+      },
+      {
+        "출입통로": "출입통로는 평탄하나 전좌석이 좌식테이블임"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2724696": {
+    "addr1": "경기도 가평군 설악면 유명로 1007-90",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020200",
+    "contentid": "2724696",
+    "contenttypeid": "39",
+    "createdtime": "20210708004712",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/95/2723995_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/95/2723995_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4801264958",
+    "mapy": "37.6241594339",
+    "mlevel": "",
+    "modifiedtime": "20231006164521",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "살롱 드 이터널저니",
+    "zipcode": "12472",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2724858": {
+    "addr1": "경기도 가평군 설악면 유명로 1209",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2724858",
+    "contenttypeid": "39",
+    "createdtime": "20210708180335",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/90/2723990_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/90/2723990_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4737542806",
+    "mapy": "37.6438875816",
+    "mlevel": "6",
+    "modifiedtime": "20230802191910",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "가평양떼목장카페",
+    "zipcode": "12469",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2773849": {
+    "addr1": "경기도 가평군 청평면 호반로 887",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2773849",
+    "contenttypeid": "39",
+    "createdtime": "20211112191520",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/81/2773981_image2_1.jpeg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/81/2773981_image2_1.jpeg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.4819210298",
+    "mapy": "37.7110132673",
+    "mlevel": "6",
+    "modifiedtime": "20230119144707",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "코리달리스",
+    "zipcode": "12456",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2826827": {
+    "addr1": "경기도 가평군 북한강로 2141",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2826827",
+    "contenttypeid": "39",
+    "createdtime": "20220707112106",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.3974593843",
+    "mapy": "37.7071649422",
+    "mlevel": "6",
+    "modifiedtime": "20220816171951",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "리버레인",
+    "zipcode": "12458",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능(반려동물존 이용가능)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2826890": {
+    "addr1": "경기도 가평군 한서로 87",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2826890",
+    "contenttypeid": "39",
+    "createdtime": "20220707141445",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.5022535845",
+    "mapy": "37.6742484684",
+    "mlevel": "6",
+    "modifiedtime": "20220816164330",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "네자매평강막국수",
+    "zipcode": "12464",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

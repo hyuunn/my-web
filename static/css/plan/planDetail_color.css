@@ -1,0 +1,346 @@
+:root {
+    --blue : rgb(41, 108, 255);
+  }
+body{
+    background-color: black;
+    font-size: 18px;
+    color: white;
+}
+.navbar{
+    background-color: black;
+}
+*{
+    font-family: 'Noto Sans KR', sans-serif;
+}
+a{
+    text-decoration: none;
+    color: var(--blue);
+}
+#header button{
+    color: var(--blue);
+    font-weight: bold;
+}
+/* color */
+
+#title{
+    padding: 30px;
+    margin: 20px;
+}
+#title p{
+    color: white;
+}
+#title h2{
+    font-weight: bold;
+}
+button, input[type="button"]{
+    border: none;
+    background-color: transparent;
+}
+#travel-date{
+    margin-bottom: 10px;
+    color: yellow;
+}
+#travel-date h5{
+    display: inline;
+}
+#btn-update{
+    font-size: 50%;
+    font-weight: lighter;
+    color: white;
+}
+.u-box{
+    display: none;
+    padding: 20px 0 40px;
+}
+.content button{
+    color: white;
+}
+#update{
+    padding-bottom: 50px;
+    border-top: 1px solid #666;
+}
+select, option, .u-box input, .more_box{
+    background-color: var(--blue);
+    color: white;
+}
+select{
+    width: 130px;
+    height: 30px;
+}
+
+input[type="date"]{
+    width: 130px;
+    height: 35px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+input[type="date"]::before {
+    content:attr(data-placeholder);
+    width: 100%;
+}
+input[type="date"]:focus::before,
+input[type="date"]:valid::before {
+    display: none;
+}
+.content{
+    padding-top: 10px;
+}
+.content button{
+    display: block;
+}
+.u-box input[type="submit"]{
+    border: 1px solid white;
+    background-color: var(--blue);
+    border-radius: 10px;
+    padding: 5px;
+    float: right;
+}
+
+#scheduler{
+    padding: 20px;
+    text-align: center;
+    height:700px;
+    border-bottom: 1px solid #ddd;
+}
+#scheduler p, #bookmark p{
+    color: white;
+}
+#calendar{
+    width:100%;
+    height:550px;
+    padding: 20px;
+    margin: auto;
+    /* display: flex; */
+    position: relative;
+    border: 1px solid var(--blue);
+    border-radius: 15px;
+}
+
+[id^="sBox"]{
+    height: 100%;
+    float: left;
+    border: 1px solid black;
+    overflow-y: scroll;
+}
+[id^="sBox"] > ul{
+    list-style-type: none;
+}
+#prev, #next{
+    position: absolute;
+    top: 250px;
+    display: none;
+    color: white;
+}
+#prev{
+    left: -25px;
+}
+#next{
+    right: -25px;
+}
+.updown{
+    display: none;
+}
+[id^="s_header"]{
+    border-bottom: 1px solid var(--blue);
+    padding: 15px;
+}
+[id^="sList"]{
+    padding: 10px;
+    padding-right: 5px;
+}
+.sList{
+    border-left: 8px solid yellow;
+    margin: 10px 0;
+    text-align: left;
+}
+.sList button{
+    color: white;
+}
+.time{
+    font-size: 13px;
+    margin: 0 15px;
+}
+.detail_box button i{
+    font-size: 12px;
+}
+.detail_box{
+    border: 1px solid #ddd;
+    border-radius: 15px;
+    width: fit-content;
+    margin-left: 5%;
+    display: none;
+}
+.detail_box button{
+    padding: 0;
+}
+.detail{
+    padding: 5px;
+}
+.timeBox{
+    display: none;
+}
+.timeBox input{
+    background-color: var(--blue);
+    color: white;
+}
+.link i{
+    margin: 0; padding: 0;
+    font-size: 12px;
+}
+#addBtn, #saveBtn{
+    color: white;
+    border: 1px solid white;
+    padding: 10px;
+    border-radius: 10px;
+}
+#addBtn{
+    float: right;
+    margin: 15px;
+}
+#saveBtn{
+    float: right;
+    margin: 15px;
+    display: none;
+}
+#addBox{
+    display: none;
+    float: right;
+    margin: 15px;
+}
+#addBox form{
+    display: inline;
+}
+#addBox button, #addBox input[type="submit"]{
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 0 10px;
+    background-color: var(--blue);
+    color: white;
+}
+#addBox button:hover, #addBox input[type="submit"]:hover{
+    background-color: white;
+    color: black;
+}
+.setOrder{
+    display: none;
+}
+
+#bookmark{
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+}
+
+#b-box{
+    height: 650px;
+}
+
+#b-list{
+    width: 25%;
+    height: 650px;
+    z-index: 2;
+    position: absolute;
+    background-color: black;
+}
+#list-header{
+    background-color: var(--blue);
+    padding: 10px;
+    height: 100px;
+    display: flex;
+    align-items: flex-end;
+}
+#list-header button{
+    flex: auto;
+    color: white;
+}
+#bookList{
+    display: none;
+}
+#bookList ul{
+    padding-left: 0;
+    height: 550px;
+    text-overflow : ellipsis;
+    overflow-y: scroll;
+}
+.bm_list {
+    font-size: 15px;
+    border-bottom: 1px solid #888;
+    height: 100px;
+    list-style: none;
+    padding: 10px;
+    text-align: left;
+}
+.place_title, .baddr{
+    color: white;
+}
+
+.baddr{
+    font-size: 13px;
+    padding-top:10px
+}
+.more_btn{
+    float: right;
+}
+.more_btn i{color: white;}
+.more_box{
+    border: 1px solid white;
+    padding: 10px;
+    width: fit-content;
+    float: right;
+    display: none;
+    margin-top: 30px;
+}
+.more_box button{color: white; margin: 0 5px;}
+#map{
+    width:100%;
+    height:100%;
+    margin: auto;
+    z-index: 1;
+    color: black;
+    /* position: relative; */
+}
+
+[id^="addr"], .option form, .option button, [id^="add_btn"]{
+    color:white;
+}
+.option input{
+    background-color: var(--blue);
+    color: white;
+}
+#map{
+    filter: invert(100%);
+}
+#menu_wrap {position:absolute;top:100px;left:0;bottom:0;width:100%;;padding:5px;overflow-y:auto;background:black;z-index: 1;font-size:14px;}
+.bg_white {background:#fff;}
+#menu_wrap hr {display: block; height: 1px;border: 0; border-top: 2px solid #5F5F5F;margin:3px 0;}
+#menu_wrap .option{text-align: center;}
+#menu_wrap .option p {margin:10px 0;}  
+#menu_wrap .option button {margin-left:5px;}
+#placesList li {list-style: none;}
+#placesList .item { border-bottom:1px solid #888;overflow: hidden;cursor: pointer;min-height: 65px;}
+#placesList .item span {display: block;margin-top:4px;}
+#placesList .item p, #placesList .item .info {color: white; text-overflow: ellipsis;overflow: hidden;white-space: nowrap;}
+#placesList .item .info{padding:10px 0 10px 55px;}
+#placesList .info .gray {color:white;}
+#placesList .info .jibun {padding-left:26px;background:url(https://t1.daumcdn.net/localimg/localimages/07/mapapidoc/places_jibun.png) no-repeat;}
+#placesList .info .tel {color:yellow;}
+#placesList .item .markerbg {float:left;position:absolute;width:36px; height:37px;margin:10px 0 0 10px;background:url(https://t1.daumcdn.net/localimg/localimages/07/mapapidoc/marker_number_blue.png) no-repeat;}
+#placesList .item .marker_1 {background-position: 0 -10px;}
+#placesList .item .marker_2 {background-position: 0 -56px;}
+#placesList .item .marker_3 {background-position: 0 -102px}
+#placesList .item .marker_4 {background-position: 0 -148px;}
+#placesList .item .marker_5 {background-position: 0 -194px;}
+#placesList .item .marker_6 {background-position: 0 -240px;}
+#placesList .item .marker_7 {background-position: 0 -286px;}
+#placesList .item .marker_8 {background-position: 0 -332px;}
+#placesList .item .marker_9 {background-position: 0 -378px;}
+#placesList .item .marker_10 {background-position: 0 -423px;}
+#placesList .item .marker_11 {background-position: 0 -470px;}
+#placesList .item .marker_12 {background-position: 0 -516px;}
+#placesList .item .marker_13 {background-position: 0 -562px;}
+#placesList .item .marker_14 {background-position: 0 -608px;}
+#placesList .item .marker_15 {background-position: 0 -654px;}
+#pagination {margin:10px auto;text-align: center;}
+#pagination a {display:inline-block;margin-right:10px;}
+#pagination .on {font-weight: bold; cursor: default;color:#777;}

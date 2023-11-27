@@ -1,0 +1,1622 @@
+{
+  "133494": {
+    "addr1": "강원특별자치도 강릉시 초당순두부길77번길 9",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "133494",
+    "contenttypeid": "39",
+    "createdtime": "20040829090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/93/551893_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/93/551893_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.9149777638",
+    "mapy": "37.7906395344",
+    "mlevel": "6",
+    "modifiedtime": "20230726154317",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "원조초당순두부",
+    "zipcode": "25466",
+    "family": [],
+    "handi": [
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "객실": "입식(의자식)테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "133808": {
+    "addr1": "강원특별자치도 강릉시 초당순두부길 77",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "133808",
+    "contenttypeid": "39",
+    "createdtime": "20031002090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/21/1022421_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/21/1022421_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.9153777297",
+    "mapy": "37.7905756608",
+    "mlevel": "6",
+    "modifiedtime": "20230926173124",
+    "sigungucode": "1",
+    "tel": "033-652-2058",
+    "title": "초당할머니순두부",
+    "zipcode": "25466",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "133927": {
+    "addr1": "강원특별자치도 강릉시 수리골길 141",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "133927",
+    "contenttypeid": "39",
+    "createdtime": "20031117090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/49/1822449_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/49/1822449_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.8932022329",
+    "mapy": "37.7814401741",
+    "mlevel": "6",
+    "modifiedtime": "20230702042058",
+    "sigungucode": "1",
+    "tel": "033-642-2078",
+    "title": "수리골추어탕",
+    "zipcode": "25473",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "134338": {
+    "addr1": "강원특별자치도 강릉시 초당순두부길 95-5",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "134338",
+    "contenttypeid": "39",
+    "createdtime": "20040223090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/48/1756248_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/48/1756248_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.9154554653",
+    "mapy": "37.7917116420",
+    "mlevel": "6",
+    "modifiedtime": "20230702102325",
+    "sigungucode": "1",
+    "tel": "033-651-1356",
+    "title": "소나무집초당순두부",
+    "zipcode": "25466",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "623189": {
+    "addr1": "강원특별자치도 강릉시 임영로164번길 3",
+    "addr2": "(임당동)",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "623189",
+    "contenttypeid": "39",
+    "createdtime": "20080912001005",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.8921558891",
+    "mapy": "37.7560903085",
+    "mlevel": "6",
+    "modifiedtime": "20230711151733",
+    "sigungucode": "1",
+    "tel": "033-647-3600",
+    "title": "농촌한정식",
+    "zipcode": "25529",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "623223": {
+    "addr1": "강원특별자치도 강릉시 초당순두부길77번길 15",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "623223",
+    "contenttypeid": "39",
+    "createdtime": "20080912012234",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/20/3029720_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/20/3029720_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.9146972153",
+    "mapy": "37.7912255723",
+    "mlevel": "6",
+    "modifiedtime": "20231101182301",
+    "sigungucode": "1",
+    "tel": "033-652-9885",
+    "title": "동화가든",
+    "zipcode": "25466",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "623299": {
+    "addr1": "강원특별자치도 강릉시 창해로350번길 31",
+    "addr2": "(강문동)",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "623299",
+    "contenttypeid": "39",
+    "createdtime": "20080912020456",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/78/590378_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/78/590378_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.9169162914",
+    "mapy": "37.7966610977",
+    "mlevel": "6",
+    "modifiedtime": "20230702043756",
+    "sigungucode": "1",
+    "tel": "033-652-9566",
+    "title": "은파횟집",
+    "zipcode": "25467",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1950195": {
+    "addr1": "강원특별자치도 강릉시 구정면 현천길 25",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "1950195",
+    "contenttypeid": "39",
+    "createdtime": "20140924015033",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/64/1635864_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/64/1635864_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.8918383262",
+    "mapy": "37.6960944624",
+    "mlevel": "6",
+    "modifiedtime": "20230702054618",
+    "sigungucode": "1",
+    "tel": "033-648-2760",
+    "title": "테라로사 커피공장",
+    "zipcode": "25623",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구에 1단 턱이 있음(온실은 이용불가)"
+      },
+      {
+        "출입통로": "접근 가능함"
+      },
+      {
+        "기타 지원 항목": "입식(의자식)테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2499926": {
+    "addr1": "강원특별자치도 강릉시 경강로2024번길 17-1",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2499926",
+    "contenttypeid": "39",
+    "createdtime": "20170714191622",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/23/2499723_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/23/2499723_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.8924032449",
+    "mapy": "37.7510436743",
+    "mlevel": "6",
+    "modifiedtime": "20230703160745",
+    "sigungucode": "1",
+    "tel": "033-647-1711",
+    "title": "봉봉방앗간",
+    "zipcode": "25538",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2501071": {
+    "addr1": "강원특별자치도 강릉시 저동골길 10",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2501071",
+    "contenttypeid": "39",
+    "createdtime": "20170725194212",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.8957015310",
+    "mapy": "37.7968301087",
+    "mlevel": "6",
+    "modifiedtime": "20230808104222",
+    "sigungucode": "1",
+    "tel": "033-648-3338",
+    "title": "솔담",
+    "zipcode": "25461",
+    "family": [
+      {
+        "유아용 보조 의자": "구비(2대)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음(수동문)_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2685233": {
+    "addr1": "강원특별자치도 강릉시 난곡길 25",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020200",
+    "contentid": "2685233",
+    "contenttypeid": "39",
+    "createdtime": "20201124202814",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/07/2684507_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/07/2684507_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.8789144862",
+    "mapy": "37.7861476840",
+    "mlevel": "6",
+    "modifiedtime": "20230702095917",
+    "sigungucode": "1",
+    "tel": "033-644-1651",
+    "title": "티마루",
+    "zipcode": "25464",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2685445": {
+    "addr1": "강원특별자치도 강릉시 팔송길 42-1",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020200",
+    "contentid": "2685445",
+    "contenttypeid": "39",
+    "createdtime": "20201125012357",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/64/2684764_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/64/2684764_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.9358151854",
+    "mapy": "37.7774109165",
+    "mlevel": "6",
+    "modifiedtime": "20230702050035",
+    "sigungucode": "1",
+    "tel": "033-652-3300",
+    "title": "피노",
+    "zipcode": "25559",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2685473": {
+    "addr1": "강원특별자치도 강릉시 강릉대로587번길 49-1",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020200",
+    "contentid": "2685473",
+    "contenttypeid": "39",
+    "createdtime": "20201125014729",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/89/2684789_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/89/2684789_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.9159750087",
+    "mapy": "37.7870066410",
+    "mlevel": "6",
+    "modifiedtime": "20230702052836",
+    "sigungucode": "1",
+    "tel": "033-653-0102",
+    "title": "갤러리소풍",
+    "zipcode": "25469",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자유도로 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2685606": {
+    "addr1": "강원특별자치도 강릉시 강릉대로 340",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2685606",
+    "contenttypeid": "39",
+    "createdtime": "20201125192034",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/69/2684869_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/69/2684869_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.9047655654",
+    "mapy": "37.7657699898",
+    "mlevel": "6",
+    "modifiedtime": "20230702050919",
+    "sigungucode": "1",
+    "tel": "033-651-2008",
+    "title": "어림지",
+    "zipcode": "25545",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2685627": {
+    "addr1": "강원특별자치도 강릉시 강동면 율곡로 1167",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2685627",
+    "contenttypeid": "39",
+    "createdtime": "20201125194711",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/47/2709747_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/47/2709747_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.0311037334",
+    "mapy": "37.6910088789",
+    "mlevel": "6",
+    "modifiedtime": "20230702102122",
+    "sigungucode": "1",
+    "tel": "033-644-5460",
+    "title": "썬한식",
+    "zipcode": "25631",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2685661": {
+    "addr1": "강원특별자치도 강릉시 옥계면 헌화로 437",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2685661",
+    "contenttypeid": "39",
+    "createdtime": "20201125202319",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/13/2684913_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/13/2684913_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.0496449220",
+    "mapy": "37.6526414503",
+    "mlevel": "6",
+    "modifiedtime": "20230702095602",
+    "sigungucode": "1",
+    "tel": "033-534-0070",
+    "title": "옛포구회집",
+    "zipcode": "25633",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2687671": {
+    "addr1": "강원특별자치도 강릉시 남부로17번길 8",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2687671",
+    "contenttypeid": "39",
+    "createdtime": "20201127183655",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/53/2684953_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/53/2684953_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.8825350167",
+    "mapy": "37.7404613731",
+    "mlevel": "6",
+    "modifiedtime": "20230702052557",
+    "sigungucode": "1",
+    "tel": "010-2763-1296",
+    "title": "카페미담",
+    "zipcode": "25604",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2687678": {
+    "addr1": "강원특별자치도 강릉시 금성로 41",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020400",
+    "contentid": "2687678",
+    "contenttypeid": "39",
+    "createdtime": "20201127185727",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/66/2684966_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/66/2684966_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.8965083813",
+    "mapy": "37.7526657890",
+    "mlevel": "6",
+    "modifiedtime": "20230702041643",
+    "sigungucode": "1",
+    "tel": "010-5370-5315",
+    "title": "하오샹",
+    "zipcode": "25544",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2687687": {
+    "addr1": "강원특별자치도 강릉시 강동면 헌화로 997",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020300",
+    "contentid": "2687687",
+    "contenttypeid": "39",
+    "createdtime": "20201127190044",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/69/2684969_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/69/2684969_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.0390670627",
+    "mapy": "37.6859735055",
+    "mlevel": "6",
+    "modifiedtime": "20230702042108",
+    "sigungucode": "1",
+    "tel": "033-644-5278",
+    "title": "해녀직영횟집",
+    "zipcode": "25631",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2687738": {
+    "addr1": "강원특별자치도 강릉시 강릉대로 199-8",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2687738",
+    "contenttypeid": "39",
+    "createdtime": "20201127193145",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/08/2685008_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/08/2685008_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.8926502076",
+    "mapy": "37.7587483439",
+    "mlevel": "6",
+    "modifiedtime": "20230702100312",
+    "sigungucode": "1",
+    "tel": "033-642-0956",
+    "title": "이만구교동짬뽕",
+    "zipcode": "25503",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2687773": {
+    "addr1": "강원특별자치도 강릉시 창해로 451",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2687773",
+    "contenttypeid": "39",
+    "createdtime": "20201127195138",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/19/2685019_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/19/2685019_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.9114833007",
+    "mapy": "37.8013854445",
+    "mlevel": "6",
+    "modifiedtime": "20230702040802",
+    "sigungucode": "1",
+    "tel": "033-655-9258",
+    "title": "경포대저녁횟집",
+    "zipcode": "25460",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2687777": {
+    "addr1": "강원특별자치도 강릉시 창해로 491",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2687777",
+    "contenttypeid": "39",
+    "createdtime": "20201127200314",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/63/2709763_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/63/2709763_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.9088001327",
+    "mapy": "37.8038545513",
+    "mlevel": "6",
+    "modifiedtime": "20230702042421",
+    "sigungucode": "1",
+    "tel": "033-644-1045",
+    "title": "경포한미횟집",
+    "zipcode": "25460",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2687785": {
+    "addr1": "강원특별자치도 강릉시 창해로 461",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2687785",
+    "contenttypeid": "39",
+    "createdtime": "20201127201039",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/29/2685029_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/29/2685029_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.9109694423",
+    "mapy": "37.8019103746",
+    "mlevel": "6",
+    "modifiedtime": "20230702102825",
+    "sigungucode": "1",
+    "tel": "033-644-2476",
+    "title": "영덕대게횟집",
+    "zipcode": "25460",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2753134": {
+    "addr1": "강원특별자치도 강릉시 난설헌로 144",
+    "addr2": "(포남동)",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2753134",
+    "contenttypeid": "39",
+    "createdtime": "20211006005850",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/18/2750618_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/18/2750618_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.9080090516",
+    "mapy": "37.7872786762",
+    "mlevel": "6",
+    "modifiedtime": "20231026212519",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "갤러리밥스",
+    "zipcode": "25471",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2773834": {
+    "addr1": "강원특별자치도 강릉시 공항길30번길 5",
+    "addr2": "(병산동)",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2773834",
+    "contenttypeid": "39",
+    "createdtime": "20211112190215",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/99/2773899_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/99/2773899_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.9397847461",
+    "mapy": "37.7621349826",
+    "mlevel": "6",
+    "modifiedtime": "20230702101950",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "소집",
+    "zipcode": "25617",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2818352": {
+    "addr1": "강원특별자치도 강릉시 창해로350번길 33",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020200",
+    "contentid": "2818352",
+    "contenttypeid": "39",
+    "createdtime": "20220429130712",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.9168746243",
+    "mapy": "37.7967888597",
+    "mlevel": "6",
+    "modifiedtime": "20230702104557",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "카페폴앤메리",
+    "zipcode": "25467",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2820425": {
+    "addr1": "강원특별자치도 강릉시 창해로 245",
+    "addr2": "강원 강릉시 강문동 창해로 245",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2820425",
+    "contenttypeid": "39",
+    "createdtime": "20220518141857",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.9260435319",
+    "mapy": "37.7874706728",
+    "mlevel": "6",
+    "modifiedtime": "20230702101249",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "엔드투앤드",
+    "zipcode": "25556",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2868904": {
+    "addr1": "강원특별자치도 강릉시 창해로 271",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020400",
+    "contentid": "2868904",
+    "contenttypeid": "39",
+    "createdtime": "20221018095821",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/85/2868885_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/85/2868885_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.9239547835",
+    "mapy": "37.7890065655",
+    "mlevel": "6",
+    "modifiedtime": "20231102162435",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "강릉궁짬뽕",
+    "zipcode": "25467",
+    "family": [
+      {
+        "유아용 보조 의자": "구비(3개)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주 출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2868923": {
+    "addr1": "강원특별자치도 강릉시 강릉대로587번길 2",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2868923",
+    "contenttypeid": "39",
+    "createdtime": "20221018100457",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/10/2868910_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/10/2868910_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.9202913660",
+    "mapy": "37.7844431324",
+    "mlevel": "6",
+    "modifiedtime": "20230702103504",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "강릉유환식당",
+    "zipcode": "25468",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2870175": {
+    "addr1": "강원특별자치도 강릉시 범일로 364",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2870175",
+    "contenttypeid": "39",
+    "createdtime": "20221019111024",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/69/2870169_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/69/2870169_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.8820828735",
+    "mapy": "37.7212247000",
+    "mlevel": "6",
+    "modifiedtime": "20230702100224",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "삼교리동치미막국수 본점",
+    "zipcode": "25622",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2871297": {
+    "addr1": "강원특별자치도 강릉시 종합운동장길 26-8",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2871297",
+    "contenttypeid": "39",
+    "createdtime": "20221020102548",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/78/2871278_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/78/2871278_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.8910859917",
+    "mapy": "37.7738632316",
+    "mlevel": "6",
+    "modifiedtime": "20230702043729",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "대동면옥 강릉점",
+    "zipcode": "25474",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2873113": {
+    "addr1": "강원특별자치도 강릉시 초당순두부길 19",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020200",
+    "contentid": "2873113",
+    "contenttypeid": "39",
+    "createdtime": "20221024135328",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/00/2873100_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/00/2873100_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.9105143608",
+    "mapy": "37.7879480921",
+    "mlevel": "6",
+    "modifiedtime": "20230702040924",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "초당비스트로",
+    "zipcode": "25466",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2892119": {
+    "addr1": "강원특별자치도 강릉시 선수촌로63번길 6-3",
+    "addr2": "1층 102호",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2892119",
+    "contenttypeid": "39",
+    "createdtime": "20221031165829",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/09/2892109_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/09/2892109_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.8696217836",
+    "mapy": "37.7568869995",
+    "mlevel": "6",
+    "modifiedtime": "20230701143213",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "브런치야",
+    "zipcode": "25522",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2913299": {
+    "addr1": "강원특별자치도 강릉시 율곡로 3034",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020200",
+    "contentid": "2913299",
+    "contenttypeid": "39",
+    "createdtime": "20221107185206",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/96/2919596_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/96/2919596_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.8899305669",
+    "mapy": "37.7730049750",
+    "mlevel": "6",
+    "modifiedtime": "20230725100656",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "세레니타",
+    "zipcode": "25474",
+    "family": [
+      {
+        "수유실": "있음"
+      },
+      {
+        "유아용 보조 의자": "구"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "휠체어가 올라갈 수 있는 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구에 휠체어가 통과 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블이 있어 휠체어로 이용 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반 가능"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2927544": {
+    "addr1": "강원특별자치도 강릉시 난설헌로78번길 11",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2927544",
+    "contenttypeid": "39",
+    "createdtime": "20221202131046",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/10/2927510_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/10/2927510_image3_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.9030290911",
+    "mapy": "37.7825513484",
+    "mlevel": "6",
+    "modifiedtime": "20231019144411",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "디오슬로",
+    "zipcode": "25471",
+    "family": [
+      {
+        "영유아가족 기타 지원 항목": "2층 노키즈존"
+      }
+    ],
+    "handi": [
+      {
+        "대중교통": "모안이서낭당정류장(202-1, 202-1, 202-2) 하차 후 도보 150m"
+      },
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주 출입구는 경사로가 있어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "보조견 동반 가능"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2927601": {
+    "addr1": "강원특별자치도 강릉시 창해로14번길 52",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2927601",
+    "contenttypeid": "39",
+    "createdtime": "20221202131552",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/79/2927579_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/79/2927579_image3_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.9499446736",
+    "mapy": "37.7708008460",
+    "mlevel": "6",
+    "modifiedtime": "20230702044608",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "로지커피",
+    "zipcode": "25556",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2929266": {
+    "addr1": "강원특별자치도 강릉시 해안로 1597",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2929266",
+    "contenttypeid": "39",
+    "createdtime": "20221205094342",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/56/2929256_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/56/2929256_image3_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.8342323095",
+    "mapy": "37.8788555222",
+    "mlevel": "6",
+    "modifiedtime": "20230702042740",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "오드커피",
+    "zipcode": "25424",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2929995": {
+    "addr1": "강원특별자치도 강릉시 강문동 288-5",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020200",
+    "contentid": "2929995",
+    "contenttypeid": "39",
+    "createdtime": "20221205140806",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/61/2929961_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/61/2929961_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.9142582572",
+    "mapy": "37.7947390460",
+    "mlevel": "6",
+    "modifiedtime": "20230702045437",
+    "sigungucode": "1",
+    "tel": "",
+    "title": "카페오션스 강릉수제버거 경포대점",
+    "zipcode": "25466",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "131732": {
+    "addr1": "전라북도 완주군 구이면 장미로 31",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03020200",
+    "contentid": "131732",
+    "contenttypeid": "28",
+    "createdtime": "20021220090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/70/1974470_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/70/1974470_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1000777228",
+    "mapy": "35.6859419409",
+    "mlevel": "6",
+    "modifiedtime": "20230422134523",
+    "sigungucode": "8",
+    "tel": "063-222-7754",
+    "title": "청정테마힐링센터",
+    "zipcode": "55363",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(인성관1층,야외화장실)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

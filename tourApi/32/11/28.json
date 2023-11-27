@@ -1,0 +1,258 @@
+{
+  "131676": {
+    "addr1": "강원특별자치도 정선군 사북읍 하이원길 265",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03021000",
+    "contentid": "131676",
+    "contenttypeid": "28",
+    "createdtime": "20030416090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/72/1846772_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/72/1846772_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.8216009997",
+    "mapy": "37.2127210495",
+    "mlevel": "6",
+    "modifiedtime": "20230701131014",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "강원랜드 카지노",
+    "zipcode": "26154",
+    "family": [
+      {
+        "유모차": "대여가능(호텔에서 대여 가능하며 투숙객이 아닌 경우에도 대여 가능하나 신분증 보관이 필요함,사전문의필요)"
+      },
+      {
+        "수유실": "수유실 있음(호텔 5층,카지노 이용객도 이용가능함)"
+      }
+    ],
+    "handi": [
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      },
+      {
+        "객실": "장애인 전용 객실 있음(호텔카지노)"
+      },
+      {
+        "기타 지원 항목": "리조트 내 복지관 있음"
+      }
+    ],
+    "hearing": [
+      {
+        "기타 지원 항목": "카지노객실 청각장애인용 초인종 있음"
+      }
+    ],
+    "blind": [
+      {
+        "점자블록": "점자유도로 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "1",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "131867": {
+    "addr1": "강원특별자치도 정선군 사북읍 하이원길 265",
+    "addr2": "(사북읍)",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03020700",
+    "contentid": "131867",
+    "contenttypeid": "28",
+    "createdtime": "20061110090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/55/1583455_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/55/1583455_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.8182402232",
+    "mapy": "37.2115877814",
+    "mlevel": "6",
+    "modifiedtime": "20230701132854",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "하이원 컨트리클럽",
+    "zipcode": "26154",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "131869": {
+    "addr1": "강원특별자치도 정선군 고한읍 하이원길 500",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03021200",
+    "contentid": "131869",
+    "contenttypeid": "28",
+    "createdtime": "20061114090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.8394968825",
+    "mapy": "37.2039890632",
+    "mlevel": "6",
+    "modifiedtime": "20230802201448",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "하이원리조트 스키장",
+    "zipcode": "26154",
+    "family": [],
+    "handi": [
+      {
+        "휠체어": "휠체어 대여 가능함"
+      },
+      {
+        "출입통로": "주출입구 무단차\n원활한 이동 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1936389": {
+    "addr1": "강원특별자치도 정선군 여량면 노추산로 745",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03022700",
+    "contentid": "1936389",
+    "contenttypeid": "28",
+    "createdtime": "20140829231132",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.7303916593",
+    "mapy": "37.5170481276",
+    "mlevel": "6",
+    "modifiedtime": "20230925145722",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "정선레일바이크",
+    "zipcode": "26104",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능(1대)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(주차장)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "안내요원": "안내요원 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2710742": {
+    "addr1": "강원특별자치도 정선군 정선읍 병방치길 225",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0305",
+    "cat3": "A03050100",
+    "contentid": "2710742",
+    "contenttypeid": "28",
+    "createdtime": "20210324025217",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.6354715236",
+    "mapy": "37.3623780337",
+    "mlevel": "",
+    "modifiedtime": "20230802210921",
+    "sigungucode": "11",
+    "tel": "",
+    "title": "아리힐스 리조트(스카이워크, 녹색모험의 숲)",
+    "zipcode": "26134",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "휠체어 리프트있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "관람석": "장애인 전용 관람석은 없으나 휠체어 접근 가능한 공간 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "안내요원": "안내요원 있음(2층/짚와이어 매표소)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

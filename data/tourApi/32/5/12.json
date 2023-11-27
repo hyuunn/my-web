@@ -1,0 +1,1520 @@
+{
+  "125707": {
+    "addr1": "강원특별자치도 속초시 해오름로 190",
+    "addr2": "(조양동)",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01011200",
+    "contentid": "125707",
+    "contenttypeid": "12",
+    "createdtime": "20030714090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/63/2733163_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/63/2733163_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.6019936305",
+    "mapy": "38.1905759129",
+    "mlevel": "6",
+    "modifiedtime": "20231016151342",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "속초해수욕장",
+    "zipcode": "24886",
+    "family": [
+      {
+        "유모차": "대여 가능"
+      },
+      {
+        "수유실": "수유실 있음(카페 웨일라잇 2층/ 기저귀 교환대 있음)"
+      },
+      {
+        "영유아가족 기타 지원 항목": "유아용 화장실 있음\n제1공용주차장 가족화장실 및 장애인화장실 내 기저귀 교환대 있음\n속초행정지원센터 전방 100m거리 화장실 내부 유아용 화장실, 유아용 세면대, 기저귀교환대 있음"
+      }
+    ],
+    "handi": [
+      {
+        "대중교통": "버스 1, 1-1, 7, 7-1, 9, 9-1, 93번 탑승"
+      },
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능(해변용 휠체어 3대, 일반 휠체어 2대/행정지원센터)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "해변 옆 휠체어 이동 가능한 나무데크길 있음, 운영요원에게 복지카드 인증시 장애인 휴게쉼터 무료 이용가능"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(화장실, 속초행정지원센터 전면)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      },
+      {
+        "오디오 가이드": "음성버튼(점자안내판) 있음"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "125750": {
+    "addr1": "강원특별자치도 속초시 청초호반로",
+    "addr2": "(교동,조양동) 일대",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01011700",
+    "contentid": "125750",
+    "contenttypeid": "12",
+    "createdtime": "20021216090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/15/2728515_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/15/2728515_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.5904917166",
+    "mapy": "38.1963805690",
+    "mlevel": "6",
+    "modifiedtime": "20230703185455",
+    "sigungucode": "5",
+    "tel": "033-639-2690",
+    "title": "청초호",
+    "zipcode": "24854",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "125779": {
+    "addr1": "강원특별자치도 속초시 동명항길 35",
+    "addr2": "(동명동)",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01011100",
+    "contentid": "125779",
+    "contenttypeid": "12",
+    "createdtime": "20031014090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/96/2716496_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/96/2716496_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.6018124235",
+    "mapy": "38.2119511995",
+    "mlevel": "6",
+    "modifiedtime": "20231023182956",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "영금정",
+    "zipcode": "24824",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음(해돋이 정자)"
+      },
+      {
+        "화장실": "장애인 화장실 있음(주차장입구 앞)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "125798": {
+    "addr1": "강원특별자치도 속초시 설악동",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010200",
+    "contentid": "125798",
+    "contenttypeid": "12",
+    "createdtime": "20031226090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/93/175293_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/93/175293_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.4850662069",
+    "mapy": "38.1634795750",
+    "mlevel": "6",
+    "modifiedtime": "20230718160042",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "설악산 권금성",
+    "zipcode": "24903",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "케이블카 있음\n휠체어는 이용 가능하나 유모차는 탑승 불가\n접근로의 경사가 다소 급함"
+      },
+      {
+        "휠체어": "휠체어 무료대여 가능"
+      },
+      {
+        "출입통로": "주출입구 무단차\n통로 출입 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "안내요원": "케이블카 탑승 안내요원 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "126714": {
+    "addr1": "강원특별자치도 속초시 미시령로2983번길 111",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020600",
+    "contentid": "126714",
+    "contenttypeid": "12",
+    "createdtime": "20031203090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/76/2732776_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/76/2732776_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.5288163471",
+    "mapy": "38.2097417044",
+    "mlevel": "6",
+    "modifiedtime": "20230703081535",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "한화리조트 설악 워터피아",
+    "zipcode": "24801",
+    "family": [
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "안내요원": "안내요원 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "127565": {
+    "addr1": "강원특별자치도 속초시 영랑호반길 140",
+    "addr2": "(금호동)",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01011700",
+    "contentid": "127565",
+    "contenttypeid": "12",
+    "createdtime": "20031014090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/21/2728521_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/21/2728521_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.5807503766",
+    "mapy": "38.2142227476",
+    "mlevel": "6",
+    "modifiedtime": "20230714142854",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "영랑호",
+    "zipcode": "24806",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(화장실 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "127586": {
+    "addr1": "강원특별자치도 속초시 설악동",
+    "addr2": "114-2",
+    "areacode": "32",
+    "booktour": "1",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010100",
+    "contentid": "127586",
+    "contenttypeid": "12",
+    "createdtime": "20040213090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/56/2733156_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/56/2733156_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.4944400775",
+    "mapy": "38.1724037180",
+    "mlevel": "6",
+    "modifiedtime": "20230919161912",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "설악산 국립공원(외설악)",
+    "zipcode": "24903",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "안내요원": "안내요원 있음(안내소)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "127671": {
+    "addr1": "강원특별자치도 속초시 설악산로 1137",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0201",
+    "cat3": "A02010800",
+    "contentid": "127671",
+    "contenttypeid": "12",
+    "createdtime": "20031113090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/30/2733330_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/30/2733330_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.4841603469",
+    "mapy": "38.1759336634",
+    "mlevel": "6",
+    "modifiedtime": "20230703105757",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "신흥사(설악산)",
+    "zipcode": "24903",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "계단 때문에 법당 등 내부관람은 어려움"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "128571": {
+    "addr1": "강원특별자치도 속초시 동해대로 3664",
+    "addr2": "(대포동)",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "128571",
+    "contenttypeid": "12",
+    "createdtime": "20050824090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/43/1186143_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/43/1186143_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.6084327998",
+    "mapy": "38.1628848162",
+    "mlevel": "6",
+    "modifiedtime": "20231024131809",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "속초 설악해맞이공원",
+    "zipcode": "24902",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "경사로 설치됨\n해맞이공원에 있는 잠수선관광은 휠체어 사용자 탑승이 불가능함"
+      },
+      {
+        "휠체어": "관광안내소에서 전동휠체어 무료대여 가능함"
+      },
+      {
+        "화장실": "장애인전용 화장실은 설치예정임 (공사 완공 여부 및 화장실 이용에 대해서는 사전문의 )"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "128788": {
+    "addr1": "강원특별자치도 속초시 설악산로 1085",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030400",
+    "contentid": "128788",
+    "contenttypeid": "12",
+    "createdtime": "20060217090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/22/2733322_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/22/2733322_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.4890711013",
+    "mapy": "38.1730535382",
+    "mlevel": "6",
+    "modifiedtime": "20230802202525",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "설악산 케이블카",
+    "zipcode": "24903",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(2층에 위치)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "안내요원": "안내요원 있음_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "128804": {
+    "addr1": "강원특별자치도 속초시 엑스포로 72",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0205",
+    "cat3": "A02050600",
+    "contentid": "128804",
+    "contenttypeid": "12",
+    "createdtime": "20060223090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/02/2617802_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/02/2617802_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.5831286429",
+    "mapy": "38.1916754178",
+    "mlevel": "6",
+    "modifiedtime": "20230703081429",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "속초 엑스포타워",
+    "zipcode": "24872",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "휠체어": "대여가능(2대)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(타워1층 남녀공용)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "129001": {
+    "addr1": "강원특별자치도 속초시 원암학사평길 142",
+    "addr2": "(노학동)",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030100",
+    "contentid": "129001",
+    "contenttypeid": "12",
+    "createdtime": "20060615090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/27/2732927_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/27/2732927_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.5234558390",
+    "mapy": "38.2060309211",
+    "mlevel": "6",
+    "modifiedtime": "20230702185814",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "학사평 콩꽃마을 순두부촌",
+    "zipcode": "24800",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "몇몇 음식점은 출입구 높이차이가 없어 휠체어로 이동 가능함_무장애 편의정보"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "129399": {
+    "addr1": "강원특별자치도 속초시 관광로408번길 14",
+    "addr2": "(노학동)",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020300",
+    "contentid": "129399",
+    "contenttypeid": "12",
+    "createdtime": "20061130090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.5388880926",
+    "mapy": "38.1956907579",
+    "mlevel": "6",
+    "modifiedtime": "20230703163522",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "설악 파인리조트 가든스파",
+    "zipcode": "24859",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(스파안쪽)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "129454": {
+    "addr1": "강원특별자치도 속초시 영금정로 50",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01011400",
+    "contentid": "129454",
+    "contenttypeid": "12",
+    "createdtime": "20070306090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/18/2365118_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/18/2365118_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.5998181770",
+    "mapy": "38.2114151114",
+    "mlevel": "6",
+    "modifiedtime": "20230703080944",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "동명항",
+    "zipcode": "24824",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "활어판매장 2층 식당은 외부경사로로 연결되어 있어 휠체어 이동이 편리함\n영금정 바위로 접근하는 경사로의 경사가 너무 급해 접근이 어려움"
+      },
+      {
+        "화장실": "장애인전용화장실 있음 (주차장 입구에 위치 / 둥근반원형의 특이한 디자인으로 깨끗하게 관리됨)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "129596": {
+    "addr1": "강원특별자치도 속초시 대포항길 64",
+    "addr2": "(대포동)",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01011400",
+    "contentid": "129596",
+    "contenttypeid": "12",
+    "createdtime": "20070713090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/07/2653407_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/07/2653407_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.6074602892",
+    "mapy": "38.1749528373",
+    "mlevel": "6",
+    "modifiedtime": "20230703083717",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "대포항",
+    "zipcode": "24901",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "보도에서 항구로 내려가는 길에 단차 있음"
+      },
+      {
+        "출입통로": "출입통로 이용 가능"
+      },
+      {
+        "화장실": "장애인 화장실 있음(1.2mx1.4m)_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "보조견 동반 가능함"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "251738": {
+    "addr1": "강원특별자치도 속초시 청호로 122-1",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "B02",
+    "cat2": "B0201",
+    "cat3": "B02011000",
+    "contentid": "251738",
+    "contenttypeid": "12",
+    "createdtime": "20031219090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/02/2733202_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/02/2733202_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.5949161776",
+    "mapy": "38.2007412589",
+    "mlevel": "6",
+    "modifiedtime": "20230802211202",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "아바이마을",
+    "zipcode": "24884",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(2개) _무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "987582": {
+    "addr1": "강원특별자치도 속초시 동명동 속초항",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01011400",
+    "contentid": "987582",
+    "contenttypeid": "12",
+    "createdtime": "20100326233606",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.5941826553",
+    "mapy": "38.2089236252",
+    "mlevel": "6",
+    "modifiedtime": "20230810092202",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "속초항",
+    "zipcode": "24824",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "여객선 터미널 앞 경사로가 있으며 진입 후에는 무단차"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(여객선 터미널,속초시청 건물)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1799724": {
+    "addr1": "강원특별자치도 속초시 미시령로3359번길 20",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020400",
+    "contentid": "1799724",
+    "contenttypeid": "12",
+    "createdtime": "20130315193512",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/11/2352311_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/11/2352311_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.5746011552",
+    "mapy": "38.2071873354",
+    "mlevel": "6",
+    "modifiedtime": "20230703081304",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "속초스파랜드",
+    "zipcode": "24820",
+    "family": [],
+    "handi": [],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "0"
+  },
+  "1932003": {
+    "addr1": "강원특별자치도 속초시 대포동 596-2",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01011200",
+    "contentid": "1932003",
+    "contenttypeid": "12",
+    "createdtime": "20140704192736",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/81/2607581_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/81/2607581_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.6075711642",
+    "mapy": "38.1821714439",
+    "mlevel": "6",
+    "modifiedtime": "20230703163621",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "외옹치해변",
+    "zipcode": "24900",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "해안가까지 경사로가 설치되어 있음"
+      },
+      {
+        "기타 지원 항목": "해변가에 휠체어가 접근 가능한 탐방로가 있음(데크로드)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1958133": {
+    "addr1": "강원특별자치도 속초시",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020200",
+    "contentid": "1958133",
+    "contenttypeid": "12",
+    "createdtime": "20141021203252",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/39/1950339_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/39/1950339_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.4241422719",
+    "mapy": "38.1284602517",
+    "mlevel": "6",
+    "modifiedtime": "20230703083330",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "설악 관광특구",
+    "zipcode": "24903",
+    "family": [],
+    "handi": [
+      {
+        "화장실": "전용화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2369002": {
+    "addr1": "강원특별자치도 속초시 원암학사평길 88",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030400",
+    "contentid": "2369002",
+    "contenttypeid": "12",
+    "createdtime": "20160219184828",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/04/2732904_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/04/2732904_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.5172786392",
+    "mapy": "38.2055030848",
+    "mlevel": "6",
+    "modifiedtime": "20230703182027",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "속초 얼라이브 하트(Alive Heart)",
+    "zipcode": "24800",
+    "family": [
+      {
+        "수유실": "수유실 있음(1층)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2456701": {
+    "addr1": "강원특별자치도 속초시 원암학사평길 88",
+    "addr2": "(노학동)",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020600",
+    "contentid": "2456701",
+    "contenttypeid": "12",
+    "createdtime": "20161214234536",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/10/2456710_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/10/2456710_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.5173452990",
+    "mapy": "38.2055364158",
+    "mlevel": "6",
+    "modifiedtime": "20230802211030",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "다이나믹 메이즈 (속초점)",
+    "zipcode": "24800",
+    "family": [
+      {
+        "수유실": "수유실 있음(1층)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(1층)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자유도로 있음(주 출입구 앞)_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2513888": {
+    "addr1": "강원특별자치도 속초시 바람꽃마을길 164",
+    "addr2": "(노학동)",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010700",
+    "contentid": "2513888",
+    "contenttypeid": "12",
+    "createdtime": "20171101202116",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/41/2733241_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/41/2733241_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.5250448649",
+    "mapy": "38.1970097802",
+    "mlevel": "6",
+    "modifiedtime": "20230802210614",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "설악산 자생식물원",
+    "zipcode": "24867",
+    "family": [
+      {
+        "유모차": "대여가능(1대,관리사무소)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없으나 흙구간 있음"
+      },
+      {
+        "휠체어": "대여가능(1대,관리사무소)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(관리사무소)"
+      },
+      {
+        "기타 지원 항목": "데크로드 구간 있음<br />\n일부 계단으로 되어 있어 휠체어 및 유모차가 접근 불가한 구간 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(화장실 입구 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2607513": {
+    "addr1": "강원특별자치도 속초시 중앙로147번길 16",
+    "addr2": "(중앙동)",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030600",
+    "contentid": "2607513",
+    "contenttypeid": "12",
+    "createdtime": "20190621021802",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/63/2368663_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/63/2368663_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.5902609257",
+    "mapy": "38.2045712778",
+    "mlevel": "6",
+    "modifiedtime": "20230703184533",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "속초관광수산시장 닭강정골목",
+    "zipcode": "24832",
+    "family": [
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2607673": {
+    "addr1": "강원특별자치도 속초시 엑스포로 140",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03022700",
+    "contentid": "2607673",
+    "contenttypeid": "12",
+    "createdtime": "20190622003152",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/70/2607670_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/70/2607670_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.5820424661",
+    "mapy": "38.1969414507",
+    "mlevel": "6",
+    "modifiedtime": "20230703084838",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "청초호 둘레길",
+    "zipcode": "24854",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2659548": {
+    "addr1": "강원특별자치도 속초시 상도문1길 30",
+    "addr2": "(도문동)",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030100",
+    "contentid": "2659548",
+    "contenttypeid": "12",
+    "createdtime": "20200612013023",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/92/2733192_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/92/2733192_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.5534460547",
+    "mapy": "38.1651501509",
+    "mlevel": "6",
+    "modifiedtime": "20230703080441",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "상도문돌담마을",
+    "zipcode": "24904",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2710893": {
+    "addr1": "강원특별자치도 속초시 동해대로 3664",
+    "addr2": "(대포동)",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0205",
+    "cat3": "A02050400",
+    "contentid": "2710893",
+    "contenttypeid": "12",
+    "createdtime": "20210324223309",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/68/2733268_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/68/2733268_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.6085577775",
+    "mapy": "38.1632070033",
+    "mlevel": "6",
+    "modifiedtime": "20230703083613",
+    "sigungucode": "5",
+    "tel": "033-639-2452",
+    "title": "설악해맞이공원 인어연인상",
+    "zipcode": "24902",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음(관광안내소)"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2710895": {
+    "addr1": "강원특별자치도 속초시 대포항1길 16-8",
+    "addr2": "(대포동 753-7)",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0205",
+    "cat3": "A02050600",
+    "contentid": "2710895",
+    "contenttypeid": "12",
+    "createdtime": "20210324224007",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/17/2818017_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/17/2818017_image3_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.6061992595",
+    "mapy": "38.1760054678",
+    "mlevel": "6",
+    "modifiedtime": "20230703185153",
+    "sigungucode": "5",
+    "tel": "033-639-2354",
+    "title": "대포항 전망대",
+    "zipcode": "24901",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2710897": {
+    "addr1": "강원특별자치도 속초시 대포동881-2",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010500",
+    "contentid": "2710897",
+    "contenttypeid": "12",
+    "createdtime": "20210324224609",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/74/2733274_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/74/2733274_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.6075495961",
+    "mapy": "38.1612960946",
+    "mlevel": "6",
+    "modifiedtime": "20230703082435",
+    "sigungucode": "5",
+    "tel": "033-670-2398",
+    "title": "쌍천길",
+    "zipcode": "",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2713187": {
+    "addr1": "강원특별자치도 속초시 영랑호반길 329-1",
+    "addr2": "(장사동)",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010500",
+    "contentid": "2713187",
+    "contenttypeid": "12",
+    "createdtime": "20210406221300",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/50/2733250_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/50/2733250_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.5698319150",
+    "mapy": "38.2145391649",
+    "mlevel": "",
+    "modifiedtime": "20230703164158",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "영랑호 습지생태공원",
+    "zipcode": "24805",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2714645": {
+    "addr1": "강원특별자치도 속초시 아바이마을1길 6",
+    "addr2": "(청호동)",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01011200",
+    "contentid": "2714645",
+    "contenttypeid": "12",
+    "createdtime": "20210427200702",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.5939550832",
+    "mapy": "38.2030076428",
+    "mlevel": "6",
+    "modifiedtime": "20230703081546",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "청호해변",
+    "zipcode": "24882",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2776859": {
+    "addr1": "강원특별자치도 속초시 엑스포로 140",
+    "addr2": "(교동)",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2776859",
+    "contenttypeid": "12",
+    "createdtime": "20211122183706",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.5820424661",
+    "mapy": "38.1969414507",
+    "mlevel": "6",
+    "modifiedtime": "20230703202450",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "청초호 호수공원",
+    "zipcode": "24854",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2788935": {
+    "addr1": "강원특별자치도 속초시 영랑호반길 329-1",
+    "addr2": "(장사동)",
+    "areacode": "32",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2788935",
+    "contenttypeid": "12",
+    "createdtime": "20211208190042",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/88/2792788_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/88/2792788_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.5698319150",
+    "mapy": "38.2145391649",
+    "mlevel": "6",
+    "modifiedtime": "20230703083904",
+    "sigungucode": "5",
+    "tel": "",
+    "title": "영랑호 설화공원",
+    "zipcode": "24805",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

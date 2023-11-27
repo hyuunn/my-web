@@ -1,0 +1,128 @@
+{
+  "132777": {
+    "addr1": "강원특별자치도 영월군 영월읍 중앙로 30-1",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "132777",
+    "contenttypeid": "38",
+    "createdtime": "20070502090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/35/1948035_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/35/1948035_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.4667419969",
+    "mapy": "37.1833398870",
+    "mlevel": "6",
+    "modifiedtime": "20230701102531",
+    "sigungucode": "8",
+    "tel": "033-372-1933",
+    "title": "영월 서부아침시장",
+    "zipcode": "26236",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "132778": {
+    "addr1": "강원특별자치도 영월군 주천면 주천시장길 47-5",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010100",
+    "contentid": "132778",
+    "contenttypeid": "38",
+    "createdtime": "20070502090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/09/1921209_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/09/1921209_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.2662851911",
+    "mapy": "37.2710065639",
+    "mlevel": "6",
+    "modifiedtime": "20230701102036",
+    "sigungucode": "8",
+    "tel": "033-372-7879",
+    "title": "주천시장 (1, 6일)",
+    "zipcode": "26203",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2778079": {
+    "addr1": "강원특별자치도 영월군 영월읍 중앙시장길 7",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A04",
+    "cat2": "A0401",
+    "cat3": "A04010200",
+    "contentid": "2778079",
+    "contenttypeid": "38",
+    "createdtime": "20211123195101",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.4718443210",
+    "mapy": "37.1831983336",
+    "mlevel": "6",
+    "modifiedtime": "20230701101444",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "영월중앙시장",
+    "zipcode": "26236",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

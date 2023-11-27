@@ -1,0 +1,483 @@
+{
+  "127968": {
+    "addr1": "경기도 양주시 장흥면 권율로 193",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "127968",
+    "contenttypeid": "12",
+    "createdtime": "20060614090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/88/188788_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/88/188788_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9494440016",
+    "mapy": "37.7309234892",
+    "mlevel": "6",
+    "modifiedtime": "20221227163556",
+    "sigungucode": "18",
+    "tel": "",
+    "title": "장흥관광지",
+    "zipcode": "11519",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(장흥관광지 관리사무소,관광안내센터)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "129194": {
+    "addr1": "경기도 양주시 장흥면 권율로 117",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010500",
+    "contentid": "129194",
+    "contenttypeid": "12",
+    "createdtime": "20060807090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/46/2010746_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/46/2010746_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9497496852",
+    "mapy": "37.7254519094",
+    "mlevel": "6",
+    "modifiedtime": "20220826155834",
+    "sigungucode": "18",
+    "tel": "",
+    "title": "가나아트파크",
+    "zipcode": "11520",
+    "family": [
+      {
+        "수유실": "수유실 있음 (가나어린이미술관 내)"
+      },
+      {
+        "영유아가족 기타 지원 항목": "어린이화장실있음 (어린이체험관 내), 화장실에 기저귀교환대 있음, 실내외 놀이터 이용가능, 아이들을 위한 다양체험 프로그램 운영, 카페 내 간식(샌드위치,쿠키등) 판매"
+      }
+    ],
+    "handi": [],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "0"
+  },
+  "250376": {
+    "addr1": "경기도 양주시 장흥면 권율로185번길 103",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010500",
+    "contentid": "250376",
+    "contenttypeid": "12",
+    "createdtime": "20071025090000",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.9421861861",
+    "mapy": "37.7360172099",
+    "mlevel": "6",
+    "modifiedtime": "20230502192309",
+    "sigungucode": "18",
+    "tel": "",
+    "title": "송암스페이스센터",
+    "zipcode": "11519",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로 및 엘리베이터 이용 가능 함(케이블카 휠체어 접근 가능함)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(케이블카 승차장)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(화장실 입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "611729": {
+    "addr1": "경기도 양주시 백석읍 기산로 468",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0203",
+    "cat3": "A02030100",
+    "contentid": "611729",
+    "contenttypeid": "12",
+    "createdtime": "20080820021210",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/63/2481563_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/63/2481563_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9411906933",
+    "mapy": "37.7759236540",
+    "mlevel": "6",
+    "modifiedtime": "20230531132422",
+    "sigungucode": "18",
+    "tel": "",
+    "title": "양주골 한우마을",
+    "zipcode": "11518",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2748342": {
+    "addr1": "경기도 양주시 옥정동 889",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2748342",
+    "contenttypeid": "12",
+    "createdtime": "20210924020258",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/98/2748298_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/98/2748298_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0772740814",
+    "mapy": "37.8245982183",
+    "mlevel": "6",
+    "modifiedtime": "20230228142339",
+    "sigungucode": "18",
+    "tel": "",
+    "title": "독바위공원",
+    "zipcode": "",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2751265": {
+    "addr1": "경기도 양주시 옥정동로7길 108",
+    "addr2": "(옥정동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2751265",
+    "contenttypeid": "12",
+    "createdtime": "20210929201451",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/78/2751478_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/78/2751478_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0950336394",
+    "mapy": "37.8221988195",
+    "mlevel": "6",
+    "modifiedtime": "20231031153153",
+    "sigungucode": "18",
+    "tel": "",
+    "title": "옥정중앙공원",
+    "zipcode": "11473",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2751283": {
+    "addr1": "경기도 양주시 월정로 14",
+    "addr2": "(옥정동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2751283",
+    "contenttypeid": "12",
+    "createdtime": "20210929225011",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/21/2751421_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/21/2751421_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0811627046",
+    "mapy": "37.8214847624",
+    "mlevel": "6",
+    "modifiedtime": "20231019144050",
+    "sigungucode": "18",
+    "tel": "",
+    "title": "선돌근린공원",
+    "zipcode": "11471",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2751290": {
+    "addr1": "경기도 양주시 백석읍 백은로 185",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2751290",
+    "contenttypeid": "12",
+    "createdtime": "20210929225234",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/96/2751396_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/96/2751396_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9833940975",
+    "mapy": "37.8133533862",
+    "mlevel": "6",
+    "modifiedtime": "20231012165432",
+    "sigungucode": "18",
+    "tel": "",
+    "title": "백석생활체육공원",
+    "zipcode": "11503",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2751365": {
+    "addr1": "경기도 양주시 회천로 281",
+    "addr2": "(고암동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2751365",
+    "contenttypeid": "12",
+    "createdtime": "20210929235003",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/54/2751354_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/54/2751354_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0709301174",
+    "mapy": "37.8280643660",
+    "mlevel": "6",
+    "modifiedtime": "20230404103142",
+    "sigungucode": "18",
+    "tel": "",
+    "title": "옥정체육공원",
+    "zipcode": "11457",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2764950": {
+    "addr1": "경기도 양주시 고덕로 187-55",
+    "addr2": "(덕계동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2764950",
+    "contenttypeid": "12",
+    "createdtime": "20211029200333",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/12/2765012_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/12/2765012_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0640508693",
+    "mapy": "37.8044531036",
+    "mlevel": "6",
+    "modifiedtime": "20230404101802",
+    "sigungucode": "18",
+    "tel": "",
+    "title": "고덕생활체육공원",
+    "zipcode": "11460",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2764961": {
+    "addr1": "경기도 양주시 장흥면 권율로 120",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020600",
+    "contentid": "2764961",
+    "contenttypeid": "12",
+    "createdtime": "20211029200638",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/31/2765031_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/31/2765031_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9505440668",
+    "mapy": "37.7251130744",
+    "mlevel": "6",
+    "modifiedtime": "20230628131410",
+    "sigungucode": "18",
+    "tel": "",
+    "title": "두리랜드",
+    "zipcode": "11520",
+    "family": [
+      {
+        "수유실": "수유실 있음(플레이파크 2층)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

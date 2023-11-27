@@ -1,0 +1,1919 @@
+{
+  "403906":{
+     "addr1":"대전광역시 동구 동서대로1692번길 27",
+     "addr2":"",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"403906",
+     "contenttypeid":"39",
+     "createdtime":"20080120072258",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/01/401001_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/01/401001_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.4380855691",
+     "mapy":"36.3480529503",
+     "mlevel":"6",
+     "modifiedtime":"20220803095040",
+     "sigungucode":"2",
+     "tel":"042-633-9038",
+     "title":"천안원조닭똥집",
+     "zipcode":"34577",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음(1층)_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "690413":{
+     "addr1":"대전광역시 중구 대흥로 138",
+     "addr2":"",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"690413",
+     "contenttypeid":"39",
+     "createdtime":"20090210023230",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/77/1944577_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/77/1944577_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.4274205150",
+     "mapy":"36.3237860919",
+     "mlevel":"6",
+     "modifiedtime":"20220722150312",
+     "sigungucode":"5",
+     "tel":"042-254-2540",
+     "title":"만나",
+     "zipcode":"34934",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "출입통로":"주출입구에 경사로 설치되어 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1923929":{
+     "addr1":"대전광역시 유성구 신성로84번길 41",
+     "addr2":"",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"1923929",
+     "contenttypeid":"39",
+     "createdtime":"20140605184622",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.3510811187",
+     "mapy":"36.3893661226",
+     "mlevel":"6",
+     "modifiedtime":"20220923171257",
+     "sigungucode":"4",
+     "tel":"042-861-0502",
+     "title":"비빔가",
+     "zipcode":"34116",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1924026":{
+     "addr1":"대전광역시 유성구 반석로 10",
+     "addr2":"",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"1924026",
+     "contenttypeid":"39",
+     "createdtime":"20140605222544",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.3134621899",
+     "mapy":"36.3921123634",
+     "mlevel":"6",
+     "modifiedtime":"20220829102345",
+     "sigungucode":"4",
+     "tel":"042-826-6004",
+     "title":"완도회수산",
+     "zipcode":"34068",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1925335":{
+     "addr1":"대전광역시 유성구 테크노중앙로 155",
+     "addr2":"",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020400",
+     "contentid":"1925335",
+     "contenttypeid":"39",
+     "createdtime":"20140612192837",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.4008757533",
+     "mapy":"36.4227742938",
+     "mlevel":"6",
+     "modifiedtime":"20220829160902",
+     "sigungucode":"4",
+     "tel":"042-671-8888",
+     "title":"리원",
+     "zipcode":"34028",
+     "family":[
+        {
+           "유아용 보조 의자":"구비"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1925372":{
+     "addr1":"대전광역시 유성구 테크노중앙로 32",
+     "addr2":"",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020700",
+     "contentid":"1925372",
+     "contenttypeid":"39",
+     "createdtime":"20140612223438",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.3890433656",
+     "mapy":"36.4269486053",
+     "mlevel":"6",
+     "modifiedtime":"20230302111418",
+     "sigungucode":"4",
+     "tel":"042-936-7052",
+     "title":"인디",
+     "zipcode":"34017",
+     "family":[
+        {
+           "유아용 보조 의자":"구비"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함(수동문)_무장애 편의시설"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1985785":{
+     "addr1":"대전광역시 중구 보문산공원로497번길 109",
+     "addr2":"(대사동)",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"1985785",
+     "contenttypeid":"39",
+     "createdtime":"20150124010748",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.4193466356",
+     "mapy":"36.3090792967",
+     "mlevel":"6",
+     "modifiedtime":"20220826144436",
+     "sigungucode":"5",
+     "tel":"042-224-2001",
+     "title":"유씨네부엌",
+     "zipcode":"35052",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"접근로와 차도가 구분되어 있고, 식당까지 접근로가 양호함"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2580294":{
+     "addr1":"대전광역시 동구 계족로 369",
+     "addr2":"(성남동)",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"2580294",
+     "contenttypeid":"39",
+     "createdtime":"20181219202600",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.4331638761",
+     "mapy":"36.3447671280",
+     "mlevel":"6",
+     "modifiedtime":"20230810133359",
+     "sigungucode":"2",
+     "tel":"042-626-5707",
+     "title":"경동오징어국수",
+     "zipcode":"34580",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2581103":{
+     "addr1":"대전광역시 대덕구 신탄진로804번길 31",
+     "addr2":"(신탄진동)",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"2581103",
+     "contenttypeid":"39",
+     "createdtime":"20181221010318",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.4316611556",
+     "mapy":"36.4495662188",
+     "mlevel":"6",
+     "modifiedtime":"20230328134212",
+     "sigungucode":"1",
+     "tel":"042-934-5656",
+     "title":"부추해물칼국수",
+     "zipcode":"34310",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2581107":{
+     "addr1":"대전광역시 중구 중교로 62",
+     "addr2":"(대흥동)",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"2581107",
+     "contenttypeid":"39",
+     "createdtime":"20181221011205",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.4266844038",
+     "mapy":"36.3261996916",
+     "mlevel":"6",
+     "modifiedtime":"20221019093741",
+     "sigungucode":"5",
+     "tel":"042-256-6506",
+     "title":"사리원면옥",
+     "zipcode":"34920",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주출입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2581998":{
+     "addr1":"대전광역시 유성구 문화원로 143",
+     "addr2":"(봉명동)",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"2581998",
+     "contenttypeid":"39",
+     "createdtime":"20181224184349",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.3517041255",
+     "mapy":"36.3583752359",
+     "mlevel":"6",
+     "modifiedtime":"20230330112303",
+     "sigungucode":"4",
+     "tel":"042-825-9200",
+     "title":"임진강장어",
+     "zipcode":"34184",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문/후문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주출입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2582134":{
+     "addr1":"대전광역시 유성구 신성남로 127",
+     "addr2":"",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"2582134",
+     "contenttypeid":"39",
+     "createdtime":"20181224200743",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.3511699332",
+     "mapy":"36.3918102886",
+     "mlevel":"6",
+     "modifiedtime":"20221025101418",
+     "sigungucode":"4",
+     "tel":"042-864-3880",
+     "title":"천리집",
+     "zipcode":"34116",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2582400":{
+     "addr1":"대전광역시 유성구 문화원로 140",
+     "addr2":"(봉명동,하이랜드Ⅲ)",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"2582400",
+     "contenttypeid":"39",
+     "createdtime":"20181225002124",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.3512041772",
+     "mapy":"36.3581141457",
+     "mlevel":"6",
+     "modifiedtime":"20230217161416",
+     "sigungucode":"4",
+     "tel":"042-472-8592",
+     "title":"태평소국밥",
+     "zipcode":"34185",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2582526":{
+     "addr1":"대전광역시 동구 계족로 407",
+     "addr2":"",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"2582526",
+     "contenttypeid":"39",
+     "createdtime":"20181225012214",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.4314750490",
+     "mapy":"36.3480500557",
+     "mlevel":"6",
+     "modifiedtime":"20220915110131",
+     "sigungucode":"2",
+     "tel":"042-632-5757",
+     "title":"풍년삼계탕",
+     "zipcode":"34553",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2582621":{
+     "addr1":"대전광역시 서구 사마1길 22",
+     "addr2":"(도마동)",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"2582621",
+     "contenttypeid":"39",
+     "createdtime":"20181225023558",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.3767030015",
+     "mapy":"36.3173053774",
+     "mlevel":"6",
+     "modifiedtime":"20221223171424",
+     "sigungucode":"3",
+     "tel":"042-536-0408",
+     "title":"한마음면옥",
+     "zipcode":"35334",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2734912":{
+     "addr1":"대전광역시 유성구 봉명로 27-27",
+     "addr2":"(원신흥동)",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"2734912",
+     "contenttypeid":"39",
+     "createdtime":"20210818224837",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/05/2735005_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/05/2735005_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.3438969051",
+     "mapy":"36.3430851805",
+     "mlevel":"6",
+     "modifiedtime":"20230823150957",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"케이인하우스",
+     "zipcode":"34190",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주출입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2734919":{
+     "addr1":"대전광역시 유성구 온천북로59번길 2",
+     "addr2":"(봉명동)",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"2734919",
+     "contenttypeid":"39",
+     "createdtime":"20210818225124",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/97/2734997_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/97/2734997_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.3498515639",
+     "mapy":"36.3565143050",
+     "mlevel":"6",
+     "modifiedtime":"20221220155526",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"온천손칼국수",
+     "zipcode":"34185",
+     "family":[
+        {
+           "유아용 보조 의자":"구비"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주출입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2735322":{
+     "addr1":"대전광역시 유성구 원신흥남로41번길 66",
+     "addr2":"(원신흥동)",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020900",
+     "contentid":"2735322",
+     "contenttypeid":"39",
+     "createdtime":"20210819232854",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/15/2735315_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/15/2735315_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.3365977755",
+     "mapy":"36.3350387492",
+     "mlevel":"6",
+     "modifiedtime":"20230622152557",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"라빈고양이카페",
+     "zipcode":"34194",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2770283":{
+     "addr1":"대전광역시 유성구 지족로148번길 39-23",
+     "addr2":"(지족동)",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020900",
+     "contentid":"2770283",
+     "contenttypeid":"39",
+     "createdtime":"20211109014153",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/94/2771894_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/94/2771894_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.3053716133",
+     "mapy":"36.3785971012",
+     "mlevel":"6",
+     "modifiedtime":"20221226144912",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"연선흠베이커리카페(연선흠베이커리)",
+     "zipcode":"34074",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2899585":{
+     "addr1":"대전광역시 서구 도산로 141",
+     "addr2":"",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"2899585",
+     "contenttypeid":"39",
+     "createdtime":"20221107104725",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/69/2899569_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/69/2899569_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.3775167143",
+     "mapy":"36.3211271767",
+     "mlevel":"6",
+     "modifiedtime":"20221205115129",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"대성콩국수",
+     "zipcode":"35333",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2912060":{
+     "addr1":"대전광역시 유성구 관들5길 77-24",
+     "addr2":"",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"2912060",
+     "contenttypeid":"39",
+     "createdtime":"20221118095454",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/43/2912043_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/43/2912043_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.3929264611",
+     "mapy":"36.4229130254",
+     "mlevel":"6",
+     "modifiedtime":"20230127101640",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"병천이가순대",
+     "zipcode":"34019",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2912079":{
+     "addr1":"대전광역시 유성구 온천북로 7 레자미 멀티홈",
+     "addr2":"상가1층 121호",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020200",
+     "contentid":"2912079",
+     "contenttypeid":"39",
+     "createdtime":"20221118100110",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/69/2912069_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/69/2912069_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.3440742761",
+     "mapy":"36.3575140880",
+     "mlevel":"6",
+     "modifiedtime":"20230127101410",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"무양도원",
+     "zipcode":"34185",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2912247":{
+     "addr1":"대전광역시 유성구 관평2로 30 창조타운",
+     "addr2":"",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020900",
+     "contentid":"2912247",
+     "contenttypeid":"39",
+     "createdtime":"20221118105248",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/37/2912237_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/37/2912237_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.3894267402",
+     "mapy":"36.4241628204",
+     "mlevel":"6",
+     "modifiedtime":"20230127100546",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"슬로우브레드 관평점",
+     "zipcode":"34019",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2912606":{
+     "addr1":"대전광역시 유성구 원신흥로55번길 65-20",
+     "addr2":"",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020200",
+     "contentid":"2912606",
+     "contenttypeid":"39",
+     "createdtime":"20221118165457",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/89/2912589_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/89/2912589_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.3437275294",
+     "mapy":"36.3410965156",
+     "mlevel":"6",
+     "modifiedtime":"20230127094651",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"이태리식당빛나 도안점",
+     "zipcode":"34193",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2912718":{
+     "addr1":"대전광역시 유성구 문화원로 123 노블레스3 주상복합아파트",
+     "addr2":"",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"2912718",
+     "contenttypeid":"39",
+     "createdtime":"20221118172021",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/01/2912701_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/01/2912701_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.3496181885",
+     "mapy":"36.3588362573",
+     "mlevel":"6",
+     "modifiedtime":"20230308141847",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"유림한우",
+     "zipcode":"34184",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2912798":{
+     "addr1":"대전광역시 유성구 온천동로65번길 26",
+     "addr2":"1층 2층",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020300",
+     "contentid":"2912798",
+     "contenttypeid":"39",
+     "createdtime":"20221121093711",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/83/2912783_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/83/2912783_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.3514958385",
+     "mapy":"36.3573531269",
+     "mlevel":"6",
+     "modifiedtime":"20230126164140",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"고치소사마 대전본점",
+     "zipcode":"34185",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2912816":{
+     "addr1":"대전광역시 유성구 봉명서로 15 벧엘하우스",
+     "addr2":"",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020900",
+     "contentid":"2912816",
+     "contenttypeid":"39",
+     "createdtime":"20221121094051",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/01/2912801_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/01/2912801_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.3413665575",
+     "mapy":"36.3437572805",
+     "mlevel":"6",
+     "modifiedtime":"20230126162847",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"곰에스프레소본점",
+     "zipcode":"34190",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2912871":{
+     "addr1":"대전광역시 유성구 테크노4로 98-8",
+     "addr2":"평원오피스텔 101호",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020900",
+     "contentid":"2912871",
+     "contenttypeid":"39",
+     "createdtime":"20221121095218",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/57/2912857_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/57/2912857_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.3891989182",
+     "mapy":"36.4265403217",
+     "mlevel":"6",
+     "modifiedtime":"20230308141721",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"그린베이커리",
+     "zipcode":"34017",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2912957":{
+     "addr1":"대전광역시 유성구 한밭대로371번길 38",
+     "addr2":"1층",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020200",
+     "contentid":"2912957",
+     "contenttypeid":"39",
+     "createdtime":"20221121100859",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/45/2912945_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/45/2912945_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.3412021396",
+     "mapy":"36.3638355360",
+     "mlevel":"6",
+     "modifiedtime":"20230126153842",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"라꼬레",
+     "zipcode":"34136",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2913076":{
+     "addr1":"대전광역시 유성구 온천북로33번길 22-3",
+     "addr2":"101호",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020900",
+     "contentid":"2913076",
+     "contenttypeid":"39",
+     "createdtime":"20221121103646",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/59/2913059_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/59/2913059_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.3473073080",
+     "mapy":"36.3579557615",
+     "mlevel":"6",
+     "modifiedtime":"20230126151423",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"르뺑99-1",
+     "zipcode":"34185",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2913097":{
+     "addr1":"대전광역시 유성구 대학로155번길 29",
+     "addr2":"101호",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020700",
+     "contentid":"2913097",
+     "contenttypeid":"39",
+     "createdtime":"20221121104059",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/84/2913084_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/84/2913084_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.3505041294",
+     "mapy":"36.3621858901",
+     "mlevel":"6",
+     "modifiedtime":"20230126142347",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"리코타코",
+     "zipcode":"34138",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2913192":{
+     "addr1":"대전광역시 유성구 계룡로74번길 15",
+     "addr2":"",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"2913192",
+     "contenttypeid":"39",
+     "createdtime":"20221121110440",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/86/2913186_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/86/2913186_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.3390720477",
+     "mapy":"36.3537533186",
+     "mlevel":"6",
+     "modifiedtime":"20230126141720",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"아리랑옛날순대",
+     "zipcode":"34179",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2913352":{
+     "addr1":"대전광역시 유성구 대학로75번길 17",
+     "addr2":"1층",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"2913352",
+     "contenttypeid":"39",
+     "createdtime":"20221121132152",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/43/2913343_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/43/2913343_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.3426410030",
+     "mapy":"36.3600248867",
+     "mlevel":"6",
+     "modifiedtime":"20230126140631",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"대감댁 왕뼈 해장국 유성점",
+     "zipcode":"34167",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2913435":{
+     "addr1":"대전광역시 유성구 온천로 60 사이언스타운 주상복합",
+     "addr2":"",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020300",
+     "contentid":"2913435",
+     "contenttypeid":"39",
+     "createdtime":"20221121135021",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/23/2913423_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/23/2913423_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.3443243324",
+     "mapy":"36.3545866496",
+     "mlevel":"6",
+     "modifiedtime":"20230126132856",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"어선재",
+     "zipcode":"34187",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2914349":{
+     "addr1":"대전광역시 유성구 계룡로 15-3",
+     "addr2":"",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"2914349",
+     "contenttypeid":"39",
+     "createdtime":"20221122094515",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/37/2914337_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/37/2914337_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.3329308531",
+     "mapy":"36.3566056613",
+     "mlevel":"6",
+     "modifiedtime":"20230308135019",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"보물섬수산",
+     "zipcode":"34175",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2915019":{
+     "addr1":"대전광역시 서구 대덕대로 370",
+     "addr2":"2층",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"2915019",
+     "contenttypeid":"39",
+     "createdtime":"20221122142017",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/05/2915005_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/05/2915005_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.3799986103",
+     "mapy":"36.3659859786",
+     "mlevel":"6",
+     "modifiedtime":"20230308132731",
+     "sigungucode":"3",
+     "tel":"",
+     "title":"대나무통밥맛정식",
+     "zipcode":"35203",
+     "family":[
+        {
+           "유아용 보조 의자":"구비"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2915610":{
+     "addr1":"대전광역시 유성구 관용로 13",
+     "addr2":"1층",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020900",
+     "contentid":"2915610",
+     "contenttypeid":"39",
+     "createdtime":"20221123094728",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/97/2915597_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/97/2915597_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.3792639553",
+     "mapy":"36.4170467880",
+     "mlevel":"6",
+     "modifiedtime":"20230125164451",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"펠리쓰",
+     "zipcode":"34039",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2915644":{
+     "addr1":"대전광역시 유성구 원신흥로55번길 66-25",
+     "addr2":"",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020400",
+     "contentid":"2915644",
+     "contenttypeid":"39",
+     "createdtime":"20221123095447",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/32/2915632_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/32/2915632_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.3442025446",
+     "mapy":"36.3389551026",
+     "mlevel":"6",
+     "modifiedtime":"20230125163442",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"진신",
+     "zipcode":"34193",
+     "family":[
+        {
+           "유아용 보조 의자":"구비"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2915798":{
+     "addr1":"대전광역시 유성구 대학로 48-13",
+     "addr2":"5층",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"2915798",
+     "contenttypeid":"39",
+     "createdtime":"20221123103730",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/90/2915790_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/90/2915790_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.3439826069",
+     "mapy":"36.3578918211",
+     "mlevel":"6",
+     "modifiedtime":"20230125163001",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"화도갈비 대전유성점",
+     "zipcode":"34185",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주출입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2915832":{
+     "addr1":"대전광역시 유성구 문화원로 153 남산빌리지",
+     "addr2":"",
+     "areacode":"3",
+     "booktour":"",
+     "cat1":"A05",
+     "cat2":"A0502",
+     "cat3":"A05020100",
+     "contentid":"2915832",
+     "contenttypeid":"39",
+     "createdtime":"20221123104805",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/21/2915821_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/21/2915821_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.3529151335",
+     "mapy":"36.3581863900",
+     "mlevel":"6",
+     "modifiedtime":"20230125151658",
+     "sigungucode":"4",
+     "tel":"",
+     "title":"황태고을",
+     "zipcode":"34184",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주출입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "2742239": {
+    "addr1": "경기도 의왕시 한직골남로 18",
+    "addr2": "(청계동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2742239",
+    "contenttypeid": "39",
+    "createdtime": "20210909223407",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/47/2742547_image2_1.jpeg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/47/2742547_image2_1.jpeg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.9985409088",
+    "mapy": "37.3876392636",
+    "mlevel": "6",
+    "modifiedtime": "20221228102431",
+    "sigungucode": "24",
+    "tel": "",
+    "title": "백운애꽃",
+    "zipcode": "16013",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2749136": {
+    "addr1": "경기도 의왕시 백운안길 49",
+    "addr2": "(학의동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2749136",
+    "contenttypeid": "39",
+    "createdtime": "20210924201139",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/97/2748997_image2_1.jpeg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/97/2748997_image2_1.jpeg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0056964095",
+    "mapy": "37.3664418495",
+    "mlevel": "6",
+    "modifiedtime": "20231004142640",
+    "sigungucode": "24",
+    "tel": "",
+    "title": "선일목장",
+    "zipcode": "16016",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2951479": {
+    "addr1": "경기도 의왕시 학의동",
+    "addr2": "76-11 2호",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2951479",
+    "contenttypeid": "39",
+    "createdtime": "20230308112905",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/79/2951979_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/79/2951979_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0030156196",
+    "mapy": "37.3834509408",
+    "mlevel": "6",
+    "modifiedtime": "20230413045551",
+    "sigungucode": "24",
+    "tel": "",
+    "title": "백운메밀",
+    "zipcode": "16012",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

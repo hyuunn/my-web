@@ -1,0 +1,219 @@
+{
+  "1971317": {
+    "addr1": "강원특별자치도 영월군 영월읍 제방안길 100",
+    "addr2": "(영월읍)",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03020200",
+    "contentid": "1971317",
+    "contenttypeid": "28",
+    "createdtime": "20141206012505",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/67/1947667_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/67/1947667_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.4591485012",
+    "mapy": "37.1742741201",
+    "mlevel": "6",
+    "modifiedtime": "20230701132619",
+    "sigungucode": "8",
+    "tel": "033-813-1388",
+    "title": "영월군청소년수련관",
+    "zipcode": "26237",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "장애인용 엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음(여닫이문)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(출입구,계단,엘리베이터 앞)_시각장애인 편의시설"
+      },
+      {
+        "유도안내설비": "점자손잡이 있음(출입구경사로,계단손잡이)"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1971323": {
+    "addr1": "강원특별자치도 영월군 영월읍 제방안길 100",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03020200",
+    "contentid": "1971323",
+    "contenttypeid": "28",
+    "createdtime": "20141206015753",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/55/1947655_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/55/1947655_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.4618565465",
+    "mapy": "37.1758045508",
+    "mlevel": "6",
+    "modifiedtime": "20230701141723",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "영월국민체육센터",
+    "zipcode": "26237",
+    "family": [
+      {
+        "영유아가족 기타 지원 항목": "기저귀교환대있음(여자장애인화장실 내)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함(실내체육관)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(자동문,수동문)"
+      },
+      {
+        "엘리베이터": "장애인용 엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음 (1,2층,점자표지판,미닫이문)"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음( 계단, 엘리베이터 앞)_시각장애인 편의시설"
+      },
+      {
+        "유도안내설비": "계단 점자손잡이 있음"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "1971330": {
+    "addr1": "강원특별자치도 영월군 영월읍 제방안길 100",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03020300",
+    "contentid": "1971330",
+    "contenttypeid": "28",
+    "createdtime": "20141206020713",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/61/1947661_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/61/1947661_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.4618565465",
+    "mapy": "37.1758045508",
+    "mlevel": "6",
+    "modifiedtime": "20230701133446",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "영월스포츠파크",
+    "zipcode": "26237",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(체육관 출입구 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2559537": {
+    "addr1": "강원특별자치도 영월군 영월읍 동강로 716",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03020200",
+    "contentid": "2559537",
+    "contenttypeid": "28",
+    "createdtime": "20180903200328",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.5055649706",
+    "mapy": "37.2279854836",
+    "mlevel": "6",
+    "modifiedtime": "20230701125456",
+    "sigungucode": "8",
+    "tel": "",
+    "title": "영월에코빌리지 유스호스텔",
+    "zipcode": "26223",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      },
+      {
+        "객실": "장애인 객실 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음(식당동)_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자유도로 있음_시각장애인 편의시설"
+      },
+      {
+        "안내요원": "안내요원 있음"
+      },
+      {
+        "오디오 가이드": "음성안내버튼(점자안내판) 있음"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}

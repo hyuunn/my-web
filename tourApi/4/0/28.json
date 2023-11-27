@@ -1,0 +1,350 @@
+{
+  "131451":{
+     "addr1":"대구광역시 달서구 앞산순환로 180",
+     "addr2":"(송현동)",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03020200",
+     "contentid":"131451",
+     "contenttypeid":"28",
+     "createdtime":"20021205090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/42/1892842_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/42/1892842_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.5531788967",
+     "mapy":"35.8200081984",
+     "mlevel":"6",
+     "modifiedtime":"20230726110536",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"대구광역시청소년수련원",
+     "zipcode":"42841",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "131714":{
+     "addr1":"대구광역시 수성구 유니버시아드로 180",
+     "addr2":"(대흥동)",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03020300",
+     "contentid":"131714",
+     "contenttypeid":"28",
+     "createdtime":"20030527090000",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"128.6901804487",
+     "mapy":"35.8299818185",
+     "mlevel":"6",
+     "modifiedtime":"20230224095000",
+     "sigungucode":"7",
+     "tel":"",
+     "title":"대구스타디움",
+     "zipcode":"42250",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"경사가 완만하고 평탄하여 휠체어 이용 가능 함(우레탄길)"
+        },
+        {
+           "출입통로":"매표소 입구는 무단차이며 경기장 입구는 경사로가 설치되어 있음"
+        },
+        {
+           "화장실":"스타디움 경기장 내의 화장실은 2게이트마다 장애인화장실이 설치되어 있으며 체육공원 내 화장실은 장애인 화장실이 여러 곳에 설치되어 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자 홍보물 및 점자 표지판":"각 화장실에 점자안내유도판이 설치되어 있음_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "131838":{
+     "addr1":"대구광역시 달서구 두류공원로 200",
+     "addr2":"(두류동)",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03021300",
+     "contentid":"131838",
+     "contenttypeid":"28",
+     "createdtime":"20060123090000",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"128.5648463453",
+     "mapy":"35.8548989086",
+     "mlevel":"6",
+     "modifiedtime":"20220913104155",
+     "sigungucode":"2",
+     "tel":"",
+     "title":"이월드 83타워 아이스링크",
+     "zipcode":"42666",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음(1,3층)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1353888":{
+     "addr1":"대구광역시 북구 고성로 191",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03020300",
+     "contentid":"1353888",
+     "contenttypeid":"28",
+     "createdtime":"20110808202025",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"128.5867964789",
+     "mapy":"35.8804436428",
+     "mlevel":"6",
+     "modifiedtime":"20230726132225",
+     "sigungucode":"5",
+     "tel":"053-606-8200",
+     "title":"대구시민운동장",
+     "zipcode":"41594",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        },
+        {
+           "관람석":"장애인 전용 관람석 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1613631":{
+     "addr1":"대구광역시 수성구 청수로45길 100",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03020200",
+     "contentid":"1613631",
+     "contenttypeid":"28",
+     "createdtime":"20120425185240",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/07/1575207_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/07/1575207_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.6323962254",
+     "mapy":"35.8450540459",
+     "mlevel":"6",
+     "modifiedtime":"20230516154836",
+     "sigungucode":"7",
+     "tel":"",
+     "title":"대구수성구청소년수련관",
+     "zipcode":"42111",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주출입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1895255":{
+     "addr1":"대구광역시 북구 문주길 170",
+     "addr2":"(금호동)",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03021600",
+     "contentid":"1895255",
+     "contenttypeid":"28",
+     "createdtime":"20140217181423",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/71/1890671_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/71/1890671_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.5243483468",
+     "mapy":"35.9113223289",
+     "mlevel":"6",
+     "modifiedtime":"20230327101645",
+     "sigungucode":"5",
+     "tel":"",
+     "title":"대구사격장",
+     "zipcode":"41491",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실 입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2366115":{
+     "addr1":"대구광역시 남구 용두2길 43",
+     "addr2":"",
+     "areacode":"4",
+     "booktour":"",
+     "cat1":"A03",
+     "cat2":"A0302",
+     "cat3":"A03022700",
+     "contentid":"2366115",
+     "contenttypeid":"28",
+     "createdtime":"20160203221254",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/12/2366112_image2_1.JPG",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/12/2366112_image2_1.JPG",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"128.6034186413",
+     "mapy":"35.8299552198",
+     "mlevel":"6",
+     "modifiedtime":"20220825153849",
+     "sigungucode":"1",
+     "tel":"053-803-7467",
+     "title":"앞산자락길",
+     "zipcode":"42503",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 단차가 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 전용 화장실 있음"
+        },
+        {
+           "기타 지원 항목":"케이블카 휠체어 탑승 불가"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실 입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "1013399": {
+    "addr1": "경기도 의정부시 태평로133번길 26",
+    "addr2": "(의정부동)",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "1013399",
+    "contenttypeid": "39",
+    "createdtime": "20100503230255",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/78/1022378_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/78/1022378_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0497788969",
+    "mapy": "37.7444070609",
+    "mlevel": "6",
+    "modifiedtime": "20231107132005",
+    "sigungucode": "25",
+    "tel": "031-842-1129",
+    "title": "보영식당",
+    "zipcode": "11689",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1921646": {
+    "addr1": "경기도 의정부시 평화로439번길 7",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "1921646",
+    "contenttypeid": "39",
+    "createdtime": "20140528194555",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.0474822692",
+    "mapy": "37.7309585851",
+    "mlevel": "6",
+    "modifiedtime": "20221124144516",
+    "sigungucode": "25",
+    "tel": "031-877-2282",
+    "title": "평양면옥",
+    "zipcode": "11700",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문/자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2607132": {
+    "addr1": "경기도 의정부시 호국로1298번길 78",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020400",
+    "contentid": "2607132",
+    "contenttypeid": "39",
+    "createdtime": "20190619010641",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/22/2607222_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/22/2607222_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0482652745",
+    "mapy": "37.7399297771",
+    "mlevel": "6",
+    "modifiedtime": "20230911171029",
+    "sigungucode": "25",
+    "tel": "031-846-2047",
+    "title": "[백년가게]지동관",
+    "zipcode": "11695",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2826917": {
+    "addr1": "경기도 의정부시 호국로1723번길 28 밀가마국시집",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2826917",
+    "contenttypeid": "39",
+    "createdtime": "20220707154955",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.0901135434",
+    "mapy": "37.7639138530",
+    "mlevel": "6",
+    "modifiedtime": "20220816163535",
+    "sigungucode": "25",
+    "tel": "",
+    "title": "국시집 밀가마",
+    "zipcode": "11766",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2841614": {
+    "addr1": "경기도 의정부시 호국로 1769-5",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2841614",
+    "contenttypeid": "39",
+    "createdtime": "20220823134146",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/06/2841606_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/06/2841606_image3_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.0925521713",
+    "mapy": "37.7652359650",
+    "mlevel": "6",
+    "modifiedtime": "20220919151858",
+    "sigungucode": "25",
+    "tel": "",
+    "title": "솔가원",
+    "zipcode": "11766",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문/자동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2842268": {
+    "addr1": "경기도 의정부시 송산로 897",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020900",
+    "contentid": "2842268",
+    "contenttypeid": "39",
+    "createdtime": "20220823165830",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/51/2842251_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/51/2842251_image3_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.1058580405",
+    "mapy": "37.7120201785",
+    "mlevel": "6",
+    "modifiedtime": "20220919112025",
+    "sigungucode": "25",
+    "tel": "",
+    "title": "커피로드",
+    "zipcode": "11799",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

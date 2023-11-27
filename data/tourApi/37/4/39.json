@@ -1,0 +1,84 @@
+{
+  "1604948": {
+    "addr1": "전라북도 남원시 양림길 14-10",
+    "addr2": "",
+    "areacode": "37",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "1604948",
+    "contenttypeid": "39",
+    "createdtime": "20120418011037",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.3859708516",
+    "mapy": "35.4020957248",
+    "mlevel": "6",
+    "modifiedtime": "20230831093605",
+    "sigungucode": "4",
+    "tel": "063-625-5568",
+    "title": "춘원회관",
+    "zipcode": "55795",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1985788": {
+    "addr1": "전라북도 남원시 검멀길 13",
+    "addr2": "(금동)",
+    "areacode": "37",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "1985788",
+    "contenttypeid": "39",
+    "createdtime": "20150124013443",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "127.3774215711",
+    "mapy": "35.4034593112",
+    "mlevel": "6",
+    "modifiedtime": "20220713140734",
+    "sigungucode": "4",
+    "tel": "063-632-8519",
+    "title": "남원 원조 시골추어탕",
+    "zipcode": "55769",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음_무장애 편의시설"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "776427": {
+    "addr1": "강원특별자치도 삼척시 도계읍 도상로 307-84",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03020700",
+    "contentid": "776427",
+    "contenttypeid": "28",
+    "createdtime": "20090810223319",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/96/1947396_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/96/1947396_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.0734616519",
+    "mapy": "37.2182336089",
+    "mlevel": "6",
+    "modifiedtime": "20231106144740",
+    "sigungucode": "4",
+    "tel": "",
+    "title": "블랙밸리 컨트리클럽",
+    "zipcode": "25948",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함(자동문)"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음(클럽하우스)"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(클럽하우스)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1945438": {
+    "addr1": "강원특별자치도 삼척시 근덕면 공양왕길 2",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0305",
+    "cat3": "A03050100",
+    "contentid": "1945438",
+    "contenttypeid": "28",
+    "createdtime": "20140830023848",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/23/1046023_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/23/1046023_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.2663939824",
+    "mapy": "37.3236974745",
+    "mlevel": "6",
+    "modifiedtime": "20230701132830",
+    "sigungucode": "4",
+    "tel": "",
+    "title": "삼척 해양레일바이크",
+    "zipcode": "25937",
+    "family": [],
+    "handi": [
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "화장실": "장애인 화장실 있음(2개)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1965276": {
+    "addr1": "강원특별자치도 삼척시 도계읍 심포남길 99",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0305",
+    "cat3": "A03050100",
+    "contentid": "1965276",
+    "contenttypeid": "28",
+    "createdtime": "20141117182815",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/90/1965290_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/90/1965290_image2_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.0385963575",
+    "mapy": "37.1840035320",
+    "mlevel": "6",
+    "modifiedtime": "20231101104712",
+    "sigungucode": "4",
+    "tel": "",
+    "title": "하이원추추파크",
+    "zipcode": "25952",
+    "family": [
+      {
+        "유모차": "유모차 대여 가능함"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "무료대여(1대)"
+      },
+      {
+        "출입통로": "주출입구는 단차가 없어 휠체어 접근 가능함"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(체크인센터 외부)"
+      },
+      {
+        "객실": "장애인 전용 객실 있음(1개)"
+      },
+      {
+        "기타 지원 항목": "기차에 장애인리프트가 설치되어 있지 않음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(계단,편의시설)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2633902": {
+    "addr1": "강원특별자치도 삼척시 근덕면 초곡길 236-20",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03022700",
+    "contentid": "2633902",
+    "contenttypeid": "28",
+    "createdtime": "20191107222842",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/34/2747934_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/34/2747934_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "129.2949085073",
+    "mapy": "37.3105467664",
+    "mlevel": "6",
+    "modifiedtime": "20230724155533",
+    "sigungucode": "4",
+    "tel": "",
+    "title": "초곡 용굴촛대바위길",
+    "zipcode": "25937",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "2670599": {
+    "addr1": "충청북도 제천시 청풍면 청풍호로 1682",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2670599",
+    "contenttypeid": "39",
+    "createdtime": "20200903205814",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/01/2668201_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/01/2668201_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.1726564641",
+    "mapy": "37.0207586239",
+    "mlevel": "6",
+    "modifiedtime": "20221111121524",
+    "sigungucode": "7",
+    "tel": "043-647-6300",
+    "title": "청풍황금떡갈비",
+    "zipcode": "27215",
+    "family": [
+      {
+        "유아용 보조 의자": "구비"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주출입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2671150": {
+    "addr1": "충청북도 제천시 청전대로 91",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2671150",
+    "contenttypeid": "39",
+    "createdtime": "20200908000435",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/48/2671148_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/48/2671148_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.2081717760",
+    "mapy": "37.1487695571",
+    "mlevel": "6",
+    "modifiedtime": "20210310231524",
+    "sigungucode": "7",
+    "tel": "043-647-5596",
+    "title": "강박사냉면숯불갈비",
+    "zipcode": "27154",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2671155": {
+    "addr1": "충청북도 제천시 의림대로49길 13",
+    "addr2": "",
+    "areacode": "33",
+    "booktour": "",
+    "cat1": "A05",
+    "cat2": "A0502",
+    "cat3": "A05020100",
+    "contentid": "2671155",
+    "contenttypeid": "39",
+    "createdtime": "20200908001804",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/32/2665232_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/32/2665232_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.2084458929",
+    "mapy": "37.1781328476",
+    "mlevel": "6",
+    "modifiedtime": "20220406105731",
+    "sigungucode": "7",
+    "tel": "043-644-3827",
+    "title": "꿀참나무",
+    "zipcode": "27137",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "기타 지원 항목": "의자식 테이블 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

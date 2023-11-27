@@ -1,0 +1,208 @@
+{
+  "131474": {
+    "addr1": "강원특별자치도 원주시 서원대로 234",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03020200",
+    "contentid": "131474",
+    "contenttypeid": "28",
+    "createdtime": "20040227090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/35/1813435_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/35/1813435_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.9357906866",
+    "mapy": "37.3410950748",
+    "mlevel": "6",
+    "modifiedtime": "20230701134258",
+    "sigungucode": "9",
+    "tel": "033-742-9997",
+    "title": "원주시청소년수련관",
+    "zipcode": "26475",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함(수동문)"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "131878": {
+    "addr1": "강원특별자치도 원주시 지정면 오크밸리2길 58",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03021200",
+    "contentid": "131878",
+    "contenttypeid": "28",
+    "createdtime": "20061124090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/50/2777750_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/50/2777750_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.8158885215",
+    "mapy": "37.4057326010",
+    "mlevel": "6",
+    "modifiedtime": "20231019143751",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "오크밸리스키장",
+    "zipcode": "26357",
+    "family": [],
+    "handi": [
+      {
+        "출입통로": "주출입구 무단차\n2m 이상의 이동통로 폭을 확보하고 있음"
+      },
+      {
+        "엘리베이터": "엘리베이터 있음(승강기 내부에 수평손잡이는 있으나, 낮은 높이의 조작버튼이 없어 휠체어 이용자가 사용하기 불편함)"
+      },
+      {
+        "화장실": "장애인 화장실 있음(80cm의 출입문, 1mx1m의 활동공간, 좌변기 측면 공간 부족으로 인해 휠체어 사용자가 이용하기 불편함)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "1840461": {
+    "addr1": "강원특별자치도 원주시 소초면 구룡사로",
+    "addr2": "(소초면)",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03021700",
+    "contentid": "1840461",
+    "contenttypeid": "28",
+    "createdtime": "20130828194046",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "128.0455704886",
+    "mapy": "37.4080060564",
+    "mlevel": "6",
+    "modifiedtime": "20230701131932",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "치악산 구룡자동차야영장",
+    "zipcode": "26304",
+    "family": [
+      {
+        "유모차": "유모차 대여 가능함(치악산사무소)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "접근로가 평지로 되어 있으나 흙구간임"
+      },
+      {
+        "출입통로": "캠핑장 개인공간(캐러반데크)의 데크까지는 경사로가 설치되어 있으나 캠핑숙박시설(캐러반) 안 까지는 단차가 있어 접근 어려움"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      },
+      {
+        "기타 지원 항목": "기타 부대시설 한계단 정도 단차가 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2033279": {
+    "addr1": "강원특별자치도 원주시 판부면 영원산성길 372",
+    "addr2": "",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03021700",
+    "contentid": "2033279",
+    "contenttypeid": "28",
+    "createdtime": "20151013201713",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/95/2011295_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/95/2011295_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "128.0183263014",
+    "mapy": "37.2933993402",
+    "mlevel": "6",
+    "modifiedtime": "20230701134824",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "금대 에코힐링 캠핑장",
+    "zipcode": "26504",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "전반적으로 길이 평평하고 포장이 되어있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2370917": {
+    "addr1": "강원특별자치도 원주시 서원대로 281",
+    "addr2": "(명륜동)",
+    "areacode": "32",
+    "booktour": "",
+    "cat1": "A03",
+    "cat2": "A0302",
+    "cat3": "A03020300",
+    "contentid": "2370917",
+    "contenttypeid": "28",
+    "createdtime": "20160226222118",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/56/2370456_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/56/2370456_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "127.9419013050",
+    "mapy": "37.3390648672",
+    "mlevel": "6",
+    "modifiedtime": "20230701141100",
+    "sigungucode": "9",
+    "tel": "",
+    "title": "원주종합체육관",
+    "zipcode": "26447",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 설치되어 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  }
+}

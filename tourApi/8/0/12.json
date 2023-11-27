@@ -1,0 +1,797 @@
+{
+  "125875":{
+     "addr1":"세종특별자치시 연서면 도신고복로 586",
+     "addr2":"",
+     "areacode":"8",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01010500",
+     "contentid":"125875",
+     "contenttypeid":"12",
+     "createdtime":"20040224090000",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.2274836912",
+     "mapy":"36.6000120047",
+     "mlevel":"6",
+     "modifiedtime":"20230313094432",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"고복자연공원",
+     "zipcode":"30042",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "기타 지원 항목":"데크로드 산책로 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "127821":{
+     "addr1":"세종특별자치시 금남면 산림박물관길 110",
+     "addr2":"",
+     "areacode":"8",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01010600",
+     "contentid":"127821",
+     "contenttypeid":"12",
+     "createdtime":"20071012090000",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/17/1598617_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/17/1598617_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.2305767737",
+     "mapy":"36.4354448235",
+     "mlevel":"6",
+     "modifiedtime":"20230610063935",
+     "sigungucode":"1",
+     "tel":"041-850-2686, 2690",
+     "title":"금강자연휴양림(금강수목원,산림박물관)",
+     "zipcode":"30085",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "엘리베이터":"엘리베이터 있음"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실,엘리베이터)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "730441":{
+     "addr1":"세종특별자치시 전동면 신송로 217",
+     "addr2":"",
+     "areacode":"8",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01010700",
+     "contentid":"730441",
+     "contenttypeid":"12",
+     "createdtime":"20090504200946",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/38/2724238_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/38/2724238_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.2092055880",
+     "mapy":"36.6720645155",
+     "mlevel":"6",
+     "modifiedtime":"20221125094904",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"베어트리파크",
+     "zipcode":"30009",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "휠체어":"대여가능(무료)"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(화장실 입구 앞)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "1928731":{
+     "addr1":"세종특별자치시 전동면 배일길 90-43",
+     "addr2":"(전동면)",
+     "areacode":"8",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0201",
+     "cat3":"A02010600",
+     "contentid":"1928731",
+     "contenttypeid":"12",
+     "createdtime":"20140628021604",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/31/1918231_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/31/1918231_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.2591732122",
+     "mapy":"36.6759371809",
+     "mlevel":"6",
+     "modifiedtime":"20220927100955",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"뒤웅박고을",
+     "zipcode":"30010",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인전용 화장실 주차장쪽에 있음(공용)_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1946955":{
+     "addr1":"세종특별자치시 연기면 호수공원길 155",
+     "addr2":"",
+     "areacode":"8",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"1946955",
+     "contenttypeid":"12",
+     "createdtime":"20140906000144",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/95/2704995_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/95/2704995_image2_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.2750155705",
+     "mapy":"36.4967663593",
+     "mlevel":"6",
+     "modifiedtime":"20230313103818",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"세종호수공원 일원",
+     "zipcode":"30106",
+     "family":[
+        {
+           "유모차":"대여가능(대통령기록관)"
+        },
+        {
+           "수유실":"수유실 있음"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"무단차 접근 가능한 공원임"
+        },
+        {
+           "휠체어":"대여가능(대통령기록관,안내데스크)"
+        },
+        {
+           "화장실":"장애인전용 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1951612":{
+     "addr1":"세종특별자치시 도움3로 58",
+     "addr2":"(어진동)",
+     "areacode":"8",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0205",
+     "cat3":"A02050600",
+     "contentid":"1951612",
+     "contenttypeid":"12",
+     "createdtime":"20140925232401",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/03/1927403_image2_1.jpg",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/03/1927403_image3_1.jpg",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.2558420543",
+     "mapy":"36.5054483572",
+     "mlevel":"",
+     "modifiedtime":"20220907113648",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"밀마루전망대",
+     "zipcode":"30064",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "출입통로":"무단차로 휠체어로 출입가능_무장애 편의시설"
+        },
+        {
+           "엘리베이터":"엘리베이터있음 (9층에는 계단이 2칸 있음)"
+        },
+        {
+           "화장실":"장애인전용화장실 있음 (1층)"
+        }
+     ],
+     "hearing":[
+        {
+           "기타 지원 항목":"전망대옆에 영상실 있음"
+        }
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"1",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "1951653":{
+     "addr1":"세종특별자치시 연서면 도신고복로 586",
+     "addr2":"",
+     "areacode":"8",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"1951653",
+     "contenttypeid":"12",
+     "createdtime":"20140926013350",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.2274642501",
+     "mapy":"36.5999564549",
+     "mlevel":"6",
+     "modifiedtime":"20220825131906",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"연기대첩비공원",
+     "zipcode":"30042",
+     "family":[
+        {
+           "영유아가족 기타 지원 항목":"기저귀교환대 있음(화장실에 설치됨)"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        },
+        {
+           "화장실":"장애인 화장실 있음(주차장 공중화장실,경사로설치됨)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"0",
+     "handicap":"1"
+  },
+  "2461651":{
+     "addr1":"세종특별자치시 연기면 월산공단로 276-71",
+     "addr2":"(연기면)",
+     "areacode":"8",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0204",
+     "cat3":"A02040800",
+     "contentid":"2461651",
+     "contenttypeid":"12",
+     "createdtime":"20161216234856",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.3029373580",
+     "mapy":"36.5228083131",
+     "mlevel":"6",
+     "modifiedtime":"20220421103803",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"우주측지관측센터",
+     "zipcode":"30060",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"주출입구는 경사로가 있어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주출입구)_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2675068":{
+     "addr1":"세종특별자치시 연기면 수목원로 136",
+     "addr2":"",
+     "areacode":"8",
+     "booktour":"0",
+     "cat1":"A01",
+     "cat2":"A0101",
+     "cat3":"A01010700",
+     "contentid":"2675068",
+     "contenttypeid":"12",
+     "createdtime":"20201007053825",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.2858062335",
+     "mapy":"36.4981108410",
+     "mlevel":"6",
+     "modifiedtime":"20230824165747",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"국립세종수목원",
+     "zipcode":"30106",
+     "family":[
+        {
+           "유모차":"대여가능"
+        },
+        {
+           "수유실":"수유실 있음"
+        }
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "휠체어":"대여가능"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        },
+        {
+           "기타 지원 항목":"의자식 테이블 있음(식음업장), 의무실"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+        },
+        {
+           "보조견 동반":"동반가능"
+        },
+        {
+           "안내요원":"안내요원 있음(방문자센터)"
+        },
+        {
+           "오디오 가이드":"음성안내 버튼(점자안내판)"
+        },
+        {
+           "점자 홍보물 및 점자 표지판":"점자안내판 있음"
+        }
+     ],
+     "infantsfamily":"1",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2717492":{
+     "addr1":"세종특별자치시 조치원읍 안터길 107",
+     "addr2":"",
+     "areacode":"8",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0204",
+     "cat3":"A02040800",
+     "contentid":"2717492",
+     "contenttypeid":"12",
+     "createdtime":"20210518020312",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.2872775071",
+     "mapy":"36.6297679841",
+     "mlevel":"",
+     "modifiedtime":"20220517113341",
+     "sigungucode":"1",
+     "tel":"010-5203-4451",
+     "title":"비녀랑 한복이랑",
+     "zipcode":"30016",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"* 휠체어가 올라갈 수 있는 경사로가 설치되어 있음\n* 문앞에 2단의 턱이 있음"
+        },
+        {
+           "출입통로":"* 주 출입구에 휠체어가 통과 가능함"
+        },
+        {
+           "엘리베이터":"* 엘리베이터 있음 (장애인용,휠체어 2대크기)\n* 휠체어 리프트 있음"
+        },
+        {
+           "화장실":"* 장애인용 화장실 있음(1층 안내 데스크 왼쪽, 남녀 분리)"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "안내요원":"* 안내 데스크 있음(1층) \n* 보조 안내요원 상주"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2717493":{
+     "addr1":"세종특별자치시 부강면 시장1길 6-2",
+     "addr2":"",
+     "areacode":"8",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0204",
+     "cat3":"A02040800",
+     "contentid":"2717493",
+     "contenttypeid":"12",
+     "createdtime":"20210518020506",
+     "firstimage":"http://tong.visitkorea.or.kr/cms/resource/95/2820095_image2_1.JPG",
+     "firstimage2":"http://tong.visitkorea.or.kr/cms/resource/95/2820095_image2_1.JPG",
+     "cpyrhtDivCd":"Type3",
+     "mapx":"127.3701506403",
+     "mapy":"36.5277589412",
+     "mlevel":"",
+     "modifiedtime":"20220615172934",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"별신(삼버들협동조합)",
+     "zipcode":"30075",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"* 휠체어가 올라갈 수 있는 경사로가 설치되어 있음"
+        },
+        {
+           "출입통로":"* 부 출입구에 휠체어 통과 가능"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"* 보조견 동반 가능"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2756162":{
+     "addr1":"세종특별자치시 연기면 세종리 646-1",
+     "addr2":"",
+     "areacode":"8",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"2756162",
+     "contenttypeid":"12",
+     "createdtime":"20211013192439",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.2889305148",
+     "mapy":"36.5142201606",
+     "mlevel":"6",
+     "modifiedtime":"20230309154240",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"세종시 무궁화공원",
+     "zipcode":"30094",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2758040":{
+     "addr1":"세종시 대평동 580-3",
+     "addr2":"",
+     "areacode":"8",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"2758040",
+     "contenttypeid":"12",
+     "createdtime":"20211018200522",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.2649144954",
+     "mapy":"36.4674500965",
+     "mlevel":"6",
+     "modifiedtime":"20230228112549",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"숲뜰근린공원",
+     "zipcode":"",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+        },
+        {
+           "보조견 동반":"동반가능"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2758042":{
+     "addr1":"세종특별자치시  중앙공원로 60",
+     "addr2":"",
+     "areacode":"8",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0202",
+     "cat3":"A02020700",
+     "contentid":"2758042",
+     "contenttypeid":"12",
+     "createdtime":"20211018200708",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.2701689309",
+     "mapy":"36.4913335625",
+     "mlevel":"6",
+     "modifiedtime":"20230704095217",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"세종중앙공원",
+     "zipcode":"30106",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "화장실":"장애인 화장실 있음"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "점자블록":"점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+        },
+        {
+           "보조견 동반":"동반가능"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2775014":{
+     "addr1":"세종특별자치시 전의면 근성길 14",
+     "addr2":"",
+     "areacode":"8",
+     "booktour":"0",
+     "cat1":"A02",
+     "cat2":"A0204",
+     "cat3":"A02040800",
+     "contentid":"2775014",
+     "contenttypeid":"12",
+     "createdtime":"20211117015409",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"0",
+     "mapy":"0",
+     "mlevel":"6",
+     "modifiedtime":"20211217005906",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"나무키움(전의양묘영농조합법인)",
+     "zipcode":"30006",
+     "family":[
+        
+     ],
+     "handi":[
+        {
+           "접근로":"출입구까지 턱이 없어 휠체어 접근 가능함"
+        },
+        {
+           "출입통로":"주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+        }
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"동반가능"
+        },
+        {
+           "안내요원":"안내요원 있음_시각장애인 편의시설"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"1"
+  },
+  "2821138":{
+     "addr1":"세종특별자치시 전동면 미곡리",
+     "addr2":"115-2번지",
+     "areacode":"8",
+     "booktour":"",
+     "cat1":"A02",
+     "cat2":"A0204",
+     "cat3":"A02040800",
+     "contentid":"2821138",
+     "contenttypeid":"12",
+     "createdtime":"20220523144150",
+     "firstimage":"",
+     "firstimage2":"",
+     "cpyrhtDivCd":"",
+     "mapx":"127.2248152798",
+     "mapy":"36.6726480588",
+     "mlevel":"6",
+     "modifiedtime":"20220523144210",
+     "sigungucode":"1",
+     "tel":"",
+     "title":"리틀파머스",
+     "zipcode":"30009",
+     "family":[
+        
+     ],
+     "handi":[
+        
+     ],
+     "hearing":[
+        
+     ],
+     "blind":[
+        {
+           "보조견 동반":"보조견 동반 가능"
+        }
+     ],
+     "infantsfamily":"0",
+     "hearinghandicap":"0",
+     "blindhandicap":"1",
+     "handicap":"0"
+  }
+}

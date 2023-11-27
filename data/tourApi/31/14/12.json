@@ -1,0 +1,582 @@
+{
+  "127362": {
+    "addr1": "경기도 시흥시 오이도로 58",
+    "addr2": "(정왕동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "127362",
+    "contenttypeid": "12",
+    "createdtime": "20031106090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/52/2431852_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/52/2431852_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7115678593",
+    "mapy": "37.3574543328",
+    "mlevel": "6",
+    "modifiedtime": "20230725165710",
+    "sigungucode": "14",
+    "tel": "",
+    "title": "옥구공원",
+    "zipcode": "15013",
+    "family": [
+      {
+        "유모차": "대여 가능"
+      },
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "무단차로 이루어진 공원이나 숲길구간 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음(제2주차장,제3주차장 공중화장실)"
+      },
+      {
+        "기타 지원 항목": "시흥시 론볼경기장 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "128109": {
+    "addr1": "경기도 시흥시 오이도로 175",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01011300",
+    "contentid": "128109",
+    "contenttypeid": "12",
+    "createdtime": "20040413090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/12/2671612_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/12/2671612_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6879259053",
+    "mapy": "37.3452636639",
+    "mlevel": "6",
+    "modifiedtime": "20230630113305",
+    "sigungucode": "14",
+    "tel": "031-310-2332,2901~4",
+    "title": "오이도",
+    "zipcode": "15015",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 경사로가 설치되어 있음"
+      },
+      {
+        "출입통로": "주출입구는 경사로가 있어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음(빨간등대)"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "129270": {
+    "addr1": "경기도 시흥시 소래산길 41",
+    "addr2": "(대야동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010600",
+    "contentid": "129270",
+    "contenttypeid": "12",
+    "createdtime": "20061017090000",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/24/1855824_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/24/1855824_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7855112717",
+    "mapy": "37.4520335503",
+    "mlevel": "6",
+    "modifiedtime": "20230216173506",
+    "sigungucode": "14",
+    "tel": "",
+    "title": "소래산산림욕장",
+    "zipcode": "14902",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "경사로 있음"
+      },
+      {
+        "화장실": "장애인 전용 화장실 있음_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "710258": {
+    "addr1": "경기도 시흥시 관곡지로 139",
+    "addr2": "(하중동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020600",
+    "contentid": "710258",
+    "contenttypeid": "12",
+    "createdtime": "20090324235934",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/41/2524341_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/41/2524341_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.8083800662",
+    "mapy": "37.4006815852",
+    "mlevel": "6",
+    "modifiedtime": "20230209142809",
+    "sigungucode": "14",
+    "tel": "",
+    "title": "연꽃테마파크",
+    "zipcode": "14973",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 엘리베이터로 휠체어 접근 가능함(전시관, 카페 휠체어 접근 가능)"
+      },
+      {
+        "엘리베이터": "엘레베이터 있음"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음 (화장실 입구)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "756625": {
+    "addr1": "경기도 시흥시 동서로 287",
+    "addr2": "(장곡동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A01",
+    "cat2": "A0101",
+    "cat3": "A01010500",
+    "contentid": "756625",
+    "contenttypeid": "12",
+    "createdtime": "20090624002730",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/05/2675305_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/05/2675305_image3_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7812383963",
+    "mapy": "37.3897740365",
+    "mlevel": "6",
+    "modifiedtime": "20230911214430",
+    "sigungucode": "14",
+    "tel": "",
+    "title": "시흥 갯골생태공원",
+    "zipcode": "14971",
+    "family": [
+      {
+        "수유실": "수유실 있음"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함(전망타워 접근 가능)"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "오디오 가이드": "음성안내기 있음"
+      },
+      {
+        "점자 홍보물 및 점자 표지판": "점자안내판 있음(점자가이드북 있음)_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2633936": {
+    "addr1": "경기도 시흥시 서해안로 81-30",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2633936",
+    "contenttypeid": "12",
+    "createdtime": "20191107224546",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.6962002115",
+    "mapy": "37.3431196144",
+    "mlevel": "6",
+    "modifiedtime": "20221228160909",
+    "sigungucode": "14",
+    "tel": "",
+    "title": "오이도 선사유적공원",
+    "zipcode": "15014",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능(1대)"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "화장실": "장애인 화장실 있음"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자블록 있음(주요시설 앞)_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      },
+      {
+        "안내요원": "문화관광해설자 있음(방문자 안내소)"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2718726": {
+    "addr1": "경기도 시흥시 서해안로 699",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2718726",
+    "contenttypeid": "12",
+    "createdtime": "20210528002815",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.7369982592",
+    "mapy": "37.3797271968",
+    "mlevel": "6",
+    "modifiedtime": "20230412145952",
+    "sigungucode": "14",
+    "tel": "",
+    "title": "브릭웍스",
+    "zipcode": "15010",
+    "family": [
+      {
+        "유모차": "대여가능"
+      },
+      {
+        "수유실": "수유실 있음(1층, 3층)"
+      }
+    ],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "휠체어": "대여가능"
+      },
+      {
+        "출입통로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "1",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2723192": {
+    "addr1": "경기도 시흥시 해송십리로 61",
+    "addr2": "(정왕동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2723192",
+    "contenttypeid": "12",
+    "createdtime": "20210624030229",
+    "firstimage": "",
+    "firstimage2": "",
+    "cpyrhtDivCd": "",
+    "mapx": "126.7020465803",
+    "mapy": "37.3547044840",
+    "mlevel": "6",
+    "modifiedtime": "20230623165337",
+    "sigungucode": "14",
+    "tel": "",
+    "title": "시흥배곧한울공원",
+    "zipcode": "15012",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "점자블록": "점자유도로 있음_시각장애인 편의시설"
+      },
+      {
+        "보조견 동반": "동반가능"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2747807": {
+    "addr1": "경기도 시흥시 역전로 50",
+    "addr2": "(정왕동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2747807",
+    "contenttypeid": "12",
+    "createdtime": "20210923230402",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/47/2748947_image2_1.jpeg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/47/2748947_image2_1.jpeg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7570003269",
+    "mapy": "37.3396988624",
+    "mlevel": "6",
+    "modifiedtime": "20230321145512",
+    "sigungucode": "14",
+    "tel": "",
+    "title": "정왕체육공원",
+    "zipcode": "15050",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2747813": {
+    "addr1": "경기도 시흥시 배곧2로 25",
+    "addr2": "(배곧동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2747813",
+    "contenttypeid": "12",
+    "createdtime": "20210923230559",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/52/2748752_image2_1.jpeg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/52/2748752_image2_1.jpeg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7214971250",
+    "mapy": "37.3713723375",
+    "mlevel": "6",
+    "modifiedtime": "20230210142722",
+    "sigungucode": "14",
+    "tel": "",
+    "title": "배곧생명공원",
+    "zipcode": "15011",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "0",
+    "handicap": "1"
+  },
+  "2747819": {
+    "addr1": "경기도 시흥시 비둘기공원7길 47",
+    "addr2": "(대야동)",
+    "areacode": "31",
+    "booktour": "0",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2747819",
+    "contenttypeid": "12",
+    "createdtime": "20210923230909",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/68/2748768_image2_1.jpg",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/68/2748768_image2_1.jpg",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7941024484",
+    "mapy": "37.4415404768",
+    "mlevel": "6",
+    "modifiedtime": "20230404135401",
+    "sigungucode": "14",
+    "tel": "",
+    "title": "비둘기공원",
+    "zipcode": "14912",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2870223": {
+    "addr1": "경기도 시흥시 오이도로 332",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2870223",
+    "contenttypeid": "12",
+    "createdtime": "20221019111907",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/86/2870186_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/86/2870186_image3_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.6917702916",
+    "mapy": "37.3347094008",
+    "mlevel": "6",
+    "modifiedtime": "20230105151112",
+    "sigungucode": "14",
+    "tel": "",
+    "title": "오이도기념공원",
+    "zipcode": "15016",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  },
+  "2870248": {
+    "addr1": "경기도 시흥시 군자천로131번길 64",
+    "addr2": "",
+    "areacode": "31",
+    "booktour": "",
+    "cat1": "A02",
+    "cat2": "A0202",
+    "cat3": "A02020700",
+    "contentid": "2870248",
+    "contenttypeid": "12",
+    "createdtime": "20221019112405",
+    "firstimage": "http://tong.visitkorea.or.kr/cms/resource/34/2870234_image2_1.JPG",
+    "firstimage2": "http://tong.visitkorea.or.kr/cms/resource/34/2870234_image3_1.JPG",
+    "cpyrhtDivCd": "Type3",
+    "mapx": "126.7150598026",
+    "mapy": "37.3359846636",
+    "mlevel": "6",
+    "modifiedtime": "20230105150739",
+    "sigungucode": "14",
+    "tel": "",
+    "title": "희망공원",
+    "zipcode": "15092",
+    "family": [],
+    "handi": [
+      {
+        "접근로": "출입구까지 턱이 없어 휠체어 접근 가능함"
+      },
+      {
+        "출입통로": "주출입구는 턱이 없어 휠체어 접근 가능함_무장애 편의시설"
+      }
+    ],
+    "hearing": [],
+    "blind": [
+      {
+        "보조견 동반": "동반가능_시각장애인 편의시설"
+      }
+    ],
+    "infantsfamily": "0",
+    "hearinghandicap": "0",
+    "blindhandicap": "1",
+    "handicap": "1"
+  }
+}
